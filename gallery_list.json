@@ -1,0 +1,79 @@
+{
+"galleryTitle": ["2008.12_Jungfraujoch_Bern_Switzerland",
+                 "2010.09_Skógafoss_Skógar_Southern-Region_Iceland",
+                 "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece",
+                 "2011.05_Schloss-Neuschwanstein_Füssen_Bayern_Germany",
+                 "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany",
+                 "2011.07_Château-de-Fontainebleau_Fontainebleau_Île-de-France_France",
+                 "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland",
+                 "2011.11_Lahemaa-National-Park_Harju-County_Estonia",
+                 "2012.12_Mount-Gongga_Garzê-Tibetan-Autonomous-Prefecture_Sichuan_China"
+                ],
+
+"2008.12_Jungfraujoch_Bern_Switzerland": {
+  "fileFormat": "jpg",
+  "coverImage": "2008.12_Jungfraujoch_Bern_Switzerland_cover.jpg"
+  "galleryImages": ["2008.12_Jungfraujoch_Bern_Switzerland_01.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_02.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_03.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_04.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_05.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_06.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_07.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_08.jpg",
+                    "2008.12_Jungfraujoch_Bern_Switzerland_09.jpg"
+                    ],
+  "coordinates": ["46.547817", "7.980990"],
+  "title": "2008.12: Jungfraujoch, Bern, Switzerland",
+  "location": "Jungfraujoch, Bern, Switzerland",
+  "date": "2008.12",
+  "photographer": "Jesen",
+  "camera": "Nikon",
+  "introduction": "The train ride up to Jungfraujoch (3454m) is one of Switzerland’s classic experiences. Following an audacious route right through the heart of the Eiger, the railway was completed in 1912 and today carries more than two million people a year through some of Europe’s most phenomenal high Alpine scenery. The icy wilderness of swirling glaciers and 4000m turrets that unfolds up top is staggeringly beautiful. Outside there are views of the moraine-streaked 23km-long tongue of the Aletsch Glacier, the longest glacier in the Alps and a Unesco World Heritage Site. The views across rippling peaks stretch as far as the Black Forest in Germany on cloudless days. Inside the adjacent Sphinx weather station you’ll find ice sculptures, restaurants, indoor viewpoints and souvenir shops.",
+},
+
+"2010.09_Skógafoss_Skógar_Southern-Region_Iceland": {
+  "fileFormat": "jpg",
+  "coverImage": "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_cover.jpg"
+  "galleryImages": ["2010.09_Skógafoss_Skógar_Southern-Region_Iceland_01.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_02.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_03.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_04.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_05.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_06.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_07.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_08.jpg",
+                    "2010.09_Skógafoss_Skógar_Southern-Region_Iceland_09.jpg"
+                    ],
+  "coordinates": ["63.532101", "-19.511213"],
+  "title": "2010.09: Skógafoss, Skógar, Southern Region, Iceland",
+  "location": "Skógafoss, Skógar, Southern Region, Iceland",
+  "date": "2010.09",
+  "photographer": "Jesen",
+  "camera": "Nikon",
+  "introduction": "This 62m-high waterfall topples over a rocky cliff at the western edge of Skógar in dramatic style. Climb the steep staircase alongside for giddy views, or walk to the foot of the falls, shrouded in sheets of mist and rainbows. Legend has it that a settler named Þrasi hid a chest of gold behind Skógafoss. The top of the waterfall is the start of the dramatic Fimmvörðuháls trek, which continues 23km on to Þórsmörk, the land of the gods."
+},
+
+"2010.11_Sunset_Oia_Santorini_South-Aegean_Greece": {
+  "fileFormat": "jpg",
+  "coverImage": "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_cover.jpg"
+  "galleryImages": ["2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_01.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_02.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_03.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_04.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_05.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_06.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_07.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_08.jpg",
+                    "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_09.jpg"
+                    ],
+  "coordinates": ["36.460326", "25.373062"],
+  "title": "2010.11: Sunset, Oia, Santorini, South Aegean, Greece",
+  "location": "Oia, Santorini, South Aegean, Greece",
+  "date": "2010.11",
+  "photographer": "Jesen",
+  "camera": "Nikon",
+  "introduction": "Santorini is interwoven with the sunset, this magical hour of the day when the light makes everything look more beautiful. The sunset in Santorini is considered one of the most famous sunsets worldwide and people from all over the world visit Santorini in order to photograph it and, most of all, cherish it. The sunset highlights the breathtaking beauty of the island that offers many ideal locations from where visitors can admire it. But nobody should miss the chance to see the sunset from Oia village, the famed sunset viewing spot."
+},
+
+}
