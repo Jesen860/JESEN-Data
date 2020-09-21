@@ -6,7 +6,7 @@
     "keywords": ["Jungfraujoch",
                  "Bern",
                  "Switzerland",
-                 "2008.12"
+                 "2008"
                ],
     "coverImage": "2008.12_Jungfraujoch_Bern_Switzerland_cover.jpg",
     "galleryImages": ["2008.12_Jungfraujoch_Bern_Switzerland_01.jpg",
@@ -20,13 +20,12 @@
                       "2008.12_Jungfraujoch_Bern_Switzerland_09.jpg"
                       ],
     "coordinates": ["46.547817", "7.980990"],
-    "title": "2008.12: Jungfraujoch, Bern, Switzerland",
     "location": "Jungfraujoch, Bern, Switzerland",
     "country": "switzerland",
     "date": "2008.12",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "The train ride up to Jungfraujoch (3454m) is one of Switzerland’s classic experiences. Following an audacious route right through the heart of the Eiger, the railway was completed in 1912 and today carries more than two million people a year through some of Europe’s most phenomenal high Alpine scenery. The icy wilderness of swirling glaciers and 4000m turrets that unfolds up top is staggeringly beautiful. Outside there are views of the moraine-streaked 23km-long tongue of the Aletsch Glacier, the longest glacier in the Alps and a Unesco World Heritage Site. The views across rippling peaks stretch as far as the Black Forest in Germany on cloudless days. Inside the adjacent Sphinx weather station you’ll find ice sculptures, restaurants, indoor viewpoints and souvenir shops."
+    "introduction": "The train ride up to Jungfraujoch 3,454m is one of Switzerland’s classic experiences. Following an audacious route right through the heart of the Eiger, the railway carries more than two million people a year through some of Europe’s most phenomenal high Alpine scenery. The icy wilderness of swirling glaciers and 4,000m turrets that unfolds up top is staggeringly beautiful. Outside there are views of the moraine-streaked 23km-long tongue of the Aletsch Glacier, the longest glacier in the Alps and a Unesco World Heritage Site. The views across rippling peaks stretch as far as the Black Forest in Germany on cloudless days."
   },
   {
     "fileFormat": "jpg",
@@ -34,7 +33,7 @@
     "keywords": ["Skógafoss",
                  "Skógar",
                  "Iceland",
-                 "2010.09"
+                 "2010"
                ],
     "coverImage": "2010.09_Skogafoss_Skogar_Southern-Region_Iceland_cover.jpg",
     "galleryImages": ["2010.09_Skogafoss_Skogar_Southern-Region_Iceland_01.jpg",
@@ -48,7 +47,6 @@
                       "2010.09_Skogafoss_Skogar_Southern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["63.532101", "-19.511213"],
-    "title": "2010.09: Skógafoss, Skógar, Southern Region, Iceland",
     "location": "Skógafoss, Skógar, Iceland",
     "country": "iceland",
     "date": "2010.09",
@@ -64,7 +62,7 @@
                  "Santorini",
                  "Greece",
                  "Sunset",
-                 "2010.11"
+                 "2010"
                ],
     "coverImage": "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_cover.jpg",
     "galleryImages": ["2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_01.jpg",
@@ -78,7 +76,6 @@
                       "2010.11_Sunset_Oia_Santorini_South-Aegean_Greece_09.jpg"
                       ],
     "coordinates": ["36.460326", "25.373062"],
-    "title": "2010.11: Sunset, Oia, Santorini, South Aegean, Greece",
     "location": "Oia, Santorini, South Aegean, Greece",
     "country": "greece",
     "date": "2010.11",
@@ -93,7 +90,7 @@
                  "Füssen",
                  "Bayern",
                  "Germany",
-                 "2011.05"
+                 "2011"
                ],
     "coverImage": "2011.05_Schloss-Neuschwanstein_Fussen_Bayern_Germany_cover.jpg",
     "galleryImages": ["2011.05_Schloss-Neuschwanstein_Fussen_Bayern_Germany_01.jpg",
@@ -107,13 +104,12 @@
                       "2011.05_Schloss-Neuschwanstein_Fussen_Bayern_Germany_09.jpg"
                       ],
     "coordinates": ["47.557617", "10.749822"],
-    "title": "2011.05: Schloss Neuschwanstein, Bayern, Germany",
     "location": "Schloss Neuschwanstein, Füssen, Bayern, Germany",
     "country": "germany",
     "date": "2011.05",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "Appearing through the mountaintops like a mirage, Schloss Neuschwanstein was the model for Disney’s Sleeping Beauty castle. King Ludwig II planned this fairy-tale pile himself, with the help of a stage designer rather than an architect. He envisioned it as a giant stage on which to recreate the world of Germanic mythology, inspired by the operatic works of his friend Richard Wagner. The most impressive room is the Sängersaal (Minstrels’ Hall), whose frescos depict scenes from the opera Tannhäuser.Built as a romantic medieval castle, work started in 1869 and, like so many of Ludwig’s grand schemes, was never finished. For all the coffer-depleting sums spent on it, the king spent just over 170 days in residence. Completed sections include Ludwig’s Tristan and Isolde–themed bedroom, dominated by a huge Gothic-style bed crowned with intricately carved cathedral-like spires; a gaudy artificial grotto (another allusion to Tannhäuser); and the Byzantine-style Thronsaal (Throne Room) with an incredible mosaic floor containing over two million stones. The painting opposite the (throneless) throne platform depicts another castle dreamed up by Ludwig that was never built (he planned many more). Almost every window provides tour-halting views across the plain below."
+    "introduction": "Appearing through the mountaintops like a mirage, Schloss Neuschwanstein was the model for Disney’s Sleeping Beauty castle. King Ludwig II planned this fairy-tale pile himself, with the help of a stage designer rather than an architect. He envisioned it as a giant stage on which to recreate the world of Germanic mythology, inspired by the operatic works of his friend Richard Wagner."
   },
   {
     "fileFormat": "jpg",
@@ -121,7 +117,7 @@
     "keywords": ["Schloss Linderhof",
                  "Bayern",
                  "Germany",
-                 "2011.05"
+                 "2011"
                ],
     "coverImage": "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_cover.jpg",
     "galleryImages": ["2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_01.jpg",
@@ -135,7 +131,6 @@
                       "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_09.jpg"
                       ],
     "coordinates": ["47.571686", "10.960839"],
-    "title": "2011.05: Schloss Linderhof, Bayern, Germany",
     "location": "Schloss Linderhof, Ettal, Bayern, Germany",
     "country": "germany",
     "date": "2011.05",
@@ -163,13 +158,12 @@
                       "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_09.jpg"
                       ],
     "coordinates": ["48.402103", "2.699496"],
-    "title": "2011.07: Château de Fontainebleau, Fontainebleau, Île-de-France, France",
     "location": "Château de Fontainebleau, Fontainebleau, France",
     "country": "france",
     "date": "2011.07",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "With over 1500 rooms at the heart of 130 acres of parkland and gardens, Fontainebleau is the only royal and imperial château to have been continuously inhabited for seven centuries. A visit to Fontainebleau opens up an unparalleled view of French history, art history and architecture."
+    "introduction": "With over 1,500 rooms at the heart of 130 acres of parkland and gardens, Fontainebleau is the only royal and imperial château to have been continuously inhabited for seven centuries. A visit to Fontainebleau opens up an unparalleled view of French history, art history and architecture."
   },
   {
     "fileFormat": "jpg",
@@ -177,7 +171,7 @@
     "keywords": ["Olavinlinna",
                  "Savonlinna",
                  "Finland",
-                 "2011.09"
+                 "2011"
                ],
     "coverImage": "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_cover.jpg",
     "galleryImages": ["2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_01.jpg",
@@ -191,13 +185,12 @@
                       "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_09.jpg"
                       ],
     "coordinates": ["61.863942", "28.901080"],
-    "title": "2011.09: Olavinlinna, Savonlinna, Southern Savonia, Finland",
     "location": "Olavinlinna, Savonlinna, Southern Savonia, Finland",
     "country": "finland",
     "date": "2011.09",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "Built directly on rock in the middle of the lake (now accessed via bridges), this heavily restored 15th-century fortification was constructed as a military base on the Swedes’ restless eastern border. The currents in the surrounding water ensure that it remains unfrozen in winter, which prevented enemy attacks over ice. To visit the castle’s upper levels, including the towers and chapel, you must join an hour-long guided tour. Guides bring the castle to life with vivid accounts of its history."
+    "introduction": "Built directly on rock in the middle of the lake (now accessed via bridges), this heavily restored 15th-century fortification was constructed as a military base on the Swedes’ restless eastern border. The currents in the surrounding water ensure that it remains unfrozen in winter, which prevented enemy attacks over ice."
   },
   {
     "fileFormat": "jpg",
@@ -205,7 +198,7 @@
     "keywords": ["Lahemaa National Park",
                  "Harju",
                  "Estonia",
-                 "2011.11"
+                 "2011"
                ],
     "coverImage": "2011.11_Lahemaa-National-Park_Harju-County_Estonia_cover.jpg",
     "galleryImages": ["2011.11_Lahemaa-National-Park_Harju-County_Estonia_01.jpg",
@@ -219,7 +212,6 @@
                       "2011.11_Lahemaa-National-Park_Harju-County_Estonia_09.jpg"
                       ],
     "coordinates": ["59.567692", "25.781019"],
-    "title": "2011.11: Lahemaa National Park, Harju County, Estonia",
     "location": "Lahemaa National Park, Harju County, Estonia",
     "country": "estonia",
     "date": "2011.09",
@@ -229,12 +221,67 @@
   },
   {
     "fileFormat": "jpg",
+    "filePath": "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway",
+    "keywords": ["Arctic Ice Lake",
+                 "Fv156",
+                 "Finnmark",
+                 "Norway",
+                 "2012"
+               ],
+    "coverImage": "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_cover.jpg",
+    "galleryImages": ["2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_01.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_02.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_03.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_04.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_05.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_06.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_07.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_08.jpg",
+                      "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_09.jpg"
+                      ],
+    "coordinates": ["71.059408", "25.557116"],
+    "location": "Arctic Ice Lake, Fv156, Finnmark, Norway",
+    "country": "norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Driving along the County Road 156 in Finnmark, Norway, you will find lots of gorgeous ice lakes besides road."
+  },
+  {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Nordkapp_Finnmark_Norway",
+    "keywords": ["Nordkapp",
+                 "Finnmark",
+                 "Norway",
+                 "2012"
+               ],
+    "coverImage": "2012.05_Nordkapp_Finnmark_Norway_cover.jpg",
+    "galleryImages": ["2012.05_Nordkapp_Finnmark_Norway_01.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_02.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_03.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_04.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_05.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_06.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_07.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_08.jpg",
+                      "2012.05_Nordkapp_Finnmark_Norway_09.jpg"
+                      ],
+    "coordinates": ["71.170998", "25.783660"],
+    "location": "Nordkapp, Finnmark, Norway",
+    "country": "norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Nordkapp is the one attraction in northern Norway that everybody seems to visit. It is a tourist trap, however – billing itself as the northernmost point in continental Europe, it sucks in visitors by the busload – some 200,000 every year. Nearer to the North Pole than to Oslo, Nordkapp sits at latitude 71°10’21” N, where the sun never drops below the horizon from mid-May to the end of July. Long before other Europeans took an interest, it was a sacrificial site for the Sami, who believed it had special powers."
+  },
+  {
+    "fileFormat": "jpg",
     "filePath": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
     "keywords": ["Mount Gongga",
                  "Garze",
                  "Sichuan",
                  "China",
-                 "2012.12"
+                 "2012"
                ],
     "coverImage": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_cover.jpg",
     "galleryImages": ["2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_01.jpg",
@@ -248,13 +295,12 @@
                       "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_09.jpg"
                       ],
     "coordinates": ["29.595064", "101.876697"],
-    "title": "2012.12: Mount Gongga, Garzê Tibetan Autonomous Prefecture, Sichuan, China",
     "location": "Mount Gongga, Sichuan, China",
     "country": "china",
     "date": "2012.12",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "Mount Gongga (Minya Konka) is located in the southern part of Kangding in Sichuan. Mount Gongga is the main range of the snow mountain in Sichuan region. With a title of the King of Mountains in Sichuan, the main peak of Mount Gongga is in a height of 7,556 meters above the sea level. Mount Gongga is the easternmost 7000 m peak in the world and the third highest peak outside of the Himalaya/Karakoram."
+    "introduction": "Mount Gongga is located in the southern part of Kangding in Sichuan. Mount Gongga is the main range of the snow mountain in Sichuan region. With a title of the King of Mountains in Sichuan, the main peak of Mount Gongga is in a height of 7,556 meters above the sea level. Mount Gongga is the easternmost 7,000 m peak in the world and the third highest peak outside of the Himalaya/Karakoram."
   },
   {
     "fileFormat": "mp4",
@@ -263,18 +309,17 @@
                  "Coast Dairies State Park",
                  "California",
                  "USA",
-                 "2020.02"
+                 "2020"
                ],
     "coverImage": "2020.02_Airview_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA_cover.jpg",
     "galleryImages": [],
     "coordinates": ["36.983282", "-122.155700"],
-    "title": "2020.02: Airview, Laguna Creek Beach, Coast Dairies State Park, California, USA",
     "location": "Laguna Creek Beach, Coast Dairies State Park, California, USA",
     "country": "usa",
     "date": "2020.02",
     "photographer": "Jesen",
     "camera": "DJI Mavic 2 Zoom",
-    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing."
+    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the sunbathing."
   }
   ]
 }
