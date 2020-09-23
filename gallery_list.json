@@ -250,22 +250,23 @@
    },
    {
     "fileFormat": "mp4",
-    "filePath": "2020.02_Airview_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
-    "keywords": ["Laguna Creek Beach",
-                 "Coast Dairies State Park",
+    "filePath": "2019.11_Airview_Franklin-Point_Año-Nuevo-State-Park_California_USA",
+    "keywords": ["Franklin Point",
+                 "Año Nuevo State Park",
                  "California",
                  "USA",
-                 "2020"
+                 "2019",
+                 "Airview"
                 ],
-    "coverImage": "2020.02_Airview_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA_cover.jpg",
+    "coverImage": "2019.11_Airview_Franklin-Point_Año-Nuevo-State-Park_California_USA_cover.jpg",
     "galleryImages": [],
-    "coordinates": ["36.983282", "-122.155700"],
-    "location": "Laguna Creek Beach, Coast Dairies State Park, California, USA",
+    "coordinates": ["37.149668", "-122.360529"],
+    "location": "Airview, Franklin Point, Año Nuevo State Park, California, USA",
     "country": "usa",
-    "date": "2020.02",
+    "date": "2019.11",
     "photographer": "Jesen",
     "camera": "DJI Mavic 2",
-    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the sunbathing."
+    "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season."
    }
   ]
 }
