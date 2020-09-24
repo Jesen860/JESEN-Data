@@ -10,7 +10,6 @@
                  "Malta",
                  "2010"
                ],
-    "coverImage": "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_cover.jpg",
     "galleryImages": ["2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_01.jpg",
                       "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_02.jpg",
                       "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_03.jpg",
@@ -37,7 +36,6 @@
                  "Germany",
                  "2011"
                 ],
-    "coverImage": "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_cover.jpg",
     "galleryImages": ["2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_01.jpg",
                       "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_02.jpg",
                       "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_03.jpg",
@@ -64,7 +62,6 @@
                  "France",
                  "2011.07"
                 ],
-    "coverImage": "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_cover.jpg",
     "galleryImages": ["2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_01.jpg",
                       "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_02.jpg",
                       "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_03.jpg",
@@ -91,7 +88,6 @@
                  "Finland",
                  "2011"
                 ],
-    "coverImage": "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_cover.jpg",
     "galleryImages": ["2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_01.jpg",
                       "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_02.jpg",
                       "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland_03.jpg",
@@ -118,7 +114,6 @@
                  "Estonia",
                  "2011"
                 ],
-    "coverImage": "2011.11_Lahemaa-National-Park_Harju-County_Estonia_cover.jpg",
     "galleryImages": ["2011.11_Lahemaa-National-Park_Harju-County_Estonia_01.jpg",
                       "2011.11_Lahemaa-National-Park_Harju-County_Estonia_02.jpg",
                       "2011.11_Lahemaa-National-Park_Harju-County_Estonia_03.jpg",
@@ -139,6 +134,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain",
+    "keywords": ["Roque Nublo",
+                 "Gran Canaria",
+                 "Las Palmas",
+                 "Norway",
+                 "Spain"
+                ],
+    "galleryImages": ["2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_01.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_02.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_03.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_04.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_05.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_06.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_07.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_08.jpg",
+                      "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_09.jpg"
+                      ],
+    "coordinates": ["27.968333", "-15.610833"],
+    "location": "Roque Nublo, Gran Canaria, Las Palmas, Spain",
+    "country": "spain",
+    "date": "2011.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The island’s icon is an impressive monolith (1803m), jutting skywards 80m out of the surrounding volcanic landscape. It sneaks into the background of virtually every photo you take in the area, but it’s worth approaching to get an up-close shot as well. The half-hour walk from the roadside has a few steep sections, but isn’t too challenging and the views are wonderful."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway",
     "keywords": ["Arctic Ice Lake",
                  "Fv156",
@@ -146,7 +168,6 @@
                  "Norway",
                  "2012"
                 ],
-    "coverImage": "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_cover.jpg",
     "galleryImages": ["2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_01.jpg",
                       "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_02.jpg",
                       "2012.05_Arctic-Ice-Lake_Fv156_Finnmark_Norway_03.jpg",
@@ -173,7 +194,6 @@
                  "Norway",
                  "2012"
                 ],
-    "coverImage": "2012.05_Nordkapp_Finnmark_Norway_cover.jpg",
     "galleryImages": ["2012.05_Nordkapp_Finnmark_Norway_01.jpg",
                       "2012.05_Nordkapp_Finnmark_Norway_02.jpg",
                       "2012.05_Nordkapp_Finnmark_Norway_03.jpg",
@@ -201,7 +221,6 @@
                  "China",
                  "2012"
                 ],
-    "coverImage": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_cover.jpg",
     "galleryImages": ["2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_01.jpg",
                       "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_02.jpg",
                       "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_03.jpg",
@@ -229,7 +248,6 @@
                  "USA",
                  "2013"
                 ],
-    "coverImage": "2013.09_Signal-Mountain_Grand-Teton-National-Park_Wyoming_USA_cover.jpg",
     "galleryImages": ["2013.09_Signal-Mountain_Grand-Teton-National-Park_Wyoming_USA_01.jpg",
                       "2013.09_Signal-Mountain_Grand-Teton-National-Park_Wyoming_USA_02.jpg",
                       "2013.09_Signal-Mountain_Grand-Teton-National-Park_Wyoming_USA_03.jpg",
@@ -257,7 +275,6 @@
                  "USA",
                  "2019"
                 ],
-    "coverImage": "2019.02_Mission-Peak-Summit_Mission-Peak-Regional-Preserve_Fremont_California_USA_cover.jpg",
     "galleryImages": ["2019.02_Mission-Peak-Summit_Mission-Peak-Regional-Preserve_Fremont_California_USA_01.jpg",
                       "2019.02_Mission-Peak-Summit_Mission-Peak-Regional-Preserve_Fremont_California_USA_02.jpg",
                       "2019.02_Mission-Peak-Summit_Mission-Peak-Regional-Preserve_Fremont_California_USA_03.jpg",
@@ -286,7 +303,6 @@
                  "2019",
                  "Airview"
                 ],
-    "coverImage": "2019.11_Airview_Franklin-Point_Ano-Nuevo-State-Park_California_USA_cover.jpg",
     "galleryImages": [],
     "coordinates": ["37.149668", "-122.360529"],
     "location": "Franklin Point, Año Nuevo State Park, California, USA",
@@ -306,7 +322,6 @@
                  "2020",
                  "Airview"
                 ],
-    "coverImage": "2020.02_Top-Airview_Tomales-Point_Point-Reyes-National-Seashore_California_USA_cover.jpg",
     "galleryImages": [],
     "coordinates": ["38.240611", "-122.994923"],
     "location": "Tomales Point, Point Reyes National Seashore, California, USA",
