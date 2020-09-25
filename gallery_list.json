@@ -241,6 +241,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA",
+    "keywords": ["Grand Prismatic Spring Overlook",
+                 "Yellowstone National Park",
+                 "Wyoming",
+                 "USA",
+                 "2013"
+                ],
+    "galleryImages": ["2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_01.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_02.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_03.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_04.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_05.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_06.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_07.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_08.jpg",
+                      "2013.09_Grand-Prismatic-Spring-Overlook_Yellowstone-National-Park_Wyoming_USA_09.jpg"
+                      ],
+    "coordinates": ["44.525113", "-110.838198"],
+    "location": "Grand Prismatic Spring Overlook, Yellowstone National Park, Wyoming, USA",
+    "country": "usa",
+    "date": "2013.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "At 370ft wide and 121ft deep, Grand Prismatic Spring is the park’s largest and deepest hot spring. It’s also considered by many to be the most beautiful thermal feature in the park. Boardwalks lead around the multicolored mist of the gorgeous pool and its spectacularly colored rainbow rings of algae. From above, the spring looks like a giant blue eye weeping exquisite multicolored tears."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2013.09_Signal-Mountain_Grand-Teton-National-Park_Wyoming_USA",
     "keywords": ["Signal Mountain",
                  "Grand Teton National Park",
@@ -311,6 +338,24 @@
     "photographer": "Jesen",
     "camera": "DJI Mavic 2",
     "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season."
+   },
+   {
+    "fileFormat": "mp4",
+    "filePath": "2019.12_Seabirds_Venice-Beach_Venice_California_USA",
+    "keywords": ["Venice Beach",
+                 "Venice",
+                 "California",
+                 "USA",
+                 "2019",
+                ],
+    "galleryImages": [],
+    "coordinates": ["33.978265", "-118.466654"],
+    "location": "Venice Beach, Venice, California, USA",
+    "country": "usa",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "DJI Osmo Pocket",
+    "introduction": "South of Washington Blvd, the throng dissipates and the golden sands unfurl in a more pristine manner. Waves roll in consistently and are ideal for bodysurfing. Volleyball games erupt at a moment’s notice. Parking is an issue, which makes it a mostly local scene. Bike and crash it."
    },
    {
     "fileFormat": "mp4",
