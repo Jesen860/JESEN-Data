@@ -4,9 +4,23 @@
    {
     "fileFormat": "jpg",
     "filePath": "2020.0006_bee_on_flower",
-    "title": "Bee on flower",
+    "title": "Bee on flower.",
     "subtitle": "",
     "author": "Picture from internet"
-   }
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2020.0007_jellyfish_in_sunshine",
+   "title": "Jellyfish in sunshine.",
+   "subtitle": "",
+   "author": "Picture from internet"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2020.0008_golden_moon",
+   "title": "Golen moon.",
+   "subtitle": "",
+   "author": "Picture from internet"
+  }
   ]
 }
