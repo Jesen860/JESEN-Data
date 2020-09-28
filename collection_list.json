@@ -17,8 +17,22 @@
   },
   {
    "fileFormat": "jpg",
-   "filePath": "2020.0008_golden_moon",
-   "title": "Golen moon.",
+   "filePath": "2020.0008_night_sky_of_antelope_canyon",
+   "title": "Night sky of antelope canyon.",
+   "subtitle": "",
+   "author": "Picture from internet"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2020.0009_bird_in_water",
+   "title": "Bird in water.",
+   "subtitle": "",
+   "author": "Picture from internet"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2020.0010_bird_in_black_background",
+   "title": "Bird in black background.",
    "subtitle": "",
    "author": "Picture from internet"
   }
