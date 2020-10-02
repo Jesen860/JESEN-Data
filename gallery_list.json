@@ -118,6 +118,7 @@
     "keywords": ["lahemaa national park",
                  "national park",
                  "park",
+                 "sea",
                  "harju",
                  "estonia",
                  "2011"
@@ -367,6 +368,37 @@
     "photographer": "Jesen",
     "camera": "DJI Mavic 2",
     "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA",
+    "keywords": ["timber creek overlook trail",
+                 "timber creek",
+                 "zion national park",
+                 "national park",
+                 "park",
+                 "zion",
+                 "utah",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_01.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_02.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_03.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_04.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_05.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_06.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_07.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_08.jpg",
+                      "2019.12_Timber-Creek-Overlook-Trail_Zion-National-Park_Utah_USA_09.jpg"
+                      ],
+    "coordinates": ["37.432987", "-113.202938"],
+    "location": "Timber Creek Overlook Trail, Zion National Park, Utah, USA",
+    "country": "USA",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The relatively flat Timber Creek Overlook Trail follows along a small ridge with spectacular views of the Kolob Canyons, the Kolob Terrace, and the Pine Valley Mountains. From the trailhead looking north, from left to right you can see an 8,000 ft. mountain ridgeline comprised of Horse Ranch Mountain, Paria Point, Beatty Point, Nagunt Mesa, Timber Top Mountain, and Shuntavi Butte. At trail end, looking south on the far horizon, you may see Mt. Trumbull 100 miles away at the north rim of the Grand Canyon."
    },
    {
     "fileFormat": "mp4",
