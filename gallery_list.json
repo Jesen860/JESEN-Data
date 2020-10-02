@@ -3,6 +3,35 @@
   [
    {
     "fileFormat": "jpg",
+    "filePath": "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain",
+    "keywords": ["la sagrada familia",
+                 "gaudi",
+                 "church",
+                 "barcelona",
+                 "catalonia",
+                 "spain",
+                 "2009"
+               ],
+    "galleryImages": ["2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_01.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_02.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_03.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_04.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_05.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_06.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_07.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_08.jpg",
+                      "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_09.jpg"
+                      ],
+    "coordinates": ["41.40363", "2.174356"],
+    "location": "La Sagrada Família, Barcelona, Catalonia, Spain",
+    "country": "Spain",
+    "date": "2009.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "If you have time for only one sightseeing outing, this should be it. La Sagrada Família inspires awe by its sheer verticality, and in the manner of the medieval cathedrals it emulates, it’s still under construction. Work began in 1882 and is hoped (perhaps optimistically) to be completed in 2026, a century after the architect’s death. Unfinished it may be, but it attracts more than 4.5 million visitors a year and is the most visited monument in Spain."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta",
     "keywords": ["azure window",
                  "san lawrenz",
