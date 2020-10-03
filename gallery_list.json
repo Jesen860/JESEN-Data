@@ -3,6 +3,34 @@
   [
    {
     "fileFormat": "jpg",
+    "filePath": "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy",
+    "keywords": ["piazzale michelangelo",
+                 "florence",
+                 "barcelona",
+                 "tuscany",
+                 "italy",
+                 "2009"
+               ],
+    "galleryImages": ["2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_01.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_02.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_03.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_04.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_05.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_06.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_07.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_08.jpg",
+                      "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_09.jpg"
+                      ],
+    "coordinates": ["43.762931", "11.265056"],
+    "location": "Piazzale Michelangelo, Florence, Tuscany, Italy",
+    "country": "Spain",
+    "date": "2009.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Turn your back on the bevy of ticky-tacky souvenir stalls flogging David statues and boxer shorts and take in the spectacular city panorama from this vast square, pierced by one of Florence’s two David copies. Sunset here is particularly dramatic. It’s a 10-minute uphill walk along the serpentine road, paths and steps that scale the hillside from the Arno and Piazza Giuseppe Poggi; from Piazza San Niccolò walk uphill and bear left up the long flight of steps signposted Viale Michelangelo."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain",
     "keywords": ["la sagrada familia",
                  "gaudi",
