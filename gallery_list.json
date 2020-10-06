@@ -22,12 +22,40 @@
                       "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_09.jpg"
                       ],
     "coordinates": ["43.762931", "11.265056"],
-    "location": "Piazzale Michelangelo, Florence, Tuscany, Italy",
+    "location": "2009.11_Cabo-da-Roca_Lisbon-District_Portugal",
     "country": "Spain",
     "date": "2009.04",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Turn your back on the bevy of ticky-tacky souvenir stalls flogging David statues and boxer shorts and take in the spectacular city panorama from this vast square, pierced by one of Florence’s two David copies. Sunset here is particularly dramatic. It’s a 10-minute uphill walk along the serpentine road, paths and steps that scale the hillside from the Arno and Piazza Giuseppe Poggi; from Piazza San Niccolò walk uphill and bear left up the long flight of steps signposted Viale Michelangelo."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2009.11_Cabo-da-Roca_Lisbon-District_Portugal",
+    "keywords": ["cabo da roca",
+                 "sea",
+                 "lighthouse",
+                 "westmost point",
+                 "portugal",
+                 "2009"
+               ],
+    "galleryImages": ["2009.11_Cabo-da-Roca_Lisbon-District_Portugal_01.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_02.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_03.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_04.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_05.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_06.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_07.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_08.jpg",
+                      "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_09.jpg"
+                      ],
+    "coordinates": ["38.780137", "-9.49792"],
+    "location": "Cabo da Roca, Lisbon District, Portugal",
+    "country": "Portugal",
+    "date": "2009.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Cabo da Roca is a wild and rugged headland that marks the most westerly point of mainland Europe. The windswept cliffs of Cabo de Roca were believed to be the edge of the world up until the up until the late 14th century and the spectacular, desolate scenery adds to the allure of the location. The raging Atlantic Ocean waves pound the base of the massive jagged cliffs while challenging hiking trails follow the coastal paths. The isolated atmosphere of Cabo da Roca is enhanced by the very limited development in the area; there is a lighthouse, coffee shop and gift shop but nothing much else. This wind blasted and dramatic landscape is the attraction and this is what most visitors expect for the western edge Europe or end of the world."
    },
    {
     "fileFormat": "jpg",
