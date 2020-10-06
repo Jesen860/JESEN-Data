@@ -146,6 +146,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland",
+    "keywords": ["st. mary’s basilica",
+                 "church",
+                 "krakow",
+                 "poland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_01.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_02.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_03.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_04.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_05.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_06.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_07.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_08.jpg",
+                      "2011.02_St.-Mary's-Basilica_Krakow_Lesser-Poland_Poland_09.jpg"
+                      ],
+    "coordinates": ["50.061641", "19.93939"],
+    "location": "St. Mary’s Basilica, Kraków, Lesser Poland, Poland",
+    "country": "Poland",
+    "date": "2011.02",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This striking brick church, best known simply as St Mary’s, is dominated by two towers of different heights. The first church here was built in the 1220s and following its destruction during a Tatar raid, construction of the basilica began. Tour the exquisite interior, with its remarkable carved wooden altarpiece, and in summer climb the tower for excellent views. Don’t miss the hourly hejnał (bugle call) from the taller tower."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany",
     "keywords": ["schloss linderhof",
                  "linderhof",
