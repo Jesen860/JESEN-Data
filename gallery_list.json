@@ -3,6 +3,34 @@
   [
    {
     "fileFormat": "jpg",
+    "filePath": "2008.12_Jet-d'Eau_Geneva_Switzerland",
+    "keywords": ["jet d’eau",
+                 "fountain",
+                 "lake",
+                 "geneva",
+                 "switzerland",
+                 "2008"
+               ],
+    "galleryImages": ["2008.12_Jet-d'Eau_Geneva_Switzerland_01.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_02.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_03.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_04.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_05.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_06.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_07.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_08.jpg",
+                      "2008.12_Jet-d'Eau_Geneva_Switzerland_09.jpg"
+                      ],
+    "coordinates": ["46.207389", "6.155903"],
+    "location": "Jet d’Eau, Geneva, Switzerland",
+    "country": "Switzerland",
+    "date": "2008.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "When landing by plane, this lakeside fountain is your first dramatic glimpse of Geneva. The 140m-tall structure shoots up water with incredible force – 200km/h, 1360 horsepower – to create the sky-high plume, kissed by a rainbow on sunny days. At any one time, 7 tonnes of water are in the air, much of which sprays spectators on the pier beneath. Two or three times a year it is illuminated pink, blue or another colour to mark a humanitarian occasion."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy",
     "keywords": ["piazzale michelangelo",
                  "florence",
@@ -22,7 +50,7 @@
                       "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_09.jpg"
                       ],
     "coordinates": ["43.762931", "11.265056"],
-    "location": "2009.11_Cabo-da-Roca_Lisbon-District_Portugal",
+    "location": "Piazzale Michelangelo, Florence, Tuscany, Italy",
     "country": "Spain",
     "date": "2009.04",
     "photographer": "Jesen",
