@@ -620,6 +620,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia",
+    "keywords": ["danube",
+                 "river",
+                 "bratislava",
+                 "slovakia",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_01.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_02.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_03.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_04.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_05.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_06.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_07.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_08.jpg",
+                      "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia_09.jpg"
+                      ],
+    "coordinates": ["48.136574", "17.104507"],
+    "location": "Danube, Bratislava, Slovakia",
+    "country": "Slovakia",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Bratislava lies on the beautiful blue Danube, arguably the most important river in central Europe. And no, the river was not named after Johann Strauss waltz. It was the other way round. It is said that Strauss composed the first melodies of his famous waltz in Bratislava in 1852. The river has long been of the utmost importance to Bratislava. In the first century, it served as a border of the Limer Romanus, protecting the Roman Empire from barbaric Germanic tribes. Later it helped protect the city from Tartars and Turks. Nowadays the Danube serves as a national boundary between Slovakia and Hungary and Austria."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
     "keywords": ["mount gongga",
                  "gongga",
