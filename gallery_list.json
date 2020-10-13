@@ -422,6 +422,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland",
+    "keywords": ["easternmost",
+                 "ilomantsi",
+                 "north karelia",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_01.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_02.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_03.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_04.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_05.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_06.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_07.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_08.jpg",
+                      "2011.09_Suomen-Itaisin-Piste_Ilomantsi_North-Karelia_Finland_09.jpg"
+                      ],
+    "coordinates": ["62.908452", "31.583294"],
+    "location": "Suomen Itäisin Piste, Ilomantsi, North Karelia, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Suomen Itäisin Piste is the easternmost point of Finland and of the Schengen Area and of the continental European Union is located on an island in the lake. The Lake Virmayarvi  is a small lake straddling the border between Finland (Ilomantsi municipality) and Russia. It is located 19 km east of the village of Hattuvaara."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.11_Hill-of-Crosses_Siauliai_Samogitia_Lithuania",
     "keywords": ["hill of crosses",
                  "hill",
