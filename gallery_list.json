@@ -163,7 +163,7 @@
                       "2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic_09.jpg"
                       ],
     "coordinates": ["48.812956", "14.315169"],
-    "location": "Český Krumlov State Castle, Český Krumlov, South Bohemian, Czech Republic",
+    "location": "Český Krumlov State Castle, Český Krumlov, Czech Republic",
     "country": "Czech Republic",
     "date": "2009.06",
     "photographer": "Jesen",
@@ -782,12 +782,38 @@
                       "2012.07_Szechenyi-Chain-Bridge_Budapest_Central-Hungary_Hungary_09.jpg"
                       ],
     "coordinates": ["47.498993", "19.043699"],
-    "location": "Széchenyi Chain Bridge, Budapest, Central Hungary, Hungary",
+    "location": "Széchenyi Chain Bridge, Budapest, Hungary",
     "country": "Hungary",
     "date": "2012.07",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Arguably the most striking of all the bridges in Budapest, twin-towered Széchenyi Chain Bridge, which is named in honour of its initiator, István Széchenyi, is particularly beautiful when lit up at night. The city’s oldest span was actually built by Scotsman Adam Clark, who enjoys one of the few places reserved for foreigners in the Hungarian panoply of heroes."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium",
+    "keywords": ["atomium",
+                 "brussels",
+                 "belgium",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_01.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_02.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_03.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_04.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_05.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_06.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_07.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_08.jpg",
+                      "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium_09.jpg"
+                      ],
+    "coordinates": ["50.894941", "4.341547"],
+    "location": "Atomium, Brussels, Belgium",
+    "country": "Belgium",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The space-age Atomium looms 102m over north Brussels’ suburbia, resembling a steel alien from a ’60s Hollywood movie. It consists of nine house-sized metallic balls linked by steel tube-columns containing escalators and lifts. The balls are arranged like a school chemistry set to represent iron atoms in their crystal lattice…except these are 165 billion times bigger. It was built as a symbol of postwar progress for the 1958 World’s Fair and became an architectural icon, receiving a makeover in 2006."
    },
    {
     "fileFormat": "jpg",
