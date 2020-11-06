@@ -453,7 +453,7 @@
     "date": "2011.05",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "A pocket-sized trove of weird treasures, Schloss Linderhof was Ludwig II’s smallest but most sumptuous palace, and the only one he lived to see fully completed. Finished in 1878, the palace hugs a steep hillside in a fantasy landscape of French gardens, fountains and follies. The reclusive king used the palace as a retreat and hardly ever received visitors here. Linderhof was inspired by Versailles and dedicated to Louis XIV, the French ‘Sun King’."
+    "introduction": "Salzburg’s most visible icon is this mighty, 900-year-old clifftop fortress, one of the biggest and best preserved in Europe. It’s easy to spend half a day up here, roaming the ramparts for far-reaching views over the city’s spires, the Salzach River and the mountains. The fortress is a steep 15-minute walk from the centre or a speedy ride up in the glass Festungsbahn funicular. The fortress began life as a humble bailey, built in 1077 by Gebhard von Helffenstein at a time when the Holy Roman Empire was at loggerheads with the papacy. The present structure, however, owes its grandeur to spendthrift Leonard von Keutschach, prince-archbishop of Salzburg from 1495 to 1519 and the city’s last feudal ruler."
    },
    {
     "fileFormat": "jpg",
@@ -1162,6 +1162,36 @@
     "photographer": "Jesen",
     "camera": "DJI Mavic 2",
     "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA",
+    "keywords": ["horseshoe bend",
+                 "glen canyon national recreation area",
+                 "colorado river",
+                 "river",
+                 "page",
+                 "arizona",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_01.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_02.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_03.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_04.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_05.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_06.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_07.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_08.jpg",
+                      "2019.12_Horseshoe-Bend_Glen-Canyon-National-Recreation-Area_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["36.87916", "-111.510423"],
+    "location": "Horseshoe Bend, Glen Canyon National Recreation Area, Arizona, USA",
+    "country": "USA",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "If you’re in search of an incredible natural vista, then Horseshoe Bend is definitely worth a visit. The name was inspired by its unusual shape, a horseshoe-shaped meander of the Colorado River located four miles southwest of Page, AZ, within the Glen Canyon National Recreation Area. Just a hop, skip, and a jump from Glen Canyon Dam and the popular Lake Powell, the best view is from the steep cliff above Horseshoe Bend."
    },
    {
     "fileFormat": "jpg",
