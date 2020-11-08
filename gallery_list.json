@@ -115,6 +115,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.04_Vatican-City",
+    "keywords": ["vatican city",
+                 "vatican",
+                 "city",
+                 "2009"
+               ],
+    "galleryImages": ["2009.04_Vatican-City_01.jpg",
+                      "2009.04_Vatican-City_02.jpg",
+                      "2009.04_Vatican-City_03.jpg",
+                      "2009.04_Vatican-City_04.jpg",
+                      "2009.04_Vatican-City_05.jpg",
+                      "2009.04_Vatican-City_06.jpg",
+                      "2009.04_Vatican-City_07.jpg",
+                      "2009.04_Vatican-City_08.jpg",
+                      "2009.04_Vatican-City_09.jpg"
+                      ],
+    "coordinates": ["41.903816", "12.452061"],
+    "location": "Vatican City",
+    "country": "Italy",
+    "date": "2009.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Vatican, the world’s smallest sovereign state (a mere 0.44 sq km), sits atop the low-lying Vatican hill just a few hundred metres west of the river Tiber. Centred on the domed bulk of St Peter’s Basilica and Piazza San Pietro, it contains some of Italy’s most celebrated masterpieces, many housed in the vast Vatican Museums. You’ll need at least a morning to do justice to the Vatican Museums. The highlight is the Michelangelo-decorated Sistine Chapel, but there’s enough art on display to keep you busy for years."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy",
     "keywords": ["pompeii archaeological park",
                  "pompeii",
@@ -1074,7 +1100,7 @@
                       "2014.09_Lugu-Lake_Liangshan-Yi-Autonomous-Prefecture_Sichuan_China_09.jpg"
                       ],
     "coordinates": ["27.702855", "100.791178"],
-    "location": "Lugu Lake, Liangshan Yi Autonomous Prefecture, Sichuan, China",
+    "location": "Lugu Lake, Sichuan, China",
     "country": "China",
     "date": "2014.09",
     "photographer": "Jesen",
