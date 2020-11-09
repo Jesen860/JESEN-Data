@@ -402,6 +402,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Acropolis_Athens_Attica_Greece",
+    "keywords": ["acropolis",
+                 "athens",
+                 "attica",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Acropolis_Athens_Attica_Greece_01.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_02.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_03.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_04.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_05.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_06.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_07.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_08.jpg",
+                      "2010.11_Acropolis_Athens_Attica_Greece_09.jpg"
+                      ],
+    "coordinates": ["37.971532", "23.725749"],
+    "location": "Acropolis, Athens, Attica, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Acropolis is the most important ancient site in the Western world. Crowned by the Parthenon, it stands sentinel over Athens, visible from almost everywhere within the city. Its monuments and sanctuaries of white Pentelic marble gleam in the midday sun and gradually take on a honey hue as the sun sinks, while at night they stand brilliantly illuminated above the city. A glimpse of this magnificent sight cannot fail to exalt your spirit."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.12_Valletta_South-Eastern-Region_Malta",
     "keywords": ["valletta",
                  "capital",
