@@ -1279,6 +1279,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden",
+    "keywords": ["the royal palace",
+                 "palace",
+                 "stockholm",
+                 "sweden",
+                 "2014"
+                ],
+    "galleryImages": ["2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_01.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_02.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_03.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_04.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_05.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_06.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_07.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_08.jpg",
+                      "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden_09.jpg"
+                      ],
+    "coordinates": ["59.326822", "18.071719"],
+    "location": "The Royal Palace, Stockholm, Sweden",
+    "country": "Sweden",
+    "date": "2014.10",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Royal Palace of Stockholm is His Majesty The King’s official residence and is also the setting for most of the monarchy’s official receptions. This combination of royal residence, workplace and culture-historical monument open year round to visitors makes the Royal Palace of Stockholm unique amongst Europe’s royal residences.The palace is built in baroque style by the architect Nicodemus Tessin and is formed as a Roman palace. The palace has more than 600 rooms divided between eleven floors with a state apartment facing the city and smaller living rooms facing the inner courtyard.The palace contains many interesting things to see. In addition to the Royal Apartments there are three museums steeped in regal history: the Treasury with the regalia, the Tre Kronor Museum that portrays the palaces medieval history and Gustav III’s Museum of Antiquities."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2017.09_Gas-Works-Park_Seattle_Washington_USA",
     "keywords": ["gas works park",
                  "park",
