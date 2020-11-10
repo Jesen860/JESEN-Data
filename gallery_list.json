@@ -1375,7 +1375,7 @@
                  "new york",
                  "usa",
                  "2018"
-                ],
+                 ],
     "galleryImages": ["2018.08_Night-Scene_Empire-State-Building_New-York-City_New-York_USA_01.jpg",
                       "2018.08_Night-Scene_Empire-State-Building_New-York-City_New-York_USA_02.jpg",
                       "2018.08_Night-Scene_Empire-State-Building_New-York-City_New-York_USA_03.jpg",
@@ -1389,9 +1389,9 @@
     "coordinates": ["40.748441", "-73.985664"],
     "location": "Night Scene, Empire State Building, New York City, New York, USA",
     "country": "USA",
-    "date": "2018.12",
+    "date": "2018.08",
     "photographer": "Jesen",
-    "camera": "Fujifilm,
+    "camera": "Fujifilm",
     "introduction": "Find yourself in the center of it all, above it all, when you visit the Empire State Building’s open-air 86th Floor Observation Deck. As the most famous observatory in the world, the 86th Floor has been the setting of dozens of movie and television scenes, as well as tens of millions of unforgettable personal moments."
    },
    {
