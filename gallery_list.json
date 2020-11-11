@@ -1307,6 +1307,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2014.10_Oxford_England_United-Kingdom",
+    "keywords": ["oxford",
+                 "city",
+                 "england",
+                 "united kingdom",
+                 "2014"
+                ],
+    "galleryImages": ["2014.10_Oxford_England_United-Kingdom_01.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_02.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_03.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_04.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_05.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_06.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_07.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_08.jpg",
+                      "2014.10_Oxford_England_United-Kingdom_09.jpg"
+                      ],
+    "coordinates": ["51.750416", "-1.247588"],
+    "location": "Oxford, England, United Kingdom",
+    "country": "United Kingdom",
+    "date": "2014.10",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "With its honey-coloured colleges arrayed in splendour beside the river, the university town of Oxford is a seductive vision of medieval learning and modern charm."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2014.10_The-Royal-Palace_Stockholm_Sodermanland&Uppland_Sweden",
     "keywords": ["the royal palace",
                  "palace",
