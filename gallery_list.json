@@ -1542,6 +1542,34 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2019.02_Devil's-Slide-Trail_Pacifica_California_USA",
+    "keywords": ["devil’s slide trail",
+                 "sea",
+                 "pacifica",
+                 "california",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.02_Devil's-Slide-Trail_Pacifica_California_USA_01.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_02.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_03.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_04.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_05.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_06.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_07.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_08.jpg",
+                      "2019.02_Devil's-Slide-Trail_Pacifica_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.579809", "-122.516921"],
+    "location": "Devil’s Slide Trail, Pacifica, California, USA",
+    "country": "USA",
+    "date": "2019.02",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A series of dramatic cliff-top coastal views is the payoff at Devil’s Slide. You can drive up to the parking lot for a panorama, or extend the trip with a walk or bike ride on the Devil’s Slide Trail/old Highway 1. To the near south, you can also take the unofficial route wildcat-style to the weird-looking Devil’s Slide Bunker and its world-class lookout."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2019.02_Mission-Peak-Summit_Mission-Peak-Regional-Preserve_Fremont_California_USA",
     "keywords": ["mission peak summit",
                  "mission peak regional preserve",
@@ -1565,7 +1593,7 @@
     "coordinates": ["37.512505", "-121.88083"],
     "location": "Mission Peak Summit, Mission Peak Regional Preserve, California, USA",
     "country": "USA",
-    "date": "2019.12",
+    "date": "2019.02",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Mission Peak is a 2,517-foot summit east of the San Francisco Bay in Fremont. This steep, challenging hike gains over 2,000 feet in 3.1 miles to 360-degree views. Mount Tamalpais, Mount Diablo, Mount Hamilton, and the Santa Cruz Mountains encircle the peak on clear days. Rolling pastures in Mission Peak Regional Preserve unfold like a carpet beneath grazing cows, wild turkeys, and ground squirrels."
