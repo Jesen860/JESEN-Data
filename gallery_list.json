@@ -1044,6 +1044,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.05_Storebaeltsbroen_Denmark",
+    "keywords": ["storebæltsbroen",
+                 "bridge",
+                 "denmark",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Storebaeltsbroen_Denmark_01.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_02.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_03.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_04.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_05.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_06.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_07.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_08.jpg",
+                      "2012.05_Storebaeltsbroen_Denmark_09.jpg"
+                      ],
+    "coordinates": ["55.33367", "10.9739"],
+    "location": "Storebæltsbroen, Denmark",
+    "country": "Denmark",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Some 18km long and incorporating a suspension bridge that’s arguably as elegant as the Golden Gate, the Storebælt link is a remarkable piece of engineering linking Funen and Zealand on what has been dubbed Denmark’s biggest man-made structure."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.07_Bratislava-Castle_Bratislava_Bratislava-Region_Slovakia",
     "keywords": ["bratislava castle",
                  "castle",
