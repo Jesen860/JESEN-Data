@@ -875,6 +875,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia",
+    "keywords": ["rakvere castle",
+                 "castle",
+                 "rakvere",
+                 "estonia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_01.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_02.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_03.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_04.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_05.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_06.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_07.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_08.jpg",
+                      "2011.11_Rakvere-Castle_Rakvere_Laane-Viru-County_Estonia_09.jpg"
+                      ],
+    "coordinates": ["59.346602", "26.351635"],
+    "location": "Rakvere Castle, Rakvere, Estonia",
+    "country": "Estonia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This hillside was the site of the earliest fortifications in Estonia, dating from the 5th and 6th centuries, although the castle itself was built in the 14th century by the Danes. It subsequently served many masters, including the German Livonian Order, the Russians, the Swedes and the Poles. It was badly damaged in a battle between the latter two powers in 1605 and was turned into an elaborate manor house in the late 17th century."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain",
     "keywords": ["roque nublo",
                  "gran canaria",
