@@ -198,6 +198,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.11_Belem_Lisbon_Lisbon-District_Portugal",
+    "keywords": ["belém",
+                 "belem",
+                 "lisbon",
+                 "portugal",
+                 "2009"
+               ],
+    "galleryImages": ["2009.11_Belem_Lisbon_Lisbon-District_Portugal_01.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_02.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_03.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_04.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_05.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_06.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_07.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_08.jpg",
+                      "2009.11_Belem_Lisbon_Lisbon-District_Portugal_09.jpg"
+                      ],
+    "coordinates": ["38.691584", "-9.215977"],
+    "location": "Belém, Lisbon District, Portugal",
+    "country": "Portugal",
+    "date": "2009.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "In Belém, Atlantic breezes, grandiose nautical monuments and boats gliding along the wide Rio Tejo cast you back to those pioneering days of the Age of Discoveries, when the world was Portugal’s colonial oyster. And at dusk, when the crowds subside and the softening light paints the monastery’s Manueline turrets gold, this riverside neighbourhood is yours alone for exploring."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.11_Cabo-da-Roca_Lisbon-District_Portugal",
     "keywords": ["cabo da roca",
                  "sea",
