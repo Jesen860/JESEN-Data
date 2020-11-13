@@ -169,6 +169,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.05_Bruges_West-Flanders-Province_Belgium",
+    "keywords": ["bruges",
+                 "city",
+                 "west flanders",
+                 "belgium",
+                 "2009"
+               ],
+    "galleryImages": ["2009.05_Bruges_West-Flanders-Province_Belgium_01.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_02.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_03.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_04.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_05.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_06.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_07.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_08.jpg",
+                      "2009.05_Bruges_West-Flanders-Province_Belgium_09.jpg"
+                      ],
+    "coordinates": ["51.208749", "3.224395"],
+    "location": "Bruges, West Flanders Province, Belgium",
+    "country": "Belgium",
+    "date": "2009.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "If you set out to design a fairy-tale medieval town, it would be hard to improve on central Bruges (Brugge in Dutch), one of Europe’s best preserved cities. Picturesque cobbled lanes and dreamy canals link photogenic market squares lined with soaring towers, historical churches and lane after lane of old whitewashed almshouses."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic",
     "keywords": ["cesky krumlov state castle",
                  "castle",
@@ -1520,7 +1547,7 @@
     "country": "Canada",
     "date": "2016.04",
     "photographer": "Jesen",
-    "camera": "Nikon",
+    "camera": "iPhone",
     "introduction": "Clover Point is a 10.39 acre property. The eastern boundary of Clover Point Park is Ross Bay; the western boundary is Cook Street. Clover Point was owned by the Canada Department of Defence and leased to the City for use as a park until 1988 when ownership was transferred to the City of Victoria. Clover Point is a very heavily used park. It has been a major destination for people in cars since 1956, when the loop road was “hard-surfaced and landscaped as a viewpoint parking area.” Parking for 100 cars was announced at that time. Despite several proposals to remove the roadway and create a safer pedestrian-only area, asphalt continues to cover a large portion of the Point and car traffic is heavy."
    },
    {
