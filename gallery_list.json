@@ -791,6 +791,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.09_Ekenas_Uusimaa_Finland",
+    "keywords": ["ekenäs",
+                 "ekenas",
+                 "uusimaa",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Ekenas_Uusimaa_Finland_01.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_02.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_03.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_04.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_05.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_06.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_07.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_08.jpg",
+                      "2011.09_Ekenas_Uusimaa_Finland_09.jpg"
+                      ],
+    "coordinates": ["59.976654", "23.450063"],
+    "location": "Ekenäs, Uusimaa, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Ekenäs Old Town with its wooden houses spreads out to the seashore. The street names tell the story of the life of the townspeople and how they got along hundreds of years ago. Here, the streets have stayed the same since the 16thcentury. Street names such as the Hatter’s Street (Hattmakaregatan), Linen Weaver’s Street (Linvävaregatan), Cloth Weaver’s Street (Handskmakaregatan), Smith’s Street (Smedsgatan) and Tanner’s Street (Garvaregatan) reveal that Barcken’s peninsula in Ekenäs once was populated by skillful craftsmen."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.09_Hanko_Uusimaa_Finland",
     "keywords": ["hanko",
                  "city",
