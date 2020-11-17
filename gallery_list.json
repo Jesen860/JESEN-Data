@@ -791,6 +791,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.09_Hanko_Uusimaa_Finland",
+    "keywords": ["hanko",
+                 "city",
+                 "uusimaa",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Hanko_Uusimaa_Finland_01.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_02.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_03.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_04.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_05.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_06.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_07.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_08.jpg",
+                      "2011.09_Hanko_Uusimaa_Finland_09.jpg"
+                      ],
+    "coordinates": ["59.829514", "22.954459"],
+    "location": "Hanko, Uusimaa, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "On a long, sandy peninsula, Hanko (Swedish: Hangö) grew up as a well-to-do Russian spa town in the late 19th century. During this period entrepreneurs and industrialists built opulent seaside villas, with fabulous Victorian and art-nouveau architectural detailing. These beauties are still a star attraction here, especially as many of them now house guesthouses and restaurants."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland",
     "keywords": ["olavinlinna",
                  "castle",
