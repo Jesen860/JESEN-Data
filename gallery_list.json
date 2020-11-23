@@ -882,6 +882,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.07_Les-Invalides_Paris_Ile-de-France_France",
+    "keywords": ["les invalides",
+                 "palace",
+                 "paris",
+                 "france",
+                 "2011"
+                ],
+    "galleryImages": ["2011.07_Les-Invalides_Paris_Ile-de-France_France_01.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_02.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_03.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_04.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_05.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_06.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_07.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_08.jpg",
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_09.jpg"
+                      ],
+    "coordinates": ["48.856107", "2.312783"],
+    "location": "Les Invalides, Paris, France",
+    "country": "France",
+    "date": "2011.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Flanked by the 500m-long Esplanade des Invalides lawns, Hôtel des Invalides was built in the 1670s by Louis XIV to house 4000 invalides (disabled war veterans). On 14 July 1789, a mob broke into the building and seized 32,000 rifles before heading on to the prison at Bastille and the start of the French Revolution."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.08_Rainbow_Aachen_Nordrhein-Westfalen_Germany",
     "keywords": ["rainbow",
                  "aachen",
