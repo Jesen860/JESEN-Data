@@ -896,8 +896,7 @@
                       "2011.07_Les-Invalides_Paris_Ile-de-France_France_05.jpg",
                       "2011.07_Les-Invalides_Paris_Ile-de-France_France_06.jpg",
                       "2011.07_Les-Invalides_Paris_Ile-de-France_France_07.jpg",
-                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_08.jpg",
-                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_09.jpg"
+                      "2011.07_Les-Invalides_Paris_Ile-de-France_France_08.jpg"
                       ],
     "coordinates": ["48.856107", "2.312783"],
     "location": "Les Invalides, Paris, France",
@@ -1070,6 +1069,33 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Suomen Itäisin Piste is the easternmost point of Finland and of the Schengen Area and of the continental European Union is located on an island in the lake. The Lake Virmayarvi  is a small lake straddling the border between Finland (Ilomantsi municipality) and Russia. It is located 19 km east of the village of Hattuvaara."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France",
+    "keywords": ["château de vincennes",
+                 "vincennes",
+                 "palace",
+                 "france",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_01.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_02.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_03.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_04.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_05.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_06.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_07.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_08.jpg",
+                      "2011.11_Chateau-de-Vincennes_Vincennes_Ile-de-France_France_09.jpg"
+                      ],
+    "coordinates": ["48.842568", "2.435494"],
+    "location": "Château de Vincennes, Vincennes, France",
+    "country": "France",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Originally a 12th-century hunting lodge, this fortified royal residence on Paris’ fringe was expanded several times throughout the centuries until it reached its present size under Louis XIV. Notable features of the striking medieval château include the beautiful 52m-high keep (1370) and royal chapel (1552)."
    },
    {
     "fileFormat": "jpg",
