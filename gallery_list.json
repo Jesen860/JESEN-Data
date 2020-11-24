@@ -1633,7 +1633,7 @@
                  "bridge",
                  "zhejiang",
                  "china",
-                 "2012"
+                 "2013"
                 ],
     "galleryImages": ["2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_01.jpg",
                       "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_02.jpg",
@@ -1648,10 +1648,39 @@
     "coordinates": ["30.469658", "121.117915"],
     "location": "Hangzhou Bay Bridge, Zhejiang, China",
     "country": "China",
-    "date": "2012.12",
+    "date": "2013.01",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Hangzhou Bay Bridge is a highway bridge with a cable-stayed portion across Hangzhou Bay in the eastern coastal region of China. It connects the municipalities of Jiaxing and Ningbo in Zhejiang province. Construction of the bridge was completed on June 14, 2007, and an opening ceremony was held on June 26, 2007. The bridge was opened to public May 1, 2008, after a considerable period of testing and evaluation. The bridge shortened the highway travel distance between Ningbo and Shanghai from 400 km (249 mi) to 180 km (112 mi) and reduced travel time from 4 to 2 hours. At 35.673 km (22 mi) in length, Hangzhou Bay Bridge was among the ten longest trans-oceanic bridges."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China",
+    "keywords": ["leshan giant buddha",
+                 "buddha",
+                 "sculpture",
+                 "leshan",
+                 "sichuan",
+                 "china",
+                 "2013"
+                ],
+    "galleryImages": ["2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_01.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_02.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_03.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_04.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_05.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_06.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_07.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_08.jpg",
+                      "2013.04_Leshan-Giant-Buddha_Leshan_Sichuan_China_09.jpg"
+                      ],
+    "coordinates": ["29.544131", "103.771537"],
+    "location": "Leshan Giant Buddha, Leshan, Sichuan, China",
+    "country": "China",
+    "date": "2013.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Lè Shān’s serene, 1200-year-old Grand Buddha sits in repose, carved from a cliff face overlooking the confluence of three busy rivers: the Dàdù, Mín and Qīngyì. The Buddhist monk Haitong conceived the project in AD 713, hoping that Buddha would protect the boats and calm the lethal currents."
    },
    {
     "fileFormat": "jpg",
