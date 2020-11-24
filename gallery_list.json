@@ -910,6 +910,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.07_Eiffel-Tower_Paris_Ile-de-France_France",
+    "keywords": ["eiffel tower",
+                 "eiffel",
+                 "paris",
+                 "france",
+                 "2011"
+                ],
+    "galleryImages": ["2011.07_Eiffel-Tower_Paris_Ile-de-France_France_01.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_02.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_03.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_04.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_05.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_06.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_07.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_08.jpg",
+                      "2011.07_Eiffel-Tower_Paris_Ile-de-France_France_09.jpg"
+                      ],
+    "coordinates": ["48.85837", "2.294481"],
+    "location": "Eiffel Tower, Paris, France",
+    "country": "France",
+    "date": "2011.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "No one could imagine Paris today without it. But Gustave Eiffel only constructed this elegant, 324m-tall signature spire as a temporary exhibit for the 1889 World’s Fair. Luckily, the art nouveau tower’s popularity assured its survival. Prebook online to avoid painfully long ticket queues. Lifts ascend to the tower’s three floors; change lifts on the 2nd floor for the final ascent to the top. Energetic visitors can climb as far as the 2nd floor via the south pillar’s 720 stairs (no prebooking)."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.07_Les-Invalides_Paris_Ile-de-France_France",
     "keywords": ["les invalides",
                  "palace",
