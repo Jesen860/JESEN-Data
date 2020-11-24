@@ -394,6 +394,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.04_Constitution-Square_Luxembourg-City_Luxembourg",
+    "keywords": ["constitution square",
+                 "square",
+                 "luxembourg city",
+                 "luxembourg",
+                 "2010"
+               ],
+    "galleryImages": ["2010.04_Constitution-Square_Luxembourg-City_Luxembourg_01.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_02.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_03.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_04.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_05.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_06.jpg",
+                      "2010.04_Constitution-Square_Luxembourg-City_Luxembourg_07.jpg"
+                      ],
+    "coordinates": ["49.609297", "6.129454"],
+    "location": "Constitution Square, Luxembourg City, Luxembourg",
+    "country": "Luxembourg",
+    "date": "2010.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Constitution Square was put up on the ancient Beck bastion (1644, 1685). The “Gëlle Fra”, a monument which is located on this square, was set up in 1923 to commemorate the Luxembourgers who perished in the First World War, today it sympolises freedom and resistance for the Luxembourg people."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.04_Giethoorn_Overijssel_Netherlands",
     "keywords": ["giethoorn",
                  "holland",
