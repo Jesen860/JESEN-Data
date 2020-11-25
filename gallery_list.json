@@ -624,6 +624,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Gullfoss_Southern-Region_Iceland",
+    "keywords": ["gullfoss",
+                 "waterfall",
+                 "southern region",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Gullfoss_Southern-Region_Iceland_01.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_02.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_03.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_04.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_05.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_06.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_07.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_08.jpg",
+                      "2010.09_Gullfoss_Southern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["64.326694", "-20.120413"],
+    "location": "Gullfoss, Southern Region, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Situated on the Hvítá River, the mesmerising and voluminous Gullfoss tumbles down a two-tiered drop into a rugged canyon. Each day, thousands of gallons (around 80 cubic meters per second) of water plummet 32m, before continuing their charging journey along a narrow chasm. On sunny days, when the waterfall’s mist hits the rays, it possible to spy rainbows. In winter the water often twinkles as the light hits ice particles."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Namafjall_Northeastern-Region_Iceland",
     "keywords": ["námafjall",
                  "mud",
