@@ -1463,6 +1463,33 @@
    {
     "fileFormat": "jpg",
     "filePath": "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway",
+    "keywords": ["kleivafossen",
+                 "waterfall",
+                 "vestland",
+                 "norway",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_01.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_02.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_03.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_04.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_05.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_06.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_07.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_08.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_09.jpg"
+                      ],
+    "coordinates": ["61.664381", "6.834402"],
+    "location": "Kleivafossen, Vestland, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Kleivafossen is not a large waterfall by Norway’s standards but thanks to its location along the trail to the famous Briksdal Glacier, the falls are among the most frequently visited in the country. The Briksdalselva thunders 41 meters (136 feet) over a step in the glacially carved valley below its famous source glacier. The falls drop directly in front of a bridge along what is known as the Troll Road, one of two routes to the glacier which doubles as a road used by 4-wheel drive trams that shuttle tourists most of the way up to the glacier (for a fee, its free to walk). Crossing over the bridge visitors are liberally doused in spray during any season, but in the summer when the snow and ice is melting at its quickest pace the falls will soak passers by through to the bone."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway",
     "keywords": ["kristainsten fort",
                  "kristainsten",
                  "fort",
