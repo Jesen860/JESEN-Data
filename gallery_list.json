@@ -678,6 +678,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Reynisfjara_Southern-Region_Iceland",
+    "keywords": ["reynisfjara",
+                 "rock",
+                 "southern region",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Reynisfjara_Southern-Region_Iceland_01.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_02.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_03.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_04.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_05.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_06.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_07.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_08.jpg",
+                      "2010.09_Reynisfjara_Southern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["63.403098", "-19.042183"],
+    "location": "Reynisfjara, Southern Region, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "On the western side of Reynisfjall, the high ridge above Vík, Rte 215 leads 5km down to the black-sand beach Reynisfjara. It’s backed by an incredible stack of basalt columns that look like a magical church organ, and there are outstanding views west to Dyrhólaey. Surrounding cliffs are pocked with caves formed from twisted basalt, and puffins belly-flop into the crashing sea during summer. Immediately offshore are the towering Reynisdrangur sea stacks. At all times watch for rogue waves: people are regularly swept away."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Titisee_Titisee-Neustadt_Baden-Wurttemberg_Germany",
     "keywords": ["titisee",
                  "lake",
