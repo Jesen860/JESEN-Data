@@ -597,6 +597,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland",
+    "keywords": ["geysir",
+                 "spring",
+                 "bláskógabyggð",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_01.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_02.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_03.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_04.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_05.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_06.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_07.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_08.jpg",
+                      "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["64.31378", "-20.299513"],
+    "location": "Geysir, Bláskógabyggð, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "One of Iceland’s most famous tourist attractions, Geysir (gay-zeer; literally ‘gusher’) is the original hot-water spout after which all other geysers are named. It sits in the Haukadalur geothermal area – a valley of hot springs with translucent blue pools, mud pots and colourful mineral details. Watch your step, some natural water features hover around the 100°C mark."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Titisee_Titisee-Neustadt_Baden-Wurttemberg_Germany",
     "keywords": ["titisee",
                  "lake",
