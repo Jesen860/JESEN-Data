@@ -1412,7 +1412,6 @@
     "keywords": ["hopperstad stave church",
                  "church",
                  "vik",
-                 "sogn og fjordane",
                  "norway",
                  "2012"
                 ],
@@ -1427,12 +1426,40 @@
                       "2012.05_Hopperstad-Stave-Church_Vik_Sogn-og-Fjordane_Norway_09.jpg"
                       ],
     "coordinates": ["61.077477", "6.568976"],
-    "location": "Hopperstad Stave Church, Vik, Sogn og Fjordane, Norway",
+    "location": "Hopperstad Stave Church, Vik, Norway",
     "country": "Norway",
     "date": "2012.05",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "On the southern outskirts of the village stands this splendid stave church, Built in 1130, and Norway’s second oldest, it escaped demolition by a whisker in the late 19th century. It’s thought that the church consists of around 2000 individual parts, which would have been created by itinerant craftsmen and assembled with the help of local villagers. Common motifs such as vines, foliage and mythical beasts adorn the exterior, enhanced by colourful canopy paintings inside."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway",
+    "keywords": ["kristainsten fort",
+                 "kristainsten",
+                 "fort",
+                 "trondheim",
+                 "norway",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_01.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_02.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_03.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_04.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_05.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_06.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_07.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_08.jpg",
+                      "2012.05_Kristainsten-Fort_Trondheim_Trondelag_Norway_09.jpg"
+                      ],
+    "coordinates": ["63.426922", "10.41061"],
+    "location": "Kristainsten Fort, Trondheim, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "For a bird’s-eye view of the city, climb 10 minutes from the Gamle Bybro to Kristiansten Fort, built after Trondheim’s great fire of 1681. During WWII the Nazis used it as a prison and execution ground for members of the Norwegian Resistance. The grounds are open year-round at no cost, whenever the flag is raised."
    },
    {
     "fileFormat": "jpg",
