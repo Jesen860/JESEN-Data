@@ -1793,6 +1793,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands",
+    "keywords": ["cube houses",
+                 "cube",
+                 "rotterdam",
+                 "netherlands",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_01.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_02.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_03.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_04.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_05.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_06.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_07.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_08.jpg",
+                      "2012.07_Cube-Houses_Rotterdam_South-Holland_Netherlands_09.jpg"
+                      ],
+    "coordinates": ["51.92033", "4.490328"],
+    "location": "Cube Houses, Rotterdam, Netherlands",
+    "country": "Netherlands",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Cube houses are a set of innovative houses built in Rotterdam and Helmond in the Netherlands, designed by architect Piet Blom and based on the concept of “living as an urban roof”: high density housing with sufficient space on the ground level, since its main purpose is to optimise the space inside. Blom tilted the cube of a conventional house 45 degrees, and rested it upon a hexagon-shaped pylon. His design represents a village within a city, where each house represents a tree, and all the houses together, a forest. The central idea of the cube houses around the world is mainly optimizing the space, as a house, to a better distribution of the rooms inside."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.07_Danube_Bratislava_Bratislava-Region_Slovakia",
     "keywords": ["danube",
                  "river",
