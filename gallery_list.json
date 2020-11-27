@@ -1875,6 +1875,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Utrecht_Utrecht_Netherlands",
+    "keywords": ["utrecht",
+                 "city",
+                 "netherlands",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Utrecht_Utrecht_Netherlands_01.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_02.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_03.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_04.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_05.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_06.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_07.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_08.jpg",
+                      "2012.07_Utrecht_Utrecht_Netherlands_09.jpg"
+                      ],
+    "coordinates": ["52.084187", "5.082492"],
+    "location": "Utrecht, Netherlands",
+    "country": "Netherlands",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "It’s hard not to fall in love with Utrecht, one of the Netherlands’ oldest urban centres and for centuries its religious heart. Now a vibrant university city, the compact medieval core radiates out from the iconic 15th-century Domtoren, ringed by a loop of very pretty tree-lined canals. Their central sections have distinctive double-level sides inset with what were once medieval warehouses – many now forming fascinating venues to eat, drink, dance or sleep, with terrace-walkways that extend right to the waterside. The brilliant cafe culture goes well beyond the canals – Utrecht’s vibrant concert schedules are a big draw and, if the budget stretches, it’s worth luxuriating in one of numerous historic mansions that have been turned into indulgent boutique hotels."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium",
     "keywords": ["atomium",
                  "brussels",
