@@ -1344,11 +1344,34 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania",
+    "keywords": ["europos geografinis centras",
+                 "center",
+                 "mounment",
+                 "purnuškės",
+                 "lithuania",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania_01.jpg",
+                      "2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania_02.jpg",
+                      "2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania_03.jpg",
+                      "2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania_04.jpg",
+                      "2011.11_Europos-Geografinis-Centras_Purnuskes_Dzukija_Lithuania_05.jpg"
+                      ],
+    "coordinates": ["54.90651", "25.318984"],
+    "location": "Europos Geografinis Centras, Purnuškės, Lithuania",
+    "country": "Lithuania",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "In 1989 the French National Geographical Institute pronounced this position – latitude 54° 54ˈ, longitude 25° 19ˈ – to be the geographical centre of Europe. It’s marked with a boulder inscribed with the points of the compass and the words ‘Geografinis Europos Centras’. There’s also 27 different EU flags, a wooden decking stage and a white granite obelisk with a crown of gold stars."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.11_Hill-of-Crosses_Siauliai_Samogitia_Lithuania",
     "keywords": ["hill of crosses",
                  "hill",
                  "siauliai",
-                 "samogitia",
                  "lithuania",
                  "2011"
                 ],
@@ -1363,7 +1386,7 @@
                       "2011.11_Hill-of-Crosses_Siauliai_Samogitia_Lithuania_09.jpg"
                       ],
     "coordinates": ["56.015194", "23.416523"],
-    "location": "Hill of Crosses, Šiauliai, Samogitia, Lithuania",
+    "location": "Hill of Crosses, Šiauliai, Lithuania",
     "country": "Lithuania",
     "date": "2011.11",
     "photographer": "Jesen",
@@ -2025,8 +2048,7 @@
                       "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_05.jpg",
                       "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_06.jpg",
                       "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_07.jpg",
-                      "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_08.jpg",
-                      "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_09.jpg"
+                      "2013.01_Hangzhou-Bay-Bridge_Zhejiang_China_08.jpg"
                       ],
     "coordinates": ["30.469658", "121.117915"],
     "location": "Hangzhou Bay Bridge, Zhejiang, China",
