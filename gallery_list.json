@@ -1508,6 +1508,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia",
+    "keywords": ["turaida castle",
+                 "castle",
+                 "sigulda",
+                 "latvia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_01.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_02.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_03.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_04.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_05.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_06.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_07.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_08.jpg",
+                      "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia_09.jpg"
+                      ],
+    "coordinates": ["57.182269", "24.850284"],
+    "location": "Turaida Castle, Sigulda, Latvia",
+    "country": "Latvia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Turaida means ‘God’s Garden’ in ancient Livonian, and this green knoll capped with a fairy-tale castle is certainly a heavenly place. The red-brick castle with its tall cylindrical tower was built in 1214 on the site of a Liv stronghold. A museum inside the castle’s 15th-century granary offers an interesting account of the Livonian state from 1319 to 1561; additional exhibitions can be viewed in the 42m-high Donjon Tower and the castle’s western and southern towers."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain",
     "keywords": ["roque nublo",
                  "gran canaria",
