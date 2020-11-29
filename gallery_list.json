@@ -1332,8 +1332,7 @@
                       "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_05.jpg",
                       "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_06.jpg",
                       "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_07.jpg",
-                      "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_08.jpg",
-                      "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_09.jpg"
+                      "2011.11_Aglona-Basilica_Aglona_Latgale_Latvia_08.jpg"
                       ],
     "coordinates": ["56.126762", "27.016282"],
     "location": "Aglona Basilica, Aglona, Latvia",
@@ -2488,6 +2487,36 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The Royal Palace of Stockholm is His Majesty The King’s official residence and is also the setting for most of the monarchy’s official receptions. This combination of royal residence, workplace and culture-historical monument open year round to visitors makes the Royal Palace of Stockholm unique amongst Europe’s royal residences.The palace is built in baroque style by the architect Nicodemus Tessin and is formed as a Roman palace. The palace has more than 600 rooms divided between eleven floors with a state apartment facing the city and smaller living rooms facing the inner courtyard.The palace contains many interesting things to see. In addition to the Royal Apartments there are three museums steeped in regal history: the Treasury with the regalia, the Tre Kronor Museum that portrays the palaces medieval history and Gustav III’s Museum of Antiquities."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2015.04_Roozengaarde_Mount-Vernon_Washington_USA",
+    "keywords": ["roozengaarde",
+                 "rose garden",
+                 "rose",
+                 "garden",
+                 "mount vernon",
+                 "washington",
+                 "usa",
+                 "2015"
+                ],
+    "galleryImages": ["2015.04_Roozengaarde_Mount-Vernon_Washington_USA_01.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_02.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_03.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_04.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_05.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_06.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_07.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_08.jpg",
+                      "2015.04_Roozengaarde_Mount-Vernon_Washington_USA_09.jpg"
+                      ],
+    "coordinates": ["48.415659", "-122.400053"],
+    "location": "Roozengaarde, Mount Vernon, Washington, USA",
+    "country": "USA",
+    "date": "2015.04",
+    "photographer": "Jesen",
+    "camera": "iPhone",
+    "introduction": "Halfway between La Conner and Mt Vernon, this renowned bulb producer has color-drenched fields of blooms as well as a truly spectacular display garden with an eye-boggling array of bulb varieties blooming in unison. With Mt Baker and a Dutch-inspired windmill glimmering in the background, photo opportunities abound! It’s well worth the admission price and crowds."
    },
    {
     "fileFormat": "jpg",
