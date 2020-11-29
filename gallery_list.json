@@ -2692,8 +2692,7 @@
                       "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_05.jpg",
                       "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_06.jpg",
                       "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_07.jpg",
-                      "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_08.jpg",
-                      "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_09.jpg"
+                      "2017.12_Orange-Cliffs-Overlook_Canyonlands-National-Park_Utah_USA_08.jpg"
                       ],
     "coordinates": ["38.313613", "-109.857263"],
     "location": "Orange Cliffs Overlook, Canyonlands National Park, Utah, USA",
@@ -2732,6 +2731,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The Park Avenue Trail is most aptly named for New York City’s famous street. Early travelers noticed a similarity between these sandstone spires and the famous skyscrapers along New York’s Park Avenue, and the name stuck. The main difference, of course, is that the “skyscrapers” of Arches National Park were sculpted by nature."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2018.04_Lombard-Street_San-Francisco_California_USA",
+    "keywords": ["lombard street",
+                 "lombard",
+                 "street",
+                 "san francisco",
+                 "california",
+                 "usa",
+                 "2018"
+                 ],
+    "galleryImages": ["2018.04_Lombard-Street_San-Francisco_California_USA_01.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_02.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_03.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_04.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_05.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_06.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_07.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_08.jpg",
+                      "2018.04_Lombard-Street_San-Francisco_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.802045", "-122.418818"],
+    "location": "Lombard Street, San Francisco, California, USA",
+    "country": "USA",
+    "date": "2018.08",
+    "photographer": "Rose",
+    "camera": "Fujifilm",
+    "introduction": "You’ve seen the eight switchbacks of Lombard St’s 900 block in a thousand photographs. The tourist board has dubbed it ‘the world’s crookedest street,’ which is factually incorrect: Vermont St in Potrero Hill deserves that award, but Lombard is much more scenic, with its red-brick pavement and lovingly tended flowerbeds. It wasn’t always so bent; before the arrival of the car it plunged straight down the hill."
    },
    {
     "fileFormat": "jpg",
