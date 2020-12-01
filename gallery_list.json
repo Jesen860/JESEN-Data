@@ -3256,7 +3256,7 @@
                       "2019.11_Airview_Lick-Observatory_Mt-Hamilton_California_USA_05.jpg",
                       "2019.11_Airview_Lick-Observatory_Mt-Hamilton_California_USA_06.jpg",
                       "2019.11_Airview_Lick-Observatory_Mt-Hamilton_California_USA_07.jpg",
-                      "2019.11_Airview_Lick-Observatory_Mt-Hamilton_California_USA_08.jpg",
+                      "2019.11_Airview_Lick-Observatory_Mt-Hamilton_California_USA_08.jpg"
                       ],
     "coordinates": ["37.341413", "-121.64291"],
     "location": "Lick Observatory, Mt Hamilton, California, USA",
@@ -3327,6 +3327,36 @@
     "photographer": "Jesen",
     "camera": "Nikon D850",
     "introduction": "If you’re in search of an incredible natural vista, then Horseshoe Bend is definitely worth a visit. The name was inspired by its unusual shape, a horseshoe-shaped meander of the Colorado River located four miles southwest of Page, AZ, within the Glen Canyon National Recreation Area. Just a hop, skip, and a jump from Glen Canyon Dam and the popular Lake Powell, the best view is from the steep cliff above Horseshoe Bend."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA",
+    "keywords": ["s las vegas blvd",
+                 "night scene",
+                 "night",
+                 "las vegas",
+                 "vegas",
+                 "nevada",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_01.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_02.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_03.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_04.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_05.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_06.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_07.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_08.jpg",
+                      "2019.12_Night-Scene_S-Las-Vegas-Blvd_Las-Vegas_Nevada_USA_09.jpg"
+                      ],
+    "coordinates": ["36.109755", "-115.173877"],
+    "location": "S Las Vegas Blvd, Las Vegas, Nevada, USA",
+    "country": "USA",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "An oasis of indulgence in the desert, Vegas’ seduction is hypnotic. The Strip shimmers with promise; like all mirages, though, reality doesn’t reflect the veneer."
    },
    {
     "fileFormat": "jpg",
