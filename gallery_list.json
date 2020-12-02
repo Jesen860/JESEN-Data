@@ -762,6 +762,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Rheinfall_Schaffhausen_Switzerland",
+    "keywords": ["rheinfall",
+                 "waterfall",
+                 "schaffhausen",
+                 "switzerland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Rheinfall_Schaffhausen_Switzerland_01.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_02.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_03.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_04.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_05.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_06.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_07.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_08.jpg",
+                      "2010.09_Rheinfall_Schaffhausen_Switzerland_09.jpg"
+                      ],
+    "coordinates": ["47.677732", "8.615475"],
+    "location": "Rheinfall, Schaffhausen, Switzerland",
+    "country": "Switzerland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Formed by tectonic shifts during the last ice age, 15,000 years ago, the Rheinfall is a real crash-bang spectacle, raging at a speed of around 700 cu metres per second as it spills 23m into a basin in a series of swirling cascades, billowing plumes of spray and raging white water. Europe’s biggest plain waterfall is best surveyed on the trail that wends down from medieval Schloss Laufen or on one of the boats that cross to the rock that rises above it."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Titisee_Titisee-Neustadt_Baden-Wurttemberg_Germany",
     "keywords": ["titisee",
                  "lake",
