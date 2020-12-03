@@ -1351,6 +1351,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.09_Ilomantsi_North-Karelia_Finland",
+    "keywords": ["ilomantsi",
+                 "city",
+                 "north karelia",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Ilomantsi_North-Karelia_Finland_01.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_02.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_03.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_04.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_05.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_06.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_07.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_08.jpg",
+                      "2011.09_Ilomantsi_North-Karelia_Finland_09.jpg"
+                      ],
+    "coordinates": ["62.667885", "30.939491"],
+    "location": "Ilomantsi, North Karelia, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The closest North Karelian town to the Russian border, Ilomantsi has an Orthodox religion and its own dialect. There is a handful of interesting sights here, but with little tourist infrastructure you’re better off visiting during the day and then heading for the national parks and scenic areas beyond."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.09_Olavinlinna_Savonlinna_Southern-Savonia_Finland",
     "keywords": ["olavinlinna",
                  "castle",
