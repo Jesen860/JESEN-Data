@@ -1365,8 +1365,7 @@
                       "2011.09_Ilomantsi_North-Karelia_Finland_05.jpg",
                       "2011.09_Ilomantsi_North-Karelia_Finland_06.jpg",
                       "2011.09_Ilomantsi_North-Karelia_Finland_07.jpg",
-                      "2011.09_Ilomantsi_North-Karelia_Finland_08.jpg",
-                      "2011.09_Ilomantsi_North-Karelia_Finland_09.jpg"
+                      "2011.09_Ilomantsi_North-Karelia_Finland_08.jpg"
                       ],
     "coordinates": ["62.667885", "30.939491"],
     "location": "Ilomantsi, North Karelia, Finland",
@@ -1648,6 +1647,33 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Liepāja doesn’t fit any cliche – a port city of gritty red-brick warehouses, moored torpedo boats and an old prison for the main attraction, it also boasts one of the country’s most beautiful beaches, and it has generated a totally disproportionate number of major Latvian musicians. Its rough-around-the-edges vibe that translates into grungy musical sounds makes Liepāja somewhat akin to Manchester, but in reality its search for identity is only beginning."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.11_Parnu_Parnu-County_Estonia",
+    "keywords": ["pärnu",
+                 "parnu",
+                 "city",
+                 "estonia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Parnu_Parnu-County_Estonia_01.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_02.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_03.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_04.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_05.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_06.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_07.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_08.jpg",
+                      "2011.11_Parnu_Parnu-County_Estonia_09.jpg"
+                      ],
+    "coordinates": ["58.379002", "24.527856"],
+    "location": "Pärnu, Estonia",
+    "country": "Estonia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Local families, hormone-sozzled youths and German, Swedish and Finnish holidaymakers join together in a collective prayer for sunny weather while strolling the beaches, sprawling parks and picturesque historic centre of Pärnu (pair-nu), Estonia’s premier seaside resort. In these parts, the name Pärnu is synonymous with fun in the sun; one hyperbolic local described it to us as ‘Estonia’s Miami’, but it’s usually called by its slightly more prosaic moniker, the nation’s ‘summer capital’."
    },
    {
     "fileFormat": "jpg",
