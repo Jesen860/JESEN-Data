@@ -61,8 +61,8 @@
     "fileFormat": "jpg",
     "filePath": "2009.04_Colosseum_Roma_Lazio_Italy",
     "keywords": ["colosseum",
-                 "florence",
                  "arena",
+                 "roma",
                  "lazio",
                  "italy",
                  "2009"
@@ -84,6 +84,33 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Rome’s great gladiatorial arena is the most monumental of the city’s ancient sights and Italy’s top tourist attraction. Inaugurated in AD 80, the 50,000-seat Colosseum, also known as the Flavian Amphitheatre, was originally clad in travertine and covered by a huge canvas awning. Inside, tiered seating encircled the arena, itself built over an underground complex where animals were caged and stage sets prepared. Games involved gladiators fighting wild animals or each other."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2009.04_Pantheon_Roma_Lazio_Italy",
+    "keywords": ["pantheon",
+                 "roma",
+                 "lazio",
+                 "italy",
+                 "2009"
+               ],
+    "galleryImages": ["2009.04_Pantheon_Roma_Lazio_Italy_01.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_02.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_03.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_04.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_05.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_06.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_07.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_08.jpg",
+                      "2009.04_Pantheon_Roma_Lazio_Italy_09.jpg"
+                      ],
+    "coordinates": ["41.898611", "12.476873"],
+    "location": "Pantheon, Roma, Lazio, Italy",
+    "country": "Italy",
+    "date": "2009.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A striking 2000-year-old temple, now a church, the Pantheon is the best preserved of Rome’s ancient monuments and one of the most influential buildings in the Western world. Built by Hadrian over Marcus Agrippa’s earlier 27 BC temple, it has stood since around AD 125, and while its greying, pockmarked exterior might look its age, it’s still a unique and exhilarating experience to pass through its vast bronze doors and gaze up at the largest unreinforced concrete dome ever built."
    },
    {
     "fileFormat": "jpg",
