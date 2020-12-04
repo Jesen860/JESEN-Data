@@ -2678,11 +2678,7 @@
                       "2014.09_Lashi-Sea_Lijiang_Yunnan_China_02.jpg",
                       "2014.09_Lashi-Sea_Lijiang_Yunnan_China_03.jpg",
                       "2014.09_Lashi-Sea_Lijiang_Yunnan_China_04.jpg",
-                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_05.jpg",
-                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_06.jpg",
-                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_07.jpg",
-                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_08.jpg",
-                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_09.jpg"
+                      "2014.09_Lashi-Sea_Lijiang_Yunnan_China_05.jpg"
                       ],
     "coordinates": ["26.875766", "100.132781"],
     "location": "Lashi Lake, Lijiang, Yunnan, China",
@@ -3193,6 +3189,39 @@
     "photographer": "Rose",
     "camera": "Fujifilm",
     "introduction": "Find yourself in the center of it all, above it all, when you visit the Empire State Building’s open-air 86th Floor Observation Deck. As the most famous observatory in the world, the 86th Floor has been the setting of dozens of movie and television scenes, as well as tens of millions of unforgettable personal moments."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China",
+    "keywords": ["mount baoding",
+                 "baoding",
+                 "mountain",
+                 "dazu rock carvings",
+                 "dazu",
+                 "rock carvings",
+                 "carving",
+                 "rock",
+                 "chongqing",
+                 "china",
+                 "2015"
+                ],
+    "galleryImages": ["2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_01.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_02.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_03.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_04.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_05.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_06.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_07.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_08.jpg",
+                      "2018.11_Mount-Baoding_Dazu-Rock-Carvings_Chongqing_China_09.jpg"
+                      ],
+    "coordinates": ["29.744474", "105.79487"],
+    "location": "Mount Baoding, Dazu Rock Carvings, Chongqing, China",
+    "country": "China",
+    "date": "2018.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Listed as a World Heritage Site, the Dazu Rock Carvings are made up of 75 protected sites containing some 50,000 statues, with over 100,000 Chinese characters forming inscriptions and epigraphs. The sites are located in Chongqing Municipality within the steep hillsides throughout Dazu County, located about 165 kilometers west of the urban area of Chongqing. The highlights of the rock grotto are found on Mount Baoding and Mount Beishan."
    },
    {
     "fileFormat": "jpg",
