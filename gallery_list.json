@@ -114,10 +114,37 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy",
+    "keywords": ["piazza dei miracoli",
+                 "tower",
+                 "pisa",
+                 "tuscany",
+                 "italy",
+                 "2009"
+               ],
+    "galleryImages": ["2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_01.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_02.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_03.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_04.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_05.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_06.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_07.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_08.jpg",
+                      "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_09.jpg"
+                      ],
+    "coordinates": ["43.723225", "10.394724"],
+    "location": "Piazza dei Miracoli, Pisa, Tuscany, Italy",
+    "country": "Italy",
+    "date": "2009.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Pisans claim that Campo dei Miracoli is among the world’s most beautiful urban spaces. Its walled lawns provide a photogenic setting for the candy-striped Duomo, begun in 1063, with graceful tiered facade and cavernous interior; the Battistero, started in 1153 and completed by Nicola and Giovanni Pisano in 1260, with Nicola Pisano’s beautiful pulpit inside; and the beautiful Camposanto cemetery, said to contain soil shipped from Calvary during the Crusades. But it’s to the Leaning Tower that all eyes are drawn. Bonanno Pisano began building the tower (actually the campanile for the neighbouring cathedral) in 1173, but almost immediately his plans came a cropper due to a layer of shifting soil. Only three of the tower’s seven tiers were completed before it started tilting – continuing at a rate of about 1mm per year. By 1990 the lean had reached 5.5 degrees – a 10th of a degree beyond the critical point established by computer models. Stability was finally ensured in 1998 when a combination of biased weighting and soil drilling forced the tower into a safer position. Today it’s almost 4.1m off the perpendicular."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy",
     "keywords": ["piazzale michelangelo",
                  "florence",
-                 "barcelona",
                  "tuscany",
                  "italy",
                  "2009"
@@ -217,7 +244,7 @@
                       "2009.04_Sorrento_Campania_Italy_08.jpg",
                       "2009.04_Sorrento_Campania_Italy_09.jpg"
                       ],
-    "coordinates": ["40.623788,14.375191"],
+    "coordinates": ["40.623788", "14.375191"],
     "location": "Sorrento, Campania, Italy",
     "country": "Italy",
     "date": "2009.04",
