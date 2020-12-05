@@ -2374,6 +2374,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium",
+    "keywords": ["arcades du cinquantenaire",
+                 "brussels",
+                 "belgium",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_01.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_02.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_03.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_04.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_05.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_06.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_07.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_08.jpg",
+                      "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium_09.jpg"
+                      ],
+    "coordinates": ["50.840278", "4.392778"],
+    "location": "Arcades du Cinquantenaire, Brussels, Belgium",
+    "country": "Belgium",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Parc du Cinquantenaire was built during Léopold II’s reign. It’s best known for its cluster of museums – art, history, military and motor vehicles – which house an incredible 350,000 artefacts. The Royal Art and History Museums in the southern wing of the Cinquantenaire buildings are chock-a-block with antiquities. Autoworld, in the northern building, has a huge collection of vintage cars. There is also the massive Arcade du Cinquantenaire, a triumphal arch built in 1880 to celebrate 50 years of Belgian independence."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Atomium_Brussels_Brussels-Capital-Region_Belgium",
     "keywords": ["atomium",
                  "brussels",
