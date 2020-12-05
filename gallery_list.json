@@ -2532,6 +2532,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium",
+    "keywords": ["saint bavo’s cathedral",
+                 "cathedral",
+                 "churh",
+                 "ghent",
+                 "belgium",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_01.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_02.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_03.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_04.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_05.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_06.jpg",
+                      "2012.08_Saint-Bavo's-Cathedral_Ghent_East-Flanders-Province_Belgium_07.jpg"
+                      ],
+    "coordinates": ["51.052974", "3.727059"],
+    "location": "Saint Bavo’s Cathedral, Ghent, Belgium",
+    "country": "Belgium",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "St Bavo’s Cathedral is the oldest parish church in the lively heart of Ghent. It stands on the site of a 10th century church and a 12th century Romanesque church. The latter was dedicated to St John the Baptist. In the Middle Ages, Ghent was a rich and powerful city that had the means to commission ever-larger and more opulent churches. So the Church of St John the Baptist was converted during the 15th and 16th centuries into the imposing Gothic St Bavo’s Cathedral."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
     "keywords": ["mount gongga",
                  "gongga",
