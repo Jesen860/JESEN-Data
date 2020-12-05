@@ -2374,6 +2374,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Votivkirche_Vienna_Vienna-State_Austria",
+    "keywords": ["votivkirche",
+                 "church",
+                 "vienna",
+                 "austria",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Votivkirche_Vienna_Vienna-State_Austria_01.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_02.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_03.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_04.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_05.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_06.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_07.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_08.jpg",
+                      "2012.07_Votivkirche_Vienna_Vienna-State_Austria_09.jpg"
+                      ],
+    "coordinates": ["48.215401", "16.359082"],
+    "location": "Votivkirche, Vienna, Austria",
+    "country": "Austria",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "In 1853 Franz Josef I survived an assassination attempt when a knife-wielding Hungarian failed to find the emperor’s neck through his collar. The Votivkirche (Votive Church) was commissioned in thanks for his lucky escape; in stepped Heinrich von Ferstel with a twin-towered, mosaic-roofed neo-Gothic construction, completed in 1879. The church was closed for renovation at the time of research, with an uncertain reopening time."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Arcades-du-Cinquantenaire_Brussels_Brussels-Capital-Region_Belgium",
     "keywords": ["arcades du cinquantenaire",
                  "brussels",
