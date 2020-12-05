@@ -1186,6 +1186,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.05_Hall-in-Trirol_Tyrol-State_Austria",
+    "keywords": ["hall in trirol",
+                 "city",
+                 "wattens",
+                 "austria",
+                 "2011"
+                ],
+    "galleryImages": ["2011.05_Hall-in-Trirol_Tyrol-State_Austria_01.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_02.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_03.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_04.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_05.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_06.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_07.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_08.jpg",
+                      "2011.05_Hall-in-Trirol_Tyrol-State_Austria_09.jpg"
+                      ],
+    "coordinates": ["47.281275", "11.500255"],
+    "location": "Hall in Trirol, Wattens, Austria",
+    "country": "Austria",
+    "date": "2011.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Nestled beneath the Alps, just 9km east of Innsbruck, Hall is a beautiful medieval town that grew fat on the riches of salt in the 13th century. The winding lanes, punctuated by pastel-coloured town houses and lantern-lit after dark, are made for aimless ambling."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany",
     "keywords": ["schloss linderhof",
                  "linderhof",
