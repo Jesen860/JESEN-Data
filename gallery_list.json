@@ -370,6 +370,7 @@
                  "st. vitus",
                  "vitus",
                  "cathedral",
+                 "church",
                  "prague",
                  "czech",
                  "czech republic",
@@ -1871,6 +1872,34 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Liepāja doesn’t fit any cliche – a port city of gritty red-brick warehouses, moored torpedo boats and an old prison for the main attraction, it also boasts one of the country’s most beautiful beaches, and it has generated a totally disproportionate number of major Latvian musicians. Its rough-around-the-edges vibe that translates into grungy musical sounds makes Liepāja somewhat akin to Manchester, but in reality its search for identity is only beginning."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.11_Old-Town_Tallinn_Harju-County_Estonia",
+    "keywords": ["old town",
+                 "tallinn",
+                 "capital",
+                 "city",
+                 "estonia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Old-Town_Tallinn_Harju-County_Estonia_01.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_02.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_03.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_04.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_05.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_06.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_07.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_08.jpg",
+                      "2011.11_Old-Town_Tallinn_Harju-County_Estonia_09.jpg"
+                      ],
+    "coordinates": ["59.437728", "24.743344"],
+    "location": "Old Town, Tallinn, Estonia",
+    "country": "Estonia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "No longer the plaything of greater powers – Danish, Swedish, Polish, German and Soviet – Tallinn is now a proud European capital with an allure all of its own. It’s lively yet peaceful, absurdly photogenic and bursting with wonderful sights – ancient churches, medieval streetscapes and noble merchants’ houses. Throw in delightful food and vibrant modern culture and it’s no wonder Tallinn seems in danger of being loved to death, especially after a few cruise ships dock. But it’s one of those blessed places that seems to cope with all the attention."
    },
    {
     "fileFormat": "jpg",
