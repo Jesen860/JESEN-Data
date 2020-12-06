@@ -377,12 +377,7 @@
     "galleryImages": ["2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_01.jpg",
                       "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_02.jpg",
                       "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_03.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_04.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_05.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_06.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_07.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_08.jpg",
-                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_09.jpg"
+                      "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_04.jpg"
                       ],
     "coordinates": ["50.230175", "12.872259"],
     "location": "Elizabeth’s Spa, Karlovy Vary, Czech Republic",
@@ -696,7 +691,7 @@
                       "2010.07_Lujiazui_Shanghai_China_08.jpg",
                       "2010.07_Lujiazui_Shanghai_China_09.jpg"
                       ],
-    "coordinates": ["31.223116", "121.507224"],
+    "coordinates": ["31.237861", "121.505931"],
     "location": "Lujiazui, Shanghai, China",
     "country": "China",
     "date": "2010.07",
@@ -3277,6 +3272,35 @@
     "photographer": "Jesen",
     "camera": "iPhone",
     "introduction": "Halfway between La Conner and Mt Vernon, this renowned bulb producer has color-drenched fields of blooms as well as a truly spectacular display garden with an eye-boggling array of bulb varieties blooming in unison. With Mt Baker and a Dutch-inspired windmill glimmering in the background, photo opportunities abound! It’s well worth the admission price and crowds."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
+    "keywords": ["kazila mountain",
+                 "kazila",
+                 "mountain",
+                 "snow",
+                 "sichuan",
+                 "china",
+                 "2015"
+                ],
+    "galleryImages": ["2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_01.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_02.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_03.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_04.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_05.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_06.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_07.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_08.jpg",
+                      "2015.10_Kazila-Mountain_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_09.jpg"
+                      ],
+    "coordinates": ["30.14515", "100.648263"],
+    "location": "Kazila Mountain, Sichuan, China",
+    "country": "China",
+    "date": "2015.10",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Kazila Mountain is located in Litang County and Yajiang County of Sichuan Province. The Kazila Mountain Viewing Platform is 4718m above sea level."
    },
    {
     "fileFormat": "jpg",
