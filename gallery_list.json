@@ -619,6 +619,34 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.07_Shanghai-World-Financial-Center_Shanghai_China",
+    "keywords": ["shanghai world financial center",
+                 "world financial center",
+                 "skyscraper",
+                 "shanghai",
+                 "china",
+                 "2010"
+               ],
+    "galleryImages": ["2010.07_Shanghai-World-Financial-Center_Shanghai_China_01.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_02.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_03.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_04.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_05.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_06.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_07.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_08.jpg",
+                      "2010.07_Shanghai-World-Financial-Center_Shanghai_China_09.jpg"
+                      ],
+    "coordinates": ["31.234564", "121.507439"],
+    "location": "Shanghai World Financial Center, Shanghai, China",
+    "country": "China",
+    "date": "2010.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Although trumped by the adjacent Shànghǎi Tower as the city’s most stratospheric building, the awe-inspiring 492m-high Shànghǎi World Financial Center is an astonishing sight, even more so come nightfall when its ‘bottle opener’ top dances with lights. There are three observation decks – on levels 94, 97 and 100 – with head-spinningly altitude-adjusted ticket prices and wow-factor elevators thrown in."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.07_Shun-Hing-Square_Shenzhen_Guangdong_China",
     "keywords": ["shun hing square",
                  "diwang",
@@ -3434,7 +3462,7 @@
     "country": "China",
     "date": "2018.07",
     "photographer": "Jesen",
-    "camera": "Nikon",
+    "camera": "One Plus",
     "introduction": "An astonishing sight at the top of an enormous stone stairway (a breathless 392 steps), Sun Yatsen’s tomb is a mandatory stop for Chinese visitors. Reverentially referred to as guófù (国父; Father of the Nation), Dr Sun is esteemed by both communists and Kuomintang. He died in Běijīng in 1925, and had wished to be buried in Nánjīng, no doubt with far less pomp than the Ming-style tomb his successors fashioned for him. Within a year of his death, however, construction of this mausoleum began."
    },
    {
