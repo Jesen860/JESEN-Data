@@ -679,6 +679,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.07_Lujiazui_Shanghai_China",
+    "keywords": ["lujiazui",
+                 "skyscraper",
+                 "shanghai",
+                 "china",
+                 "2010"
+               ],
+    "galleryImages": ["2010.07_Lujiazui_Shanghai_China_01.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_02.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_03.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_04.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_05.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_06.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_07.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_08.jpg",
+                      "2010.07_Lujiazui_Shanghai_China_09.jpg"
+                      ],
+    "coordinates": ["31.223116", "121.507224"],
+    "location": "Lujiazui, Shanghai, China",
+    "country": "China",
+    "date": "2010.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Lying on the east bank of Huangpu River and facing the Bund, Lujiazui Finance and Trade Zone occupies 28 square kilometers (10.8 square miles) and is studded with around 100 high-rise buildings. Many are landmark buildings of Shanghai, making the area a great place to experience the modern flavor of this metropolis."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.07_Shanghai-World-Financial-Center_Shanghai_China",
     "keywords": ["shanghai world financial center",
                  "world financial center",
