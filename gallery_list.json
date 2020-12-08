@@ -1204,7 +1204,7 @@
                       "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_08.jpg",
                       "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_09.jpg"
                       ],
-    "coordinates": ["37.444783", "25.32324"],
+    "coordinates": ["37.444518", "25.325351"],
     "location": "Mykonos Windmills, Mykonos, South Aegean, Greece",
     "country": "Greece",
     "date": "2010.11",
@@ -3417,6 +3417,39 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Kazila Mountain is located in Litang County and Yajiang County of Sichuan Province. The Kazila Mountain Viewing Platform is 4718m above sea level."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
+    "keywords": ["mount chenrezig",
+                 "chenrezig",
+                 "mountain",
+                 "peak",
+                 "snow",
+                 "glacier",
+                 "yading",
+                 "dacheng",
+                 "sichuan",
+                 "china",
+                 "2015"
+                ],
+    "galleryImages": ["2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_01.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garzr-Tibetan-Autonomous-Prefecture_Sichuan_China_02.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_03.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_04.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_05.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_06.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_07.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_08.jpg",
+                      "2015.10_Mount-Chenrezig_Yading_Daocheng_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China_09.jpg"
+                      ],
+    "coordinates": ["28.355", "100.355833"],
+    "location": "Mount Chenrezig, Yading, Daocheng, Sichuan, China",
+    "country": "China",
+    "date": "2015.10",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Mt. Chenrezig (Xiannairi), with an altitude of 19,790 feet (6,032 meters), is the highest peak in Daocheng County. The whole peak takes the shape of an honorable Buddha who is leaning back. The Buddha, often regarded as the Bodhisattva of Mercy, sits in a lotus seat, with a giant pagoda in her arms. When the sun shines, the whole mountain is draped in a veil of golden light, presenting a really magnificent view. Waterfalls arising from snow-capped peaks rush down the hillside. Grasses, lakes, and forests display the mountain at its best. Pearl Lake (Zhenzhu Hai), at the foot of Chenrezig, and believed to be the cosmetic mirror of fairies, is an excellent spot to admire the mountain. On sunny days, you can see the reflection of Chenrezig on the lake surface."
    },
    {
     "fileFormat": "jpg",
