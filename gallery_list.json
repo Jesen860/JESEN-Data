@@ -2629,6 +2629,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Rathaus_Vienna_Vienna-State_Austria",
+    "keywords": ["rathaus",
+                 "city hall",
+                 "vienna",
+                 "austria",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Rathaus_Vienna_Vienna-State_Austria_01.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_02.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_03.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_04.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_05.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_06.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_07.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_08.jpg",
+                      "2012.07_Rathaus_Vienna_Vienna-State_Austria_09.jpg"
+                      ],
+    "coordinates": ["48.210944", "16.356508"],
+    "location": "Rathaus, Vienna, Austria",
+    "country": "Austria",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Vienna’s neo-Gothic City Hall, completed in 1883 by Friedrich von Schmidt (who designed Cologne Cathedral) and modelled on Flemish city halls, with lacy stonework, pointed-arch windows and spindly turrets, is the highlight of the Ringstrasse boulevard’s 19th-century architectural ensemble. Bronze statues of Joseph Lanner and Johann Strauss I, stand in the fountain-filled Rathauspark."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.07_Szechenyi-Chain-Bridge_Budapest_Central-Hungary_Hungary",
     "keywords": ["szechenyi chain bridge",
                  "bridge",
