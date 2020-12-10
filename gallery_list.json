@@ -1161,7 +1161,6 @@
                  "anapavsa",
                  "monastery",
                  "meteora",
-                 "thessaly",
                  "greece",
                  "2010"
                ],
@@ -1176,7 +1175,7 @@
                       "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_09.jpg"
                       ],
     "coordinates": ["39.72394", "21.62472"],
-    "location": "Monastery of St. Nicholas Anapavsa, Meteora, Thessaly, Greece",
+    "location": "Monastery of St. Nicholas Anapavsa, Meteora, Greece",
     "country": "Greece",
     "date": "2010.11",
     "photographer": "Jesen",
@@ -1185,12 +1184,39 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece",
+    "keywords": ["mount profitis ilias",
+                 "profitis ilias",
+                 "mountain",
+                 "santorini",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_01.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_02.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_03.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_04.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_05.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_06.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_07.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_08.jpg",
+                      "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_09.jpg"
+                      ],
+    "coordinates": ["36.368888", "25.463333"],
+    "location": "Mount Profitis Ilias, Santorini, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Less than 5km away from the village of Pyrgos, Mount Profitis Ilias is the highest point of the island. And right at its summit stands a monastery of the same name. Dating back to 1711, the monastery of Profitis Ilias, one of the oldest on the island, is a stunning example of Cycladic architecture at its best."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece",
     "keywords": ["mykonos windmills",
                  "windmill",
                  "sea",
                  "mykonos",
-                 "south aegean",
                  "greece",
                  "2010"
                ],
@@ -1205,7 +1231,7 @@
                       "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_09.jpg"
                       ],
     "coordinates": ["37.444518", "25.325351"],
-    "location": "Mykonos Windmills, Mykonos, South Aegean, Greece",
+    "location": "Mykonos Windmills, Mykonos, Greece",
     "country": "Greece",
     "date": "2010.11",
     "photographer": "Jesen",
@@ -2619,7 +2645,7 @@
                       "2012.07_Fisherman's-Bastion_Budapest_Central-Hungary_Hungary_08.jpg",
                       "2012.07_Fisherman's-Bastion_Budapest_Central-Hungary_Hungary_09.jpg"
                       ],
-    "coordinates": ["47.502183", "19.034781"],
+    "coordinates": ["47.50292", "19.03469"],
     "location": "Fisherman’s Bastion, Budapest, Hungary",
     "country": "Hungary",
     "date": "2012.07",
