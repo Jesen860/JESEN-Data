@@ -1542,7 +1542,7 @@
                  "nordrhein-westfalen",
                  "deutschland",
                  "germany",
-                 "2010"
+                 "2011"
                ],
     "galleryImages": ["2011.03_Kolner-Dom_Koln_Nordrhein-Westfalen_Germany_01.jpg",
                       "2011.03_Kolner-Dom_Koln_Nordrhein-Westfalen_Germany_02.jpg",
@@ -1557,10 +1557,39 @@
     "coordinates": ["50.941278", "6.958281"],
     "location": "Kölner Dom, Köln, Nordrhein-Westfalen, Germany",
     "country": "Germany",
-    "date": "2010.04",
+    "date": "2011.03",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Cologne’s geographical and spiritual heart – and its single-biggest tourist draw – is the magnificent Kölner Dom. With its soaring twin spires, this is the Mt Everest of cathedrals, jam-packed with art and treasures. For an exercise fix, climb the 533 steps up the Dom’s south tower to the base of the steeple that dwarfed all buildings in Europe until Gustave Eiffel built a certain tower in Paris. The Domforum visitor centre is a good source of info and tickets."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.05_Bamburg_Bayern_Germany",
+    "keywords": ["bamburg",
+                 "city",
+                 "bayern",
+                 "bavaria",
+                 "deutschland",
+                 "germany",
+                 "2011"
+               ],
+    "galleryImages": ["2011.05_Bamburg_Bayern_Germany_01.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_02.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_03.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_04.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_05.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_06.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_07.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_08.jpg",
+                      "2011.05_Bamburg_Bayern_Germany_09.jpg"
+                      ],
+    "coordinates": ["49.885639", "10.893605"],
+    "location": "Bamburg, Bayern, Germany",
+    "country": "Germany",
+    "date": "2011.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A disarmingly beautiful architectural masterpiece with an almost complete absence of modern eyesores, Bamberg’s entire Altstadt is a Unesco World Heritage Site and one of Bavaria’s unmissables. Generally regarded as one of Germany’s most attractive settlements, the town is bisected by rivers and canals and was built by archbishops on seven hills, earning it the inevitable sobriquet of ‘Franconian Rome’. Students inject some liveliness into its streets, pavement cafes, pubs and no fewer than 10 breweries cooking up Bamberg’s famous smoked beer, but it’s usually wide-eyed tourists who can be seen filing through its narrow medieval streets. The town can be tackled as a day trip from Nuremberg, but, to really do it justice and to experience the romantically lit streets once most visitors have left, consider an overnight stay."
    },
    {
     "fileFormat": "jpg",
