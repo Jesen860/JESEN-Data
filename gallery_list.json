@@ -1583,7 +1583,7 @@
                       "2011.05_Augsburg_Bayern_Germany_08.jpg",
                       "2011.05_Augsburg_Bayern_Germany_09.jpg"
                       ],
-    "coordinates": ["48.358399", "10.86144"],
+    "coordinates": ["48.36893", "10.89777"],
     "location": "Augsburg, Bayern, Germany",
     "country": "Germany",
     "date": "2011.05",
@@ -1647,6 +1647,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Gracefully crowned by a bulbous copper dome and twin spires, the Dom stands out as a masterpiece of baroque art. Bronze portals symbolising faith, hope and charity lead into the cathedral. In the nave, both the intricate stucco and Arsenio Mascagni’s ceiling frescos recounting the Passion of Christ guide the eye to the polychrome dome. Italian architect Santino Solari redesigned the cathedral during the Thirty Years’ War and it was consecrated in 1628. Its origins date to an earlier cathedral founded by Bishop Virgil in 767. For more on the history, take one of the guided tours (though in German only), offered 2pm Monday to Friday in July and August."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.05_Erlangen_Bayern_Germany",
+    "keywords": ["erlangen",
+                 "city",
+                 "bayern",
+                 "bavaria",
+                 "deutschland",
+                 "germany",
+                 "2011"
+               ],
+    "galleryImages": ["2011.05_Erlangen_Bayern_Germany_01.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_02.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_03.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_04.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_05.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_06.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_07.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_08.jpg",
+                      "2011.05_Erlangen_Bayern_Germany_09.jpg"
+                      ],
+    "coordinates": ["49.59793", "11.00459"],
+    "location": "Erlangen, Bayern, Germany",
+    "country": "Germany",
+    "date": "2011.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Erlangen is a university town with a population just over a 100,000. Here visitors can look into a typical Franconian town without the overwhelming crowds of tourists you’ll find in larger cities in Bavaria. Erlangen contains some of the best-preserved Baroque architecture in the whole of Germany. The Hugenots’ legacy is immortalized in the centrally located Hugenottenplatz."
    },
    {
     "fileFormat": "jpg",
