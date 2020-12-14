@@ -969,6 +969,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Akureyri_Northeastern-Region_Iceland",
+    "keywords": ["akureyri",
+                 "city",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Akureyri_Northeastern-Region_Iceland_01.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_02.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_03.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_04.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_05.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_06.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_07.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_08.jpg",
+                      "2010.09_Akureyri_Northeastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["65.68083", "-18.09366"],
+    "location": "Akureyri, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Akureyri (pronounced ah-koo-rare-ee) stands strong as Iceland’s second city, but a Melbourne, Manchester or Montréal it is not. And how could it be with only 18,600 residents? It’s a wonder the city (which would be a ‘town’ anywhere else) generates this much buzz. Expect cool cafes, quality restaurants, a handful of art galleries and even some late-night bustle – a far cry from other rural Icelandic towns. Akureyri nestles at the head of Eyjafjörður, Iceland’s longest (60km) fjord, at the base of snowcapped peaks. In summer flowering gardens belie the location, just a stone’s throw from the Arctic Circle. Lively winter festivals and some of Iceland’s best skiing provide plenty of off-peak (and off-piste) appeal. With its relaxed attitude and extensive food and accommodation choices, it’s the natural base for exploring Eyjafjörður and around, and it’s seeing a growing number of cruise ships calling by (passenger numbers can sometimes overwhelm the town)."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Cathedrale-Notre-Dame-de-Strasbourg_Strasbourg_Grand-Est_France",
     "keywords": ["cathédrale notre dame de strasbourg",
                  "cathedral",
@@ -1021,7 +1047,7 @@
                       "2010.09_Cloudy-Sky_Dettifoss_Vatnajokull-National-Park_Northeastern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["65.81550", "-16.38718"],
-    "location": "Dettifoss, Vatnajökull National Park, Northeastern Region, Iceland",
+    "location": "Dettifoss, Vatnajökull National Park, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
