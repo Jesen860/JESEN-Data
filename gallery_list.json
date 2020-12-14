@@ -1331,7 +1331,7 @@
                       "2010.09_Sunny-Sky_Dettifoss_Vatnajokull-National-Park_Northeastern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["65.814666", "-16.384576"],
-    "location": "Dettifoss, Vatnajökull National Park, Northeastern Region, Iceland",
+    "location": "Dettifoss, Vatnajökull National Park, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
@@ -1367,6 +1367,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Titisee is a cheerful summertime playground with a name that makes English-speaking travellers giggle. The iridescent blue-green glacial lake, rimmed by forest, has everyone diving for their cameras or into the ice-cool water. Though a tad on the touristy side in the peak months, a quick stroll along these shores brings you to quiet bays and woodland trails that are blissfully crowd-free."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland",
+    "keywords": ["vatnshlíðarvatn",
+                 "vatnshlidarvatn",
+                 "lake",
+                 "skagafjörður",
+                 "skagafjordur",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_01.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_02.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_03.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_04.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_05.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_06.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_07.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_08.jpg",
+                      "2010.09_Vatnshlidarvatn_Skagafjordur_Northwestern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["65.516933", "-19.62832"],
+    "location": "Vatnshlíðarvatn, Skagafjörður, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Lake Vatnshlíðarvatn is south of the westernmost town in Vatnsskarði in Austur-Húnavatnssýsla. The water slab land belonged to the past of Glaumbær in Skagafjörður and trout fishing in the lake was considered a benefit. There is a lot of trout in the water both in the water and its drainage, which flows to Valadalsá."
    },
    {
     "fileFormat": "jpg",
