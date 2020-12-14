@@ -1483,6 +1483,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Oia_Santorini_South-Aegean_Greece",
+    "keywords": ["oia",
+                 "city",
+                 "santorini",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Oia_Santorini_South-Aegean_Greece_01.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_02.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_03.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_04.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_05.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_06.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_07.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_08.jpg",
+                      "2010.11_Oia_Santorini_South-Aegean_Greece_09.jpg"
+                      ],
+    "coordinates": ["36.46125", "25.37584"],
+    "location": "Oia, Santorini, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Perched on the northern tip of the island, the village of Oia reflects the renaissance of Santorini after the devastating earthquake of 1956. Restoration work has whipped up beauty, though it’s hardly an authentic functioning village. Nevertheless, you will struggle to find a more stunning spot in the Cyclades. Built on a steep slope of the caldera, many of its dwellings nestle in niches hewn into the volcanic rock."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.12_Valletta_South-Eastern-Region_Malta",
     "keywords": ["valletta",
                  "capital",
