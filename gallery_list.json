@@ -1251,11 +1251,35 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland",
+    "keywords": ["langidalur",
+                 "valley",
+                 "austur-húnavatnssýsla",
+                 "austur-hunavatnssysla",
+                 "iceland",
+                 "2010"
+                ],
+    "galleryImages": ["2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_01.jpg",
+                      "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_02.jpg",
+                      "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_03.jpg",
+                      "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_04.jpg",
+                      "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_05.jpg",
+                      "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland_06.jpg"
+                      ],
+    "coordinates": ["65.609166", "-20.134167"],
+    "location": "Langidalur, Austur-Húnavatnssýsla, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Langidalur is a valley in Austur-Húnavatnssýsla and lies from the foothills of the foothills at Blönduós to the southeast into the intersection of Blöndudals and Svartárdalsur.  Along the valley, the Langadalsfjall is about 25 km in length and 700-800 m high in most places, but there are three deep cliffs over Laxárdalur in front , a desolate east of the mountain. Langidalur is grassy and resident and there are a number of farms. The church of the countryside is on the settlement site Holtastadir, but of other manor houses can be mentioned Geitaskarð and Móberg."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Myvatn_Northeastern-Region_Iceland",
     "keywords": ["mývatn",
                  "myvatn",
                  "lake",
-                 "northeastern region",
                  "iceland",
                  "2010"
                ],
@@ -1270,7 +1294,7 @@
                       "2010.09_Myvatn_Northeastern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["65.603259", "-17.004996"],
-    "location": "Mývatn, Northeastern Region, Iceland",
+    "location": "Mývatn, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
@@ -1282,7 +1306,6 @@
     "filePath": "2010.09_Namafjall_Northeastern-Region_Iceland",
     "keywords": ["námafjall",
                  "mud",
-                 "northeastern region",
                  "iceland",
                  "2010"
                ],
@@ -1297,7 +1320,7 @@
                       "2010.09_Namafjall_Northeastern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["65.639167", "-16.819722"],
-    "location": "Námafjall, Northeastern Region, Iceland",
+    "location": "Námafjall, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
@@ -1324,7 +1347,7 @@
                       "2010.09_Reynisfjara_Southern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["63.403098", "-19.042183"],
-    "location": "Reynisfjara, Southern Region, Iceland",
+    "location": "Reynisfjara, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
