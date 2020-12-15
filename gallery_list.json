@@ -1145,7 +1145,6 @@
     "filePath": "2010.09_Gullfoss_Southern-Region_Iceland",
     "keywords": ["gullfoss",
                  "waterfall",
-                 "southern region",
                  "iceland",
                  "2010"
                ],
@@ -1160,7 +1159,7 @@
                       "2010.09_Gullfoss_Southern-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["64.326694", "-20.120413"],
-    "location": "Gullfoss, Southern Region, Iceland",
+    "location": "Gullfoss, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
@@ -1174,7 +1173,6 @@
                  "church",
                  "reykjavík",
                  "reykjavik",
-                 "capital region",
                  "iceland",
                  "2010"
                ],
@@ -1189,12 +1187,38 @@
                       "2010.09_Hallgrimskirkja_Reykjavik_Capital-Region_Iceland_09.jpg"
                       ],
     "coordinates": ["64.142023", "-21.926549"],
-    "location": "Hallgrimskirkja, Reykjavík, Capital Region, Iceland",
+    "location": "Hallgrimskirkja, Reykjavík, Iceland",
     "country": "Iceland",
     "date": "2010.09",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Reykjavík’s immense white-concrete church (1945–86), star of a thousand postcards, dominates the skyline and is visible from up to 20km away. An elevator trip up the 74.5m-high tower reveals an unmissable view of the city. In contrast to the high drama outside, the Lutheran church’s interior is quite plain. The most eye-catching feature is the vast 5275-pipe organ installed in 1992. The church’s size and radical design caused controversy, and its architect, Guðjón Samúelsson (1887–1950), never saw its completion."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.09_Hraunfossar_Western-Region_Iceland",
+    "keywords": ["hraunfossar",
+                 "waterfall",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Hraunfossar_Western-Region_Iceland_01.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_02.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_03.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_04.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_05.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_06.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_07.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_08.jpg",
+                      "2010.09_Hraunfossar_Western-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["64.7029", "-20.977172"],
+    "location": "Hraunfossar, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The name of this spectacular waterfall translates to ‘Lava Field Waterfall’ because the crystalline water streams out from below the lava field all around. Walk a little further on the marked trail to reach Barnafoss, another churning chute. Find the turn-off on the north side of Rte 518, 6.5km west of Húsafell."
    },
    {
     "fileFormat": "jpg",
