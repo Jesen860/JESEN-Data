@@ -3293,6 +3293,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia",
+    "keywords": ["old town hall",
+                 "town hall",
+                 "bratislava",
+                 "slovakia",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_01.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_02.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_03.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_04.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_05.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_06.jpg",
+                      "2012.07_Old-Town-Hall_Bratislava_Bratislava-Region_Slovakia_07.jpg"
+                      ],
+    "coordinates": ["48.143689", "17.108839"],
+    "location": "Old Town Hall, Bratislava, Slovakia",
+    "country": "Slovakia",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The history of the Old Town Hall dates back to the beginnings of the mediaeval town in the 13th century.It was then that the original Romanesque house of Mayor Jakub became the property of the city. Over the course of time Unger’s House and Pawer’s House were annexed to it. The most complete element in the neo-Gothic reconstruction is the chapel of St Ladislav, with its unique wall paintings from the 15th century. In 1581 a renaissance arcade was added. The building normally houses the Bratislava City Museum, the oldest in the city (1868). When open, the museum features an exhibition of the feudal justice system, as well as the remarkable interior of the town hall building and original furnishings from the municipal court. In summer, cultural programmes are held in the beautiful renaissance courtyard and concerts are held in the tower."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.07_Rathaus_Vienna_Vienna-State_Austria",
     "keywords": ["rathaus",
                  "city hall",
