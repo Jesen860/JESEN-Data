@@ -622,8 +622,9 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Luis-I-Bridge_Porto_Porto-District_Portugal",
-    "keywords": ["Luis i bridge",
-                 "Luis",
+    "keywords": ["luís i bridge",
+                 "luis i bridge",
+                 "luis",
                  "bridge",
                  "porto",
                  "portugal",
@@ -646,6 +647,34 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Completed in 1886 by a student of Gustave Eiffel, the bridge’s top deck is now reserved for pedestrians, as well as one of the city’s metro lines; the lower deck bears regular traffic, as well as narrow walkways for those on foot. The views of the river and old town are stunning, as are the daredevils who leap from the lower level. The bridge’s construction was significant, as the area’s foot traffic once navigated a bridge made from old port boats lashed together. To make matters worse, the river was wild back then, with no upstream dams. When Napoleon invaded in 1809, scores were crushed and drowned in the rushing river as a panicked stampede proved too much for the makeshift bridge."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2009.11_River-Douro_Porto_Porto-District_Portugal",
+    "keywords": ["river douro",
+                 "douro",
+                 "river",
+                 "porto",
+                 "portugal",
+                 "2009"
+               ],
+    "galleryImages": ["2009.11_River-Douro_Porto_Porto-District_Portugal_01.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_02.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_03.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_04.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_05.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_06.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_07.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_08.jpg",
+                      "2009.11_River-Douro_Porto_Porto-District_Portugal_09.jpg"
+                      ],
+    "coordinates": ["41.13908", "-8.61632"],
+    "location": "River Douro, Porto, Portugal",
+    "country": "Portugal",
+    "date": "2009.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Douro River, third longest river of the Iberian Peninsula, draining a catchment area of 30,539 square miles (79,096 square km). Rising in the Sierra de Urbión in Spain, the river crosses the Numantian Plateau in a pronounced bend and flows generally westward for 556 miles (895 km) across Spain and northern Portugal to the Atlantic Ocean at Foz do Douro. As far as Aranda de Duero, Spain, it is narrowly confined by its banks; it then widens across the broad plains of Old Castile. Beyond Zamora the river narrows again, and when it reaches the border with Portugal (which it follows for 70 miles [113 km]), it plunges about 1,250 feet (380 m) within 30 miles (50 km) in a series of gorges and rapids. In Portugal, between Peso da Régua and Porto, the river has considerable barge traffic, taking the wine from the port-wine area to Vila Nova de Gaia; from Pedorido to Porto there is some coal traffic. The river mouth is silted, and the artificial port of Leixões (erected in 1892 and further developed in 1916) has grown up to the north of the estuary."
    },
    {
     "fileFormat": "jpg",
