@@ -697,12 +697,42 @@
                       "2009.12_Acueducto-de-Segovia_Segovia_Segovia_Spain_09.jpg"
                       ],
     "coordinates": ["40.947594" ,"-4.117059"],
-    "location": "Acueducto de Segovia, Segovia, Segovia, Spain",
+    "location": "Acueducto de Segovia, Segovia, Spain",
     "country": "Spain",
     "date": "2009.12",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Segovia’s most recognisable symbol is El Acueducto (Roman Aqueduct), an 894m-long engineering wonder that looks like an enormous comb plunged into Segovia. First raised here by the Romans in the 1st century CE, the aqueduct was built with not a drop of mortar to hold together more than 20,000 uneven granite blocks. It’s made up of 163 arches and, at its highest point in Plaza del Azoguejo, rises 28m high. It was originally part of a complex system of aqueducts and underground canals that brought water from the mountains more than 15km away. Its pristine condition is attributable to a major restoration project in the 1990s."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain",
+    "keywords": ["alcázar de segovia",
+                 "alcazar de segovia",
+                 "alcázar",
+                 "alcazar",
+                 "castle",
+                 "segovia",
+                 "spain",
+                 "2009"
+               ],
+    "galleryImages": ["2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_01.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_02.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_03.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_04.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_05.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_06.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_07.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_08.jpg",
+                      "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_09.jpg"
+                      ],
+    "coordinates": ["40.952573", "-4.132538"],
+    "location": "Alcázar de Segovia, Segovia, Spain",
+    "country": "Spain",
+    "date": "2009.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Rapunzel towers, turrets topped with slate witches’ hats and a deep moat at its base make the Alcázar a prototypical fairy-tale castle – so much so that its design inspired Walt Disney’s vision of Snow White’s castle. Fortified since Roman days, the site takes its name from the Arabic al-qasr (fortress). It was rebuilt in the 13th and 14th centuries, but the whole lot burned down in 1862. What you see today is an evocative, over-the-top reconstruction of the original."
    },
    {
     "fileFormat": "jpg",
@@ -726,7 +756,7 @@
                       "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_09.jpg"
                       ],
     "coordinates": ["41.40363", "2.174356"],
-    "location": "La Sagrada Família, Barcelona, Catalonia, Spain",
+    "location": "La Sagrada Família, Barcelona, Spain",
     "country": "Spain",
     "date": "2009.12",
     "photographer": "Jesen",
@@ -756,7 +786,7 @@
                       "2009.12_Port-Olimpic_Barcelona_Catalonia_Spain_09.jpg"
                       ],
     "coordinates": ["41.38761", "2.197168"],
-    "location": "Port Olímpic, Barcelona, Catalonia, Spain",
+    "location": "Port Olímpic, Barcelona, Spain",
     "country": "Spain",
     "date": "2009.12",
     "photographer": "Jesen",
@@ -5476,7 +5506,7 @@
                       "2019.11_NASA-Ames-Research-Center_Mountain-View_California_USA_08.jpg",
                       "2019.11_NASA-Ames-Research-Center_Mountain-View_California_USA_09.jpg"
                       ],
-    "coordinates": ["37.408959,-122.064492"],
+    "coordinates": ["37.408959", "-122.064492"],
     "location": "NASA Ames Research Center, Mountain View, California, USA",
     "country": "USA",
     "date": "2019.11",
