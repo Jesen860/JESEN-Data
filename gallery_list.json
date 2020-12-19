@@ -4230,6 +4230,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2014.10_Birmingham_England_United-Kingdom",
+    "keywords": ["birmingham",
+                 "city",
+                 "england",
+                 "united kingdom",
+                 "2014"
+                ],
+    "galleryImages": ["2014.10_Birmingham_England_United-Kingdom_01.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_02.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_03.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_04.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_05.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_06.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_07.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_08.jpg",
+                      "2014.10_Birmingham_England_United-Kingdom_09.jpg"
+                      ],
+    "coordinates": ["52.48126", "-1.89912"],
+    "location": "Birmingham, England, United Kingdom",
+    "country": "United Kingdom",
+    "date": "2014.10",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Regeneration, renewal and grand-scale construction continue apace in Britain’s second-largest city. A state-of-the-art library, gleaming shopping centre atop revitalised New St station and beautifully restored Victorian buildings are just some of the successful initiatives of its Big City Plan, following on from the striking Mailbox and Bullring shopping malls and the iconic Selfridges building’s ‘bubblewrapped’ facade. Work is underway on extensions to the Metro (light rail/tram) network, and on the centrepiece Paradise development’s new hotels, public spaces, and glitzy residential and commercial buildings, with final completion due in 2025."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2014.10_Buckingham-Palace_London_England_United-Kingdom",
     "keywords": ["buckingham palace",
                  "buckingham",
