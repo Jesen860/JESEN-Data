@@ -3026,7 +3026,6 @@
                  "town",
                  "unesco",
                  "lulea",
-                 "norrbotten",
                  "sweden",
                  "2012"
                 ],
@@ -3041,7 +3040,7 @@
                       "2012.05_Gammelstad_Lulea_Norrbotten_Sweden_09.jpg"
                       ],
     "coordinates": ["65.646342", "22.028591"],
-    "location": "Gammelstad, Luleå, Norrbotten, Sweden",
+    "location": "Gammelstad, Luleå, Sweden",
     "country": "Sweden",
     "date": "2012.05",
     "photographer": "Jesen",
@@ -3076,6 +3075,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "It’s a stunning drive to the remote fishing village of Gjesvær, 34km northwest of Honningsvåg and 21km off the Honningsvåg–Nordkapp road, where you’ll find two excellent birdwatching outfits. Rolling tundra, punctuated by dark pools and cropped by reindeer, gives way to a stark, rocky landscape, and then a sudden view of low skerries (rocky islets) and the Gjesværstappan islands."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden",
+    "keywords": ["höga kusten",
+                 "hoga kusten",
+                 "unesco",
+                 "örnsköldsvik",
+                 "ornskoldsvik",
+                 "sweden",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_01.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_02.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_03.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_04.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_05.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_06.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_07.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_08.jpg",
+                      "2012.05_Hoga-Kusten_Ornskoldsvik_Angermanland_Sweden_09.jpg"
+                      ],
+    "coordinates": ["62.793819", "17.931943"],
+    "location": "Höga Kusten, Örnsköldsvik, Sweden",
+    "country": "Sweden",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Cross the Höga Kustenbron, the spectacular suspension bridge over the Ångerman river – Norrland’s answer to the Golden Gate Bridge and one of the longest in the world (1867m) – and you find yourself amid some of the most dramatic scenery on the Swedish coastline. The secret to the Höga Kusten’s (High Coast’s) spectacular beauty is elevation; nowhere else on the coast do you find such a mountainous landscape, with sheer rocky cliffs plunging straight down to the sea, as well as lakes, fjords and dozens of tranquil islands, covered in spruce and pine forest. The region is recognised as a geographically unique area and was listed as a Unesco World Heritage Site in 2000."
    },
    {
     "fileFormat": "jpg",
