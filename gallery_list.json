@@ -4242,6 +4242,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2013.12_Flagstaff_Arizona_USA",
+    "keywords": ["flagstaff",
+                 "city",
+                 "arizona",
+                 "usa",
+                 "2013"
+                ],
+    "galleryImages": ["2013.12_Flagstaff_Arizona_USA_01.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_02.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_03.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_04.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_05.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_06.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_07.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_08.jpg",
+                      "2013.12_Flagstaff_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["35.19887", "-111.64843"],
+    "location": "Flagstaff, Arizona, USA",
+    "country": "USA",
+    "date": "2013.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Flagstaff’s laid-back charms are many, from a pedestrian-friendly historic downtown crammed with eclectic vernacular architecture to hiking and skiing in the country’s largest ponderosa pine forest. And the locals are a happy, athletic bunch, skewing more toward granola than gunslinger: buskers play bluegrass on street corners, while cycling culture flourishes. Northern Arizona University (NAU) gives Flag its college-town flavor, while its railroad history still figures firmly in the town’s identity. Throw in a healthy appreciation for craft beer, freshly roasted coffee beans and an all-around good time, and you have the makings of the perfect northern Arizonan escape."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2013.12_Jerome_Arizona_USA",
     "keywords": ["jerome",
                  "city",
