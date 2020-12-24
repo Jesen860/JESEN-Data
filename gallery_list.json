@@ -4215,9 +4215,11 @@
    {
     "fileFormat": "jpg",
     "filePath": "2013.09_Night-Scene_Skyline_Shedd-Aquarium_Chicago_Illinois_USA",
-    "keywords": ["skyline",
+    "keywords": ["night scene",
+                 "night",
+                 "skyline",
                  "skycraper",
-                 "shedd aquarium",
+                 "city",
                  "chicago",
                  "illinois",
                  "usa",
@@ -4234,7 +4236,7 @@
                       "2013.09_Night-Scene_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_09.jpg"
                       ],
     "coordinates": ["41.86843", "-87.61344"],
-    "location": "Skyline, Shedd Aquarium, Chicago, Illinois, USA",
+    "location": "Night Scene, Skyline, Chicago, Illinois, USA",
     "country": "USA",
     "date": "2013.09",
     "photographer": "Jesen",
@@ -4270,6 +4272,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Signal Mountain is an isolated summit standing 7,720 feet (2,350 m) above sea level. The mountain is located in Grand Teton National Park in the U.S. state of Wyoming. This isolation provides sweeping views of the Teton Range, much of the northern Jackson Hole area as well as the Snake River."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA",
+    "keywords": ["skyline",
+                 "city",
+                 "skyscraper",
+                 "chicago",
+                 "illinois",
+                 "usa",
+                 "2013"
+                ],
+    "galleryImages": ["2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_01.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_02.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_03.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_04.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_05.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_06.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_07.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_08.jpg",
+                      "2013.09_Skyline_Shedd-Aquarium_Chicago_Illinois_USA_09.jpg"
+                      ],
+    "coordinates": ["41.868446", "-87.614215"],
+    "location": "Skyline, Chicago, Illinois, USA",
+    "country": "USA",
+    "date": "2013.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "You won’t need to pay a cent. As an architectural mecca for American architects, Chicago’s skyline is one of the greatest this side of the world. From this angle, you really see the widest angle of the skyline. On a calm evening, the skyline reflects magnificently off Lake Michigan. You’ll see a handful of tourists, but it’s pretty sparse."
    },
    {
     "fileFormat": "jpg",
