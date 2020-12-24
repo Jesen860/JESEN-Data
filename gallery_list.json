@@ -3939,6 +3939,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA",
+    "keywords": ["cloud gate",
+                 "millennium park",
+                 "park",
+                 "chicago",
+                 "illinois",
+                 "usa",
+                 "2013"
+                ],
+    "galleryImages": ["2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_01.jpg",
+                      "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_02.jpg",
+                      "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_03.jpg",
+                      "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_04.jpg",
+                      "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_05.jpg",
+                      "2013.09_Cloud-Gate_Millennium-Park_Chicago_Illinois_USA_06.jpg"
+                      ],
+    "coordinates": ["41.882657", "-87.623304"],
+    "location": "Cloud Gate, Millennium Park, Chicago, Illinois, USA",
+    "country": "USA",
+    "date": "2013.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Anish Kapoor’s beloved silver sculpture in Millennium Park is known informally as ‘the Bean.’ It reflects both the sky and the skyline, and everyone clamors around to take a picture and to touch the smoothness of its highly polished stainless-steel exterior."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2013.09_Excelsior-Geyser-Crater_Yellowstone-National-Park_Wyoming_USA",
     "keywords": ["excelsior geyser crater",
                  "excelsior geyser",
