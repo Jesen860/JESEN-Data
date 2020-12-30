@@ -4533,7 +4533,7 @@
     "country": "USA",
     "date": "2013.12",
     "photographer": "Jesen",
-    "camera": "Nikon D850",
+    "camera": "Nikon",
     "introduction": "If you’re in search of an incredible natural vista, then Horseshoe Bend is definitely worth a visit. The name was inspired by its unusual shape, a horseshoe-shaped meander of the Colorado River located four miles southwest of Page, AZ, within the Glen Canyon National Recreation Area. Just a hop, skip, and a jump from Glen Canyon Dam and the popular Lake Powell, the best view is from the steep cliff above Horseshoe Bend."
    },
    {
@@ -5056,6 +5056,37 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The center of the old city of Chongqing is almost completely encircled by the two arms of the Yangtze River and Jialing River. Row upon row of buildings climb the hills beside the rivers, giving rise to its nickname the “city of hills” and the phrase “night views of the hilly city” known well both in domestic and in overseas. observing the nocturnal scenes which form a colorful three-dimensional painting, with waves of the Yangtze and Jialing river glistering against moonlit, star spangled sky,is an amazing experience that you shall never miss."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA",
+    "keywords": ["fox",
+                 "cattle point road",
+                 "cattle point",
+                 "san juan island",
+                 "san juan",
+                 "island",
+                 "washington",
+                 "usa",
+                 "2016"
+                ],
+    "galleryImages": ["2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_01.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_02.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_03.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_04.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_05.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_06.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_07.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_08.jpg",
+                      "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_09.jpg"
+                      ],
+    "coordinates": ["48.468548", "-123.008327"],
+    "location": "Fox, Cattle Point Road, San Juan Island, Washington, USA",
+    "country": "USA",
+    "date": "2016.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Cattle Point is on the southeastern tip of San Juan Island overlooking the Strait of Juan de Fuca where the Haro Straits meet the San Juan Channel. We met this beautiful fox here."
    },
    {
     "fileFormat": "jpg",
