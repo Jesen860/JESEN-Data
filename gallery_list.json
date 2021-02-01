@@ -3444,6 +3444,30 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.05_Solvorn_Vestland_Norway",
+    "keywords": ["solvorn",
+                 "city",
+                 "norway",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Solvorn_Vestland_Norway_01.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_02.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_03.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_04.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_05.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_06.jpg",
+                      "2012.05_Solvorn_Vestland_Norway_07.jpg"
+                      ],
+    "coordinates": ["61.300385", "7.238487"],
+    "location": "Solvorn, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Diminutive Solvorn is everything you’d want a fjord-side village to be: spectacularly sited, fetchingly pretty, quiet as a mouse but with warmly welcoming locals. It’s all that and in striking distance of some of the region’s best hiking, biking and paddling."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.05_Storebaeltsbroen_Denmark",
     "keywords": ["storebæltsbroen",
                  "bridge",
