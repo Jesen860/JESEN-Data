@@ -3478,8 +3478,6 @@
                  "atlantic ocean road",
                  "atlantic",
                  "road",
-                 "møre og romsdal",
-                 "more og romsdal",
                  "norway",
                  "2012"
                 ],
@@ -3494,12 +3492,42 @@
                       "2012.05_Storseisundet-Bridge_Atlanterhavsveien_More-og-Romsdal_Norway_09.jpg"
                       ],
     "coordinates": ["63.01659", "7.352875"],
-    "location": "Storseisundet Bridge, Atlanterhavsveien, Møre og Romsdal, Norway",
+    "location": "Storseisundet Bridge, Atlanterhavsveien, Norway",
     "country": "Norway",
     "date": "2012.05",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The eight storm-lashed bridges of the Atlantic Ocean Road buck and twist like sea serpents, connecting 17 islets between Vevang and the island of Averøya. The UK’s Guardian newspaper once crowned it the world’s best road trip. For a highway that is barely 8km long, the weight of expectation may be too great, but it’s certainly hugely scenic. During the autumn storms you’ll experience nature’s wrath at its most dramatic. In season, look out for whales and seals offshore."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway",
+    "keywords": ["sunnmøre museum",
+                 "sunnmore museum",
+                 "sunnmøre",
+                 "sunnmore",
+                 "museum",
+                 "alesund",
+                 "norway",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_01.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_02.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_03.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_04.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_05.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_06.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_07.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_08.jpg",
+                      "2012.05_Sunnmore-Museum_Alesund_More-og-Romsdal_Norway_09.jpg"
+                      ],
+    "coordinates": ["62.468885", "6.236263"],
+    "location": "Sunnmøre Museum, Ålesund, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Ålesund’s celebrated Sunnmøre Museum is 4km east of the centre. Here, at the site of the old Borgundkaupangen trading centre, active from the 11th to 16th centuries, over 50 traditional buildings have been relocated. Ship-lovers will savour the collection of around 40 historic boats, including replicas of Viking-era ships and a commercial trading vessel from around AD 1000. Should your visit coincide with its restricted opening hours, don’t overlook – as many visitors often do – its Medieval Age Museum. Displayed around excavations of the old trading centre are well-documented artefacts discovered on-site and reproductions of medieval illustrations depicting the way of life of the west Norwegian coastal folk who inhabited this thriving community."
    },
    {
     "fileFormat": "jpg",
