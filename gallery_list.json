@@ -1338,6 +1338,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Husavik_Northeastern-Region_Iceland",
+    "keywords": ["húsavík",
+                 "husavik",
+                 "city",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Husavik_Northeastern-Region_Iceland_01.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_02.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_03.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_04.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_05.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_06.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_07.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_08.jpg",
+                      "2010.09_Husavik_Northeastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["66.042738", "-17.345352"],
+    "location": "Húsavík, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Húsavík, Iceland’s whale-watching capital, has become a firm favourite on travellers’ itineraries – and with its colourful houses, unique museums and stunning snowcapped peaks across the bay, it’s easily the northeast’s prettiest fishing town."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Langidalur_Austur-Hunavatnssysla_Northwestern-Region_Iceland",
     "keywords": ["langidalur",
                  "valley",
