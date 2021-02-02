@@ -5367,6 +5367,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2016.06_Vaals_Limburg_Netherlands",
+    "keywords": ["vaals",
+                 "city",
+                 "limburg",
+                 "netherlands",
+                 "2016"
+                ],
+    "galleryImages": ["2016.06_Vaals_Limburg_Netherlands_01.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_02.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_03.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_04.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_05.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_06.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_07.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_08.jpg",
+                      "2016.06_Vaals_Limburg_Netherlands_09.jpg"
+                      ],
+    "coordinates": ["50.772412", "6.020004"],
+    "location": "Vaals, Netherlands",
+    "country": "Netherlands",
+    "date": "2016.06",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Vaals is a town in the extreme southeastern part of the Dutch province of Limburg, which is in the southeastern part of the Netherlands. It borders on both Belgium and Germany. The three borders meet on the Drielandenpunt, a few meters from the highest point in the European part of the Netherlands, the Vaalserberg. The Vaalserberg used to be called “Hubertusberg”."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2016.08_Night-Scene_South-Mountain-Yikeshu_Chongqing_China",
     "keywords": ["south mountain yikeshu",
                  "yikeshu",
