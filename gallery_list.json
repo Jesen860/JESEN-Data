@@ -4073,6 +4073,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands",
+    "keywords": ["sint servaasbasiliek",
+                 "church",
+                 "maastricht",
+                 "netherlands",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_01.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_02.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_03.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_04.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_05.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_06.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_07.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_08.jpg",
+                      "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands_09.jpg"
+                      ],
+    "coordinates": ["50.848724", "5.687179"],
+    "location": "Sint Servaasbasiliek, Maastricht, Netherlands",
+    "country": "Netherlands",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Built above and around the shrine of St Servaas (Servatius), the first bishop of Maastricht, the basilica presents an architectural pastiche whose earliest sections date from AD 1000. Its beautiful curved brick apse and towers dominate the Vrijthof. Tickets include access to the cloister garden and the four-room treasury whose star attractions are St Servaas’ gilded bust and 11th-century sarcophagus. The linen that wrapped his body is also preserved while, up the spiral stairs, the forearm of St Thomas is one of many other sacred reliqueries. The basilica itself is huge and while less atmospheric than the Lieve Vrouwbasiliek, there’s a small underground sub-chapel beneath the altar where St Servaas’s original 384 AD gravesite is preserved in a cellar-like crypt. Except during religious ceremonies, entry is by ticket from the northwest corner, though without paying you can peer through glass in the southwest corner to get just a minor impression of the polychrome statuary and arches of the original main portal."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.12_Mount-Gongga_Garze-Tibetan-Autonomous-Prefecture_Sichuan_China",
     "keywords": ["mount gongga",
                  "gongga",
