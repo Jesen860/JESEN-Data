@@ -640,7 +640,7 @@
                       "2009.11_Castelo-de-S.-Jorge_Lisboa_Lisbon-District_Portugal_09.jpg"
                       ],
     "coordinates": ["38.713909", "-9.133476"],
-    "location": "Castelo de S. Jorge, Lisboa, Lisbon District, Portugal",
+    "location": "Castelo de S. Jorge, Lisboa, Portugal",
     "country": "Portugal",
     "date": "2009.11",
     "photographer": "Jesen",
@@ -675,6 +675,36 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Completed in 1886 by a student of Gustave Eiffel, the bridge’s top deck is now reserved for pedestrians, as well as one of the city’s metro lines; the lower deck bears regular traffic, as well as narrow walkways for those on foot. The views of the river and old town are stunning, as are the daredevils who leap from the lower level. The bridge’s construction was significant, as the area’s foot traffic once navigated a bridge made from old port boats lashed together. To make matters worse, the river was wild back then, with no upstream dams. When Napoleon invaded in 1809, scores were crushed and drowned in the rushing river as a panicked stampede proved too much for the makeshift bridge."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal",
+    "keywords": ["parque das nações",
+                 "parque das nacoes",
+                 "park",
+                 "sea",
+                 "lisboa",
+                 "lisbon",
+                 "portugal",
+                 "2009"
+               ],
+    "galleryImages": ["2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_01.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_02.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_03.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_04.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_05.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_06.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_07.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_08.jpg",
+                      "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_09.jpg"
+                      ],
+    "coordinates": ["38.774955", "-9.097695"],
+    "location": "Parque das Nações, Lisboa, Portugal",
+    "country": "Portugal",
+    "date": "2009.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A shining model of urban regeneration, Parque das Nações has almost single-handedly propelled the city into the 21st century since Expo ’98. Glittering high-rises, sci-fi concert halls, and Europe’s longest bridge and second-largest aquarium rise above a river so wide it could be the sea. This is the Lisbon of the future, though its purpose-built maze of concrete and steel is in stark contrast to Old Europe and not for everyone."
    },
    {
     "fileFormat": "jpg",
