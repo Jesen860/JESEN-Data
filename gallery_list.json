@@ -4244,6 +4244,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands",
+    "keywords": ["sint janskerk",
+                 "church",
+                 "maastricht",
+                 "netherlands",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_01.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_02.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_03.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_04.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_05.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_06.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_07.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_08.jpg",
+                      "2012.08_Sint-Janskerk_Maastricht_Limburg_Netherlands_09.jpg"
+                      ],
+    "coordinates": ["50.848353", "5.687226"],
+    "location": "Sint Janskerk, Maastricht, Netherlands",
+    "country": "Netherlands",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This attractive 17th-century Gothic church has a soaring if relatively unadorned interior and a 43m limestone tower whose deep red hue was originally achieved with coats of ox blood (now just paint). Climbing the tower reveals wide views, well explained by explanatory panels that make for a great introduction to Maastricht, but the narrow spiral stairs (around 260 of them with few passing points) can feel rather claustrophobic."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Sint-Servaasbasiliek_Maastricht_Limburg_Netherlands",
     "keywords": ["sint servaasbasiliek",
                  "church",
