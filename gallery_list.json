@@ -1224,6 +1224,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Blonduos_Northwestern-Region_Iceland",
+    "keywords": ["blönduós",
+                 "blonduos",
+                 "city",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Blonduos_Northwestern-Region_Iceland_01.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_02.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_03.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_04.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_05.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_06.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_07.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_08.jpg",
+                      "2010.09_Blonduos_Northwestern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["65.660280", "-20.280248"],
+    "location": "Blönduós, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A couple of museums, an unusual modern church and an island nature walk – the service town Blönduós is about as simple as that. Except for an incredible foodie retreat, there isn’t much to woo you off the road, but the town makes a fine place to refuel and stretch your legs."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Blue-Lagoon_Grindavik_Southern-Peninsula_Iceland",
     "keywords": ["blue lagoon",
                  "lagoon",
