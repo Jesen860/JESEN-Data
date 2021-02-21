@@ -59,11 +59,39 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy",
+    "keywords": ["duomo di milano",
+                 "church",
+                 "cathedral,
+                 "milano",
+                 "milan",
+                 "italy",
+                 "2009"
+               ],
+    "galleryImages": ["2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_01.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_02.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_03.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_04.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_05.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_06.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_07.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_08.jpg",
+                      "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_09.jpg"
+                      ],
+    "coordinates": ["45.464098", "9.191927"],
+    "location": "Duomo di Milano, Milano, Italy",
+    "country": "Italy",
+    "date": "2009.03",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A vision in pink Candoglia marble, Milan’s extravagant Gothic cathedral, 600 years in the making, aptly reflects the city’s creativity and ambition. Its pearly white facade, adorned with 135 spires and 3400 statues, rises like the filigree of a fairy-tale tiara, wowing the crowds with its extravagant detail. The interior is no less impressive, punctuated by three enormous stained-glassed apse windows, while in the crypt saintly Carlo Borromeo is interred in a rock-crystal casket. Begun by Giangaleazzo Visconti in 1386, the cathedral’s design was originally considered unfeasible. Canals had to be dug to transport the vast quantities of marble to the centre of the city, and new technologies were invented to cater for the never-before-attempted scale. There was also that small matter of style. The Gothic lines went out of fashion and were considered ‘too French’, so it took on several looks as the years, then centuries, dragged on. Its slow construction even became the byword for a never-ending task (‘Lungh ‘me la fabrica del domm’, literally ‘Long as the work on the Duomo’ in the Milanese dialect). Indeed, much of its ornament is 19th-century neo-Gothic, with the final touches only applied in the 1960s. The most spectacular view is through the innumerable marble spires and pinnacles that adorn the rooftop. Crowning it all is a gilded copper statue of the Madonnina (Little Madonna), the city’s traditional protector."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.04_Colosseum_Roma_Lazio_Italy",
     "keywords": ["colosseum",
                  "arena",
                  "roma",
-                 "lazio",
                  "italy",
                  "2009"
                ],
@@ -78,7 +106,7 @@
                       "2009.04_Colosseum_Roma_Lazio_Italy_09.jpg"
                       ],
     "coordinates": ["41.89021", "12.492231"],
-    "location": "Colosseum, Roma, Lazio, Italy",
+    "location": "Colosseum, Roma, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -90,7 +118,6 @@
     "filePath": "2009.04_Pantheon_Roma_Lazio_Italy",
     "keywords": ["pantheon",
                  "roma",
-                 "lazio",
                  "italy",
                  "2009"
                ],
@@ -105,7 +132,7 @@
                       "2009.04_Pantheon_Roma_Lazio_Italy_09.jpg"
                       ],
     "coordinates": ["41.898611", "12.476873"],
-    "location": "Pantheon, Roma, Lazio, Italy",
+    "location": "Pantheon, Roma, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -118,7 +145,6 @@
     "keywords": ["piazza dei miracoli",
                  "tower",
                  "pisa",
-                 "tuscany",
                  "italy",
                  "2009"
                ],
@@ -133,7 +159,7 @@
                       "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_09.jpg"
                       ],
     "coordinates": ["43.723225", "10.394724"],
-    "location": "Piazza dei Miracoli, Pisa, Tuscany, Italy",
+    "location": "Piazza dei Miracoli, Pisa, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -145,7 +171,6 @@
     "filePath": "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy",
     "keywords": ["piazzale michelangelo",
                  "florence",
-                 "tuscany",
                  "italy",
                  "2009"
                ],
@@ -160,7 +185,7 @@
                       "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_09.jpg"
                       ],
     "coordinates": ["43.762931", "11.265056"],
-    "location": "Piazzale Michelangelo, Florence, Tuscany, Italy",
+    "location": "Piazzale Michelangelo, Florence, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -173,7 +198,6 @@
     "keywords": ["pompeii archaeological park",
                  "pompeii",
                  "ancient",
-                 "campania",
                  "italy",
                  "2009"
                ],
@@ -188,7 +212,7 @@
                       "2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy_09.jpg"
                       ],
     "coordinates": ["40.748244", "14.482075"],
-    "location": "Pompeii Archaeological Park, Pompeii, Campania, Italy",
+    "location": "Pompeii Archaeological Park, Pompeii, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -202,7 +226,6 @@
                  "sea",
                  "sunset",
                  "naples",
-                 "campania",
                  "italy",
                  "2009"
                ],
@@ -217,7 +240,7 @@
                       "2009.04_Rotonda-Diaz_Naples_Campania_Italy_09.jpg"
                       ],
     "coordinates": ["40.831784", "14.230477"],
-    "location": "Rotonda Diaz, Naples, Campania, Italy",
+    "location": "Rotonda Diaz, Naples, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
@@ -230,7 +253,6 @@
     "keywords": ["sorrento",
                  "sea",
                  "city",
-                 "campania",
                  "italy",
                  "2009"
                ],
@@ -245,7 +267,7 @@
                       "2009.04_Sorrento_Campania_Italy_09.jpg"
                       ],
     "coordinates": ["40.623788", "14.375191"],
-    "location": "Sorrento, Campania, Italy",
+    "location": "Sorrento, Italy",
     "country": "Italy",
     "date": "2009.04",
     "photographer": "Jesen",
