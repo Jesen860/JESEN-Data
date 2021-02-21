@@ -62,7 +62,7 @@
     "filePath": "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy",
     "keywords": ["duomo di milano",
                  "church",
-                 "cathedral,
+                 "cathedral",
                  "milano",
                  "milan",
                  "italy",
@@ -900,6 +900,34 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "A busy marina built for the Olympic sailing events, Port Olímpic is surrounded by bars and restaurants. An eye-catcher on the approach from Barceloneta is Frank Gehry’s giant copper Peix (Fish) sculpture. The area behind Port Olímpic, dominated by twin-tower blocks (the luxury Hotel Arts Barcelona and the Torre Mapfre office block), is the former Vila Olímpica living quarters for the Olympic competitors, which was later sold off as apartments."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.03_Universitat-Bremen_Bremen_Germany",
+    "keywords": ["universität bremen",
+                 "university",
+                 "bremen",
+                 "deutschland",
+                 "germany",
+                 "2010"
+               ],
+    "galleryImages": ["2010.03_Universitat-Bremen_Bremen_Germany_01.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_02.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_03.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_04.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_05.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_06.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_07.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_08.jpg",
+                      "2010.03_Universitat-Bremen_Bremen_Germany_09.jpg"
+                      ],
+    "coordinates": ["53.106785", "8.852053"],
+    "location": "Universität Bremen, Bremen, Germany",
+    "country": "Germany",
+    "date": "2010.03",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The University of Bremen is a public university in Bremen, Germany, with approximately 23,500 people from 115 countries. It is one of 11 institutions which were successful in the category “Institutional Strategies” of the Excellence Initiative launched by the Federal Government and the Federal States in 2012. The university was also successful in the categories “Graduate Schools” and “Clusters of Excellence” of the initiative."
    },
    {
     "fileFormat": "jpg",
