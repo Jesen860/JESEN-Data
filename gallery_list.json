@@ -3229,6 +3229,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France",
+    "keywords": ["statue de la liberté",
+                 "liberty",
+                 "statue",
+                 "paris",
+                 "france",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_01.jpg",
+                      "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_02.jpg",
+                      "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_03.jpg",
+                      "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_04.jpg",
+                      "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_05.jpg",
+                      "2011.11_Statue-de-la-Liberte_Paris_Ile-de-France_France_06.jpg"
+                      ],
+    "coordinates": ["48.850035", "2.279708"],
+    "location": "Statue de la Liberté, Paris, France",
+    "country": "France",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "At the southwestern tip of the artificial island Île aux Cygnes, on the western side of the Pont de Grenelle, is a soaring one-quarter scale Statue of Liberty replica, inaugurated in 1889."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.11_Turaida-Castle_Sigulda_Vidzeme_Latvia",
     "keywords": ["turaida castle",
                  "castle",
