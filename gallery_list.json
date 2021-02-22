@@ -1863,6 +1863,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Livadeia_Boeotia_Greece",
+    "keywords": ["livadeia",
+                 "city",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Livadeia_Boeotia_Greece_01.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_02.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_03.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_04.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_05.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_06.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_07.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_08.jpg",
+                      "2010.11_Livadeia_Boeotia_Greece_09.jpg"
+                      ],
+    "coordinates": ["38.438889", "22.876743"],
+    "location": "Livadeia, Boeotia, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Livadia is a photogenic jumble of whitewashed houses huddled around the northern end of Agios Stefanos Bay. Little happens here – a cat yawns, a fisherman falls asleep over his glass of ouzo… And that’s precisely its charm: tranquillity. A narrow girdle of pebbled beach, perfect for sun worshipping, stretches some 2km from the village down the turquoise-laced bay, while the village’s central square is hugged by cafes, old-time tavernas and Italian-era municipal buildings."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece",
     "keywords": ["st. nicholas anapavsa",
                  "anapavsa",
