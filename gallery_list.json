@@ -501,6 +501,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic",
+    "keywords": ["grandhotel pupp",
+                 "pupp",
+                 "hotel",
+                 "karlovy vary",
+                 "czech",
+                 "czech republic",
+                 "2009"
+               ],
+    "galleryImages": ["2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_01.jpg",
+                      "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_02.jpg",
+                      "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_03.jpg",
+                      "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_04.jpg",
+                      "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_05.jpg"
+                      ],
+    "coordinates": ["50.219735", "12.879018"],
+    "location": "Grandhotel Pupp, Karlovy Vary, Czech Republic",
+    "country": "Czech Republic",
+    "date": "2009.06",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This iconic five-star hotel in the heart of Karlovy Vary with its charm and unforgettable atmosphere have enchanted artists, scientists, statesmen and other exceptional guests from among the world’s leading figures for more than three centuries. In addition to the 228 rooms and suites of the highest standard, the hotel offers the exclusive Spa, Wellness centre and several first-class restaurants. The unique atmosphere of the Grandhotel Pupp has been attracting filmmakers since the beginning of film. There have been dozens of films including the Bond movie Casino Royale, and have hosted the stars of the Karlovy Vary International Film Festival every year."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.06_St.-Vitus-Cathedral_Prague_Czech-Republic",
     "keywords": ["st. vitus cathedral",
                  "st. vitus",
