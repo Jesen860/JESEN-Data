@@ -2656,6 +2656,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland",
+    "keywords": ["bydgoszcz",
+                 "city",
+                 "poland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_01.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_02.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_03.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_04.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_05.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_06.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_07.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_08.jpg",
+                      "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_09.jpg"
+                      ],
+    "coordinates": ["53.125687", "18.038182"],
+    "location": "Bydgoszcz, Kuyavian-Pomeranian, Poland",
+    "country": "Germany",
+    "date": "2011.06",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Bydgoszcz – the capital of the kujawsko-pomorskie voivodeship, a city with three state universities and sixteen other universities and colleges. Since the time the city was granted municipal rights by king Casmir the Great in 1346, it has grown to the rank of a dynamically developing economic centre."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France",
     "keywords": ["chateau de fontainebleau",
                  "fontainebleau",
