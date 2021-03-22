@@ -2673,12 +2673,40 @@
                       "2011.06_Bydgoszcz_Kuyavian-Pomeranian_Poland_09.jpg"
                       ],
     "coordinates": ["53.125687", "18.038182"],
-    "location": "Bydgoszcz, Kuyavian-Pomeranian, Poland",
-    "country": "Germany",
+    "location": "Bydgoszcz, Poland",
+    "country": "Poland",
     "date": "2011.06",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Bydgoszcz – the capital of the kujawsko-pomorskie voivodeship, a city with three state universities and sixteen other universities and colleges. Since the time the city was granted municipal rights by king Casmir the Great in 1346, it has grown to the rank of a dynamically developing economic centre."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland",
+    "keywords": ["medieval town",
+                 "toruń",
+                 "torun",
+                 "city",
+                 "poland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_01.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_02.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_03.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_04.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_05.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_06.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_07.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_08.jpg",
+                      "2011.06_Medieval-Town_Torun_Kuyavian-Pomeranian_Poland_09.jpg"
+                      ],
+    "coordinates": ["53.011559", "18.609896"],
+    "location": "Medieval Town, Toruń, Poland",
+    "country": "Poland",
+    "date": "2011.06",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "If you’ve spent your time in Poland jostling with the crowds in Kraków or wandering Warsaw’s sprawling boulevards, then Toruń will come as a revelation. This magnificent walled Gothic town on the banks of the Vistula should be high on every traveller’s list, especially as its delights seem low on everyone else’s, leaving visitors to revel virtually unrestricted in its wealth of historic buildings and city defences, all of which WWII left mercifully untouched. The entire town is listed as a Unesco World Heritage site for being an unusually well-preserved example of a medieval European trading and administrative centre."
    },
    {
     "fileFormat": "jpg",
