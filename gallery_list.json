@@ -3627,6 +3627,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain",
+    "keywords": ["mirador del balcon",
+                 "ocean",
+                 "gran canaria",
+                 "canary islands",
+                 "canary",
+                 "island",
+                 "las palmas",
+                 "spain"
+                ],
+    "galleryImages": ["2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain_01.jpg",
+                      "2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain_02.jpg",
+                      "2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain_03.jpg",
+                      "2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain_04.jpg",
+                      "2011.12_Mirador-del-Balcon_Gran-Canaria_Canary-Islands_Spain_05.jpg"
+                      ],
+    "coordinates": ["28.019435", "-15.785446"],
+    "location": "Mirador del Balcon, Gran Canaria, Canary Islands, Spain",
+    "country": "Spain",
+    "date": "2011.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Mirador del Balcón or Anden Verde is one of the most impressive in Gran Canaria as we mentioned in our article with the top 15 viewpoints on the island. This is also known as Mirador El Paso Marinero and is located along the rugged coastline of La Aldea de San Nicolás. At the same time, it is located within the Tamadaba Natural Park, just in the southern part of it. In this post we will tell you how to get there and some information of interest."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain",
     "keywords": ["roque nublo",
                  "gran canaria",
@@ -3647,7 +3673,7 @@
                       "2011.12_Roque-Nublo_Gran-Canaria_Las-Palmas_Spain_09.jpg"
                       ],
     "coordinates": ["27.968333", "-15.610833"],
-    "location": "Roque Nublo, Gran Canaria, Spain",
+    "location": "Roque Nublo, Gran Canaria, Canary Islands, Spain",
     "country": "Spain",
     "date": "2011.12",
     "photographer": "Jesen",
