@@ -3508,7 +3508,6 @@
                  "canary islands",
                  "canary",
                  "island",
-                 "las palmas",
                  "spain"
                 ],
     "galleryImages": ["2011.12_Auditorio-de-Tenerife_Santa-Cruz-de-Tenerife_Tenerife_Las-Palmas_Spain_01.jpg",
@@ -3522,12 +3521,44 @@
                       "2011.12_Auditorio-de-Tenerife_Santa-Cruz-de-Tenerife_Tenerife_Las-Palmas_Spain_09.jpg"
                       ],
     "coordinates": ["28.456107", "-16.251368"],
-    "location": "Auditorio de Tenerife, Santa Cruz de Tenerife, Tenerife, Spain",
+    "location": "Auditorio de Tenerife, Santa Cruz de Tenerife, Tenerife, Canary Islands, Spain",
     "country": "Spain",
     "date": "2011.12",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "This magnificent, soaring white wave of an auditorium was designed by the internationally renowned Spanish architect Santiago Calatrava, and delivers shades of the Sydney Opera House, plus superb acoustics. Guided 45-minute tours (€7.50; reserved in advance by telephone) in English, German or Spanish take you behind the scenes of the remarkable building."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain",
+    "keywords": ["faro de tostón",
+                 "faro de toston",
+                 "lighthouse",
+                 "ocean",
+                 "el cotillo",
+                 "fuerteventura",
+                 "canary islands",
+                 "canary",
+                 "island",
+                 "spain"
+                ],
+    "galleryImages": ["2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_01.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_02.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_03.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_04.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_05.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_06.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_07.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_08.jpg",
+                      "2011.12_Faro-de-Toston_El-Cotillo_Fuerteventura_Canary-Islands_Spain_09.jpg"
+                      ],
+    "coordinates": ["28.715546", "-14.013675"],
+    "location": "Faro de Tostón, El Cotillo, Fuerteventura, Canary Islands, Spain",
+    "country": "Spain",
+    "date": "2011.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Tostón Lighthouse is an active lighthouse on the Canary island of Fuerteventura. The lighthouse is situated on the northwestern coast of the island near to the village of El Cotillo, in the municipality of La Oliva. In conjunction with the lights at Pechiguera and Punta Martiño, it marks the narrow La Bocayna strait that separates Fuerteventura from the adjacent island of Lanzarote."
    },
    {
     "fileFormat": "jpg",
@@ -3540,7 +3571,6 @@
                  "canary islands",
                  "canary",
                  "island",
-                 "las palmas",
                  "spain"
                 ],
     "galleryImages": ["2011.12_Jardin-de-Cactus_Lanzarote_Las-Palmas_Spain_01.jpg",
@@ -3554,7 +3584,7 @@
                       "2011.12_Jardin-de-Cactus_Lanzarote_Las-Palmas_Spain_09.jpg"
                       ],
     "coordinates": ["29.08045", "-13.47642"],
-    "location": "Jardín de Cactus, Lanzarote, Spain",
+    "location": "Jardín de Cactus, Lanzarote, Canary Islands, Spain",
     "country": "Spain",
     "date": "2011.12",
     "photographer": "Jesen",
