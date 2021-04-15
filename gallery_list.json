@@ -984,6 +984,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.12_Toledo_Castilla-La-Mancha_Spain",
+    "keywords": ["toledo",
+                 "city",
+                 "spain",
+                 "2009"
+               ],
+    "galleryImages": ["2009.12_Toledo_Castilla-La-Mancha_Spain_01.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_02.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_03.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_04.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_05.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_06.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_07.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_08.jpg",
+                      "2009.12_Toledo_Castilla-La-Mancha_Spain_09.jpg"
+                      ],
+    "coordinates": ["39.858774", "-4.025182"],
+    "location": "Toledo, Spain",
+    "country": "Spain",
+    "date": "2009.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Toledo is truly one of Spain’s most magnificent cities. Dramatically sited atop a gorge overlooking the Río Tajo, it was known as the ‘city of three cultures’ in the Middle Ages, a place where – legend has it – Christian, Muslim and Jewish communities peacefully coexisted. Unsurprisingly, rediscovering the vestiges of this unique cultural synthesis remains modern Toledo’s most compelling attraction. Horseshoe-arched mosques, Sephardic synagogues and one of Spain’s finest Gothic cathedrals cram into its dense historical core. But the layers go much deeper. Further sleuthing will reveal Visigothic and Roman roots. Toledo’s other forte is art, in particular the haunting canvases of El Greco, the influential, impossible-to-classify painter with whom the city is synonymous. Though it’s justifiably popular with day trippers, try to stay overnight to really appreciate the city in all its haunting glory."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.03_Universitat-Bremen_Bremen_Germany",
     "keywords": ["universität bremen",
                  "university",
