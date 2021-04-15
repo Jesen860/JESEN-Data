@@ -4615,7 +4615,6 @@
     "keywords": ["altes rathaus",
                  "rathaus",
                  "magdeburg",
-                 "sachsen-anhalt",
                  "sachsen anhalt",
                  "germany",
                  "2012"
@@ -4630,13 +4629,13 @@
                       "2012.08_Altes-Rathaus_Magdeburg_Sachsen-Anhalt_Germany_08.jpg",
                       "2012.08_Altes-Rathaus_Magdeburg_Sachsen-Anhalt_Germany_09.jpg"
                       ],
-    "coordinates": ["52.519061", "13.401078"],
+    "coordinates": ["52.131563", "11.639801"],
     "location": "Altes Rathaus, Magdeburg, Sachsen-Anhalt, Germany",
     "country": "Germany",
     "date": "2012.08",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "After the original bronze door of the Rathaus (town hall) on Alter Markt was destroyed by WWII bombing, local artist Heinrich Apel designed the current bronze-relief door, based on the original’s 17th-century design.."
+    "introduction": "After the original bronze door of the Rathaus (town hall) on Alter Markt was destroyed by WWII bombing, local artist Heinrich Apel designed the current bronze-relief door, based on the original’s 17th-century design."
    },
    {
     "fileFormat": "jpg",
@@ -4713,6 +4712,34 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Pompous yet majestic, the Italian Renaissance–style former royal court church (1905) does triple duty as house of worship, museum and concert hall. Inside it’s gilt to the hilt and outfitted with a lavish marble-and-onyx altar, a 7269-pipe Sauer organ and elaborate royal sarcophagi. Climb up the 267 steps to the gallery for glorious city views."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany",
+    "keywords": ["city center",
+                 "city",
+                 "magdeburg",
+                 "sachsen-anhalt",
+                 "germany",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_01.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_02.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_03.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_04.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_05.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_06.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_07.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_08.jpg",
+                      "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany_09.jpg"
+                      ],
+    "coordinates": ["52.125966", "11.641837"],
+    "location": "City Center, Magdeburg, Sachsen-Anhalt, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The capital of Saxony-Anhalt is one of the country’s oldest cities, founded some 1200 years ago and home to the first Gothic cathedral on German soil. Magdeburg’s newest architectural attraction, meanwhile, is the whimsical Grüne Zitadelle (Green Citadel), the last building of eccentric artist-architect Friedensreich Hundertwasser."
    },
    {
     "fileFormat": "jpg",
