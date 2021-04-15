@@ -927,6 +927,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain",
+    "keywords": ["plaza de españa",
+                 "plaza de espana",
+                 "madrid",
+                 "spain",
+                 "2009"
+               ],
+    "galleryImages": ["2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_01.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_02.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_03.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_04.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_05.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_06.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_07.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_08.jpg",
+                      "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_09.jpg"
+                      ],
+    "coordinates": ["40.423383", "-3.712165"],
+    "location": "Plaza de España, Madrid, Spain",
+    "country": "Spain",
+    "date": "2009.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This central Madrid square was being given a major overhaul when we last visited. They’ll no doubt find room for the 1927 statue of Cervantes, alongside a bronze statue of his immortal characters Don Quijote and Sancho Panza. The 1953 Edificio de España (Spain Building) on the northeast side clearly sprang from the totalitarian recesses of Franco’s imagination, such is its resemblance to austere Soviet monumentalism. To the north stands the 35-storey Torre de Madrid (Madrid Tower)."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.12_Port-Olimpic_Barcelona_Catalonia_Spain",
     "keywords": ["port olímpic",
                  "port olimpic",
