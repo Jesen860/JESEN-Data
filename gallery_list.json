@@ -4797,6 +4797,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany",
+    "keywords": ["kloster unser lieben frauen",
+                 "kloster",
+                 "monastery",
+                 "church",
+                 "magdeburg",
+                 "sachsen-anhalt",
+                 "germany",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_01.jpg",
+                      "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_02.jpg",
+                      "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_03.jpg",
+                      "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_04.jpg",
+                      "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_05.jpg",
+                      "2012.08_Kloster-Unser-Lieben-Frauen_Magdeburg_Sachsen-Anhalt_Germany_06.jpg"
+                      ],
+    "coordinates": ["52.12747", "11.636898"],
+    "location": "Kloster Unser Lieben Frauen, Magdeburg, Sachsen-Anhalt, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "In the oldest Magdeburg parish church, traces of Martin Luther and the Otto von Guerickes family can still be found before and in the sacred building. Today, however, the church is mainly used as a conference and event center."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Liege-Guillemins-Railway-Station_Liege_Liege-Province_Belgium",
     "keywords": ["liège-guillemins railway station",
                  "liège-guillemins",
