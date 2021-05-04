@@ -3537,8 +3537,7 @@
                       "2011.11_Otepaa_Valga-County_Estonia_05.jpg",
                       "2011.11_Otepaa_Valga-County_Estonia_06.jpg",
                       "2011.11_Otepaa_Valga-County_Estonia_07.jpg",
-                      "2011.11_Otepaa_Valga-County_Estonia_08.jpg",
-                      "2011.11_Otepaa_Valga-County_Estonia_09.jpg"
+                      "2011.11_Otepaa_Valga-County_Estonia_08.jpg"
                       ],
     "coordinates": ["58.056763", "26.491512"],
     "location": "Otepää, Estonia",
@@ -4684,6 +4683,33 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Vienna’s neo-Gothic City Hall, completed in 1883 by Friedrich von Schmidt (who designed Cologne Cathedral) and modelled on Flemish city halls, with lacy stonework, pointed-arch windows and spindly turrets, is the highlight of the Ringstrasse boulevard’s 19th-century architectural ensemble. Bronze statues of Joseph Lanner and Johann Strauss I, stand in the fountain-filled Rathauspark."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary",
+    "keywords": ["sándor palace",
+                 "sandor",
+                 "palace",
+                 "budapest",
+                 "hungary",
+                 "2012"
+                ],
+    "galleryImages": ["2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_01.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_02.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_03.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_04.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_05.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_06.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_07.jpg",
+                      "2012.07_Sandor-Palace_Budapest_Central-Hungary_Hungary_08.jpg"
+                      ],
+    "coordinates": ["47.497808", "19.038196"],
+    "location": "Sándor Palace, Budapest, Hungary",
+    "country": "Hungary",
+    "date": "2012.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This imposing neoclassical palace dates back to 1806 and now serves as the official residence of Hungary’s president (János Áder who was re-elected to a second five-year term in 2017). You can watch the relatively low-key changing of the guard in front of the palace every hour on the hour from 9am to 5pm."
    },
    {
     "fileFormat": "jpg",
