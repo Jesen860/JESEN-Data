@@ -2028,7 +2028,6 @@
     "filePath": "2010.11_Acropolis_Athens_Attica_Greece",
     "keywords": ["acropolis",
                  "athens",
-                 "attica",
                  "greece",
                  "2010"
                ],
@@ -2043,12 +2042,39 @@
                       "2010.11_Acropolis_Athens_Attica_Greece_09.jpg"
                       ],
     "coordinates": ["37.971532", "23.725749"],
-    "location": "Acropolis, Athens, Attica, Greece",
+    "location": "Acropolis, Athens, Greece",
     "country": "Greece",
     "date": "2010.11",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The Acropolis is the most important ancient site in the Western world. Crowned by the Parthenon, it stands sentinel over Athens, visible from almost everywhere within the city. Its monuments and sanctuaries of white Pentelic marble gleam in the midday sun and gradually take on a honey hue as the sun sinks, while at night they stand brilliantly illuminated above the city. A glimpse of this magnificent sight cannot fail to exalt your spirit."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece",
+    "keywords": ["delphi archaeological museum",
+                 "museum",
+                 "delphi",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_01.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_02.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_03.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_04.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_05.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_06.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_07.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_08.jpg",
+                      "2010.11_Delphi-Archaeological-Museum_Delphi_Central-Greece_Greece_09.jpg"
+                      ],
+    "coordinates": ["38.480303", "22.499799"],
+    "location": "Delphi Archaeological Museum, Delphi, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Delphi’s magnificent modern museum, 500m east of town, perfectly complements the ancient site alongside. Which you visit first doesn’t matter, but the treasures collected here will bring your image of ancient Delphi to life. Rich and powerful petitioners flocked to Delphi from the 8th century BC onwards, bringing fabulous gifts and erecting opulent monuments. Unearthed by archaeologists, these now fill a succession of mind-blowing galleries."
    },
    {
     "fileFormat": "jpg",
