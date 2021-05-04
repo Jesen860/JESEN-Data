@@ -3439,6 +3439,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia",
+    "keywords": ["lahemaa national park",
+                 "national park",
+                 "park",
+                 "sea",
+                 "harju",
+                 "estonia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_01.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_02.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_03.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_04.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_05.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_06.jpg",
+                      "2011.11_Lake-Peipus_Mustvee_Jogeva-County_Estonia_07.jpg"
+                      ],
+    "coordinates": ["58.847866", "26.932591"],
+    "location": "Lake Peipus, Mustvee, Estonia",
+    "country": "Estonia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Straddling the Estonian-Russian border, Lake Peipsi (Chudskoe Ozero in Russian) is the fifth-largest lake in Europe (3555 sq km) – though its maximum depth is only 15m. There are some good, uncrowded beaches to be found on its sandy, 42km-long, northern coast. This area had popular resorts during Soviet times but many of them have been left to crumble and very few new developments have taken their place."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.11_Liepaja_Kurzeme_Latvia",
     "keywords": ["liepāja",
                  "Liepaja",
