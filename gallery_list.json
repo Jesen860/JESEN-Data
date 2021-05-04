@@ -3523,6 +3523,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.11_Otepaa_Valga-County_Estonia",
+    "keywords": ["otepää",
+                 "otepaa",
+                 "city",
+                 "estonia",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Otepaa_Valga-County_Estonia_01.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_02.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_03.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_04.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_05.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_06.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_07.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_08.jpg",
+                      "2011.11_Otepaa_Valga-County_Estonia_09.jpg"
+                      ],
+    "coordinates": ["58.056763", "26.491512"],
+    "location": "Otepää, Estonia",
+    "country": "Estonia",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The small hilltop town of Otepää, 44km south of Tartu, is the centre of a picturesque area of forests, lakes and rivers. The district is beloved by Estonians for its natural beauty and its many possibilities for hiking, biking and swimming in summer, and cross-country skiing in winter. It’s often referred to as Estonia’s winter capital, and winter weekends here are busy and loads of fun. Some have even dubbed the area (tongue firmly in cheek) the ‘Estonian Alps’ – a reference not to its peaks but to its excellent ski trails. The 63km Tartu Ski Marathon kicks off here every February but even in summer you’ll see professional athletes and enthusiasts hurtling around on roller skis."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.11_Parnu_Parnu-County_Estonia",
     "keywords": ["pärnu",
                  "parnu",
