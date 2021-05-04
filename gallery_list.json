@@ -1745,6 +1745,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Modrudalsleid-901_Eastern-Region_Iceland",
+    "keywords": ["möðrudalsleið",
+                 "Modrudalsleid",
+                 "901",
+                 "iceland",
+                 "2010"
+                ],
+    "galleryImages": ["2010.09_Modrudalsleid-901_Eastern-Region_Iceland_01.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_02.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_03.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_04.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_05.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_06.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_07.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_08.jpg",
+                      "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["65.406911", "-15.900036"],
+    "location": "Möðrudalsleið 901, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Möðrudalsleið 901 is a highland road in the east of Iceland. This road was originally a 40 km long section of the ring road between the Mývatn and Egilsstaðir . Since 2005 the ring road has been running further north for a length of 49 km. There it is paved along its entire length and is easier to drive on, especially in winter. The loneliest farm in Iceland is located at Möðrudalsleið: Möðrudalur . Here is also one of the few short paved stretches of the road. The three bridges of Möðrudalsleið were built in the 1950s and are single-lane. Two paths branch off towards the south into the highlands: the Arnardalsleið F905and the Brúarvegur 907."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Myvatn_Northeastern-Region_Iceland",
     "keywords": ["mývatn",
                  "myvatn",
@@ -2016,7 +2043,7 @@
                       "2010.11_Livadeia_Central-Greece_Greece_09.jpg"
                       ],
     "coordinates": ["38.438889", "22.876743"],
-    "location": "Livadeia, Boeotia, Greece",
+    "location": "Livadeia, Central Greece, Greece",
     "country": "Greece",
     "date": "2010.11",
     "photographer": "Jesen",
