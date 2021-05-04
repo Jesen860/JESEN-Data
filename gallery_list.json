@@ -2243,6 +2243,30 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Prometheas_Delphi_Central-Greece_Greece",
+    "keywords": ["promēthéas",
+                 "promēthéas",
+                 "delphi",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Prometheas_Delphi_Central-Greece_Greece_01.jpg",
+                      "2010.11_Prometheas_Delphi_Central-Greece_Greece_02.jpg",
+                      "2010.11_Prometheas_Delphi_Central-Greece_Greece_03.jpg",
+                      "2010.11_Prometheas_Delphi_Central-Greece_Greece_04.jpg",
+                      "2010.11_Prometheas_Delphi_Central-Greece_Greece_05.jpg",
+                      "2010.11_Prometheas_Delphi_Central-Greece_Greece_06.jpg"
+                      ],
+    "coordinates": ["38.47781", "22.498637"],
+    "location": "Promēthéas, Delphi, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "For the ancient Greeks, Delphi (from delphis, womb) marked the very centre of the world, a sacred space where human beings could communicate directly with the gods. To this day, the home of the all-seeing oracle retains a magical sense of standing apart, not least because the ancient site stands in beautifully preserved splendour on a pristine mountainside 750m east of (and out of sight of) the modern village."
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.12_Valletta_South-Eastern-Region_Malta",
     "keywords": ["valletta",
                  "capital",
