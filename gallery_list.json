@@ -8040,7 +8040,7 @@
                       "2018.12_Sunset_Gold-Butte-National-Monument_Nevada_USA_09.jpg"
                       ],
     "coordinates": ["36.604373", "-114.209394"],
-    "location": "Gold Butte National Monument, Nevada, USA",
+    "location": "Sunset, Gold Butte National Monument, Nevada, USA",
     "country": "USA",
     "date": "2018.12",
     "photographer": "Jesen",
@@ -8108,6 +8108,36 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Zuma is easy to find, and thanks to the wide sweep of blonde sand that has been attracting valley kids to the shore since the 1970s, it gets busy on weekends and summer afternoons. Pass around Point Dume to Westward Beach."
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.01_Half-Moon-Bay-State-Beach_California_USA",
+    "keywords": ["half moon bay state beach",
+                 "half moon bay",
+                 "half moon",
+                 "state park",
+                 "park",
+                 "california",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.01_Half-Moon-Bay-State-Beach_California_USA_01.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_02.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_03.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_04.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_05.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_06.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_07.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_08.jpg",
+                      "2019.01_Half-Moon-Bay-State-Beach_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.4793963", "-122.450421"],
+    "location": "Half Moon Bay State Beach, California, USA",
+    "country": "USA",
+    "date": "2019.01",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Busy Half Moon Bay is bordered by this 4-mile-long, crescent-shaped beach. Stop by the park visitor center (open weekends only) at the parking lot to learn more about the beach’s ecosystem and wildlife. For hikers and cyclists, the Coastside Trail runs along the eastern edge of the broad, sandy beach north to Pillar Point Harbor."
    },
    {
     "fileFormat": "jpg",
