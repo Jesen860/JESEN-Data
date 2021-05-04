@@ -1772,6 +1772,32 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Modrudalur_Eastern-Region_Iceland",
+    "keywords": ["Möðrudalur",
+                 "Modrudalur",
+                 "iceland",
+                 "2010"
+                ],
+    "galleryImages": ["2010.09_Modrudalur_Eastern-Region_Iceland_01.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_02.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_03.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_04.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_05.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_06.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_07.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_08.jpg",
+                      "2010.09_Modrudalur_Eastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["65.372756", "-15.87527"],
+    "location": "Möðrudalur, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Right in the middle of “nowhere” in the wilderness of Iceland, you will find the highest inhabited farm in Iceland Möðrudalur á Fjöllum – Möðrudalur in Öræfi at 469 meters (1,539 ft) above sea level. It is like entering an oasis after having driven through the rugged wilderness of Iceland. Some ancient farm-ruins have been discovered north of the farm in Möðrudalur, which have been declared as protected. The farmland here at Möðrudalur is one of the most extensive in the country. Möðrudalur is thriving today, with a restaurant, accommodation, guided day-tours, 100 sheep and 14 goats. You will find a lovely little church at Möðrudalur, Möðrudalskirkja, built in 1949 by the farmer Jón A. Stefánsson (1880-1971). The houses in Möðrudalur are built in the old turf house style, which was the traditional way of building houses here in Iceland"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Myvatn_Northeastern-Region_Iceland",
     "keywords": ["mývatn",
                  "myvatn",
