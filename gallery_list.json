@@ -4657,6 +4657,33 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.05_Icelake_Rv13_Vestland_Norway",
+    "keywords": ["icelake",
+                 "rv13",
+                 "snow",
+                 "vestland",
+                 "norway",
+                 "2012"
+                ],
+    "galleryImages": ["2012.05_Icelake_Rv13_Vestland_Norway_01.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_02.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_03.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_04.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_05.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_06.jpg",
+                      "2012.05_Icelake_Rv13_Vestland_Norway_07.jpg"
+                      ],
+    "coordinates": ["60.96421", "6.48320"],
+    "location": "Icelake, Rv13, Vestland, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "This breaktaking view suddenly appears in front of us when we just pass through a tunnel on the road Rv13. The ice river is pure blue and the snow is smooth white, it seems so close to heaven.",
+    "shareLink": "https://haomingxiong.com/2012-05-icelake-rv13-vestland-norway/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.07_Bratislava-Castle_Bratislava_Bratislava-Region_Slovakia",
     "keywords": ["bratislava castle",
                  "castle",
