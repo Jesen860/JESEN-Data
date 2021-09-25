@@ -5801,10 +5801,7 @@
                       "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_03.jpg",
                       "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_04.jpg",
                       "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_05.jpg",
-                      "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_06.jpg",
-                      "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_07.jpg",
-                      "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_08.jpg",
-                      "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_09.jpg"
+                      "2013.09_Jay-Pritzker-Pavilion_Millennium-Park_Chicago_Illinois_USA_06.jpg"
                       ],
     "coordinates": ["41.882747", "-87.621871"],
     "location": "Jay Pritzker Pavilion, Chicago, Illinois, USA",
@@ -6068,7 +6065,7 @@
    },
    {
     "fileFormat": "jpg",
-    "filePath": "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China",
+    "filePath": "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China",
     "keywords": ["wucaichi",
                  "pond",
                  "jiuzhaigou",
@@ -6078,15 +6075,15 @@
                  "china",
                  "2013"
                 ],
-    "galleryImages": ["2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_01.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_02.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_03.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_04.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_05.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_06.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_07.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_08.jpg",
-                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Aba-Tibetan-Qiang-Autonomous-Prefecture_Sichuan_China_09.jpg"
+    "galleryImages": ["2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_01.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_02.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_03.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_04.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_05.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_06.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_07.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_08.jpg",
+                      "2013.10_Wucaichi-Pond_Jiuzhaigou-National-Park_Sichuan_China_09.jpg"
                       ],
     "coordinates": ["33.045125", "103.932998"],
     "location": "Wucaichi, Jiuzhaigou, Sichuan, China",
