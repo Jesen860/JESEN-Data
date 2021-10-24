@@ -5274,6 +5274,35 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany",
+    "keywords": ["orangerieschloss",
+                 "palace",
+                 "potsdam",
+                 "brandenburg",
+                 "germany",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_01.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_02.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_03.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_04.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_05.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_06.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_07.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_08.jpg",
+                      "2012.08_Orangerieschloss_Potsdam_Brandenburg_Germany_09.jpg"
+                      ],
+    "coordinates": ["52.405181", "13.029756"],
+    "location": "Orangerieschloss, Potsdam, Brandenburg, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Modelled after an Italian Renaissance villa, the 300m-long Orangery Palace (1864) was the favourite building project of Friedrich Wilhelm IV – a passionate Italophile. Its highlight is the Raffaelsaal (Raphael Hall), which brims with 19th-century copies of the famous painter's masterpieces. The greenhouses are still used for storing potted plants in winter. Views from the tower are quite nice as well.",
+    "shareLink": "https://haomingxiong.com/2012-08-neues-palais-potsdam-brandenburg-germany/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_Ostend-Beach_Ostend_West-Flanders-Province_Belgium",
     "keywords": ["ostend beach",
                  "beach",
@@ -7162,7 +7191,7 @@
    },
    {
     "fileFormat": "jpg",
-    "filePath": "2017.06_Silver-History-Site_Wallace_Idaho_USA,
+    "filePath": "2017.06_Silver-History-Site_Wallace_Idaho_USA",
     "keywords": ["silver history site",
                  "silver",
                  "history site",
@@ -7181,14 +7210,14 @@
                       "2017.06_Silver-History-Site_Wallace_Idaho_USA_08.jpg",
                       "2017.06_Silver-History-Site_Wallace_Idaho_USA_09.jpg"
                       ],
-    "coordinates": ["47.477866, -115.933389"],
+    "coordinates": ["47.477866", "-115.933389"],
     "location": "Silver History Site, Wallace, Idaho, USA",
     "country": "USA",
     "date": "2017.06",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "As the “Silver Capital of the World,” Wallace, Idaho is awash in silver mining history sites. The most accessible of these is visible from Interstate 90, sharing a lot with the Wallace Chamber of Commerce. The ambiguously named “Silver History Site” is a public park dotted with mining equipment. The exhibit’s head frame, stamp mill, ore car, drills, bits, and even a closed tunnel is capped off with a statue of a miner with his wife and child, dedicated to all miners and their families.",
-    "shareLink": "https://haomingxiong.com/2017-06-tower-fall-yellowstone-national-park-wyoming-usa/"
+    "shareLink": "https://haomingxiong.com/2017-06-silver-history-site-wallace-idaho-usa/"
    },
    {
     "fileFormat": "jpg",
