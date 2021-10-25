@@ -5100,6 +5100,36 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2012.08_Berlin-Hauptbahnhof_Berlin_Germany",
+    "keywords": ["berlin hauptbahnhof",
+                 "hauptbahnhof",
+                 "train station",
+                 "train",
+                 "berlin",
+                 "germany",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Berlin-Hauptbahnhof_Berlin_Germany_01.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_02.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_03.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_04.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_05.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_06.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_07.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_08.jpg",
+                      "2012.08_Berlin-Hauptbahnhof_Berlin_Germany_09.jpg"
+                      ],
+    "coordinates": ["52.525157", "13.369405"],
+    "location": "Berlin Hauptbahnhof, Berlin, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Berlin Hauptbahnhof is the main railway station in Berlin, Germany. It came into full operation two days after a ceremonial opening on 26 May 2006. It is located on the site of the historic Lehrter Bahnhof, and on the Berlin S-Bahn suburban railway. The station is operated by DB Station&Service, a subsidiary of Deutsche Bahn AG, and is classified as a Category 1 station, one of 21 in Germany and four in Berlin, the others being Berlin Gesundbrunnen, Berlin Südkreuz and Berlin Ostbahnhof.",
+    "shareLink": "https://haomingxiong.com/2012-08-berliner-dom-berlin-germany/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2012.08_City-Center_Magdeburg_Sachsen-Anhalt_Germany",
     "keywords": ["city center",
                  "city",
@@ -5299,7 +5329,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Modelled after an Italian Renaissance villa, the 300m-long Orangery Palace (1864) was the favourite building project of Friedrich Wilhelm IV – a passionate Italophile. Its highlight is the Raffaelsaal (Raphael Hall), which brims with 19th-century copies of the famous painter's masterpieces. The greenhouses are still used for storing potted plants in winter. Views from the tower are quite nice as well.",
-    "shareLink": "https://haomingxiong.com/2012-08-neues-palais-potsdam-brandenburg-germany/"
+    "shareLink": "https://haomingxiong.com/2012-08-orangerieschloss-potsdam-brandenburg-germany/"
    },
    {
     "fileFormat": "jpg",
