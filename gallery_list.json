@@ -841,6 +841,37 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal",
+    "keywords": ["palácio nacional de sintra",
+                 "palácio"
+                 "palace",
+                 "sintra",
+                 "lisboa",
+                 "lisbon",
+                 "portugal",
+                 "2009"
+               ],
+    "galleryImages": ["2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_01.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_02.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_03.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_04.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_05.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_06.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_07.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_08.jpg",
+                      "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_09.jpg"
+                      ],
+    "coordinates": ["38.797613", "-9.390848"],
+    "location": "Palácio Nacional de Sintra, Sintra, Lisboa, Portugal",
+    "country": "Portugal",
+    "date": "2009.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The star of Sintra-Vila is this palace, with its iconic twin conical chimneys and lavish, whimsical interior, which is a mix of Moorish and Manueline styles, with arabesque courtyards, barley-twist columns and 15th- and 16th-century geometric azulejos that are among Portugal’s oldest. Of Moorish origins, the palace was first expanded by Dom Dinis (1261–1325), enlarged by João I in the 15th century (when the kitchens were built), then given a Manueline twist by Manuel I in the following century.",
+    "shareLink": "https://haomingxiong.com/2009-11-parque-das-nac%cc%a7o%cc%83es-lisboa-lisbon-district-portugal/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.11_River-Douro_Porto_Porto-District_Portugal",
     "keywords": ["river douro",
                  "douro",
@@ -4762,7 +4793,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "A symbol of the city, this graceful pylon bridge dubbed 'the Swan' was designed by architect Ben van Berkel and completed in 1996. It spans 802m across the Maas river and can be both walked, cycled and driven across.",
-    "shareLink": "https://haomingxiong.com/2012-07-cube-houses-rotterdam-south-holland-netherlands/"
+    "shareLink": "https://haomingxiong.com/2012-07-erasmusbrug-rotterdam-south-holland-netherlands/"
    },
    {
     "fileFormat": "jpg",
