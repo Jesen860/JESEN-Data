@@ -1671,6 +1671,38 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany",
+    "keywords": ["altstadt",
+                 "old town",
+                 "city",
+                 "heidelberg",
+                 "baden-württemberg",
+                 "baden-wurttemberg",
+                 "deutschland",
+                 "germany",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_01.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_02.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_03.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_04.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_05.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_06.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_07.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_08.jpg",
+                      "2010.09_Altstadt_Heidelberg_Baden-Wurttemberg_Germany_09.jpg"
+                      ],
+    "coordinates": ["49.411951", "8.708124"],
+    "location": "Altstadt, Heidelberg, Baden-Württemberg, Germany",
+    "country": "Germany",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Surrounded by forest, Germany’s oldest and most famous university town is renowned for its baroque Altstadt, beautiful riverside setting and evocative half-ruined hilltop castle, which draw 11.9 million visitors a year. They follow in the footsteps of the late 18th- and early 19th-century romantics, most notably the poet Goethe and Britain’s William Turner, who was inspired by Heidelberg to paint some of his greatest landscapes. Heidelberg’s Altstadt has a red-roofed townscape of remarkable architectural unity. After having been all but destroyed by French troops under Louis XIV (1690s), it was rebuilt during the 18th century. Unlike many German cities, it emerged from WWII almost unscathed.",
+    "shareLink": "https://haomingxiong.com/2010-09-donauquelle-donaueschingen-baden-wu%cc%88rttemberg-germany/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.09_Geysir_Blaskogabyggd_Southern-Region_Iceland",
     "keywords": ["geysir",
                  "spring",
@@ -4704,14 +4736,14 @@
                       "2012.05_E16_Vestland_Norway_08.jpg",
                       "2012.05_E16_Vestland_Norway_09.jpg"
                       ],
-    "coordinates": ["61.648364", "6.85868"],
+    "coordinates": ["60.845086", "6.725711"],
     "location": "E16, Vestland, Norway",
     "country": "Norway",
     "date": "2012.05",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "European route E16 is the designation of a main west-east road through Northern Ireland, Scotland, Norway and Sweden, from Derry to Gävle, via Belfast, Glasgow, Edinburgh, previously by ferry to Bergen, Voss, through the Gudvanga Tunnel and the Lærdal Tunnel (the world's longest road tunnel), Lærdal, over Filefjell to Fagernes, Hønefoss, Gardermoen and Kongsvinger. In Sweden, it passes Malung, Falun and ends in Gävle.",
-    "shareLink": "https://haomingxiong.com/2012-05-tjotabreen-vestland-norway/"
+    "shareLink": "https://haomingxiong.com/2012-05-e16-vestland-norway/"
    },
    {
     "fileFormat": "jpg",
