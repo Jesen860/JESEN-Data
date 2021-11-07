@@ -7856,8 +7856,7 @@
                       "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_05.jpg",
                       "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_06.jpg",
                       "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_07.jpg",
-                      "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_08.jpg",
-                      "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_09.jpg"
+                      "2017.10_Summit-Lake_Lassen-Volcanic-National-Park_California_USA_08.jpg"
                       ],
     "coordinates": ["40.492890", "-121.423996"],
     "location": "Summit Lake, Lassen Volcanic National Park, California, USA",
@@ -7866,7 +7865,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Summit Lake is a small, shallow alpine lake (approximately .25 mile diameter) located inside Lassen Volcanic National Park. This is a popular recreation site, with two campgrounds and a picnic area. It's situated in a forest at 6700', so it's mostly shady and the lake water is cold. An easy hiking trail leads around the perimeter to connect the campgrounds, and there are other trail heads nearby for longer hikes.",
-    "shareLink": "https://haomingxiong.com/2017-10-manzanita-lake-lassen-volcanic-national-park-california-usa/"
+    "shareLink": "https://haomingxiong.com/2017-10-summit-lake-lassen-volcanic-national-park-california-usa/"
    },
    {
     "fileFormat": "jpg",
@@ -9673,6 +9672,39 @@
     "photographer": "Jesen",
     "camera": "Nikon D850",
     "introduction": "The handful of unpaved outlooks on Grizzly Peak Boulevard sit at the crest of the Berkeley Hills, giving the most stunning views of the entire Bay Area. These outlets, scattered throughout a mile-long stretch, each equipped to hold dozens of cars, are bordered by graffiti-covered log barriers and a few grassy enclaves for minor exploring on foot, though a pedestrian wouldn’t stray much further given the steep descent of the hills into the chaparral and oak trees below.",
+    "shareLink": "https://haomingxiong.com/2019-10-grizzly-peak-vista-point-berkeley-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA",
+    "keywords": ["mount tamalpais east peak",
+                 "mount tamalpais",
+                 "tamalpais",
+                 "peak",
+                 "mount tamalpais state park",
+                 "state park",
+                 "park"
+                 "california",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_01.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_02.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_03.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_04.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_05.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_06.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_07.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_08.jpg",
+                      "2019.10_Mount-Tamalpais-East-Peak_Mount-Tamalpais-State-Park_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.9290860", "-122.577798"],
+    "location": "Mount Tamalpais East Peak, Mount Tamalpais State Park, California, USA",
+    "country": "USA",
+    "date": "2019.10",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "The summit (2572ft) of Mt Tamalpais is accessed via a short but steep hiking trail leading 0.3 miles uphill from the parking lot to a fire lookout with awesome ocean-to-bay views. From Pantoll Station, it’s just over 4 miles by car to the trailhead. A 2.5 mile loop trail can be tackled from the top.",
     "shareLink": "https://haomingxiong.com/2019-10-grizzly-peak-vista-point-berkeley-california-usa/"
    },
    {
