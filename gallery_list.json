@@ -9540,14 +9540,46 @@
                       "2019.09_Moss-Landing_California_USA_08.jpg",
                       "2019.09_Moss-Landing_California_USA_09.jpg"
                       ],
-    "coordinates": ["37.78046", "-122.51364"],
+    "coordinates": ["36.806447", "-121.788103"],
     "location": "Moss Landing, California, USA",
     "country": "USA",
     "date": "2019.09",
     "photographer": "Jesen",
     "camera": "Nikon D850",
     "introduction": "Moss Landing is a popular spot for antiquing, surfing and nature watching. It's located at the mouth of Elkhorn Slough, one of California's largest wetland areas and home to hundreds of species. With so much to see, not to mention a white sandy beach and attractions made for social distancing, it's easy to fill up a full day.",
-    "shareLink": "https://haomingxiong.com/2019-09-lands-end-san-francisco-california-usa/"
+    "shareLink": "https://haomingxiong.com/2019-09-moss-landing-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA",
+    "keywords": ["bernal heights park",
+                 "bernal heights"
+                 "bernal",
+                 "park",
+                 "night",
+                 "san francisco",
+                 "california",
+                 "usa",
+                 "2019"
+                ],
+    "galleryImages": ["2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_01.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_02.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_03.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_04.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_05.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_06.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_07.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_08.jpg",
+                      "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.743227", "-122.414811"],
+    "location": "Bernal Heights Park, San Francisco, California, USA",
+    "country": "USA",
+    "date": "2019.09",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "The breezy, grassland slopes of 475ft Bernal Hill are decidedly non-touristy, and hiking them on a clear day offers 360-degree city views, along with rare native plants like hummingbird sage and the occasional coyote sighting. A network of dirt trails flanking the hills makes the climb fairly easy, and you can grab some coffee or a delicious meal afterwards on nearby Cortland Ave.",
+    "shareLink": "https://haomingxiong.com/2019-09-night-scene-treasure-island-san-francisco-california-usa/"
    },
    {
     "fileFormat": "jpg",
