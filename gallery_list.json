@@ -91,6 +91,35 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2009.03_Venice_Veneto_Italy",
+    "keywords": ["venice",
+                 "city",
+                 "sea",
+                 "veneto",
+                 "italy",
+                 "2009"
+               ],
+    "galleryImages": ["2009.03_Venice_Veneto_Italy_01.jpg",
+                      "2009.03_Venice_Veneto_Italy_02.jpg",
+                      "2009.03_Venice_Veneto_Italy_03.jpg",
+                      "2009.03_Venice_Veneto_Italy_04.jpg",
+                      "2009.03_Venice_Veneto_Italy_05.jpg",
+                      "2009.03_Venice_Veneto_Italy_06.jpg",
+                      "2009.03_Venice_Veneto_Italy_07.jpg",
+                      "2009.03_Venice_Veneto_Italy_08.jpg",
+                      "2009.03_Venice_Veneto_Italy_09.jpg"
+                      ],
+    "coordinates": ["45.433430", "12.338455"],
+    "location": "Venice, Italy",
+    "country": "Italy",
+    "date": "2009.03",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Venice, the capital of northern Italy’s Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare – lined with Renaissance and Gothic palaces. The central square, Piazza San Marco, contains St. Mark’s Basilica, which is tiled with Byzantine mosaics, and the Campanile bell tower offering views of the city’s red roofs.",
+    "shareLink": "https://haomingxiong.com/2009-03-duomo-di-milano-milano-lombardy-italy/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2009.04_Colosseum_Roma_Lazio_Italy",
     "keywords": ["colosseum",
                  "arena",
@@ -9999,10 +10028,11 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.10_Point-Bonita-Lighthouse_Golden-Gate-National-Recreation-Area_California_USA",
-    "keywords": ["golden gate view point",
-                 "golden gate",
-                 "golden gate bridge",
-                 "bridge",
+    "keywords": ["point bonita lighthouse",
+                 "point bonita",
+                 "bonita",
+                 "sea",
+                 "lighthouse",
                  "golden gate national recreation area",
                  "national park",
                  "park",
@@ -10027,7 +10057,7 @@
     "photographer": "Jesen",
     "camera": "Nikon D850",
     "introduction": "This historical lighthouse is a breathtaking half-mile walk from Field Rd parking area. From the tip of Point Bonita, you can see the Golden Gate Bridge and the San Francisco skyline. Harbor seals haul out seasonally on nearby rocks. It's worth coming out here even when the lighthouse is closed.",
-    "shareLink": "https://haomingxiong.com/2019-10-golden-gate-view-point-golden-gate-national-recreation-area-california-usa/"
+    "shareLink": "https://haomingxiong.com/2019-10-point-bonita-lighthouse-golden-gate-national-recreation-area-california-usa/"
    },
    {
     "fileFormat": "jpg",
