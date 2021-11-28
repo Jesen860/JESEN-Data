@@ -1552,7 +1552,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Sylt is an island in northern Germany, part of Nordfriesland district, Schleswig-Holstein, and well known for the distinctive shape of its shoreline. It belongs to the North Frisian Islands and is the largest island in North Frisia. The northernmost island of Germany, it is known for its tourist resorts, notably Westerland, Kampen and Wenningstedt-Braderup, as well as for its 40-kilometre-long (25-mile) sandy beach. It is frequently covered by the media in connection with its exposed situation in the North Sea and its ongoing loss of land during storm tides. Since 1927, Sylt has been connected to the mainland by the Hindenburgdamm causeway. In later years, it has been a resort for the German jet set and tourists in search of occasional celebrity sightings.",
-    "shareLink": "https://haomingxiong.com/2010-04-mo%cc%88venbergstrase-sylt-schleswig-holstein-germany/"
+    "shareLink": "https://haomingxiong.com/2010-04-sylt-weststrand-sylt-schleswig-holstein-germany/"
    },
    {
     "fileFormat": "jpg",
@@ -1583,6 +1583,37 @@
     "camera": "Nikon",
     "introduction": "With an astounding nine Unesco World Heritage sites, Germany’s oldest city shelters the country’s finest ensemble of Roman monuments, among them a mighty gate, amphitheatre, elaborate thermal baths, imperial throne room, and the country’s oldest bishop’s church, which retains Roman sections. Architectural treasures from later ages include Germany’s oldest Gothic church, and Karl Marx’ baroque birthplace.",
     "shareLink": "https://haomingxiong.com/2010-04-trier-rheinland-pfalz-germany/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany",
+    "keywords": ["westerland",
+                 "sea",
+                 "beach",
+                 "sylt",
+                 "schleswig-holstein",
+                 "deutschland",
+                 "germany",
+                 "2010"
+               ],
+    "galleryImages": ["2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_01.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_02.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_03.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_04.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_05.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_06.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_07.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_08.jpg",
+                      "2010.04_Westerland_Sylt_Schleswig-Holstein_Germany_09.jpg"
+                      ],
+    "coordinates": ["54.910712", "8.301083"],
+    "location": "Westerland, Sylt, Schleswig-Holstein, Germany",
+    "country": "Germany",
+    "date": "2010.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Westerland is a seaside resort and a former municipality located on the German North Sea island of Sylt. Since 1 January 2009, Westerland has been part of the municipality Gemeinde Sylt. Westerland is part of the Nordfriesland district in Schleswig-Holstein. It is the largest resort on the island, the local transportation hub and the centre of Sylt's tourist industry.",
+    "shareLink": "https://haomingxiong.com/2010-04-sylt-weststrand-sylt-schleswig-holstein-germany/"
    },
    {
     "fileFormat": "jpg",
