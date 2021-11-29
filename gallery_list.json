@@ -3673,7 +3673,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The heart of central Helsinki is the harbourside kauppatori (market square), where cruises and ferries leave for archipelago islands. It's completely touristy these days, with reindeer souvenir stands having replaced most market stalls, but there are still some berries and flowers for sale, and cheap food options.",
-    "shareLink": "https://haomingxiong.com/2011-09-olavinlinna-savonlinna-southern-savonia-finland/"
+    "shareLink": "https://haomingxiong.com/2011-09-kauppatori-helsinki-uusimaa-finland/"
    },
    {
     "fileFormat": "jpg",
@@ -3786,6 +3786,35 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Suomen Itäisin Piste is the easternmost point of Finland and of the Schengen Area and of the continental European Union is located on an island in the lake. The Lake Virmayarvi  is a small lake straddling the border between Finland (Ilomantsi municipality) and Russia. It is located 19 km east of the village of Hattuvaara.",
+    "shareLink": "https://haomingxiong.com/2011-09-suomen-ita%cc%88isin-piste-ilomantsi-north-karelia-finland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland",
+    "keywords": ["suomenlinna",
+                 "island",
+                 "helsinki",
+                 "uusimaa",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_01.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_02.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_03.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_04.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_05.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_06.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_07.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_08.jpg",
+                      "2011.09_Suomenlinna_Helsinki_Uusimaa_Finland_09.jpg"
+                      ],
+    "coordinates": ["60.145713", "24.986847"],
+    "location": "Suomenlinna, Helsinki, Uusimaa, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Suomenlinna, the ‘fortress of Finland’, straddles a cluster of car-free islands connected by bridges. This Unesco World Heritage site was originally built by the Swedes, as Sveaborg, in the mid-18th century. Visually striking and historically evocative, it offers at least a day's diversions: several museums, bunkers and fortress walls, and Finland's only remaining WWII submarine.",
     "shareLink": "https://haomingxiong.com/2011-09-suomen-ita%cc%88isin-piste-ilomantsi-north-karelia-finland/"
    },
    {
