@@ -1760,7 +1760,7 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The Abbey of Saint Gall is a dissolved abbey (747–1805) in a Catholic religious complex in the city of St. Gallen in Switzerland. The Carolingian-era monastery has existed since 719 and became an independent principality between 9th and 13th centuries, and was for many centuries one of the chief Benedictine abbeys in Europe. It was founded by Saint Othmar on the spot where Saint Gall had erected his hermitage. The library of the Abbey is one of the oldest monastic libraries in the world. The city of St. Gallen originated as an adjoining settlement of the abbey. Following the secularization of the abbey around 1800, the former Abbey church became a Cathedral in 1848. Since 1983 the abbey precinct has been a UNESCO World Heritage Site.",
-    "shareLink": "https://haomingxiong.com/2010-09-rheinfall-schaffhausen-switzerland/"
+    "shareLink": "https://haomingxiong.com/2010-09-abbey-of-saint-gall-st-gallen-switzerland/"
    },
    {
     "fileFormat": "jpg",
@@ -3646,6 +3646,34 @@
     "camera": "Nikon",
     "introduction": "The closest North Karelian town to the Russian border, Ilomantsi has an Orthodox religion and its own dialect. There is a handful of interesting sights here, but with little tourist infrastructure you’re better off visiting during the day and then heading for the national parks and scenic areas beyond.",
     "shareLink": "https://haomingxiong.com/2011-09-ilomantsi-north-karelia-finland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.09_Kauppatori_Helsinki_Uusimaa_Finland",
+    "keywords": ["kauppatori",
+                 "sea",
+                 "helsinki",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Kauppatori_Helsinki_Uusimaa_Finland_01.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_02.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_03.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_04.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_05.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_06.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_07.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_08.jpg",
+                      "2011.09_Kauppatori_Helsinki_Uusimaa_Finland_09.jpg"
+                      ],
+    "coordinates": ["60.167398", "24.955523"],
+    "location": "Kauppatori, Helsinki, Uusimaa, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The heart of central Helsinki is the harbourside kauppatori (market square), where cruises and ferries leave for archipelago islands. It's completely touristy these days, with reindeer souvenir stands having replaced most market stalls, but there are still some berries and flowers for sale, and cheap food options.",
+    "shareLink": "https://haomingxiong.com/2011-09-olavinlinna-savonlinna-southern-savonia-finland/"
    },
    {
     "fileFormat": "jpg",
