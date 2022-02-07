@@ -1,5 +1,5 @@
 {
-"versionNumber": 392,
+"versionNumber": 393,
 "galleryList":
   [
    {
@@ -10720,7 +10720,7 @@
     "date": "2019.10",
     "photographer": "Jesen",
     "camera": "Nikon D850",
-    "introduction": "Seacliff State Beach harbors a ‘cement boat,’ a quixotic freighter built of concrete that floated OK, but ended up here as a coastal fishing pier. During huge storms in February 2017, the boat actually broke apart but remains in situ.",
+    "introduction": "This beach is known for its fishing pier and concrete freighter, the SS Palo Alto. The ship is unsafe and closed to the public and half of the pier remains closed until needed repairs can be made. The beach is a popular swimming spot. There is a long stretch of sand backed by bluffs. There are covered picnic facilities and a visitor center.",
     "shareLink": "https://haomingxiong.com/2019-10-sunset-seacliff-state-beach-california-usa/"
    },
    {
@@ -11466,6 +11466,37 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2021.12_Birds_Sunset-State-Beach_California_USA",
+    "keywords": ["birds",
+                 "sunset state beach",
+                 "sunset",
+                 "state beach",
+                 "beach",
+                 "california",
+                 "usa",
+                 "2021"
+                ],
+    "galleryImages": ["2021.12_Birds_Sunset-State-Beach_California_USA_01.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_02.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_03.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_04.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_05.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_06.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_07.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_08.jpg",
+                      "2021.12_Birds_Sunset-State-Beach_California_USA_09.jpg"
+                      ],
+    "coordinates": ["36.888218", "-121.833521"],
+    "location": "Birds, Sunset State Beach, California, USA",
+    "country": "USA",
+    "date": "2021.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "A peaceful campground under the pines, picnicking on the beach, and unmatched views of Monterey Bay make Sunset State Beach a favorite year-round destination.",
+    "shareLink": "https://haomingxiong.com/2021-12-birds-sunset-state-beach-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2021.12_Blue-Mesa_Petrified-Forest-National-Park_Arizona_USA",
     "keywords": ["blue mesa",
                  "petrified forest",
@@ -11558,10 +11589,12 @@
    {
     "fileFormat": "jpg",
     "filePath": "2021.12_North-Algodones-Dunes-Wilderness-Area_Brawley_California_USA",
-    "keywords": ["meteor crater natural landmark",
-                 "meteor crater",
-                 "crater",
-                 "arizona",
+    "keywords": ["north algodones dunes wilderness area",
+                 "north algodones",
+                 "algodones",
+                 "dunes",
+                 "brawley",
+                 "california",
                  "usa",
                  "2021"
                 ],
