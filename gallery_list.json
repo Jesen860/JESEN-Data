@@ -1,5 +1,5 @@
 {
-"versionNumber": 399,
+"versionNumber": 400,
 "galleryList":
   [
    {
@@ -11752,8 +11752,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2021.12_Sunset_Sunset-State-Beach_California_USA",
-    "keywords": ["sunset",
-                 "sunset state beach",
+    "keywords": ["sunset state beach",
                  "sunset",
                  "state beach",
                  "beach",
@@ -11771,8 +11770,38 @@
                       "2021.12_Sunset_Sunset-State-Beach_California_USA_08.jpg",
                       "2021.12_Sunset_Sunset-State-Beach_California_USA_09.jpg"
                       ],
-    "coordinates": ["36.895835", "-121.838791"],
+    "coordinates": ["36.891807", "-121.836134"],
     "location": "Sunset, Sunset State Beach, California, USA",
+    "country": "USA",
+    "date": "2021.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "A peaceful campground under the pines, picnicking on the beach, and unmatched views of Monterey Bay make Sunset State Beach a favorite year-round destination.",
+    "shareLink": "https://haomingxiong.com/2021-12-sunset-state-beach-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2021.12_Sunset-State-Beach_California_USA",
+    "keywords": ["sunset state beach",
+                 "sunset",
+                 "state beach",
+                 "beach",
+                 "california",
+                 "usa",
+                 "2021"
+                ],
+    "galleryImages": ["2021.12_Sunset-State-Beach_California_USA_01.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_02.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_03.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_04.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_05.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_06.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_07.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_08.jpg",
+                      "2021.12_Sunset-State-Beach_California_USA_09.jpg"
+                      ],
+    "coordinates": ["36.895835", "-121.838791"],
+    "location": "Sunset State Beach, California, USA",
     "country": "USA",
     "date": "2021.12",
     "photographer": "Jesen",
