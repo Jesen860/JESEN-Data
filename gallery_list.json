@@ -11939,7 +11939,7 @@
                  "sea",
                  "california",
                  "usa",
-                 "2019"
+                 "2022"
                 ],
     "galleryImages": ["2022.01_Seacliff-State-Beach_California_USA_01.jpg",
                       "2022.01_Seacliff-State-Beach_California_USA_02.jpg",
@@ -11968,7 +11968,7 @@
                  "sonoma",
                  "california",
                  "usa",
-                 "2021"
+                 "2022"
                 ],
     "galleryImages": ["2022.01_Sonoma-Overlook-Trail_Sonoma_California_USA_01.jpg",
                       "2022.01_Sonoma-Overlook-Trail_Sonoma_California_USA_02.jpg",
@@ -11988,6 +11988,37 @@
     "camera": "Nikon D850",
     "introduction": "Sonoma Overlook Trail offers a pleasant 3 mile hike with views of the Sonoma Valley.  The trailhead is at the entrance to the Mountain Cemetery, just a few blocks north of the Sonoma Plaza. A diverse array of native plants and animals grace the gentle grade trail, and spectacular views of the town of Sonoma, the Sonoma Valley and the Bay Area can be found in the meadow at its top.",
     "shareLink": "https://haomingxiong.com/2022-01-sonoma-overlook-trail-sonoma-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA",
+    "keywords": ["fort point",
+                 "golden gate national recreation area",
+                 "golden gate",
+                 "national recreation area",
+                 "san francisco",
+                 "california",
+                 "usa",
+                 "2022"
+                ],
+    "galleryImages": ["2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_01.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_02.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_03.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_04.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_05.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_06.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_07.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_08.jpg",
+                      "2022.02_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.809216", "-122.475245"],
+    "location": "Fort Point, Golden Gate National Recreation Area, California, USA",
+    "country": "USA",
+    "date": "2022.02",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "A Civil War-era fortress tucked near the southern anchorage of the Golden Gate Bridge, Fort Point was originally slated to be removed in the original Bridge plans. An attempt in 1926 to preserve the fort by the American Institute of Architects failed to gain traction, but Chief Engineer Joseph Strauss recognized its historic value. “While the old fort has no military value now,” Strauss wrote, “it remains nevertheless a fine example of the mason’s art… it should be preserved and restored as a national monument.” In response to this challenge, Strauss’ engineers fashioned a massive steel arch that supported the roadway while preserving the fort. This design element—a graceful arc in elegant juxtaposition to the angular brick structure below—saved Fort Point, which would be named a National Historic Site by Richard Nixon on October 16, 1970.",
+    "shareLink": "https://haomingxiong.com/2022-02-fort-point-golden-gate-national-recreation-area-california-usa/"
    }
   ]
 }
