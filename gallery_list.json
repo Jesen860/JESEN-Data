@@ -1,5 +1,5 @@
 {
-"versionNumber": 403,
+"versionNumber": 404,
 "galleryList":
   [
    {
@@ -3007,6 +3007,37 @@
     "camera": "Nikon",
     "introduction": "Valletta is Malta’s lilliputian capital, built by the Knights of St John on a peninsula that’s only 1km by 600m. Its founder decreed that it should be ‘a city built by gentlemen for gentlemen’, and it retains its 16th-century elegance. It may be small, but it’s packed full of sights; when Unesco named Valletta a World Heritage site, it described it as ‘one of the most concentrated historic areas in the world’.",
     "shareLink": "https://haomingxiong.com/2010-12-valletta-south-eastern-region-malta/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.12_Xlendi_Gozo-Region_Malta",
+    "keywords": ["xlendi",
+                 "city",
+                 "bay",
+                 "island",
+                 "sea",
+                 "gozo",
+                 "malta",
+                 "2010"
+               ],
+    "galleryImages": ["2010.12_Xlendi_Gozo-Region_Malta_01.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_02.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_03.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_04.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_05.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_06.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_07.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_08.jpg",
+                      "2010.12_Xlendi_Gozo-Region_Malta_09.jpg"
+                      ],
+    "coordinates": ["36.030459", "14.217112"],
+    "location": "Xlendi, Gozo Region, Malta",
+    "country": "Malta",
+    "date": "2010.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Xlendi is a village in Malta situated in the southwest of the island of Gozo. It is surrounded by the villages of Munxar, Fontana, and Kerċem. The village is administered by Munxar but has its own coat of arms and motto. From March 2010, Xlendi has had its own 5-person “mini council” responsible for the main activities of the area.",
+    "shareLink": "https://haomingxiong.com/2010-12-xlendi-gozo-region-malta/"
    },
    {
     "fileFormat": "jpg",
