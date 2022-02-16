@@ -1,5 +1,5 @@
 {
-"versionNumber": 405,
+"versionNumber": 406,
 "galleryList":
   [
    {
@@ -12019,6 +12019,30 @@
     "camera": "Nikon D850",
     "introduction": "A Civil War-era fortress tucked near the southern anchorage of the Golden Gate Bridge, Fort Point was originally slated to be removed in the original Bridge plans. An attempt in 1926 to preserve the fort by the American Institute of Architects failed to gain traction, but Chief Engineer Joseph Strauss recognized its historic value. “While the old fort has no military value now,” Strauss wrote, “it remains nevertheless a fine example of the mason’s art… it should be preserved and restored as a national monument.” In response to this challenge, Strauss’ engineers fashioned a massive steel arch that supported the roadway while preserving the fort. This design element—a graceful arc in elegant juxtaposition to the angular brick structure below—saved Fort Point, which would be named a National Historic Site by Richard Nixon on October 16, 1970.",
     "shareLink": "https://haomingxiong.com/2022-02-fort-point-golden-gate-national-recreation-area-california-usa/"
-   }
+  },
+  {
+   "fileFormat": "mp4",
+   "filePath": "2022.02_Tennessee-Cove_Golden-Gate-National-Recreation-Area_California_USA",
+   "keywords": ["tennessee cove",
+                "tennessee",
+                "cove",
+                "sea",
+                "golden gate national recreation area",
+                "golden gate",
+                "california",
+                "usa",
+                "2022",
+                "video"
+               ],
+   "galleryImages": [],
+   "coordinates": ["37.837354", "-122.550550"],
+   "location": "Tennessee Cove, Golden Gate National Recreation Area, California, USA",
+   "country": "USA",
+   "date": "2022.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Tennessee Cove is a popular destination for a picnic or for a casual hang at the end of Tennessee Valley trail. The cove boasts a broad beach surrounded by high, rocky bluffs. A short side trail will take you up a bluff for excellent views from old coastal defense observation posts.",
+   "shareLink": "https://haomingxiong.com/2019-11-airview-franklin-point-ano-nuevo-state-park-california-usa/"
+  }
   ]
 }
