@@ -1,5 +1,5 @@
 {
-"versionNumber": 406,
+"versionNumber": 407,
 "galleryList":
   [
    {
@@ -12043,6 +12043,29 @@
    "camera": "Nikon D850",
    "introduction": "Tennessee Cove is a popular destination for a picnic or for a casual hang at the end of Tennessee Valley trail. The cove boasts a broad beach surrounded by high, rocky bluffs. A short side trail will take you up a bluff for excellent views from old coastal defense observation posts.",
    "shareLink": "https://haomingxiong.com/2022-02-tennessee-cove-golden-gate-national-recreation-area-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "filePath": "2022.02_Golden-Gate-Bridge_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA",
+   "keywords": ["golden gate bridge",
+                "bridge",
+                "sea",
+                "golden gate national recreation area",
+                "golden gate",
+                "california",
+                "usa",
+                "2022",
+                "video"
+               ],
+   "galleryImages": [],
+   "coordinates": ["37.837354", "-122.550550"],
+   "location": "Golden Gate Bridge, Fort Point, Golden Gate National Recreation Area, California, USA",
+   "country": "USA",
+   "date": "2022.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Few cities boast a structure so iconic as the Golden Gate Bridge, commemorated in everything from films like The Maltese Falcon to not one but two emojis. Still, it’s become so much a part of San Francisco’s fabric and the popular imagination that it’s easy to forget what an uphill battle it was to even break ground on the bridge. The decades long battle for the construction of the Golden Gate Bridge included nay-saying over logistical challenges presented by the depth of the bay, the hard winds that come in off the Pacific, and even protected sites like Fort Point. The project also had such fierce opponents as the Southern Pacific Railroad Company’s ferry subsidiaries, the United States Navy, and even teamsters advocating for local labor, all who had a vested interest in prevent a bridge from ever crossing the San Francisco Bay.",
+   "shareLink": "https://haomingxiong.com/2022-02-golden-gate-bridge-fort-point-golden-gate-national-recreation-area-california-usa/"
   }
   ]
 }
