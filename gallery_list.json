@@ -1,5 +1,5 @@
 {
-"versionNumber": 407,
+"versionNumber": 408,
 "galleryList":
   [
    {
@@ -22,7 +22,7 @@
                       "2008.12_Jet-d'Eau_Geneva_Switzerland_08.jpg",
                       "2008.12_Jet-d'Eau_Geneva_Switzerland_09.jpg"
                       ],
-    "coordinates": ["48.886704", "2.343072"],
+    "coordinates": ["46.207389", "6.155903"],
     "location": "Jet d’Eau, Geneva, Switzerland",
     "country": "Switzerland",
     "date": "2008.12",
@@ -3591,7 +3591,7 @@
                       "2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France_08.jpg",
                       "2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France_09.jpg"
                       ],
-    "coordinates": ["48.856107", "2.312783"],
+    "coordinates": ["48.886704", "2.343072"],
     "location": "Basilique du Sacré-Cœur, Paris, France",
     "country": "France",
     "date": "2011.07",
