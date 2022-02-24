@@ -1,5 +1,5 @@
 {
-"versionNumber": 416,
+"versionNumber": 417,
 "galleryList":
   [
    {
@@ -4620,6 +4620,35 @@
     "camera": "Nikon",
     "introduction": "At the southwestern tip of the artificial island Île aux Cygnes, on the western side of the Pont de Grenelle, is a soaring one-quarter scale Statue of Liberty replica, inaugurated in 1889.",
     "shareLink": "https://haomingxiong.com/2011-07-statue-de-la-liberte-paris-i%cc%82le-de-france-france/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania",
+    "keywords": ["trakai island castle",
+                 "island",
+                 "castle",
+                 "trakai",
+                 "lithuania",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_01.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_02.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_03.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_04.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_05.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_06.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_07.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_08.jpg",
+                      "2011.11_Trakai-Island-Castle_Trakai_Dzukija_Lithuania_09.jpg"
+                      ],
+    "coordinates": ["54.652311", "24.933642"],
+    "location": "Trakai Island Castle, Trakai, Lithuania",
+    "country": "Lithuania",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Stepping across the wooden walkway to Trakai’s Gothic castle is like tripping into a fairy tale. The castle is estimated to date from around 1400, when Grand Duke Vytautas needed stronger defences than the peninsula castle afforded. Arranged between its coral-coloured brick towers, the excellent Trakai History Museum conveys the flavour of past eras: chainmail, medieval weapons, 19th-century embroidery and glassware, plus talking knights, projected onto the stone walls.",
+    "shareLink": "https://haomingxiong.com/2011-11-trakai-island-castle-trakai-dzukija-lithuania/"
    },
    {
     "fileFormat": "jpg",
