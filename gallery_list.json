@@ -1,5 +1,5 @@
 {
-"versionNumber": 422,
+"versionNumber": 423,
 "galleryList":
   [
    {
@@ -12039,6 +12039,37 @@
     "camera": "Nikon D850",
     "introduction": "Flowers are blooming in the summer days. With pleasant scent, they draw attentation not only from bees but also me.",
     "shareLink": "https://haomingxiong.com/2021-06-clouds-deyang-sichuan-china/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA",
+    "keywords": ["alkali flat trail",
+                 "white sands",
+                 "white sands national park",
+                 "national park",
+                 "park",
+                 "new mexico",
+                 "usa",
+                 "2021"
+                ],
+    "galleryImages": ["2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_01.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_02.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_03.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_04.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_05.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_06.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_07.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_08.jpg",
+                      "2021.12_Alkali-Flat-Trail_White-Sands-National-Park_New-Mexico_USA_09.jpg"
+                      ],
+    "coordinates": ["32.820553", "-106.273137"],
+    "location": "Alkali Flat Trail, White Sands National Park, New Mexico, USA",
+    "country": "USA",
+    "date": "2021.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Imagine yourself surrounded by the spectacular views of endless dunes with few footprints. If you yearn for these views, the Alkali Flat Trail is for you. This trail takes you through the heart of the sands, up and over steep dunes, to the edges of the Alkali Flat. The Alkali Flat is the dry lakebed of Lake Otero, a lake that filled the bottom of the Tularosa Basin during the last ice age and covered 1,600 square miles.",
+    "shareLink": "https://haomingxiong.com/2021-12-alkali-flat-trail-white-sands-national-park-new-mexico-usa/"
    },
    {
     "fileFormat": "jpg",
