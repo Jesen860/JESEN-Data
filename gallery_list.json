@@ -1,5 +1,5 @@
 {
-"versionNumber": 427,
+"versionNumber": 428,
 "galleryList":
   [
    {
@@ -2244,6 +2244,34 @@
     "camera": "Nikon",
     "introduction": "Reykjavík’s immense white-concrete church (1945–86), star of a thousand postcards, dominates the skyline and is visible from up to 20km away. An elevator trip up the 74.5m-high tower reveals an unmissable view of the city. In contrast to the high drama outside, the Lutheran church’s interior is quite plain. The most eye-catching feature is the vast 5275-pipe organ installed in 1992. The church’s size and radical design caused controversy, and its architect, Guðjón Samúelsson (1887–1950), never saw its completion.",
     "shareLink": "https://haomingxiong.com/2010-09-hallgrimskirkja-reykjavik-capital-region-iceland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.09_Hofn_Eastern-Region_Iceland",
+    "keywords": ["höfn",
+                 "hofn",
+                 "city",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Hofn_Eastern-Region_Iceland_01.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_02.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_03.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_04.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_05.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_06.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_07.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_08.jpg",
+                      "2010.09_Hofn_Eastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["64.254467", "-15.207201"],
+    "location": "Höfn, Eastern Region, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "After driving through the desolate south coast, or the barely populated areas in the East Fjords, arriving in Höfn truly feels like entering a metropolis. Therefore Höfn, also known as Höfn í Hornafirði, is quite an important center for tourists who travel around Iceland’s ring road. However, the tiny town has scarcely more than 2200 citizens.",
+    "shareLink": "https://haomingxiong.com/2010-09-hofn-eastern-region-iceland/"
    },
    {
     "fileFormat": "jpg",
