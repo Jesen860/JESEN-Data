@@ -1,5 +1,5 @@
 {
-"versionNumber": 426,
+"versionNumber": 427,
 "galleryList":
   [
    {
@@ -1909,6 +1909,37 @@
     "camera": "Nikon",
     "introduction": "In a magnificent black-lava field, the cyan Blue Lagoon spa is fed water from the futuristic Svartsengi geothermal plant; with its silver towers, roiling clouds of steam, and people daubed in white silica mud, it’s an otherworldly place. Those who say it’s too commercial and too crowded aren’t wrong, but you’ll be missing something special if you don’t go. Pre-booking is essential.",
     "shareLink": "https://haomingxiong.com/2010-09-blue-lagoon-grindavik-southern-peninsula-iceland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland",
+    "keywords": ["burning clouds",
+                 "clouds",
+                 "vagnstaðir",
+                 "vagnstaðir",
+                 "höfn",
+                 "hofn",
+                 "iceland",
+                 "2010"
+               ],
+    "galleryImages": ["2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_01.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_02.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_03.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_04.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_05.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_06.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_07.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_08.jpg",
+                      "2010.09_Burning-Clouds_Vagnstadir_Hofn_Eastern-Region_Iceland_09.jpg"
+                      ],
+    "coordinates": ["64.181946", "-15.810031"],
+    "location": "Burning Clouds, Vagnstaðir, Höfn, Iceland",
+    "country": "Iceland",
+    "date": "2010.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "At the heart of Vatnajökull National Park, and only a short drive away from the amazing Jökulsárlón glacial lagoon, Vagnsstaðir Hostel is the ideal base for glacier exploration. Snowmobile and truck tours up to Vatnajökull glacier can be arranged from the hostel, and during the winter months there are tours for ice cave exploration and enjoying the northern lights.",
+    "shareLink": "https://haomingxiong.com/2010-09-burning-clouds-vagnstadir-hofn-eastern-region-iceland/"
    },
    {
     "fileFormat": "jpg",
