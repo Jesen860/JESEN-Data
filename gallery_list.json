@@ -1,5 +1,5 @@
 {
-"versionNumber": 428,
+"versionNumber": 429,
 "galleryList":
   [
    {
@@ -4061,6 +4061,34 @@
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "The closest North Karelian town to the Russian border, Ilomantsi has an Orthodox religion and its own dialect. There is a handful of interesting sights here, but with little tourist infrastructure you’re better off visiting during the day and then heading for the national parks and scenic areas beyond.",
+    "shareLink": "https://haomingxiong.com/2011-09-ilomantsi-north-karelia-finland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.09_Imatra_South-Karelia_Finland",
+    "keywords": ["imatra",
+                 "city",
+                 "south karelia",
+                 "finland",
+                 "2011"
+                ],
+    "galleryImages": ["2011.09_Imatra_South-Karelia_Finland_01.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_02.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_03.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_04.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_05.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_06.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_07.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_08.jpg",
+                      "2011.09_Imatra_South-Karelia_Finland_09.jpg"
+                      ],
+    "coordinates": ["61.169990", "28.774245"],
+    "location": "Imatra, South Karelia, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "On the southern shores of Lake Saimaa, close to the Russian border, and dominated by the River Vuoksi and the incredible Imantrankoski rapids, Imatra is often considered the first tourist town in Finland, thanks to the 1772 visit by Russian Empress Cathering the Great. Indeed, the area was so popular with Russian royalty that in 1842 Tsar Nicholas I ordered Kruununpuisto Park into existence, making it the oldest nature park in Finland. There are numerous museums in Imatra, and it is also home to two very striking, and totally different, architectural gems – the Church of the Three Crosses by Alvar Aalto, and Imatran Valtionhotelli, a Jugendstil building built in 1903 which resembles a medieval knight’s castle.",
     "shareLink": "https://haomingxiong.com/2011-09-ilomantsi-north-karelia-finland/"
    },
    {
