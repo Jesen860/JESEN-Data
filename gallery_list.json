@@ -1,5 +1,5 @@
 {
-"versionNumber": 425,
+"versionNumber": 426,
 "galleryList":
   [
    {
@@ -1285,6 +1285,36 @@
     "camera": "Nikon",
     "introduction": "Hörnumer Straße connects Hörnum and Rantum, along the Hörnumer Straße there is a popular route for mudflat hiking leads along the eastern shore to Rantum.",
     "shareLink": "https://haomingxiong.com/2010-04-ho%cc%88rnumer-strase-sylt-schleswig-holstein-germany/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.04_Lubeck_Schleswig-Holstein_Germany",
+    "keywords": ["lübeck",
+                 "lubeck",
+                 "city",
+                 "schleswig-holstein",
+                 "deutschland",
+                 "germany",
+                 "2010"
+               ],
+    "galleryImages": ["2010.04_Lubeck_Schleswig-Holstein_Germany_01.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_02.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_03.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_04.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_05.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_06.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_07.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_08.jpg",
+                      "2010.04_Lubeck_Schleswig-Holstein_Germany_09.jpg"
+                      ],
+    "coordinates": ["53.867811", "10.687358"],
+    "location": "Lübeck, Schleswig-Holstein, Germany",
+    "country": "Germany",
+    "date": "2010.04",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A 12th-century gem boasting more than a thousand historic buildings, Lübeck’s picture-book appearance is an enduring reminder of its role as one of the founding cities of the mighty Hanseatic League and its moniker ‘Queen of the Hanse’. Behind its landmark Holstentor, you’ll find streets lined with medieval merchants’ homes and spired churches forming Lübeck’s ‘crown’.",
+    "shareLink": "https://haomingxiong.com/2010-04-lubeck-schleswig-holstein-germany/"
    },
    {
     "fileFormat": "jpg",
