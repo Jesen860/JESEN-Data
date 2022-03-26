@@ -1,5 +1,5 @@
 {
-"versionNumber": 429,
+"versionNumber": 430,
 "galleryList":
   [
    {
@@ -4456,6 +4456,34 @@
     "camera": "Nikon",
     "introduction": "Lithuania’s fabled Hill of Crosses is a symbol of defiance as much as a pilgrimage site. More than 100,000 crosses have been planted on this low hill, many of them strung with rosary beads that rattle softly in the breeze. The tradition began during the 1831 Uprising and reached its height in the 1960s, in defiance of anti-religious Soviet rule. At night locals crept here to lay crosses, infuriating their oppressors.",
     "shareLink": "https://haomingxiong.com/2011-11-hill-of-crosses-siauliai-samogitia-lithuania/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.11_Kaunas_Suvalkija_Lithuania",
+    "keywords": ["kaunas",
+                 "city",
+                 "suvalkija",
+                 "lithuania",
+                 "2011"
+                ],
+    "galleryImages": ["2011.11_Kaunas_Suvalkija_Lithuania_01.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_02.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_03.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_04.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_05.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_06.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_07.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_08.jpg",
+                      "2011.11_Kaunas_Suvalkija_Lithuania_09.jpg"
+                      ],
+    "coordinates": ["54.897340", "23.889158"],
+    "location": "Kaunas, Suvalkija, Lithuania",
+    "country": "Lithuania",
+    "date": "2011.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A scrappy little sister compared to debonair Vilnius, Kaunas (kow-nas) sprawls out from its dainty Old Town and 14th-century fort. Strategically wedged at the confluence of the Nemunas and Neris Rivers, Kaunas gained a taste for the limelight during a brief spell as Lithuania’s capital in the interwar period; the town owes some of its most attractive architecture to this era.",
+    "shareLink": "https://haomingxiong.com/2011-11-kaunas-suvalkija-lithuania/"
    },
    {
     "fileFormat": "jpg",
