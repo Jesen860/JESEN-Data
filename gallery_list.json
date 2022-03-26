@@ -1,5 +1,5 @@
 {
-"versionNumber": 430,
+"versionNumber": 431,
 "galleryList":
   [
    {
@@ -4886,6 +4886,38 @@
     "camera": "Nikon",
     "introduction": "This magnificent, soaring white wave of an auditorium was designed by the internationally renowned Spanish architect Santiago Calatrava, and delivers shades of the Sydney Opera House, plus superb acoustics. Guided 45-minute tours (€7.50; reserved in advance by telephone) in English, German or Spanish take you behind the scenes of the remarkable building.",
     "shareLink": "https://haomingxiong.com/2011-12-auditorio-de-tenerife-santa-cruz-de-tenerife-tenerife-las-palmas-spain/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain",
+    "keywords": ["corralejo",
+                 "city",
+                 "beach",
+                 "ocean",
+                 "fuerteventura",
+                 "canary islands",
+                 "canary",
+                 "island",
+                 "spain"
+                ],
+    "galleryImages": ["2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_01.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_02.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_03.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_04.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_05.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_06.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_07.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_08.jpg",
+                      "2011.12_Corralejo_Fuerteventura_Canary-Islands_Spain_09.jpg"
+                      ],
+    "coordinates": ["28.737288", "-13.867748"],
+    "location": "Corralejo, Fuerteventura, Canary Islands, Spain",
+    "country": "Spain",
+    "date": "2011.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Tostón Lighthouse is an active lighthouse on the Canary island of Fuerteventura. The lighthouse is situated on the northwestern coast of the island near to the village of El Cotillo, in the municipality of La Oliva. In conjunction with the lights at Pechiguera and Punta Martiño, it marks the narrow La Bocayna strait that separates Fuerteventura from the adjacent island of Lanzarote.",
+    "shareLink": "https://haomingxiong.com/2011-12-corralejo-fuerteventura-canary-islands-spain/"
    },
    {
     "fileFormat": "jpg",
