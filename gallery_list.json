@@ -1,5 +1,5 @@
 {
-"versionNumber": 431,
+"versionNumber": 432,
 "galleryList":
   [
    {
@@ -5078,6 +5078,36 @@
     "camera": "Nikon",
     "introduction": "Piedra Playa is the go-to beach for surfers, kite surfers, and windsurfers. It has even earned the moniker the ‘Wild Beach’ and ‘Surfer’s Beach’ because of its popularity with the wave riders. Beginners shouldn’t be intimidated, though, as there are many surf schools in the area. Although called by many labels, its actual name translates to ‘Stone Beach.’ To reach it, people must go through a very bumpy gravel road. There are small rocks in some areas too, and both ends have cliffs. So, in contrast to its name, the over 1,500-meter-long stretch has fine sand. It does, however, have some ‘stony’ features.",
     "shareLink": "https://haomingxiong.com/2011-12-piedra-playa-el-cotillo-fuerteventura-canary-islands-spain/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain",
+    "keywords": ["pozo de las nieves",
+                 "mountain",
+                 "gran canaria",
+                 "canary islands",
+                 "canary",
+                 "island",
+                 "spain"
+                ],
+    "galleryImages": ["2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_01.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_02.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_03.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_04.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_05.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_06.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_07.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_08.jpg",
+                      "2011.12_Pozo-de-las-Nieves_Gran-Canaria_Canary-Islands_Spain_09.jpg"
+                      ],
+    "coordinates": ["27.961955", "-15.571977"],
+    "location": "Pozo de las Nieves, Gran Canaria, Canary Islands, Spain",
+    "country": "Spain",
+    "date": "2011.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Those with their own vehicle can drive 15km southeast of Tejeda to the highest peak on the island (1949m), which offers breathtaking views on a clear day. Follow the signs for Los Pechos and keep an eye out for the military communications post that sits atop the rise. Northwest of here stands the distinctive Roque Nublo.",
+    "shareLink": "https://haomingxiong.com/2011-12-pozo-de-las-nieves-gran-canaria-canary-islands-spain/"
    },
    {
     "fileFormat": "jpg",
