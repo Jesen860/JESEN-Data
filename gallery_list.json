@@ -1,5 +1,5 @@
 {
-"versionNumber": 434,
+"versionNumber": 435,
 "galleryList":
   [
    {
@@ -6723,6 +6723,35 @@
     "camera": "Nikon",
     "introduction": "Liège’s main train station, around 2km south of the centre, is an incredible 2009 icon designed by Santiago Calatrava. Great for semi-abstract landscape photography, its bold white sweeping curves create the impression of a vast glass-and-concrete manta ray.",
     "shareLink": "https://haomingxiong.com/2012-08-liege-guillemins-railway-station-liege-liege-province-belgium/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany",
+    "keywords": ["marmorpalais",
+                 "palace",
+                 "potsdam",
+                 "brandenburg",
+                 "germany",
+                 "2012"
+                ],
+    "galleryImages": ["2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_01.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_02.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_03.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_04.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_05.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_06.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_07.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_08.jpg",
+                      "2012.08_Marmorpalais_Potsdam_Brandenburg_Germany_09.jpg"
+                      ],
+    "coordinates": ["52.412792", "13.069453"],
+    "location": "Marmorpalais, Potsdam, Brandenburg, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "As the name suggests, the early-neoclassical Marmorpalais is a symphony in colourful marble on floors, walls, ceilings and fireplaces. The palace was built in 1792 as a summer retreat for Friedrich Wilhelm II by Carl von Gontard and overlooks the Heiliger See. The most fanciful rooms are the Konzertsaal (concert hall), designed to resemble an antique temple, and the Turkish-tent-style Orientalisches Kabinett (Oriental Cabinet) upstairs.",
+    "shareLink": "https://haomingxiong.com/2012-08-marmorpalais-potsdam-brandenburg-germany/"
    },
    {
     "fileFormat": "jpg",
