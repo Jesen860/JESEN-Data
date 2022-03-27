@@ -1,5 +1,5 @@
 {
-"versionNumber": 435,
+"versionNumber": 436,
 "galleryList":
   [
    {
@@ -6843,8 +6843,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2012.08_Phaeno_Wolfsburg_Niedersachsen_Germany",
-    "keywords": ["porschestraße",
-                 "porschestrasse",
+    "keywords": ["phaeno",
                  "wolfsburg",
                  "niedersachsen",
                  "germany",
@@ -6860,14 +6859,14 @@
                       "2012.08_Phaeno_Wolfsburg_Niedersachsen_Germany_08.jpg",
                       "2012.08_Phaeno_Wolfsburg_Niedersachsen_Germany_09.jpg"
                       ],
-    "coordinates": ["52.422221", "10.78719"],
-    "location": "Porschestraße, Wolfsburg, Niedersachsen, Germany",
+    "coordinates": ["52.428874", "10.790563"],
+    "location": "Phaeno, Wolfsburg, Niedersachsen, Germany",
     "country": "Germany",
     "date": "2012.08",
     "photographer": "Jesen",
     "camera": "Nikon",
-    "introduction": "Several shiny state-of-the-art museums, covering automobiles, technology, science and modern art, make Wolfsburg a worthwhile visit for travelling families and enquiring minds. It can be done as a day trip from Hanover, Braunschweig or Berlin, but a range of accommodation options make it easy to stay overnight if you’re planning on covering more than one museum.",
-    "shareLink": "https://haomingxiong.com/2012-08-porschestrase-wolfsburg-niedersachsen-germany/"
+    "introduction": "The glass-and-concrete building that houses this brilliant and engaging science centre was designed by the late British-Iraqi architect Dame Zaha Hadid. Inside are over 300 hands-on physics exhibits and experiments (with instructions and explanations in both German and English), great for inquisitive minds, young and old.",
+    "shareLink": "https://haomingxiong.com/2012-08-phaeno-wolfsburg-niedersachsen-germany/"
    },
    {
     "fileFormat": "jpg",
