@@ -11627,7 +11627,7 @@
    },
    {
     "fileFormat": "mp4",
-    "videoIsHorizontal": false,
+    "videoOrientation": "vertical",
     "filePath": "2019.11_Airview_Franklin-Point_Ano-Nuevo-State-Park_California_USA",
     "keywords": ["franklin point",
                  "ano nuevo state park",
@@ -12292,7 +12292,7 @@
    },
    {
     "fileFormat": "mp4",
-    "videoIsHorizontal": false,
+    "videoOrientation": "vertical",
     "filePath": "2020.02_Top-Airview_Tomales-Point_Point-Reyes-National-Seashore_California_USA",
     "keywords": ["tomales point",
                  "point reyes national seashore",
@@ -12841,7 +12841,7 @@
    },
    {
     "fileFormat": "mp4",
-    "videoIsHorizontal": false,
+    "videoOrientation": "vertical",
     "filePath": "2022.02_Airview_Devil's-Slide-Military-Bunker_Half-Moon-Bay_California_USA",
     "keywords": ["airview",
                  "devil’s slide military bunker",
@@ -12896,7 +12896,7 @@
   },
   {
    "fileFormat": "mp4",
-   "videoIsHorizontal": false,
+   "videoOrientation": "vertical",
    "filePath": "2022.02_Golden-Gate-Bridge_Fort-Point_Golden-Gate-National-Recreation-Area_California_USA",
    "keywords": ["golden gate bridge",
                 "bridge",
@@ -12920,7 +12920,7 @@
   },
   {
    "fileFormat": "mp4",
-   "videoIsHorizontal": false,
+   "videoOrientation": "vertical",
    "filePath": "2022.02_Tennessee-Cove_Golden-Gate-National-Recreation-Area_California_USA",
    "keywords": ["tennessee cove",
                 "tennessee",
