@@ -1,5 +1,5 @@
 {
-"versionNumber": 442,
+"versionNumber": 443,
 "galleryList":
   [
    {
@@ -13028,7 +13028,7 @@
   },
   {
    "fileFormat": "mp4",
-   "videoOrientation": "horizontal",
+   "videoOrientation": "vertical",
    "filePath": "2022.04_Airview_Soberanes-Point_Garrapata-State-Park_California_USA",
    "keywords": ["airview",
                 "soberanes point",
