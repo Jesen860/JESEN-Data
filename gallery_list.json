@@ -1,5 +1,5 @@
 {
-"versionNumber": 443,
+"versionNumber": 445,
 "galleryList":
   [
    {
@@ -13001,6 +13001,29 @@
    "shareLink": "https://haomingxiong.com/2022-02-fort-point-golden-gate-national-recreation-area-california-usa/"
   },
   {
+   "fileFormat": "jpg",
+   "filePath": "2022.03_Clear-Lake-State-Park_California_USA",
+   "keywords": [],
+   "galleryImages": ["2022.03_Clear-Lake-State-Park_California_USA_01.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_02.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_03.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_04.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_05.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_06.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_07.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_08.jpg",
+                     "2022.03_Clear-Lake-State-Park_California_USA_09.jpg"
+                     ],
+   "coordinates": ["39.020066", "-122.810150"],
+   "location": "Clear Lake State Park, California, USA",
+   "country": "USA",
+   "date": "2022.03",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Clear Lake State Park is on the shores of California’s largest freshwater lake. The area is popular for all kinds of water recreation, including swimming, fishing, boating and water-skiing. Anglers can catch largemouth bass, crappie, bluegill and channel catfish. The park is a nesting place for waterfowl. Hikers can enjoy various hiking trails throughout the park.  The Indian Nature Trail is a moderate half-mile self-guided trail that shows how the Pomo people utilized the area’s resources. The trail passes through the site of what was once a Pomo village.  The Dorn Trail is a guided interpretative 2.5-mile trail, which allows hikers to witness the natural features of the park.  The Kelsey Creek Trail is an accessible trail which highlights the waterfowl that inhabit Kelsey Slough.",
+   "shareLink": "https://haomingxiong.com/2022-03-clear-lake-state-park-california-usa/"
+  },
+  {
    "fileFormat": "mp4",
    "videoOrientation": "horizontal",
    "filePath": "2022.04_Airview_Garrapata-State-Park_California_USA",
@@ -13138,7 +13161,7 @@
    "filePath": "2022.04_McWay-Falls_Julia-Pfeiffer-Burns-State-Park_California_USA",
    "keywords": [],
    "galleryImages": [],
-   "coordinates": ["37.433788", "-122.441564"],
+   "coordinates": ["36.158342", "-121.672115"],
    "location": "McWay Cove, Julia Pfeiffer Burns State Park, California, USA",
    "country": "USA",
    "date": "2022.04",
