@@ -1,5 +1,5 @@
 {
-"versionNumber": 446,
+"versionNumber": 447,
 "galleryList":
   [
    {
@@ -7843,6 +7843,29 @@
     "camera": "Nikon",
     "introduction": "Mohave Point is a great spot to watch the sun rise or set. In high season, when crowds at popular overlooks can be unbearable, Mohave makes a particularly good spot because multiple overlooks offer a better chance of finding a quiet spot, and it’s easy to wind your way along the rim to excellent but unofficial views.",
     "shareLink": "https://haomingxiong.com/2013-12-mohave-point-grand-canyon-national-park-arizona-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2013.12_Prescott_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2013.12_Prescott_Arizona_USA_01.jpg",
+                      "2013.12_Prescott_Arizona_USA_02.jpg",
+                      "2013.12_Prescott_Arizona_USA_03.jpg",
+                      "2013.12_Prescott_Arizona_USA_04.jpg",
+                      "2013.12_Prescott_Arizona_USA_05.jpg",
+                      "2013.12_Prescott_Arizona_USA_06.jpg",
+                      "2013.12_Prescott_Arizona_USA_07.jpg",
+                      "2013.12_Prescott_Arizona_USA_08.jpg",
+                      "2013.12_Prescott_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["34.540936", "-112.469414"],
+    "location": "Prescott, Arizona, USA",
+    "country": "USA",
+    "date": "2013.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Prescott was Arizona’s first territorial capital. Prescott was founded after the gold rush of 1863 and boasts more than 500 buildings on the National Registry of Historic Places. Here in Prescott, you’ll learn about Teddy Roosevelt and the Rough Riders, Tom Mix, Doc Holliday, the history of the Goldwater family, hear how the rodeo began, learn about the Yavapai people, and much more.",
+    "shareLink": "https://haomingxiong.com/2013-12-prescott-arizona-usa/"
    },
    {
     "fileFormat": "jpg",
