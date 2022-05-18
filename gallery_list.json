@@ -1,5 +1,5 @@
 {
-"versionNumber": 452,
+"versionNumber": 453,
 "galleryList":
   [
    {
@@ -12761,14 +12761,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA",
-    "keywords": ["organ mountains desert peaks national monument",
-                 "organ mountains",
-                 "desert peaks",
-                 "national monument",
-                 "new mexico",
-                 "usa",
-                 "2021"
-                ],
+    "keywords": [],
     "galleryImages": ["2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_01.jpg",
                       "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_02.jpg",
                       "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_03.jpg",
@@ -12810,6 +12803,29 @@
     "camera": "Nikon D850",
     "introduction": "Anyone seeking solitude beneath big, blue, open skies will love the crowdless scenery of this stunning national park. Home to 28 species of cacti and a wide variety of fauna, it has two campgrounds and plenty of hiking trails and scenic drives. The wildflowers and milder temperatures during spring make this an attractive time to visit, while summers can be insufferably hot, bringing monsoon rains between July and September.",
     "shareLink": "https://haomingxiong.com/2021-12-organ-pipe-cactus-national-monument-arizona-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_01.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_02.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_03.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_04.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_05.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_06.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_07.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_08.jpg",
+                      "2021.12_Saguaro-West-Tucson-Mountain-District_Saguaro-National-Park_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["32.279661", "-111.204455"],
+    "location": "Saguaro West Tucson Mountain District, Saguaro National Park, Arizona, USA",
+    "country": "USA",
+    "date": "2021.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Fifteen miles west of the city of Tucson, the Tucson Mountain region of Saguaro National Park is smaller, lower and biologically younger than the east section but the saguaros are just as large and extensive. The north and west areas are generally flat with uninterrupted forests of the huge cacti, while the land becomes more mountainous towards the south and east, rising to a high point of 4,687 feet (Wasson Peak) where the saguaro are replaced by scattered bushes and sparse grassland, the temperatures are lower and the environment more moist.",
+    "shareLink": "https://haomingxiong.com/2021-12-saguaro-west-tucson-mountain-district-saguaro-national-park-arizona-usa/"
    },
    {
     "fileFormat": "jpg",
