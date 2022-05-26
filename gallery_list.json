@@ -1,5 +1,5 @@
 {
-"versionNumber": 458,
+"versionNumber": 459,
 "galleryList":
   [
    {
@@ -10350,14 +10350,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Sunset_Gold-Butte-National-Monument_Nevada_USA",
-    "keywords": ["sunset",
-                 "gold butte national monument",
-                 "gold butte",
-                 "national monument",
-                 "nevada",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Sunset_Gold-Butte-National-Monument_Nevada_USA_01.jpg",
                       "2018.12_Sunset_Gold-Butte-National-Monument_Nevada_USA_02.jpg",
                       "2018.12_Sunset_Gold-Butte-National-Monument_Nevada_USA_03.jpg",
@@ -10376,6 +10369,29 @@
     "camera": "Nikon",
     "introduction": "Gold Butte National Monument covers nearly 300,000 acres of remote and rugged desert landscape in southeastern Nevada, where dramatically chiseled red sandstone, twisting canyons, and tree-clad mountains punctuate desolate stretches of the Mojave Desert. The brightly hued sandstone provides a stunning canvas for the area’s famously beautiful rock art, and the desert provides critical habitat. The area is popular for outdoor recreation, and visitors to the monument can hike to rock art sites, drive the Gold Butte Backcountry Byway to the area’s namesake mining ghost town, hunt desert bighorn sheep, or tour the area’s peaks and canyons on horseback.",
     "shareLink": "https://haomingxiong.com/2018-12-sunset-gold-butte-national-monument-nevada-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA",
+    "keywords": [],
+    "galleryImages": ["2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_01.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_02.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_03.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_04.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_05.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_06.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_07.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_08.jpg",
+                      "2018.12_Sunset-View-Scenic-Overlook_Lake-Mead-National-Recreation-Area_Nevada_USA_09.jpg"
+                      ],
+    "coordinates": ["36.097018", "-114.822920"],
+    "location": "Sunset, Gold Butte National Monument, Nevada, USA",
+    "country": "USA",
+    "date": "2018.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Aptly named, this overlook is the perfect spot to enjoy the stunning sunsets and sunrises at Lake Mead. Enjoy a panoramic view of the Boulder Basin, the Muddy Mountains and the Callville Mesa.",
+    "shareLink": "https://haomingxiong.com/2018-12-sunset-view-scenic-overlook-lake-mead-national-recreation-area-nevada-usa/"
    },
    {
     "fileFormat": "jpg",
