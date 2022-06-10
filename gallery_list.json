@@ -1,5 +1,5 @@
 {
-"versionNumber": 471,
+"versionNumber": 473,
 "galleryList":
   [
    {
@@ -10154,17 +10154,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA",
+    "keywords": [],
+    "galleryImages": ["2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_01.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_02.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_03.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_04.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_05.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_06.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_07.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_08.jpg",
+                      "2018.12_Hoover-Dam-Lookout_Hoover-Dam_Nevada_USA_09.jpg"
+                      ],
+    "coordinates": ["36.013656", "-114.731809"],
+    "location": "Hoover Dam Lookout, Hoover Dam, Nevada, USA",
+    "country": "USA",
+    "date": "2018.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "At the height of the Depression, thousands of men and their families migrated here and worked in excruciating conditions, dangling hundreds of feet above Black Canyon in 120°F (about 50°C) heat to build this massive 726ft-high dam, completed ahead of schedule and under budget in 1936. Ninety-six workers lost their lives building the iconic art-deco styled structure, which redefines the stark landscape.",
+    "shareLink": "https://haomingxiong.com/2018-12-hoover-dam-lookout-hoover-dam-nevada-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2018.12_Kelso-Dunes_Mojave-National-Preserve_California_USA",
-    "keywords": ["kelso dunes",
-                 "dunes",
-                 "mojave national preserve",
-                 "mojave",
-                 "national park",
-                 "park",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Kelso-Dunes_Mojave-National-Preserve_California_USA_01.jpg",
                       "2018.12_Kelso-Dunes_Mojave-National-Preserve_California_USA_02.jpg",
                       "2018.12_Kelso-Dunes_Mojave-National-Preserve_California_USA_03.jpg",
@@ -12506,6 +12520,29 @@
     "camera": "Nikon D850",
     "introduction": "A peaceful campground under the pines, picnicking on the beach, and unmatched views of Monterey Bay make Sunset State Beach a favorite year-round destination.",
     "shareLink": "https://haomingxiong.com/2021-12-sunset-state-beach-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_01.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_02.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_03.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_04.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_05.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_06.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_07.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_08.jpg",
+                      "2021.12_Sunset_Windy-Point_Mt-Lemmon_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["32.368349", "-110.716842"],
+    "location": "Sunset, Windy Point Vista, Mt Lemmon, Arizona, USA",
+    "country": "USA",
+    "date": "2021.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "At just under 7,000 feet in elevation, there is no question why Windy Vista Point is such a popular place. Its spectacular views and opportunity to escape the summer heat makes this a highly sought after destination for Arizona residents and visitors alike. Approximately 18 miles up Catalina Highway, also known as the Sky Island Scenic Byway, you’ll find yourself at Windy Vista Viewpoint. From this point, you can see over all of Tucson and the Pusch Ridge Wilderness. Pusch Ridge covers over 56,933 acres of wilderness ranging in elevation from 2,800 feet at Sabina Canyon to 8,800 feet at Mount Lemmon. The geological diversity of the area makes for spectacular views. Several species of desert birds and reptiles run the lower elevations, while black bears can be spotted in the sub-alpine regions.",
+    "shareLink": "https://haomingxiong.com/2021-12-sunset-windy-point-vista-mt-lemmon-arizona-usa/"
    },
    {
     "fileFormat": "jpg",
