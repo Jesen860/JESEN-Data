@@ -1,5 +1,5 @@
 {
-"versionNumber": 473,
+"versionNumber": 474,
 "galleryList":
   [
    {
@@ -3489,6 +3489,29 @@
     "camera": "Nikon",
     "introduction": "Nestled beneath the Alps, just 9km east of Innsbruck, Hall is a beautiful medieval town that grew fat on the riches of salt in the 13th century. The winding lanes, punctuated by pastel-coloured town houses and lantern-lit after dark, are made for aimless ambling.",
     "shareLink": "https://haomingxiong.com/2011-05-hall-in-trirol-wattens-tyrol-state-austria/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.05_Plansee_Breitenwang_Tyrol-State_Austria",
+    "keywords": [],
+    "galleryImages": ["2011.05_Plansee_Breitenwang_Tyrol-State_Austria_01.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_02.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_03.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_04.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_05.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_06.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_07.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_08.jpg",
+                      "2011.05_Plansee_Breitenwang_Tyrol-State_Austria_09.jpg"
+                      ],
+    "coordinates": ["47.476433", "10.817383"],
+    "location": "Plansee, Breitenwang, Tyrol State, Austria",
+    "country": "Austria",
+    "date": "2011.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Plansee in the district of Reutte is the second-largest natural lake in Tirol after the Achensee. Like a fjord, it lies between the forest-covered ridges of the Zwiesel and Spießberg mountains.",
+    "shareLink": "https://haomingxiong.com/2011-05-plansee-breitenwang-tyrol-state-austria/"
    },
    {
     "fileFormat": "jpg",
