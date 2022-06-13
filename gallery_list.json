@@ -1,5 +1,5 @@
 {
-"versionNumber": 478,
+"versionNumber": 479,
 "galleryList":
   [
    {
@@ -3534,14 +3534,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany",
+    "keywords": [],
+    "galleryImages": ["2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_01.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_02.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_03.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_04.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_05.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_06.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_07.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_08.jpg",
+                      "2011.05_Schloss-Hohenschwangau_Fussen_Bayern_Germany_09.jpg"
+                      ],
+    "coordinates": ["47.555663", "10.736366"],
+    "location": "Schloss Hohenschwangau, Füssen, Bayern, Germany",
+    "country": "Germany",
+    "date": "2011.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Hohenschwangau Castle was mentioned the first time in records of the 12th century. Until the 16th century its owners were the knights of Schwangau. During the following time it changed hands a couple of times and was partially destroyed during different wars. In 1832 the later King Maximilian II., father of King Ludwig II., acquired the ruin and had the castle rebuilt according to original plans. After its completion it used to be the summer and hunting residence of the Bavarian royal family. In his whole life, the famous Bavarian King Ludwig II. spent a few weeks each summer in Hohenschwangau. Since 1923 the Wilttelsbacher Ausgleichsfonds owns Hohenschwangau Castle.",
+    "shareLink": "https://haomingxiong.com/2011-05-schloss-hohenschwangau-fu%cc%88ssen-bayern-germany/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany",
-    "keywords": ["schloss linderhof",
-                 "linderhof",
-                 "palace",
-                 "bayern",
-                 "germany",
-                 "2011"
-                ],
+    "keywords": [],
     "galleryImages": ["2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_01.jpg",
                       "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_02.jpg",
                       "2011.05_Schloss-Linderhof_Ettal_Bayern_Germany_03.jpg",
