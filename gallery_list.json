@@ -1,5 +1,5 @@
 {
-"versionNumber": 480,
+"versionNumber": 481,
 "galleryList":
   [
    {
@@ -8601,15 +8601,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2016.08_Night-Scene_South-Mountain-Yikeshu_Chongqing_China",
-    "keywords": ["south mountain yikeshu",
-                 "yikeshu",
-                 "nanshan",
-                 "night",
-                 "skycraper",
-                 "chongqing",
-                 "china",
-                 "2016"
-                ],
+    "keywords": [],
     "galleryImages": ["2016.08_Night-Scene_South-Mountain-Yikeshu_Chongqing_China_01.jpg",
                       "2016.08_Night-Scene_South-Mountain-Yikeshu_Chongqing_China_02.jpg",
                       "2016.08_Night-Scene_South-Mountain-Yikeshu_Chongqing_China_03.jpg",
@@ -8632,14 +8624,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2016.12_Cattle-Point_San-Juan-Island_Washington_USA",
-    "keywords": ["cattle point",
-                 "san juan island",
-                 "san juan",
-                 "island",
-                 "washington",
-                 "usa",
-                 "2016"
-                ],
+    "keywords": [],
     "galleryImages": ["2016.12_Cattle-Point_San-Juan-Island_Washington_USA_01.jpg",
                       "2016.12_Cattle-Point_San-Juan-Island_Washington_USA_02.jpg",
                       "2016.12_Cattle-Point_San-Juan-Island_Washington_USA_03.jpg",
@@ -8662,16 +8647,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA",
-    "keywords": ["fox",
-                 "cattle point road",
-                 "cattle point",
-                 "san juan island",
-                 "san juan",
-                 "island",
-                 "washington",
-                 "usa",
-                 "2016"
-                ],
+    "keywords": [],
     "galleryImages": ["2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_01.jpg",
                       "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_02.jpg",
                       "2016.12_Cattle-Point-Road_San-Juan-Island_Washington_USA_03.jpg",
@@ -11975,6 +11951,29 @@
     "camera": "DJI Osmo Pocket",
     "introduction": "Abutting Santa Monica’s south side on the Pacific Coast Highway, Venice Beach—or simply Venice—was developed as a Los Angeles beach resort that paid homage to its Italian namesake with canals, piazzas, pedestrian bridges, a lagoon, and a colonnaded business district. Designed by eccentric millionaire Abbot Kinney in 1905, Venice’s original waterways and charming beach cottages can still be seen on Dell Avenue in the Venice Canal Historic District.",
     "shareLink": "https://haomingxiong.com/2019-11-venice-beach-venice-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_01.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_02.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_03.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_04.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_05.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_06.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_07.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_08.jpg",
+                      "2019.12_Box-Canyon-Dwellings-&-Lomaki-Pueblo_Wupatki-National-Monument_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["36.87916", "-111.510423"],
+    "location": "Box Canyon Dwellings & Lomaki Pueblo, Wupatki National Monument, Arizona, USA",
+    "country": "USA",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Lomaki means “Beautiful House” in the Hopi language. Located at the end of this trail it had nine rooms constructed from local limestone and sandstone in the last decade of the 1100s. Both the interior and exterior walls may have been coated with plaster, though none of the coating remains today. Although this area does not look like farmland today, the inhabitants of Lomaki were skilled dry farmers who probably used techniques similar to what contemporary Hopi people use today. Fields were located on the flat mesa tops, in washes, and on terraced hillsides. The presence of just a few inches of black cinders created a mulch layer which helped hold moisture. The two smaller structures on either side of the earth crack may have housed extended family of the people living in Lomaki. These dwellings are only a few of dozens surrounding both Lomaki and Citadel. With a keen eye you can spot other walls on top of nearby mesas. At one time this was a thriving community who traded with other communities for hundreds of miles. Although it is no longer physically occupied, Hopi believe the people who lived and died here remain as spiritual guardians. These places are remembered and cared for, not abandoned.",
+    "shareLink": "https://haomingxiong.com/2019-12-box-canyon-dwellings-lomaki-pueblo-wupatki-national-monument-arizona-usa/"
    },
    {
     "fileFormat": "jpg",
