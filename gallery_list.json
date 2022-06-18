@@ -1,5 +1,5 @@
 {
-"versionNumber": 485,
+"versionNumber": 486,
 "galleryList":
   [
    {
@@ -2385,12 +2385,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.09_Modrudalsleid-901_Eastern-Region_Iceland",
-    "keywords": ["möðrudalsleið",
-                 "Modrudalsleid",
-                 "901",
-                 "iceland",
-                 "2010"
-                ],
+    "keywords": [],
     "galleryImages": ["2010.09_Modrudalsleid-901_Eastern-Region_Iceland_01.jpg",
                       "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_02.jpg",
                       "2010.09_Modrudalsleid-901_Eastern-Region_Iceland_03.jpg",
@@ -2413,11 +2408,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.09_Modrudalur_Eastern-Region_Iceland",
-    "keywords": ["Möðrudalur",
-                 "Modrudalur",
-                 "iceland",
-                 "2010"
-                ],
+    "keywords": [],
     "galleryImages": ["2010.09_Modrudalur_Eastern-Region_Iceland_01.jpg",
                       "2010.09_Modrudalur_Eastern-Region_Iceland_02.jpg",
                       "2010.09_Modrudalur_Eastern-Region_Iceland_03.jpg",
@@ -2440,12 +2431,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.09_Myvatn_Northeastern-Region_Iceland",
-    "keywords": ["mývatn",
-                 "myvatn",
-                 "lake",
-                 "iceland",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.09_Myvatn_Northeastern-Region_Iceland_01.jpg",
                       "2010.09_Myvatn_Northeastern-Region_Iceland_02.jpg",
                       "2010.09_Myvatn_Northeastern-Region_Iceland_03.jpg",
@@ -5809,13 +5795,34 @@
                       "2012.05_Solvorn_Vestland_Norway_07.jpg"
                       ],
     "coordinates": ["61.300385", "7.238487"],
-    "location": "Solvorn, Norway",
+    "location": "Solvorn, Vestland, Norway",
     "country": "Norway",
     "date": "2012.05",
     "photographer": "Jesen",
     "camera": "Nikon",
     "introduction": "Diminutive Solvorn is everything you’d want a fjord-side village to be: spectacularly sited, fetchingly pretty, quiet as a mouse but with warmly welcoming locals. It’s all that and in striking distance of some of the region’s best hiking, biking and paddling.",
     "shareLink": "https://haomingxiong.com/2012-05-solvorn-vestland-norway/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Steinkjer_Trondelag_Norway",
+    "keywords": [],
+    "galleryImages": ["2012.05_Steinkjer_Trondelag_Norway_01.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_02.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_03.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_04.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_05.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_06.jpg",
+                      "2012.05_Steinkjer_Trondelag_Norway_07.jpg"
+                      ],
+    "coordinates": ["64.015034", "11.495321"],
+    "location": "Steinkjer, Trøndelag, Norway",
+    "country": "Norway",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Steinkjer, town, north-central Norway. Located at the head of Beitstad Fjord, an inlet of Trondheims Fjord and situated at the mouth of the By River, the port town was incorporated in 1857 as Steinker, a union of several neighbouring agricultural areas. More than 1,000 farms remain within its limits. It is located on the Nordland Railway, which connects Bodø with Trondheim. Local industry includes tanneries and woollen mills as well as lumber production. The town was badly damaged during World War II but was rebuilt. Tourist attractions include ancient burial mounds west of the town and salmon fishing.",
+    "shareLink": "https://haomingxiong.com/2012-05-steinkjer-trondelag-norway/"
    },
    {
     "fileFormat": "jpg",
