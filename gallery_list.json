@@ -1,5 +1,5 @@
 {
-"versionNumber": 496,
+"versionNumber": 497,
 "galleryList":
   [
    {
@@ -4083,6 +4083,29 @@
     "camera": "Nikon",
     "introduction": "The heart of central Helsinki is the harbourside kauppatori (market square), where cruises and ferries leave for archipelago islands. It's completely touristy these days, with reindeer souvenir stands having replaced most market stalls, but there are still some berries and flowers for sale, and cheap food options.",
     "shareLink": "https://haomingxiong.com/2011-09-kauppatori-helsinki-uusimaa-finland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2011.09_Lappeenranta_South-Karelia_Finland",
+    "keywords": [],
+    "galleryImages": ["2011.09_Lappeenranta_South-Karelia_Finland_01.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_02.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_03.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_04.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_05.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_06.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_07.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_08.jpg",
+                      "2011.09_Lappeenranta_South-Karelia_Finland_09.jpg"
+                      ],
+    "coordinates": ["61.061346", "28.188312"],
+    "location": "Lappeenranta, South Karelia, Finland",
+    "country": "Finland",
+    "date": "2011.09",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "On the banks of Lake Saimaa – Finland’s largest lake – Lappeenranta has encountered dramatic swings of fortune. Once famous for its scarlet-clad garrison, the 17th-century ‘Cavalry City’ was a humming trade port at the edge of the Swedish empire. In 1743 it came under Russian control, where it remained for the next 68 years, becoming an exclusive spa town. Much of the town was destroyed during the Winter and Continuation Wars, but its massive fortress and spa endure.",
+    "shareLink": "https://haomingxiong.com/2011-09-lappeenranta-south-karelia-finland/"
    },
    {
     "fileFormat": "jpg",
