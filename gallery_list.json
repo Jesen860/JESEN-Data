@@ -12906,21 +12906,6 @@
    "filePath": "2022.04_Video_Elephant-Seal-Vista-Point_San-Simeon_California_USA",
    "keywords": [],
    "galleryImages": [],
-   "coordinates": ["35.369884", "-120.863392"],
-   "location": "Sea Otters, Morro Rock, Morro Bay State Park, California, USA",
-   "country": "USA",
-   "date": "2022.04",
-   "photographer": "Jesen",
-   "camera": "Nikon D850",
-   "introduction": "The protected inlet of Morro Bay serves as habitat for about 40 sea otters, primarily females caring for pups. This number is growing as the sea otter population continues to stabilize in the wake of fur trading. Both the Morro Bay Embarcadero and Estuary provide safety for otters to find food, raise their young, and avoid predators like sharks.",
-   "shareLink": "https://haomingxiong.com/2022-04-sea-otters-morro-rock-morro-bay-state-park-california-usa/"
-  },
-  {
-   "fileFormat": "mp4",
-   "videoOrientation": "horizontal",
-   "filePath": "2022.04_Video_Sea-Otters_Morro-Rock_Morro-Bay-State-Park_California_USA",
-   "keywords": [],
-   "galleryImages": [],
    "coordinates": ["35.661842", "-121.255143"],
    "location": "Elephant Seal Vista Point, San Simeon, California, USA",
    "country": "USA",
@@ -12929,6 +12914,21 @@
    "camera": "Nikon D850",
    "introduction": "The Elephant Seal Vista Point is located about 5 miles north of Hearst Castle. Visit this lookout between mid-November and mid-January, to be sure to see an abundance of these remarkable creatures.",
    "shareLink": "https://haomingxiong.com/2022-04-elephant-seal-vista-point-san-simeon-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.04_Video_Sea-Otters_Morro-Rock_Morro-Bay-State-Park_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["35.369884", "-120.863392"],
+   "location": "Sea Otters, Morro Rock, Morro Bay State Park, California, USA",
+   "country": "USA",
+   "date": "2022.04",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "The protected inlet of Morro Bay serves as habitat for about 40 sea otters, primarily females caring for pups. This number is growing as the sea otter population continues to stabilize in the wake of fur trading. Both the Morro Bay Embarcadero and Estuary provide safety for otters to find food, raise their young, and avoid predators like sharks.",
+   "shareLink": "https://haomingxiong.com/2022-04-sea-otters-morro-rock-morro-bay-state-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
