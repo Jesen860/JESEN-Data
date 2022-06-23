@@ -1,5 +1,5 @@
 {
-"versionNumber": 495,
+"versionNumber": 496,
 "galleryList":
   [
    {
@@ -13205,10 +13205,25 @@
   {
    "fileFormat": "mp4",
    "videoOrientation": "horizontal",
-   "filePath": "2022.06_Waves_Limantour-Beach_Point-Reyes-National-Seashore_California_USA",
+   "filePath": "2022.06_Video_Birds_Gazos-Creek-State-Beach_California_USA",
    "keywords": [],
    "galleryImages": [],
    "coordinates": ["38.024692", "-122.880288"],
+   "location": "Birds, Gazos Creek State Beach, California, USA",
+   "country": "USA",
+   "date": "2022.06",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Gazos Creek Beach Access is the northernmost part of Ano Nuevo State Reserve in southern San Mateo County. There is a parking lot just off Highway 1 north of a lonely gas station mini-mart and the bridge over Gazos Creek. A short hiking trail takes you from the parking lot down to the beach below. The creek flows into the ocean at this location and creates a large pool behind the beach which attracts birds. The tall Pigeon Point Lighthouse can be seen to the north from here. Gazos Creek Beach has a southern access as well.",
+   "shareLink": "https://haomingxiong.com/2022-06-birds-gazos-creek-state-beach-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.06_Waves_Limantour-Beach_Point-Reyes-National-Seashore_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["37.164748", "-122.362440"],
    "location": "Waves, Limantour Beach, Point Reyes National Seashore, California, USA",
    "country": "USA",
    "date": "2022.06",
