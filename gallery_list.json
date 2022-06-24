@@ -1,5 +1,5 @@
 {
-"versionNumber": 497,
+"versionNumber": 498,
 "galleryList":
   [
    {
@@ -3661,12 +3661,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France",
-    "keywords": ["Basilique du Sacr Coeur",
-                 "church",
-                 "paris",
-                 "france",
-                 "2011"
-                ],
+    "keywords": [],
     "galleryImages": ["2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France_01.jpg",
                       "2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France_02.jpg",
                       "2011.07_Basilique-du-Sacre-Coeur_Paris_Ile-de-France_France_03.jpg",
@@ -3688,13 +3683,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2011.07_Centre-Pompidou_Paris_Ile-de-France_France",
+    "keywords": [],
+    "galleryImages": ["2011.07_Centre-Pompidou_Paris_Ile-de-France_France_01.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_02.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_03.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_04.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_05.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_06.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_07.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_08.jpg",
+                      "2011.07_Centre-Pompidou_Paris_Ile-de-France_France_09.jpg"
+                      ],
+    "coordinates": ["48.860589", "2.352397"],
+    "location": "Centre Pompidou, Paris, Île-de-France, France",
+    "country": "France",
+    "date": "2011.07",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Home to Europe’s largest collection of modern and contemporary art, Centre Pompidou has amazed and delighted visitors ever since it opened in 1977, not just for its outstanding art collection but also for its radical architectural statement. Don’t miss the spectacular Parisian panorama from the rooftop.",
+    "shareLink": "https://haomingxiong.com/2011-07-centre-pompidou-paris-i%cc%82le-de-france-france/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France",
-    "keywords": ["chateau de fontainebleau",
-                 "fontainebleau",
-                 "palace",
-                 "france",
-                 "2011"
-                ],
+    "keywords": [],
     "galleryImages": ["2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_01.jpg",
                       "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_02.jpg",
                       "2011.07_Chateau-de-Fontainebleau_Fontainebleau_Ile-de-France_France_03.jpg",
