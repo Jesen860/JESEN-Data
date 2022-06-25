@@ -1,5 +1,5 @@
 {
-"versionNumber": 500,
+"versionNumber": 501,
 "galleryList":
   [
    {
@@ -5714,6 +5714,29 @@
     "camera": "Nikon",
     "introduction": "The ‘official’ Santa Claus Village is built atop the Arctic Circle marker, denoted by a line painted on the pavement. There’s a mixture of humdrum souvenir stands and classier shops, some selling Sámi handicrafts. Other attractions here include reindeer-pulled sleigh rides and Santa’s Grotto.",
     "shareLink": "https://haomingxiong.com/2012-05-santa-claus-village-rovaniemi-lapland-finland/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.05_Sodankyla_Lapland_Finland",
+    "keywords": [],
+    "galleryImages": ["2012.05_Sodankyla_Lapland_Finland_01.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_02.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_03.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_04.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_05.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_06.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_07.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_08.jpg",
+                      "2012.05_Sodankyla_Lapland_Finland_09.jpg"
+                      ],
+    "coordinates": ["67.416037", "26.588973"],
+    "location": "Sodankylä, Lapland, Finland",
+    "country": "Finland",
+    "date": "2012.05",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Sodankylä is a large municipality that stretches from the vast wildernesses of Sompio, at the western end of the Urho Kekkonen National Park, to the ski resort village of Luosto in the Pyhä-Luosto National Park. In between, there are many villages, both rural Finnish and traditional Sámi, as well as the town of Sodankylä.",
+    "shareLink": "https://haomingxiong.com/2012-05-sodankyla-lapland-finland/"
    },
    {
     "fileFormat": "jpg",
