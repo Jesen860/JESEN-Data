@@ -1,5 +1,5 @@
 {
-"versionNumber": 499,
+"versionNumber": 500,
 "galleryList":
   [
    {
@@ -10934,14 +10934,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA",
+    "keywords": [],
+    "galleryImages": ["2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_01.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_02.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_03.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_04.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_05.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_06.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_07.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_08.jpg",
+                      "2019.09_Main-Marsh_Coyote-Hills-Regional-Park_Fremont_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.554476", "-122.088341"],
+    "location": "Main Marsh, Coyote Hills Regional Park, Fremont, California, USA",
+    "country": "USA",
+    "date": "2019.09",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Coyote Hills Regional Park was dedicated in 1967. The park comprises 1,266 acres of marshland and rolling grassland covered hills. This busy park is located along the eastern shore of San Francisco Bay, northwest of the cities of Fremont and Newark. The most popular visitor activities are hiking, jogging, bicycling, bird watching, nature exploration, and picnicking. Well used every season of the year — spring, summer, and fall tend to be the most popular. But the park’s winter beauty is wonderful to behold.",
+    "shareLink": "https://haomingxiong.com/2019-09-main-marsh-coyote-hills-regional-park-fremont-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2019.09_Moss-Landing_California_USA",
-    "keywords": ["moss landing",
-                 "beach",
-                 "sea",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.09_Moss-Landing_California_USA_01.jpg",
                       "2019.09_Moss-Landing_California_USA_02.jpg",
                       "2019.09_Moss-Landing_California_USA_03.jpg",
@@ -10964,16 +10981,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA",
-    "keywords": ["bernal heights park",
-                 "bernal heights",
-                 "bernal",
-                 "park",
-                 "night",
-                 "san francisco",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_01.jpg",
                       "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_02.jpg",
                       "2019.09_Night-Scene_Bernal-Heights-Park_San-Francisco_California_USA_03.jpg",
