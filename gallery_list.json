@@ -1,17 +1,11 @@
 {
-"versionNumber": 504,
+"versionNumber": 505,
 "galleryList":
   [
    {
     "fileFormat": "jpg",
     "filePath": "2008.12_Jet-d'Eau_Geneva_Switzerland",
-    "keywords": ["jet d’eau",
-                 "fountain",
-                 "lake",
-                 "geneva",
-                 "switzerland",
-                 "2008"
-               ],
+    "keywords": [],
     "galleryImages": ["2008.12_Jet-d'Eau_Geneva_Switzerland_01.jpg",
                       "2008.12_Jet-d'Eau_Geneva_Switzerland_02.jpg",
                       "2008.12_Jet-d'Eau_Geneva_Switzerland_03.jpg",
@@ -34,13 +28,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2008.12_Lake-Geneva_Lausanne_Switzerland",
-    "keywords": ["lake geneva",
-                 "geneva",
-                 "lake",
-                 "lausanne",
-                 "switzerland",
-                 "2008"
-               ],
+    "keywords": [],
     "galleryImages": ["2008.12_Lake-Geneva_Lausanne_Switzerland_01.jpg",
                       "2008.12_Lake-Geneva_Lausanne_Switzerland_02.jpg",
                       "2008.12_Lake-Geneva_Lausanne_Switzerland_03.jpg",
@@ -63,14 +51,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy",
-    "keywords": ["duomo di milano",
-                 "church",
-                 "cathedral",
-                 "milano",
-                 "milan",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_01.jpg",
                       "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_02.jpg",
                       "2009.03_Duomo-di-Milano_Milano_Lombardy_Italy_03.jpg",
@@ -93,13 +74,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.03_Venice_Veneto_Italy",
-    "keywords": ["venice",
-                 "city",
-                 "sea",
-                 "veneto",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.03_Venice_Veneto_Italy_01.jpg",
                       "2009.03_Venice_Veneto_Italy_02.jpg",
                       "2009.03_Venice_Veneto_Italy_03.jpg",
@@ -122,12 +97,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Colosseum_Roma_Lazio_Italy",
-    "keywords": ["colosseum",
-                 "arena",
-                 "roma",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Colosseum_Roma_Lazio_Italy_01.jpg",
                       "2009.04_Colosseum_Roma_Lazio_Italy_02.jpg",
                       "2009.04_Colosseum_Roma_Lazio_Italy_03.jpg",
@@ -150,11 +120,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Pantheon_Roma_Lazio_Italy",
-    "keywords": ["pantheon",
-                 "roma",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Pantheon_Roma_Lazio_Italy_01.jpg",
                       "2009.04_Pantheon_Roma_Lazio_Italy_02.jpg",
                       "2009.04_Pantheon_Roma_Lazio_Italy_03.jpg",
@@ -177,12 +143,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy",
-    "keywords": ["piazza dei miracoli",
-                 "tower",
-                 "pisa",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_01.jpg",
                       "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_02.jpg",
                       "2009.04_Piazza-dei-Miracoli_Pisa_Tuscany_Italy_03.jpg",
@@ -205,11 +166,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy",
-    "keywords": ["piazzale michelangelo",
-                 "florence",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_01.jpg",
                       "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_02.jpg",
                       "2009.04_Piazzale-Michelangelo_Florence_Tuscany_Italy_03.jpg",
@@ -232,12 +189,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy",
-    "keywords": ["pompeii archaeological park",
-                 "pompeii",
-                 "ancient",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy_01.jpg",
                       "2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy_02.jpg",
                       "2009.04_Pompeii-Archaeological-Park_Pompeii_Campania_Italy_03.jpg",
@@ -260,13 +212,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Rotonda-Diaz_Naples_Campania_Italy",
-    "keywords": ["rotonda diaz",
-                 "sea",
-                 "sunset",
-                 "naples",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Rotonda-Diaz_Naples_Campania_Italy_01.jpg",
                       "2009.04_Rotonda-Diaz_Naples_Campania_Italy_02.jpg",
                       "2009.04_Rotonda-Diaz_Naples_Campania_Italy_03.jpg",
@@ -289,12 +235,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Sorrento_Campania_Italy",
-    "keywords": ["sorrento",
-                 "sea",
-                 "city",
-                 "italy",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Sorrento_Campania_Italy_01.jpg",
                       "2009.04_Sorrento_Campania_Italy_02.jpg",
                       "2009.04_Sorrento_Campania_Italy_03.jpg",
@@ -317,11 +258,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.04_Vatican-City",
-    "keywords": ["vatican city",
-                 "vatican",
-                 "city",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.04_Vatican-City_01.jpg",
                       "2009.04_Vatican-City_02.jpg",
                       "2009.04_Vatican-City_03.jpg",
@@ -344,12 +281,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.05_Bruges_West-Flanders-Province_Belgium",
-    "keywords": ["bruges",
-                 "city",
-                 "west flanders",
-                 "belgium",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.05_Bruges_West-Flanders-Province_Belgium_01.jpg",
                       "2009.05_Bruges_West-Flanders-Province_Belgium_02.jpg",
                       "2009.05_Bruges_West-Flanders-Province_Belgium_03.jpg",
@@ -372,15 +304,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.05_Tagebau-Garzweiler_Juchen_Nordrhein-Westfalen_Germany",
-    "keywords": ["tagebau garzweiler",
-                 "mine",
-                 "jüchen",
-                 "juchen",
-                 "nordrhein-westfalen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.05_Tagebau-Garzweiler_Juchen_Nordrhein-Westfalen_Germany_01.jpg",
                       "2009.05_Tagebau-Garzweiler_Juchen_Nordrhein-Westfalen_Germany_02.jpg",
                       "2009.05_Tagebau-Garzweiler_Juchen_Nordrhein-Westfalen_Germany_03.jpg",
@@ -403,16 +327,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.05_Villa-Hugel_Essen_Nordrhein-Westfalen_Germany",
-    "keywords": ["villa hügel",
-                 "villa hugel",
-                 "villa",
-                 "hugel",
-                 "essen",
-                 "nordrhein-westfalen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.05_Villa-Hugel_Essen_Nordrhein-Westfalen_Germany_01.jpg",
                       "2009.05_Villa-Hugel_Essen_Nordrhein-Westfalen_Germany_02.jpg",
                       "2009.05_Villa-Hugel_Essen_Nordrhein-Westfalen_Germany_03.jpg",
@@ -435,14 +350,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.05_Tetraeder_Bottrop_Nordrhein-Westfalen_Germany",
-    "keywords": ["tetraeder",
-                 "pyramid",
-                 "bottrop",
-                 "nordrhein-westfalen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.05_Tetraeder_Bottrop_Nordrhein-Westfalen_Germany_01.jpg",
                       "2009.05_Tetraeder_Bottrop_Nordrhein-Westfalen_Germany_02.jpg",
                       "2009.05_Tetraeder_Bottrop_Nordrhein-Westfalen_Germany_03.jpg",
@@ -465,14 +373,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic",
-    "keywords": ["cesky krumlov state castle",
-                 "castle",
-                 "cesky krumlov",
-                 "south bohemian",
-                 "czech",
-                 "czech republic",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic_01.jpg",
                       "2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic_02.jpg",
                       "2009.06_Cesky-Krumlov-State-Castle_Cesky-Krumlov_South-Bohemian_Czech-Republic_03.jpg",
@@ -495,14 +396,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_Charles-Bridge_Prague_Czech-Republic",
-    "keywords": ["charles bridge",
-                 "bridge",
-                 "river",
-                 "prague",
-                 "czech",
-                 "czech republic",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_Charles-Bridge_Prague_Czech-Republic_01.jpg",
                       "2009.06_Charles-Bridge_Prague_Czech-Republic_02.jpg",
                       "2009.06_Charles-Bridge_Prague_Czech-Republic_03.jpg",
@@ -525,14 +419,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic",
-    "keywords": ["elizabeth’s spa",
-                 "elizabeth",
-                 "spa",
-                 "karlovy vary",
-                 "czech",
-                 "czech republic",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_01.jpg",
                       "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_02.jpg",
                       "2009.06_Elizabeth's-Spa_Karlovy-Vary_Czech-Republic_03.jpg",
@@ -550,16 +437,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_Erfurter-Dom_Erfurt_Thuringen_Germany",
-    "keywords": ["erfurter dom",
-                 "dom",
-                 "church",
-                 "erfurt",
-                 "thüringen",
-                 "thuringen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_Erfurter-Dom_Erfurt_Thuringen_Germany_01.jpg",
                       "2009.06_Erfurter-Dom_Erfurt_Thuringen_Germany_02.jpg",
                       "2009.06_Erfurter-Dom_Erfurt_Thuringen_Germany_03.jpg",
@@ -582,14 +460,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic",
-    "keywords": ["grandhotel pupp",
-                 "pupp",
-                 "hotel",
-                 "karlovy vary",
-                 "czech",
-                 "czech republic",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_01.jpg",
                       "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_02.jpg",
                       "2009.06_Grandhotel-Pupp_Karlvy-Vary_Czech-Republic_03.jpg",
@@ -608,16 +479,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.06_St.-Vitus-Cathedral_Prague_Czech-Republic",
-    "keywords": ["st. vitus cathedral",
-                 "st. vitus",
-                 "vitus",
-                 "cathedral",
-                 "church",
-                 "prague",
-                 "czech",
-                 "czech republic",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.06_St.-Vitus-Cathedral_Prague_Czech-Republic_01.jpg",
                       "2009.06_St.-Vitus-Cathedral_Prague_Czech-Republic_02.jpg",
                       "2009.06_St.-Vitus-Cathedral_Prague_Czech-Republic_03.jpg",
@@ -640,13 +502,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.09_Deutsches-Eck_Koblenz_Rheinland-Pfalz_Germany",
-    "keywords": ["deutsches eck",
-                 "koblenz",
-                 "rheinland-pfalz",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.09_Deutsches-Eck_Koblenz_Rheinland-Pfalz_Germany_01.jpg",
                       "2009.09_Deutsches-Eck_Koblenz_Rheinland-Pfalz_Germany_02.jpg",
                       "2009.09_Deutsches-Eck_Koblenz_Rheinland-Pfalz_Germany_03.jpg",
@@ -669,14 +525,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.09_Downtown_Frankfurt-am-Main_Hessen_Germany",
-    "keywords": ["downtown",
-                 "frankfurt am main",
-                 "frankfurt",
-                 "hessen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.09_Downtown_Frankfurt-am-Main_Hessen_Germany_01.jpg",
                       "2009.09_Downtown_Frankfurt-am-Main_Hessen_Germany_02.jpg",
                       "2009.09_Downtown_Frankfurt-am-Main_Hessen_Germany_03.jpg",
@@ -699,16 +548,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.09_Schloss-Drachenburg_Konigswinter_Nordrhein-Westfalen_Germany",
-    "keywords": ["schloss drachenburg",
-                 "drachenburg",
-                 "schloss",
-                 "königswinter",
-                 "konigswinter",
-                 "nordrhein-westfalen",
-                 "deutschland",
-                 "germany",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.09_Schloss-Drachenburg_Konigswinter_Nordrhein-Westfalen_Germany_01.jpg",
                       "2009.09_Schloss-Drachenburg_Konigswinter_Nordrhein-Westfalen_Germany_02.jpg",
                       "2009.09_Schloss-Drachenburg_Konigswinter_Nordrhein-Westfalen_Germany_03.jpg",
@@ -731,12 +571,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Belem_Lisbon_Lisbon-District_Portugal",
-    "keywords": ["belém",
-                 "belem",
-                 "lisbon",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Belem_Lisbon_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Belem_Lisbon_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Belem_Lisbon_Lisbon-District_Portugal_03.jpg",
@@ -759,13 +594,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Cabo-da-Roca_Lisbon-District_Portugal",
-    "keywords": ["cabo da roca",
-                 "sea",
-                 "lighthouse",
-                 "westmost point",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Cabo-da-Roca_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Cabo-da-Roca_Lisbon-District_Portugal_03.jpg",
@@ -788,13 +617,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Cascais_Lisbon-District_Portugal",
-    "keywords": ["cascais",
-                 "city",
-                 "sea",
-                 "beach",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Cascais_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Cascais_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Cascais_Lisbon-District_Portugal_03.jpg",
@@ -817,13 +640,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Castelo-de-S.-Jorge_Lisboa_Lisbon-District_Portugal",
-    "keywords": ["castelo de s. jorge",
-                 "castle",
-                 "lisboa",
-                 "lisbon",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Castelo-de-S.-Jorge_Lisboa_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Castelo-de-S.-Jorge_Lisboa_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Castelo-de-S.-Jorge_Lisboa_Lisbon-District_Portugal_03.jpg",
@@ -846,14 +663,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Elevador-de-Santa-Justa_Lisboa_Lisbon-District_Portugal",
-    "keywords": ["elevador de santa justa",
-                 "elevador",
-                 "santa justa",
-                 "lisboa",
-                 "lisbon",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Elevador-de-Santa-Justa_Lisboa_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Elevador-de-Santa-Justa_Lisboa_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Elevador-de-Santa-Justa_Lisboa_Lisbon-District_Portugal_03.jpg",
@@ -876,14 +686,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Luis-I-Bridge_Porto_Porto-District_Portugal",
-    "keywords": ["luís i bridge",
-                 "luis i bridge",
-                 "luis",
-                 "bridge",
-                 "porto",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Luis-I-Bridge_Porto_Porto-District_Portugal_01.jpg",
                       "2009.11_Luis-I-Bridge_Porto_Porto-District_Portugal_02.jpg",
                       "2009.11_Luis-I-Bridge_Porto_Porto-District_Portugal_03.jpg",
@@ -906,14 +709,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal",
-    "keywords": ["parque das nações",
-                 "parque das nacoes",
-                 "park",
-                 "lisboa",
-                 "lisbon",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Parque-das-Nacoes_Lisboa_Lisbon-District_Portugal_03.jpg",
@@ -936,13 +732,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal",
-    "keywords": ["palácio nacional de sintra",
-                 "palácio",
-                 "palace",
-                 "sintra",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_01.jpg",
                       "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_02.jpg",
                       "2009.11_Palacio-Nacional-de-Sintra_Sintra_Lisbon-District_Portugal_03.jpg",
@@ -965,13 +755,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.11_River-Douro_Porto_Porto-District_Portugal",
-    "keywords": ["river douro",
-                 "douro",
-                 "river",
-                 "porto",
-                 "portugal",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.11_River-Douro_Porto_Porto-District_Portugal_01.jpg",
                       "2009.11_River-Douro_Porto_Porto-District_Portugal_02.jpg",
                       "2009.11_River-Douro_Porto_Porto-District_Portugal_03.jpg",
@@ -994,13 +778,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_Acueducto-de-Segovia_Segovia_Segovia_Spain",
-    "keywords": ["acueducto de segovia",
-                 "aqueduct",
-                 "city",
-                 "segovia",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_Acueducto-de-Segovia_Segovia_Segovia_Spain_01.jpg",
                       "2009.12_Acueducto-de-Segovia_Segovia_Segovia_Spain_02.jpg",
                       "2009.12_Acueducto-de-Segovia_Segovia_Segovia_Spain_03.jpg",
@@ -1023,15 +801,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain",
-    "keywords": ["alcázar de segovia",
-                 "alcazar de segovia",
-                 "alcázar",
-                 "alcazar",
-                 "castle",
-                 "segovia",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_01.jpg",
                       "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_02.jpg",
                       "2009.12_Alcazar-de-Segovia_Segovia_Segovia_Spain_03.jpg",
@@ -1054,14 +824,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain",
-    "keywords": ["la sagrada familia",
-                 "gaudi",
-                 "church",
-                 "barcelona",
-                 "catalonia",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_01.jpg",
                       "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_02.jpg",
                       "2009.12_La-Sagrada-Familia_Barcelona_Catalonia_Spain_03.jpg",
@@ -1084,12 +847,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain",
-    "keywords": ["plaza de españa",
-                 "plaza de espana",
-                 "madrid",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_01.jpg",
                       "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_02.jpg",
                       "2009.12_Plaza-de-Espana_Madrid_Community-of-Madrid_Spain_03.jpg",
@@ -1112,15 +870,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_Port-Olimpic_Barcelona_Catalonia_Spain",
-    "keywords": ["port olímpic",
-                 "port olimpic",
-                 "olimpic",
-                 "port",
-                 "barcelona",
-                 "catalonia",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_Port-Olimpic_Barcelona_Catalonia_Spain_01.jpg",
                       "2009.12_Port-Olimpic_Barcelona_Catalonia_Spain_02.jpg",
                       "2009.12_Port-Olimpic_Barcelona_Catalonia_Spain_03.jpg",
@@ -1143,11 +893,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2009.12_Toledo_Castilla-La-Mancha_Spain",
-    "keywords": ["toledo",
-                 "city",
-                 "spain",
-                 "2009"
-               ],
+    "keywords": [],
     "galleryImages": ["2009.12_Toledo_Castilla-La-Mancha_Spain_01.jpg",
                       "2009.12_Toledo_Castilla-La-Mancha_Spain_02.jpg",
                       "2009.12_Toledo_Castilla-La-Mancha_Spain_03.jpg",
@@ -1170,13 +916,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.03_Dortmond_Nordrhein-Westfalen_Germany",
-    "keywords": ["dortmond",
-                 "city",
-                 "nordrhein-westfalen",
-                 "deutschland",
-                 "germany",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.03_Dortmond_Nordrhein-Westfalen_Germany_01.jpg",
                       "2010.03_Dortmond_Nordrhein-Westfalen_Germany_02.jpg",
                       "2010.03_Dortmond_Nordrhein-Westfalen_Germany_03.jpg",
@@ -12007,6 +11747,21 @@
     "camera": "Nikon D850",
     "introduction": "The relatively flat Timber Creek Overlook Trail follows along a small ridge with spectacular views of the Kolob Canyons, the Kolob Terrace, and the Pine Valley Mountains. From the trailhead looking north, from left to right you can see an 8,000 ft. mountain ridgeline comprised of Horse Ranch Mountain, Paria Point, Beatty Point, Nagunt Mesa, Timber Top Mountain, and Shuntavi Butte. At trail end, looking south on the far horizon, you may see Mt. Trumbull 100 miles away at the north rim of the Grand Canyon.",
     "shareLink": "https://haomingxiong.com/2019-12-tsegi-overlook-canyon-de-chelly-national-monument-arizona-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
+    "filePath": "2020.01_Airview-South_South-Beach_Point-Reyes-National-Seashore_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["38.058266", "-122.984603"],
+    "location": "Airview South, South Beach, Point Reyes National Seashore, California, USA",
+    "country": "USA",
+    "date": "2020.01",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "South Beach is the southern access to Point Reyes Beach, an 11-mile long strand nicknamed “The Great Beach” in Point Reyes National Seashore. This vast expanse of shoreline is excellent for beachcombing. Walk in either direction for miles and rest by sitting on drift logs along the upper beach. Just remember that at the highest tides the beach can be all wet in some places. From December through April the beach south of the South Beach parking lot is closed for elephant seal mating season. During that time bring binoculars for spotting gray whales that are migrating around the point. This exposed west side of the peninsula has dangerous swimming conditions with strong rip currents, cold water temps, and sneaker waves. If you want a milder surf head to nearby Drakes Beach which is protected by the point. The South Beach parking lot is located just off Sir Francis Drake Boulevard on the way to the Point Reyes Lighthouse. Be prepared for cool foggy weather on any trip to Point Reyes.",
+    "shareLink": "https://haomingxiong.com/2020-01-airview-south-south-beach-point-reyes-national-seashore-california-usa/"
    },
    {
     "fileFormat": "jpg",
