@@ -1,5 +1,5 @@
 {
-"versionNumber": 510,
+"versionNumber": 511,
 "galleryList":
   [
    {
@@ -7619,6 +7619,29 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2013.12_Sedona_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2013.12_Sedona_Arizona_USA_01.jpg",
+                      "2013.12_Sedona_Arizona_USA_02.jpg",
+                      "2013.12_Sedona_Arizona_USA_03.jpg",
+                      "2013.12_Sedona_Arizona_USA_04.jpg",
+                      "2013.12_Sedona_Arizona_USA_05.jpg",
+                      "2013.12_Sedona_Arizona_USA_06.jpg",
+                      "2013.12_Sedona_Arizona_USA_07.jpg",
+                      "2013.12_Sedona_Arizona_USA_08.jpg",
+                      "2013.12_Sedona_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["34.869797", "-111.760925"],
+    "location": "Sedona, Arizona, USA",
+    "country": "USA",
+    "date": "2013.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Nestled amid striking red sandstone formations, Sedona’s truly spectacular landscape has long attracted spiritual seekers, artists and healers. Many people believe that this area has a number of vortexes that radiate the earth’s energy, and you’ll find all sorts of alternative medicines and practices here, from rejuvenating bodywork to past-life workshops. But outdoorsy adventurers – and even die-hard skeptics and city slickers – have begun to see the light as well: there are some inimitable thrills to be had hiking, mountain biking and climbing amid these desert spires. The town itself bustles with art galleries and expensive gourmet restaurants. In summer the traffic and crowds can be intense. But don’t despair: somewhere out there is a vortex that’s waiting just for you.",
+    "shareLink": "https://haomingxiong.com/2013-12-sedona-arizona-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2013.12_Tusayan_Arizona_USA",
     "keywords": ["tusayan",
                  "city",
@@ -9717,19 +9740,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Cholla-Cactus-Garden_Joshua-Tree-National-Park_California_USA",
-    "keywords": ["cholla cactus garden",
-                 "cholla",
-                 "cactus",
-                 "garden",
-                 "joshua tree national park",
-                 "joshua tree",
-                 "joshua",
-                 "national park",
-                 "park",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Cholla-Cactus-Garden_Joshua-Tree-National-Park_California_USA_01.jpg",
                       "2018.12_Cholla-Cactus-Garden_Joshua-Tree-National-Park_California_USA_02.jpg",
                       "2018.12_Cholla-Cactus-Garden_Joshua-Tree-National-Park_California_USA_03.jpg",
@@ -9752,16 +9763,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Elephant-Seal-Vista-Point_San-Simeon_California_USA",
-    "keywords": ["elephant seal vista point",
-                 "elephant seal",
-                 "seal",
-                 "sea",
-                 "beach",
-                 "san simeon",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Elephant-Seal-Vista-Point_San-Simeon_California_USA_01.jpg",
                       "2018.12_Elephant-Seal-Vista-Point_San-Simeon_California_USA_02.jpg",
                       "2018.12_Elephant-Seal-Vista-Point_San-Simeon_California_USA_03.jpg",
