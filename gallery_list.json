@@ -1,5 +1,5 @@
 {
-"versionNumber": 509,
+"versionNumber": 510,
 "galleryList":
   [
    {
@@ -7596,6 +7596,29 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA",
+    "keywords": [],
+    "galleryImages": ["2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_01.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_02.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_03.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_04.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_05.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_06.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_07.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_08.jpg",
+                      "2013.12_Red-Rock-Canyon-National-Conservation-Area_Nevada_USA_09.jpg"
+                      ],
+    "coordinates": ["36.163867", "-115.444883"],
+    "location": "Red Rock Canyon National Conservation Area, Nevada, USA",
+    "country": "USA",
+    "date": "2013.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Red Rock’s dramatic vistas are revered by Las Vegas locals and adored by visitors from around the world. Formed by extreme tectonic forces, it’s thought the canyon, whose 3000ft red rock escarpment rises sharply from the valley floor, was formed around 65 million years ago. A 13-mile, one-way scenic loop drive offers mesmerizing vistas of the canyon’s most striking features. Hiking trails and rock-climbing routes radiate from roadside parking areas.",
+    "shareLink": "https://haomingxiong.com/2013-12-red-rock-canyon-national-conservation-area-nevada-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2013.12_Tusayan_Arizona_USA",
     "keywords": ["tusayan",
                  "city",
@@ -7828,14 +7851,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2014.10_Royal-Greenwich-Observatory_London_England_United-Kingdom",
-    "keywords": ["royal greenwich observatory",
-                 "greenwich",
-                 "observatory",
-                 "london",
-                 "england",
-                 "united kingdom",
-                 "2014"
-                ],
+    "keywords": [],
     "galleryImages": ["2014.10_Royal-Greenwich-Observatory_London_England_United-Kingdom_01.jpg",
                       "2014.10_Royal-Greenwich-Observatory_London_England_United-Kingdom_02.jpg",
                       "2014.10_Royal-Greenwich-Observatory_London_England_United-Kingdom_03.jpg",
@@ -7858,14 +7874,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2014.10_Temppeliaukio-Church_Helsinki_Uusimaa_Finland",
-    "keywords": ["temppeliaukio church",
-                 "temppeliaukio",
-                 "church",
-                 "helsinki",
-                 "uusimaa",
-                 "finland",
-                 "2014"
-                ],
+    "keywords": [],
     "galleryImages": ["2014.10_Temppeliaukio-Church_Helsinki_Uusimaa_Finland_01.jpg",
                       "2014.10_Temppeliaukio-Church_Helsinki_Uusimaa_Finland_02.jpg",
                       "2014.10_Temppeliaukio-Church_Helsinki_Uusimaa_Finland_03.jpg",
