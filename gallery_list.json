@@ -1,5 +1,5 @@
 {
-"versionNumber": 508,
+"versionNumber": 509,
 "galleryList":
   [
    {
@@ -6558,13 +6558,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2012.08_Porschestrasse_Wolfsburg_Niedersachsen_Germany",
-    "keywords": ["porschestraße",
-                 "porschestrasse",
-                 "wolfsburg",
-                 "niedersachsen",
-                 "germany",
-                 "2012"
-                ],
+    "keywords": [],
     "galleryImages": ["2012.08_Porschestrasse_Wolfsburg_Niedersachsen_Germany_01.jpg",
                       "2012.08_Porschestrasse_Wolfsburg_Niedersachsen_Germany_02.jpg",
                       "2012.08_Porschestrasse_Wolfsburg_Niedersachsen_Germany_03.jpg",
@@ -6583,6 +6577,29 @@
     "camera": "Nikon",
     "introduction": "Several shiny state-of-the-art museums, covering automobiles, technology, science and modern art, make Wolfsburg a worthwhile visit for travelling families and enquiring minds. It can be done as a day trip from Hanover, Braunschweig or Berlin, but a range of accommodation options make it easy to stay overnight if you’re planning on covering more than one museum.",
     "shareLink": "https://haomingxiong.com/2012-08-porschestrase-wolfsburg-niedersachsen-germany/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany",
+    "keywords": [],
+    "galleryImages": ["2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_01.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_02.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_03.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_04.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_05.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_06.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_07.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_08.jpg",
+                      "2012.08_Schloss-Sanssouci_Potsdam_Brandenburg_Germany_09.jpg"
+                      ],
+    "coordinates": ["52.404156", "13.038424"],
+    "location": "Schloss Sanssouci, Potsdam, Brandenburg, Germany",
+    "country": "Germany",
+    "date": "2012.08",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "No other palace is so closely linked with the personality of Frederick the Great as Sanssouci. The name Sanssouci – without a care – should be understood as both the primary wish and leitmotif of the king, because this was the place where he most preferred to retreat in the company of his dogs. The king’s summer residence was ultimately his favorite place and sanctuary in difficult times. The location of the palace beside its well-known vineyard terraces and the originally preserved 18th century interior decoration allow visitors to delve into the world of the “philosopher of Sanssouci.” The interiors are characterized by their elegance and stylish displays of grandeur. They are also a clear expression of the king’s love of beautiful surroundings – his “Prussian Arcadia.”",
+    "shareLink": "https://haomingxiong.com/2012-08-schloss-sanssouci-potsdam-brandenburg-germany/"
    },
    {
     "fileFormat": "jpg",
