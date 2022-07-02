@@ -1,5 +1,5 @@
 {
-"versionNumber": 516,
+"versionNumber": 517,
 "galleryList":
   [
    {
@@ -8644,16 +8644,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2017.09_Mt-Shuksan_North-Cascades-National-Park_Washington_USA",
-    "keywords": ["mt shuksan",
-                 "shuksan",
-                 "mountain",
-                 "glacier",
-                 "national park",
-                 "park",
-                 "washington",
-                 "usa",
-                 "2017"
-                ],
+    "keywords": [],
     "galleryImages": ["2017.09_Mt-Shuksan_North-Cascades-National-Park_Washington_USA_01.jpg",
                       "2017.09_Mt-Shuksan_North-Cascades-National-Park_Washington_USA_02.jpg",
                       "2017.09_Mt-Shuksan_North-Cascades-National-Park_Washington_USA_03.jpg",
@@ -10199,15 +10190,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Zuma-Beach_Malibu_California_USA",
-    "keywords": ["zuma beach",
-                 "zuma",
-                 "beach",
-                 "sea",
-                 "malibu",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Zuma-Beach_Malibu_California_USA_01.jpg",
                       "2018.12_Zuma-Beach_Malibu_California_USA_02.jpg",
                       "2018.12_Zuma-Beach_Malibu_California_USA_03.jpg",
@@ -10230,15 +10213,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.01_Half-Moon-Bay-State-Beach_California_USA",
-    "keywords": ["half moon bay state beach",
-                 "half moon bay",
-                 "half moon",
-                 "state park",
-                 "park",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.01_Half-Moon-Bay-State-Beach_California_USA_01.jpg",
                       "2019.01_Half-Moon-Bay-State-Beach_California_USA_02.jpg",
                       "2019.01_Half-Moon-Bay-State-Beach_California_USA_03.jpg",
@@ -10261,16 +10236,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.01_Mt-Diablo_Mount-Diablo-State-Park_California_USA",
-    "keywords": ["mt diablo",
-                 "diablo",
-                 "mountain",
-                 "mount diablo state park",
-                 "state park",
-                 "park",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.01_Mt-Diablo_Mount-Diablo-State-Park_California_USA_01.jpg",
                       "2019.01_Mt-Diablo_Mount-Diablo-State-Park_California_USA_02.jpg",
                       "2019.01_Mt-Diablo_Mount-Diablo-State-Park_California_USA_03.jpg",
@@ -11683,6 +11649,29 @@
     "camera": "Nikon D850",
     "introduction": "If you’re in search of an incredible natural vista, then Horseshoe Bend is definitely worth a visit. The name was inspired by its unusual shape, a horseshoe-shaped meander of the Colorado River located four miles southwest of Page, AZ, within the Glen Canyon National Recreation Area. Just a hop, skip, and a jump from Glen Canyon Dam and the popular Lake Powell, the best view is from the steep cliff above Horseshoe Bend.",
     "shareLink": "https://haomingxiong.com/2019-12-horseshoe-bend-glen-canyon-national-recreation-area-arizona-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2019.12_Montezuma-Castle-National-Monument_Arizona_USA",
+    "keywords": [],
+    "galleryImages": ["2019.12_Montezuma-Castle-National-Monument_Arizona_USA_01.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_02.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_03.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_04.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_05.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_06.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_07.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_08.jpg",
+                      "2019.12_Montezuma-Castle-National-Monument_Arizona_USA_09.jpg"
+                      ],
+    "coordinates": ["34.612310", "-111.8419673"],
+    "location": "Montezuma Castle National Monument, Arizona, USA",
+    "country": "USA",
+    "date": "2019.12",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Established December 8, 1906, Montezuma Castle is the third National Monument dedicated to preserving Native American culture. This 20 room high-rise apartment, nestled into a towering limestone cliff, tells a story of ingenuity, survival and ultimately, prosperity in an unforgiving desert landscape.",
+    "shareLink": "https://haomingxiong.com/2019-12-montezuma-castle-national-monument-arizona-usa/"
    },
    {
     "fileFormat": "jpg",
