@@ -1,5 +1,5 @@
 {
-"versionNumber": 518,
+"versionNumber": 519,
 "galleryList":
   [
    {
@@ -2402,14 +2402,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2010.11_Meteora_Thessaly_Greece",
+    "keywords": [],
+    "galleryImages": ["2010.11_Meteora_Thessaly_Greece_01.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_02.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_03.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_04.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_05.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_06.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_07.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_08.jpg",
+                      "2010.11_Meteora_Thessaly_Greece_09.jpg"
+                      ],
+    "coordinates": ["39.723764", "21.630934"],
+    "location": "Meteora, Thessaly, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The extraordinary rock formations of the Meteora region would be an unmissable tourist attraction even if they weren’t crowned by Byzantine monasteries. However, the sheer spectacle of those monasteries – somehow glued atop slender stone pinnacles by medieval masons and now collectively listed as a World Heritage site – makes this one of the most visited attractions in all Greece. This strange and beautiful landscape also offers wonderful opportunities for walkers and climbers.",
+    "shareLink": "https://haomingxiong.com/2010-11-meteora-thessaly-greece/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece",
-    "keywords": ["st. nicholas anapavsa",
-                 "anapavsa",
-                 "monastery",
-                 "meteora",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_01.jpg",
                       "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_02.jpg",
                       "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_03.jpg",
@@ -2432,13 +2449,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece",
-    "keywords": ["mount profitis ilias",
-                 "profitis ilias",
-                 "mountain",
-                 "santorini",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_01.jpg",
                       "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_02.jpg",
                       "2010.11_Mount-Profitis-Ilias_Santorini_South-Aegean_Greece_03.jpg",
@@ -2461,13 +2472,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece",
-    "keywords": ["mykonos windmills",
-                 "windmill",
-                 "sea",
-                 "mykonos",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_01.jpg",
                       "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_02.jpg",
                       "2010.11_Mykonos-Windmills_Mykonos_South-Aegean_Greece_03.jpg",
@@ -2490,13 +2495,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.11_Night-Scene_Oia_Santorini_South-Aegean_Greece",
-    "keywords": ["night scene",
-                 "night",
-                 "oia",
-                 "santorini",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Night-Scene_Oia_Santorini_South-Aegean_Greece_01.jpg",
                       "2010.11_Night-Scene_Oia_Santorini_South-Aegean_Greece_02.jpg",
                       "2010.11_Night-Scene_Oia_Santorini_South-Aegean_Greece_03.jpg",
@@ -2519,12 +2518,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.11_Oia_Santorini_South-Aegean_Greece",
-    "keywords": ["oia",
-                 "city",
-                 "santorini",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Oia_Santorini_South-Aegean_Greece_01.jpg",
                       "2010.11_Oia_Santorini_South-Aegean_Greece_02.jpg",
                       "2010.11_Oia_Santorini_South-Aegean_Greece_03.jpg",
@@ -2547,12 +2541,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.11_Prometheas_Delphi_Central-Greece_Greece",
-    "keywords": ["promēthéas",
-                 "promēthéas",
-                 "delphi",
-                 "greece",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.11_Prometheas_Delphi_Central-Greece_Greece_01.jpg",
                       "2010.11_Prometheas_Delphi_Central-Greece_Greece_02.jpg",
                       "2010.11_Prometheas_Delphi_Central-Greece_Greece_03.jpg",
@@ -2572,14 +2561,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta",
-    "keywords": ["azure window",
-                 "san lawrenz",
-                 "island",
-                 "sea",
-                 "gozo",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_01.jpg",
                       "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_02.jpg",
                       "2010.12_Azure-Window_San-Lawrenz_Gozo-Region_Malta_03.jpg",
@@ -2602,13 +2584,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Comino_Gozo-Region_Malta",
-    "keywords": ["comino",
-                 "island",
-                 "sea",
-                 "gozo",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Comino_Gozo-Region_Malta_01.jpg",
                       "2010.12_Comino_Gozo-Region_Malta_02.jpg",
                       "2010.12_Comino_Gozo-Region_Malta_03.jpg",
@@ -2631,12 +2607,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Floriana_South-Eastern-Region_Malta",
-    "keywords": ["floriana",
-                 "city",
-                 "island",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Floriana_South-Eastern-Region_Malta_01.jpg",
                       "2010.12_Floriana_South-Eastern-Region_Malta_02.jpg",
                       "2010.12_Floriana_South-Eastern-Region_Malta_03.jpg",
@@ -2659,15 +2630,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Manoel-Island_Gzira_Central-Region_Malta",
-    "keywords": ["manoel island",
-                 "manoel",
-                 "island",
-                 "sea",
-                 "gżira",
-                 "gzira",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Manoel-Island_Gzira_Central-Region_Malta_01.jpg",
                       "2010.12_Manoel-Island_Gzira_Central-Region_Malta_02.jpg",
                       "2010.12_Manoel-Island_Gzira_Central-Region_Malta_03.jpg",
@@ -2688,14 +2651,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Salina-Bay_Northern-Region_Malta",
-    "keywords": ["salina bay",
-                 "salina",
-                 "bay",
-                 "island",
-                 "sea",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Salina-Bay_Northern-Region_Malta_01.jpg",
                       "2010.12_Salina-Bay_Northern-Region_Malta_02.jpg",
                       "2010.12_Salina-Bay_Northern-Region_Malta_03.jpg",
@@ -2718,12 +2674,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Valletta_South-Eastern-Region_Malta",
-    "keywords": ["valletta",
-                 "capital",
-                 "island",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Valletta_South-Eastern-Region_Malta_01.jpg",
                       "2010.12_Valletta_South-Eastern-Region_Malta_02.jpg",
                       "2010.12_Valletta_South-Eastern-Region_Malta_03.jpg",
@@ -2746,15 +2697,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2010.12_Xlendi_Gozo-Region_Malta",
-    "keywords": ["xlendi",
-                 "city",
-                 "bay",
-                 "island",
-                 "sea",
-                 "gozo",
-                 "malta",
-                 "2010"
-               ],
+    "keywords": [],
     "galleryImages": ["2010.12_Xlendi_Gozo-Region_Malta_01.jpg",
                       "2010.12_Xlendi_Gozo-Region_Malta_02.jpg",
                       "2010.12_Xlendi_Gozo-Region_Malta_03.jpg",
