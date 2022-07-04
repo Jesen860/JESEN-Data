@@ -1,5 +1,5 @@
 {
-"versionNumber": 519,
+"versionNumber": 520,
 "galleryList":
   [
    {
@@ -12849,6 +12849,29 @@
    "camera": "Nikon D850",
    "introduction": "The protected inlet of Morro Bay serves as habitat for about 40 sea otters, primarily females caring for pups. This number is growing as the sea otter population continues to stabilize in the wake of fur trading. Both the Morro Bay Embarcadero and Estuary provide safety for otters to find food, raise their young, and avoid predators like sharks.",
    "shareLink": "https://haomingxiong.com/2022-04-sea-otters-morro-rock-morro-bay-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA",
+   "keywords": [],
+   "galleryImages": ["2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_01.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_02.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_03.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_04.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_05.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_06.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_07.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_08.jpg",
+                     "2022.04_Waddell-Beach_Big-Basin-Redwoods-State-Park_California_USA_09.jpg"
+                     ],
+   "coordinates": ["37.096038", "-122.279154"],
+   "location": "Waddell Beach, Big Basin Redwoods State Park, California, USA",
+   "country": "USA",
+   "date": "2022.04",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Waddell Beach spreads 1.5 miles along the coast at the mouth of Waddell Creek. The main section of the beach is part of Big Basin Redwoods State Park. The steady winds at Waddell Beach have made it a favorite for experienced windsurfers and kite surfers.",
+   "shareLink": "https://haomingxiong.com/2022-04-waddell-beach-big-basin-redwoods-state-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
