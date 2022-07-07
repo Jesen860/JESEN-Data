@@ -1,5 +1,5 @@
 {
-"versionNumber": 526,
+"versionNumber": 527,
 "galleryList":
   [
    {
@@ -12625,21 +12625,6 @@
    "shareLink": "https://haomingxiong.com/2022-02-seal-cove-cypress-tree-tunnel-moss-beach-california-usa/"
   },
   {
-   "fileFormat": "mp4",
-   "videoOrientation": "vertical",
-   "filePath": "2022.02_Tennessee-Cove_Golden-Gate-National-Recreation-Area_California_USA",
-   "keywords": [],
-   "galleryImages": [],
-   "coordinates": ["37.837354", "-122.550550"],
-   "location": "Tennessee Cove, Golden Gate National Recreation Area, California, USA",
-   "country": "USA",
-   "date": "2022.02",
-   "photographer": "Jesen",
-   "camera": "Nikon D850",
-   "introduction": "Tennessee Cove is a popular destination for a picnic or for a casual hang at the end of Tennessee Valley trail. The cove boasts a broad beach surrounded by high, rocky bluffs. A short side trail will take you up a bluff for excellent views from old coastal defense observation posts.",
-   "shareLink": "https://haomingxiong.com/2022-02-tennessee-cove-golden-gate-national-recreation-area-california-usa/"
-  },
-  {
    "fileFormat": "jpg",
    "filePath": "2022.02_Torpedo-Wharf_Golden-Gate-National-Recreation-Area_California_USA",
    "keywords": [],
@@ -12661,6 +12646,36 @@
    "camera": "Nikon D850",
    "introduction": "Just east of Fort Point is the Fort Point fishing pier, a.k.a. Torpedo Wharf. This pier sits at the mouth of the Golden Gate. Because of its location, fishermen and fisherladies may encounter any species that enters the bay. It’s a great spot for fishing and crabbing. No license required. The pier is the original site where ships loaded underwater mines, then called “torpedoes,” before transporting and planting them outside the Golden Gate in the 1890s.",
    "shareLink": "https://haomingxiong.com/2022-02-fort-point-golden-gate-national-recreation-area-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "vertical",
+   "filePath": "2022.02_Video_Tennessee-Beach_Golden-Gate-National-Recreation-Area_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["37.841258", "-122.551743"],
+   "location": "Tennessee Beach, Golden Gate National Recreation Area, California, USA",
+   "country": "USA",
+   "date": "2022.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Tennessee Beach is a dark sand beach on the west side of the Marin Headlands in Golden Gate National Recreation Area. The beach at Tennessee Cove requires a two-mile hike from the Tennessee Valley Trailhead. The trail descends the valley and passes a small freshwater pond before ending at the sandy beach. The beach has a very secluded feel due to the high rock walls surrounding it.",
+   "shareLink": "https://haomingxiong.com/2022-02-tennessee-beach-golden-gate-national-recreation-area-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "vertical",
+   "filePath": "2022.02_Video_Tennessee-Cove_Golden-Gate-National-Recreation-Area_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["37.837354", "-122.550550"],
+   "location": "Tennessee Cove, Golden Gate National Recreation Area, California, USA",
+   "country": "USA",
+   "date": "2022.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Tennessee Cove is a popular destination for a picnic or for a casual hang at the end of Tennessee Valley trail. The cove boasts a broad beach surrounded by high, rocky bluffs. A short side trail will take you up a bluff for excellent views from old coastal defense observation posts.",
+   "shareLink": "https://haomingxiong.com/2022-02-tennessee-cove-golden-gate-national-recreation-area-california-usa/"
   },
   {
    "fileFormat": "mp4",
