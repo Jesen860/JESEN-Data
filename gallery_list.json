@@ -1,5 +1,5 @@
 {
-"versionNumber": 529,
+"versionNumber": 530,
 "galleryList":
   [
    {
@@ -11886,6 +11886,36 @@
    {
     "fileFormat": "mp4",
     "videoOrientation": "horizontal",
+    "filePath": "2020.02_Airview-South_Tomales-Point_Point-Reyes-National-Seashore_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["38.241944", "-122.995961"],
+    "location": "Airview South, Tomales Point, Point Reyes National Seashore, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "DJI Mavic 2",
+    "introduction": "Tomales Point is located at the northern end of Point Reyes National Seashore. The Tomales Point area is a popular destination for visitors wishing to view tule elk, birds, and wildflowers. The historic Pierce Point Ranch offers a glimpse into the early dairy ranching days on the peninsula. A short 0.4 mile trail leads down to the beautiful McClures Beach. The 9.7 mile round-trip Tomales Point Trail leads along the ridge crest of a narrow peninsula, offering spectacular views of Tomales Bay and Bolinas Ridge to the east, Bodega Bay to the north, and the coastline of the Point Reyes peninsula stretching to the south.",
+    "shareLink": "https://haomingxiong.com/2020-02-airview-south-tomales-point-point-reyes-national-seashore-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
+    "filePath": "2020.02_Airview-Top_Tomales-Point_Point-Reyes-National-Seashore_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["38.240611", "-122.994923"],
+    "location": "Airview Top, Tomales Point, Point Reyes National Seashore, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "DJI Mavic 2",
+    "introduction": "Tomales Point is located at the northern end of Point Reyes National Seashore. The Tomales Point area is a popular destination for visitors wishing to view tule elk, birds, and wildflowers. The historic Pierce Point Ranch offers a glimpse into the early dairy ranching days on the peninsula. A short 0.4 mile trail leads down to the beautiful McClures Beach. The 9.7 mile round-trip Tomales Point Trail leads along the ridge crest of a narrow peninsula, offering spectacular views of Tomales Bay and Bolinas Ridge to the east, Bodega Bay to the north, and the coastline of the Point Reyes peninsula stretching to the south.",
+    "shareLink": "https://haomingxiong.com/2020-02-airview-top-tomales-point-point-reyes-national-seashore-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
     "filePath": "2020.02_Airview_Top-North_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
     "keywords": [],
     "galleryImages": [],
@@ -11989,21 +12019,6 @@
     "camera": "Nikon D850",
     "introduction": "Tomales Point is located at the northern end of Point Reyes National Seashore. The Tomales Point area is a popular destination for visitors wishing to view tule elk, birds, and wildflowers. The historic Pierce Point Ranch offers a glimpse into the early dairy ranching days on the peninsula. A short 0.4 mile trail leads down to the beautiful McClures Beach. The 9.7 mile round-trip Tomales Point Trail leads along the ridge crest of a narrow peninsula, offering spectacular views of Tomales Bay and Bolinas Ridge to the east, Bodega Bay to the north, and the coastline of the Point Reyes peninsula stretching to the south.",
     "shareLink": "https://haomingxiong.com/2020-02-tomales-point-trail-point-reyes-national-seashore-california-usa/"
-   },
-   {
-    "fileFormat": "mp4",
-    "videoOrientation": "vertical",
-    "filePath": "2020.02_Top-Airview_Tomales-Point_Point-Reyes-National-Seashore_California_USA",
-    "keywords": [],
-    "galleryImages": [],
-    "coordinates": ["38.240611", "-122.994923"],
-    "location": "Airview, Tomales Point, Point Reyes National Seashore, California, USA",
-    "country": "USA",
-    "date": "2020.02",
-    "photographer": "Jesen",
-    "camera": "DJI Mavic 2",
-    "introduction": "Tomales Point is located at the northern end of Point Reyes National Seashore. The Tomales Point area is a popular destination for visitors wishing to view tule elk, birds, and wildflowers. The historic Pierce Point Ranch offers a glimpse into the early dairy ranching days on the peninsula. A short 0.4 mile trail leads down to the beautiful McClures Beach. The 9.7 mile round-trip Tomales Point Trail leads along the ridge crest of a narrow peninsula, offering spectacular views of Tomales Bay and Bolinas Ridge to the east, Bodega Bay to the north, and the coastline of the Point Reyes peninsula stretching to the south.",
-    "shareLink": "https://haomingxiong.com/2020-02-top-airview-tomales-point-point-reyes-national-seashore-california-usa/"
    },
    {
     "fileFormat": "jpg",
