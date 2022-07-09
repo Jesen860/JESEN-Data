@@ -1,5 +1,5 @@
 {
-"versionNumber": 530,
+"versionNumber": 532,
 "galleryList":
   [
    {
@@ -11871,6 +11871,21 @@
    {
     "fileFormat": "mp4",
     "videoOrientation": "horizontal",
+    "filePath": "2020.02_Airview_South_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["36.985911", "-122.161413"],
+    "location": "Airview South, Laguna Creek Beach, Coast Dairies State Park, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "DJI Mavic 2",
+    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
+    "shareLink": "https://haomingxiong.com/2020-02-airview-top-laguna-creek-beach-coast-dairies-state-park-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
     "filePath": "2020.02_Airview_Top_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
     "keywords": [],
     "galleryImages": [],
@@ -11882,6 +11897,36 @@
     "camera": "DJI Mavic 2",
     "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
     "shareLink": "https://haomingxiong.com/2020-02-airview-top-laguna-creek-beach-coast-dairies-state-park-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
+    "filePath": "2020.02_Airview_Top-North_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["36.985108", "-122.159129"],
+    "location": "Airview Top North, Laguna Creek Beach, Coast Dairies State Park, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "DJI Mavic 2",
+    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
+    "shareLink": "https://haomingxiong.com/2020-02-airview-top-north-laguna-creek-beach-coast-dairies-state-park-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
+    "filePath": "2020.02_Airview_Top-Up_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["36.982564", "-122.1567545"],
+    "location": "Airview Top Up, Laguna Creek Beach, Coast Dairies State Park, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "DJI Mavic 2",
+    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
+    "shareLink": "https://haomingxiong.com/2020-02-airview-top-up-laguna-creek-beach-coast-dairies-state-park-california-usa/"
    },
    {
     "fileFormat": "mp4",
@@ -11912,21 +11957,6 @@
     "camera": "DJI Mavic 2",
     "introduction": "Tomales Point is located at the northern end of Point Reyes National Seashore. The Tomales Point area is a popular destination for visitors wishing to view tule elk, birds, and wildflowers. The historic Pierce Point Ranch offers a glimpse into the early dairy ranching days on the peninsula. A short 0.4 mile trail leads down to the beautiful McClures Beach. The 9.7 mile round-trip Tomales Point Trail leads along the ridge crest of a narrow peninsula, offering spectacular views of Tomales Bay and Bolinas Ridge to the east, Bodega Bay to the north, and the coastline of the Point Reyes peninsula stretching to the south.",
     "shareLink": "https://haomingxiong.com/2020-02-airview-top-tomales-point-point-reyes-national-seashore-california-usa/"
-   },
-   {
-    "fileFormat": "mp4",
-    "videoOrientation": "horizontal",
-    "filePath": "2020.02_Airview_Top-North_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
-    "keywords": [],
-    "galleryImages": [],
-    "coordinates": ["36.985108", "-122.159129"],
-    "location": "Airview Top North, Laguna Creek Beach, Coast Dairies State Park, California, USA",
-    "country": "USA",
-    "date": "2020.02",
-    "photographer": "Jesen",
-    "camera": "DJI Mavic 2",
-    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
-    "shareLink": "https://haomingxiong.com/2020-02-airview-top-north-laguna-creek-beach-coast-dairies-state-park-california-usa/"
    },
    {
     "fileFormat": "jpg",
