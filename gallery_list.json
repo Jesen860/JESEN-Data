@@ -1,5 +1,5 @@
 {
-"versionNumber": 537,
+"versionNumber": 538,
 "galleryList":
   [
    {
@@ -10457,15 +10457,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.03_Port-View-Park_Oakland_California_USA",
-    "keywords": ["port view park",
-                 "port",
-                 "bay",
-                 "park",
-                 "oakland",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.03_Port-View-Park_Oakland_California_USA_01.jpg",
                       "2019.03_Port-View-Park_Oakland_California_USA_02.jpg",
                       "2019.03_Port-View-Park_Oakland_California_USA_03.jpg",
@@ -10487,18 +10479,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA",
+    "keywords": [],
+    "galleryImages": ["2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_01.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_02.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_03.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_04.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_05.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_06.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_07.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_08.jpg",
+                      "2019.03_Recreation-Yard_Alcatraz-Island_Golden-Gate-National-Recreation-Area_California_USA_09.jpg"
+                      ],
+    "coordinates": ["37.827067", "-122.423745"],
+    "location": "Recreation Yard, Alcatraz Island, Golden Gate National Recreation Area, California, USA",
+    "country": "USA",
+    "date": "2019.03",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The recreation yard is an outdoor area on the west side of D-Block next to the Dining Hall surrounded by a high wall and fence facing the mainland. Here, inmates were afforded a chance to relax, play games like baseball and exercise. Still, even in this welcome respite from the cellblock, the inmates were closely guarded. The yard was surrounded by a catwalk along the exterior walls where armed guards would watch the men at play, so ‘relaxation’ in this case, was a relative term.",
+    "shareLink": "https://haomingxiong.com/2019-03-recreation-yard-alcatraz-island-golden-gate-national-recreation-area-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2019.04_Night-Scene_Grizzly-Peak_Oakland_California_USA",
-    "keywords": ["grizzly peak",
-                 "grizzly",
-                 "peak",
-                 "mountain",
-                 "night scene",
-                 "night",
-                 "oakland",
-                 "california",
-                 "usa",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.04_Night-Scene_Grizzly-Peak_Oakland_California_USA_01.jpg",
                       "2019.04_Night-Scene_Grizzly-Peak_Oakland_California_USA_02.jpg",
                       "2019.04_Night-Scene_Grizzly-Peak_Oakland_California_USA_03.jpg",
@@ -10521,14 +10526,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2019.08_Shiting-Jiang_Shifang_Deyang_Sichuan_China",
-    "keywords": ["shiting jiang",
-                 "river",
-                 "shifang",
-                 "deyang",
-                 "sichuan",
-                 "china",
-                 "2019"
-                ],
+    "keywords": [],
     "galleryImages": ["2019.08_Shiting-Jiang_Shifang_Deyang_Sichuan_China_01.jpg",
                       "2019.08_Shiting-Jiang_Shifang_Deyang_Sichuan_China_02.jpg",
                       "2019.08_Shiting-Jiang_Shifang_Deyang_Sichuan_China_03.jpg",
