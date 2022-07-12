@@ -1,5 +1,5 @@
 {
-"versionNumber": 536,
+"versionNumber": 537,
 "galleryList":
   [
    {
@@ -9579,15 +9579,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Big-Creek-Bridge_Big-Sur_California_USA",
-    "keywords": ["big creek bridge",
-                 "big creek",
-                 "bridge",
-                 "sea",
-                 "big sur",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Big-Creek-Bridge_Big-Sur_California_USA_01.jpg",
                       "2018.12_Big-Creek-Bridge_Big-Sur_California_USA_02.jpg",
                       "2018.12_Big-Creek-Bridge_Big-Sur_California_USA_03.jpg",
@@ -9609,16 +9601,31 @@
    },
    {
     "fileFormat": "jpg",
+    "filePath": "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA",
+    "keywords": [],
+    "galleryImages": ["2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_01.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_02.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_03.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_04.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_05.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_06.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_07.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_08.jpg",
+                      "2018.12_Boulder-Beach_Lake-Mead-National-Recreation-Area_Nevada_USA_09.jpg"
+                      ],
+    "coordinates": ["36.046351", "-114.794487"],
+    "location": "Boulder Beach, Lake Mead National Recreation Area, Nevada, USA",
+    "country": "USA",
+    "date": "2018.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "Located just minutes from Las Vegas, Boulder Beach stretches more than a mile along the shoreline of the Boulder Basin of Lake Mead. The beach is popular for swimming, boating and sailing. Stay the night in the nearby campground or RV park, enjoy a picnic while viewing the lake and stroll along the easy trails.",
+    "shareLink": "https://haomingxiong.com/2018-12-boulder-beach-lake-mead-national-recreation-area-nevada-usa/"
+   },
+   {
+    "fileFormat": "jpg",
     "filePath": "2018.12_Carmel-Beach_Carmel-By-The-Sea_California_USA",
-    "keywords": ["carmel beach",
-                 "carmel by the sea",
-                 "carmel",
-                 "sea",
-                 "beach",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Carmel-Beach_Carmel-By-The-Sea_California_USA_01.jpg",
                       "2018.12_Carmel-Beach_Carmel-By-The-Sea_California_USA_02.jpg",
                       "2018.12_Carmel-Beach_Carmel-By-The-Sea_California_USA_03.jpg",
