@@ -1,5 +1,5 @@
 {
-"versionNumber": 542,
+"versionNumber": 543,
 "galleryList":
   [
    {
@@ -13533,6 +13533,36 @@
   {
    "fileFormat": "mp4",
    "videoOrientation": "horizontal",
+   "filePath": "2022.07_Airview-Up_Grayling-Lake_Dalton-Highway_Alaska_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["66.953913", "-150.403929"],
+   "location": "Airview Up, Grayling Lake, Dalton Highway, Alaska, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "DJI Mavic 2",
+   "introduction": "An ancient glacier carved this U-shaped valley and left a shallow lake. Moose feed on the nutrient-rich aquatic plants in summer. Charcoal, stone scrapers, and other artifacts found nearby indicate that Native hunters used this lookout for thousands of years.",
+   "shareLink": "https://haomingxiong.com/2022-07-airview-up-grayling-lake-dalton-highway-alaska-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.07_Sunset_Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["37.439295", "-121.961811"],
+   "location": "Sunset, Don Edwards San Francisco Bay National Wildlife Refuge, California, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "In the heart of California’s high-tech industry lies the nation’s first and largest urban national wildlife refuge. It is indeed a wildlife oasis in an urban sea with 30,000 acres of habitat for millions of migratory birds and endangered species. Today it provides not only critical habitat for threatened and endangered species, but opportunities for people to enjoy the benefits of nature.",
+   "shareLink": "https://haomingxiong.com/2022-07-sunset-don-edwards-san-francisco-bay-national-wildlife-refuge-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
    "filePath": "2022.07_Video_Arctic-Ocean-Coast-by-Funakoshi-Memorial_Ukpiagvik_Alaska_USA",
    "keywords": [],
    "galleryImages": [],
@@ -13559,21 +13589,6 @@
    "camera": "Nikon D850",
    "introduction": "The mile-long Baker Beach lies at the foot of rugged serpentine cliffs west of the Golden Gate. Large waves, undertow and rip currents make the beach unsafe for swimming, but it provides panoramic views of the Golden Gate Bridge, Marin Headlands and Lands End. You can fish or check out the shorelife along the beach and rocky shoreline.",
    "shareLink": "https://haomingxiong.com/2022-07-baker-beach-golden-gate-national-recreation-area-california-usa/"
-  },
-  {
-   "fileFormat": "mp4",
-   "videoOrientation": "horizontal",
-   "filePath": "2022.07_Sunset_Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge_California_USA",
-   "keywords": [],
-   "galleryImages": [],
-   "coordinates": ["37.439295", "-121.961811"],
-   "location": "Sunset, Don Edwards San Francisco Bay National Wildlife Refuge, California, USA",
-   "country": "USA",
-   "date": "2022.07",
-   "photographer": "Jesen",
-   "camera": "Nikon D850",
-   "introduction": "In the heart of California’s high-tech industry lies the nation’s first and largest urban national wildlife refuge. It is indeed a wildlife oasis in an urban sea with 30,000 acres of habitat for millions of migratory birds and endangered species. Today it provides not only critical habitat for threatened and endangered species, but opportunities for people to enjoy the benefits of nature.",
-   "shareLink": "https://haomingxiong.com/2022-07-sunset-don-edwards-san-francisco-bay-national-wildlife-refuge-california-usa/"
   },
   {
    "fileFormat": "mp4",
