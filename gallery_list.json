@@ -1,5 +1,5 @@
 {
-"versionNumber": 550,
+"versionNumber": 551,
 "galleryList":
   [
    {
@@ -13666,6 +13666,29 @@
    "camera": "Nikon D850",
    "introduction": "In the heart of California’s high-tech industry lies the nation’s first and largest urban national wildlife refuge. It is indeed a wildlife oasis in an urban sea with 30,000 acres of habitat for millions of migratory birds and endangered species. Today it provides not only critical habitat for threatened and endangered species, but opportunities for people to enjoy the benefits of nature.",
    "shareLink": "https://haomingxiong.com/2022-07-sunset-don-edwards-san-francisco-bay-national-wildlife-refuge-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA",
+   "keywords": [],
+   "galleryImages": ["2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_01.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_02.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_03.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_04.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_05.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_06.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_07.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_08.jpg",
+                     "2022.07_Ted-Stevens-Anchorage-International-Airport_Anchorage_Alaska_USA_09.jpg"
+                     ],
+   "coordinates": ["61.178516", "-149.986561"],
+   "location": "Ted Stevens Anchorage International Airport, Anchorage, Alaska, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Ted Stevens Anchorage International Airport is a major airport in the U.S. state of Alaska, located 5 miles (8 km) southwest of downtown Anchorage. The airport is named for Ted Stevens, a U.S. senator from Alaska in office from 1968 to 2009. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2017–2021, in which it is categorized as a medium-hub primary commercial service facility.",
+   "shareLink": "https://haomingxiong.com/2022-07-ted-stevens-anchorage-international-airport-anchorage-alaska-usa/"
   },
   {
    "fileFormat": "mp4",
