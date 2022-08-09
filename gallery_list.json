@@ -1,5 +1,5 @@
 {
-"versionNumber": 557,
+"versionNumber": 558,
 "galleryList":
   [
    {
@@ -13758,6 +13758,29 @@
    "camera": "Nikon D850",
    "introduction": "In an architecturally abstract, igloo- and aurora-inspired edifice sits one of Alaska’s finest museums, with artifact-rich exhibits on the geology, history, culture and trivia of each region of the state. You are greeted by an 8ft 9in, 1250lb stuffed bear and signposted around very well laid-out exhibits, which examine the state’s regions as geographic and cultural units. Upstairs, the Rose Berry Alaska Art Gallery covers 2000 years of northern works, including ancient ivory carvings, wood masks and contemporary photographs.",
    "shareLink": "https://haomingxiong.com/2022-07-museum-of-the-north-fairbanks-alaska-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA",
+   "keywords": [],
+   "galleryImages": ["2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_01.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_02.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_03.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_04.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_05.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_06.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_07.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_08.jpg",
+                     "2022.07_Point-Barrow_Ukpiagvik_Alaska_USA_09.jpg"
+                     ],
+   "coordinates": ["71.384130", "-156.472027"],
+   "location": "Point Barrow, Utqiaġvik, Alaska, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "The northernmost extremity of the US (though not, as locals sometimes claim, North America) is Point Barrow, but it’s tough to get to this narrow strip of land. Tours drive almost all the way, but the last two to three miles is a beach full of soft, sandy sinkholes. Rather, drive to the end of the road and enjoy the surreal scenery. For what it’s worth, getting to the end of the road still feels like driving to the end of the world. You roll up a cold, windswept, lonely road, flanked by the occasional shack and ‘palm trees’ fashioned from whale baleen. To the north, you’ll see the Arctic Ocean, shaded from slate gray to icy black and breaking on the pebbly shore – assuming the water isn’t filled with ice pack. Occasionally, you’ll see a walrus carcass swelling on the beach. Point Barrow is roughly 12 miles north of Utqiaġvik proper.",
+   "shareLink": "https://haomingxiong.com/2022-07-point-barrow-utqiagvik-alaska-usa/"
   },
   {
    "fileFormat": "mp4",
