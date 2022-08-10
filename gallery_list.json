@@ -1,5 +1,5 @@
 {
-"versionNumber": 560,
+"versionNumber": 561,
 "galleryList":
   [
    {
@@ -9765,15 +9765,7 @@
    {
     "fileFormat": "jpg",
     "filePath": "2018.12_Harmony-Borax-Works_Death-Valley-National-Park_California_USA",
-    "keywords": ["harmony borax works",
-                 "death valley national park",
-                 "death valley",
-                 "national park",
-                 "park",
-                 "california",
-                 "usa",
-                 "2018"
-                ],
+    "keywords": [],
     "galleryImages": ["2018.12_Harmony-Borax-Works_Death-Valley-National-Park_California_USA_01.jpg",
                       "2018.12_Harmony-Borax-Works_Death-Valley-National-Park_California_USA_02.jpg",
                       "2018.12_Harmony-Borax-Works_Death-Valley-National-Park_California_USA_03.jpg",
@@ -9792,6 +9784,29 @@
     "camera": "Nikon",
     "introduction": "Just north of Furnace Creek, a 0.5-mile interpretive trail follows in the footsteps of late-19th-century Chinese laborers and through the adobe ruins of Harmony Borax Works, which operated from 1883–88. Follow up with a side trip through twisting Mustard Canyon.",
     "shareLink": "https://haomingxiong.com/2018-12-harmony-borax-works-death-valley-national-park-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA",
+    "keywords": [],
+    "galleryImages": ["2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_01.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_02.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_03.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_04.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_05.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_06.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_07.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_08.jpg",
+                      "2018.12_Hidden-Valley_Joshua-Tree-National-Park_California_USA_09.jpg"
+                      ],
+    "coordinates": ["34.014436", "-116.170627"],
+    "location": "Hidden Valley, Joshua Tree National Park, California, USA",
+    "country": "USA",
+    "date": "2018.12",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "A short, mile-long interpretive trail through an area rich with history, wildlife, and rock climbers. A great introduction to the park if you’re coming in from the Western Entrance. Back in the early 20th century, the area around Joshua Tree got a lot more rain than it does these days. Before the land was protected in 1936, ranchers and prospectors tried to make a living in the region – and one of the most colorful was a man named William Keys. Keys built the nearby Desert Queen Ranch, improved Barker Dam, and set up a stamp mill just a few miles away at Wall Street. He also blasted his way through Joshua Tree boulders to let his cattle graze on the untouched grassland in Hidden Valley. Today, the climate is much drier and the pastures have mostly vanished, but this short and easy hike into Hidden Valley will give you a nice glimpse at some of the region’s plants and animals, its history, and in the right seasons – some of its climbers.",
+    "shareLink": "https://haomingxiong.com/2018-12-hidden-valley-joshua-tree-national-park-california-usa/"
    },
    {
     "fileFormat": "jpg",
