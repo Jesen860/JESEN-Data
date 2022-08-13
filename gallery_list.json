@@ -1,5 +1,5 @@
 {
-"versionNumber": 570,
+"versionNumber": 571,
 "galleryList":
   [
    {
@@ -12120,6 +12120,21 @@
    {
     "fileFormat": "mp4",
     "videoOrientation": "horizontal",
+    "filePath": "2020.02_Video_North_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
+    "keywords": [],
+    "galleryImages": [],
+    "coordinates": ["36.984738", "-122.159669"],
+    "location": "North View, Laguna Creek Beach, Coast Dairies State Park, California, USA",
+    "country": "USA",
+    "date": "2020.02",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "Laguna Creek Beach is a remote and sandy beach backed by coastal bluffs and interesting rock formations, located three and a half miles south of Davenport, California. Part of the 6-mile stretch of beaches and coastal land known as the Coast Dairies State Park, Laguna Creek Beach is a great beach to relax and kill a few hours while listening to the crashing surf. Settle in by the creek, birdwatch near the wetlands, or partake in the (clothing-optional) sunbathing.",
+    "shareLink": "https://haomingxiong.com/2020-02-north-view-laguna-creek-beach-coast-dairies-state-park-california-usa/"
+   },
+   {
+    "fileFormat": "mp4",
+    "videoOrientation": "horizontal",
     "filePath": "2020.02_Video_South_Laguna-Creek-Beach_Coast-Dairies-State-Park_California_USA",
     "keywords": [],
     "galleryImages": [],
@@ -14040,7 +14055,7 @@
    "filePath": "2022.07_Video_Arctic-Ocean-Coast-by-Funakoshi-Memorial_Ukpiagvik_Alaska_USA",
    "keywords": [],
    "galleryImages": [],
-   "coordinates": ["71.288238", "-156.802484"],
+   "coordinates": ["71.288297", "-156.804443"],
    "location": "Arctic Ocean Coast by Funakoshi Memorial, Utqiaġvik, Alaska, USA",
    "country": "USA",
    "date": "2022.07",
