@@ -1,5 +1,5 @@
 {
-"versionNumber": 571,
+"versionNumber": 572,
 "galleryList":
   [
    {
@@ -11323,7 +11323,7 @@
     "filePath": "2019.11_Airview_Franklin-Point_Ano-Nuevo-State-Park_California_USA",
     "keywords": [],
     "galleryImages": [],
-    "coordinates": ["37.149668", "-122.360529"],
+    "coordinates": ["37.149861", "-122.360344"],
     "location": "Airview, Franklin Point, Año Nuevo State Park, California, USA",
     "country": "USA",
     "date": "2019.11",
@@ -13698,6 +13698,21 @@
    "camera": "DJI Mavic 2",
    "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season.",
    "shareLink": "https://haomingxiong.com/2022-06-airview-south-franklin-point-ano-nuevo-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.06_Airview-Top_Franklin-Point_Ano-Nuevo-State-Park_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["37.149419", "-122.360788"],
+   "location": "Airview Top, Franklin Point, Año Nuevo State Park, California, USA",
+   "country": "USA",
+   "date": "2022.06",
+   "photographer": "Jesen",
+   "camera": "DJI Mavic 2",
+   "introduction": "Just over a dozen miles southeast of Pescadero State Beach, Año Nuevo State Natural Reserve is home base for one of the world’s largest mainland breeding colonies of northern elephant seals. More raucous than a full-moon beach rave, thousands of boisterous elephant seals party down year-round on the dunes of Año Nuevo Point, their squeals and barks reaching fever pitch during the winter pupping season.",
+   "shareLink": "https://haomingxiong.com/2022-06-airview-top-franklin-point-ano-nuevo-state-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
