@@ -1,5 +1,5 @@
 {
-"versionNumber": 580,
+"versionNumber": 581,
 "galleryList":
   [
    {
@@ -10322,7 +10322,7 @@
                       "2019.01_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_08.jpg",
                       "2019.01_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_09.jpg"
                       ],
-    "coordinates": ["37.181736", "-122.393972"],
+    "coordinates": ["37.182303", "-122.393780"],
     "location": "Pigeon Point Light Station State Historic Park, California, USA",
     "country": "USA",
     "date": "2019.01",
@@ -13139,6 +13139,29 @@
    "camera": "Nikon D850",
    "introduction": "The City of Lakeport in beautiful Lake County is located in the heart of Northern California’s wine country just north of the San Francisco Bay Area. Lakeport is located along the west shore of Clear Lake, the largest natural freshwater lake in California. Clear Lake is 68 square miles, offering premier boating and fishing experience. There is no shortage of other fun activities: hiking, biking, antiquing, off roading, camping, bird watching, excellent restaurants, breweries, and wine tasting are some of the local activities. With over 30 wineries and 9,000+ acres of vineyards Lake County is one of the fastest growing winemaking regions in America.",
    "shareLink": "https://haomingxiong.com/2022-03-lakeport-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA",
+   "keywords": [],
+   "galleryImages": ["2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_01.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_02.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_03.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_04.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_05.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_06.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_07.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_08.jpg",
+                     "2022.03_Lighthouse_Pigeon-Point-Light-Station-State-Historic-Park_California_USA_09.jpg"
+                     ],
+   "coordinates": ["37.181758", "-122.393943"],
+   "location": "Lighthouse, Pigeon Point Light Station State Historic Park, California, USA",
+   "country": "USA",
+   "date": "2022.03",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Perched on a cliff on the central California coast, 50 miles south of San Francisco, the 115-foot Pigeon Point Lighthouse, one of the tallest lighthouses in America, has been guiding mariners since 1872. Its five-wick lard oil lamp, and first-order Fresnel lens, comprised of 1,008 prisms, was first lit at sunset, November 15, 1872. The lens stands 16 feet tall, 6 feet in diameter, and weighs 2,000 pounds. Now on display in the fog signal building, it sat in a lantern room constructed at the Lighthouse Service’s general depot in New York before being shipped around the Horn. Although the original Fresnel lens is no longer in use, the lighthouse is still an active U.S. Coast Guard aid to navigation using an automated LED beacon. The coastal areas surrounding Pigeon Point Light Station are rich with life. Marine mammals, such as seals and whales, can be seen regularly from shore as they pass by beyond the surf. The intertidal zone along this part of the coast, particularly in the rocky reefs that flank the light station, contains a diverse and numerous variety of plant and animal life.",
+   "shareLink": "https://haomingxiong.com/2022-03-lighthouse-pigeon-point-light-station-state-historic-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
