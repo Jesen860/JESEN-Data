@@ -1,5 +1,5 @@
 {
-"versionNumber": 578,
+"versionNumber": 579,
 "galleryList":
   [
    {
@@ -2460,7 +2460,7 @@
                       "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_08.jpg",
                       "2010.11_Monastery-of-St.-Nicholas-Anapavsa_Meteora_Thessaly_Greece_09.jpg"
                       ],
-    "coordinates": ["39.72394", "21.62472"],
+    "coordinates": ["39.723831", "21.624698"],
     "location": "Monastery of St. Nicholas Anapavsa, Meteora, Greece",
     "country": "Greece",
     "date": "2010.11",
@@ -2468,6 +2468,29 @@
     "camera": "Nikon",
     "introduction": "The Monastery of St. Nicholas Anapausas, built in the 16th century, has a small church, decorated by the noted Cretan painter Theophanis Strelitzas, in 1527. There was one monk in residence in 2015.",
     "shareLink": "https://haomingxiong.com/2010-11-monastery-of-st-nicholas-anapavsa-meteora-thessaly-greece/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece",
+    "keywords": [],
+    "galleryImages": ["2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_01.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_02.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_03.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_04.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_05.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_06.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_07.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_08.jpg",
+                      "2010.11_Monastery-of-Varlaam_Meteora_Thessaly_Greece_09.jpg"
+                      ],
+    "coordinates": ["39.725031", "21.629900"],
+    "location": "Monastery of Varlaam, Meteora, Thessaly, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Holy Monastery of Varlaam is the second biggest monastery of Meteora. Located very close to Great Meteoro Monastery, it was founded in the mid 14th century by a monk named Varlaam. Varlaam managed to climb on the cliff around 1350 and followed by a few other monks he was able to establish the monastery. Decades later in the early 15th century, after Varlaam died, the cliff was abandoned by the rest of the monks. The 14th-century chapel built by him and dedicated to the “Three Hierarchs” was almost turned into ruins. In the early 16th century two brothers from Ioannina, the priest-monks Theophanes and Nectarios, the so-called Apsarades decided to reactivate the abandoned monastery of Varlaam. They settled on the cliff spending many years building a new chapel dedicated to “All Saints” in 1541. The two brothers from Ioannina, Theophanes, and Nectarios are celebrated today as the two founders of the monastery of Varlaam. The Holy Monastery of Varlaam offers exceptional views to its visitors as well as a beautiful new museum where they exhibit many of the monastery’s valuable relics, art, and manuscripts.",
+    "shareLink": "https://haomingxiong.com/2010-11-monastery-of-varlaam-meteora-thessaly-greece/"
    },
    {
     "fileFormat": "jpg",
