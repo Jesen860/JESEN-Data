@@ -1,5 +1,5 @@
 {
-"versionNumber": 586,
+"versionNumber": 585,
 "galleryList":
   [
    {
@@ -14010,7 +14010,7 @@
    "filePath": "2022.07_Airview-North_Grayling-Lake_Dalton-Highway_Alaska_USA",
    "keywords": [],
    "galleryImages": [],
-   "coordinates": ["66.993039, -150.302803"],
+   "coordinates": ["66.993039", "-150.302803"],
    "location": "Airview North, Grayling Lake, Dalton Highway, Alaska, USA",
    "country": "USA",
    "date": "2022.07",
