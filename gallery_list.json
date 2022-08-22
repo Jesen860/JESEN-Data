@@ -1,5 +1,5 @@
 {
-"versionNumber": 588,
+"versionNumber": 589,
 "galleryList":
   [
    {
@@ -14555,10 +14555,25 @@
   {
    "fileFormat": "mp4",
    "videoOrientation": "horizontal",
-   "filePath": "2022.08_Video_West-Beach_Bodega-Head_Sonoma-Coast-State-Park_California_USA",
+   "filePath": "2022.08_Video_Miwok-Beach_Sonoma-Coast-State-Park_California_USA",
    "keywords": [],
    "galleryImages": [],
    "coordinates": ["38.302321", "-123.062795"],
+   "location": "Miwok Beach, Sonoma Coast State Park, California, USA",
+   "country": "USA",
+   "date": "2022.08",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Miwok Beach is a tiny beach named after the Coast Miwok Native Americans who lived in this southern portion of Sonoma County long ago. There is a small pullout parking area signed for Miwok Beach on the west side of Highway 1 north of Bodega Bay. A short trail with a small wooden bridge over a creek takes you down to the beach. Just note that this narrow shoreline will be mostly wet at high tides. At high tide the adjacent wider beach at the mouth of Salmon Creek is a good option. Dogs are not allowed on Miwok Beach and swimming is dangerous to say the least. Miwok Beach is part of Sonoma Coast State Park.",
+   "shareLink": "https://haomingxiong.com/2022-08-video-west-beach-bodega-head-sonoma-coast-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.08_Video_West-Beach_Bodega-Head_Sonoma-Coast-State-Park_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["38.360489", "-123.069100"],
    "location": "West Beach, Bodega Head, Sonoma Coast State Park, California, USA",
    "country": "USA",
    "date": "2022.08",
