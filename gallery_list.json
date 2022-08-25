@@ -1,5 +1,5 @@
 {
-"versionNumber": 598,
+"versionNumber": 599,
 "galleryList":
   [
    {
@@ -2395,6 +2395,33 @@
     "camera": "Nikon",
     "introduction": "Delphi’s magnificent modern museum, 500m east of town, perfectly complements the ancient site alongside. Which you visit first doesn’t matter, but the treasures collected here will bring your image of ancient Delphi to life. Rich and powerful petitioners flocked to Delphi from the 8th century BC onwards, bringing fabulous gifts and erecting opulent monuments. Unearthed by archaeologists, these now fill a succession of mind-blowing galleries.",
     "shareLink": "https://haomingxiong.com/2010-11-delphi-archaeological-museum-delphi-central-greece-greece/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece",
+    "keywords": ["livadeia",
+                 "city",
+                 "greece",
+                 "2010"
+               ],
+    "galleryImages": ["2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_01.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_02.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_03.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_04.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_05.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_06.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_07.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_08.jpg",
+                      "2010.11_Holy-Trinity-Monastery_Meteora_Thessaly_Greece_09.jpg"
+                      ],
+    "coordinates": ["39.713086", "21.635807"],
+    "location": "Holy Trinity Monastery, Meteora, Thessaly, Greece",
+    "country": "Greece",
+    "date": "2010.11",
+    "photographer": "Jesen",
+    "camera": "Nikon",
+    "introduction": "The Holy Trinity Monastery or the monastery of Agia Triada in Greek is one of the most photographed monuments of Meteora. At the same time, it ranks among the most difficult ones to reach in terms of its access. Nothing extraordinary difficult but a bit more stressing than the other monasteries nonetheless. Those who attempt to walk up the steep but short trail and the stairs enjoy some of the most panoramic views of the surrounding cliffs and the town of Kalabaka below! This Monastery is very close to Agios Stefanos monastery, no more than a 10-minute walk. The monastery of Holy Trinity is perched on a steep and magnificent pillar-like rock, which rises precariously some 300 meters above the town of Kalabaka. From the base of the cliff, visitors can easily find the old trail of the monks leading down to the town of Kalabaka.",
+    "shareLink": "https://haomingxiong.com/2010-11-holy-trinity-monastery-meteora-thessaly-greece/"
    },
    {
     "fileFormat": "jpg",
