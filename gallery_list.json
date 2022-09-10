@@ -1,5 +1,5 @@
 {
-"versionNumber": 619,
+"versionNumber": 620,
 "galleryList":
   [
    {
@@ -15067,6 +15067,21 @@
    "camera": "DJI Mavic 2",
    "introduction": "Nestled along the northern shores of Lake Tahoe, Incline Village is a paradise for adventurers, offering exhilarating activities the whole year through. The surrounding Sierra Nevada thrives in winter, drawing flocks of snow-lovers to Diamond Peak’s groomed runs and glade skiing. The same peaks provide secluded and challenging hikes in the summer months. Tahoe itself is the place to unwind. Although some beaches are open only to residents, there are numerous public beaches to dip your feet in.",
    "shareLink": "https://haomingxiong.com/2022-09-airview-west-down-incline-village-nevada-usa/"
+  },
+  {
+   "fileFormat": "mp4",
+   "videoOrientation": "horizontal",
+   "filePath": "2022.09_Airview-West-Up_Stampede-Reservoir_Truckee_California_USA",
+   "keywords": [],
+   "galleryImages": [],
+   "coordinates": ["39.478132", "-120.130997"],
+   "location": "Airview West Up, Stampede Reservoir, Truckee, California, USA",
+   "country": "USA",
+   "date": "2022.09",
+   "photographer": "Jesen",
+   "camera": "DJI Mavic 2",
+   "introduction": "Stampede reservoir is a popular spot for water recreation of all kinds. Fishing, motorized boat and personal watercraft use, and water skiing. Kayaking, paddle boarding, and canoeing when the water is calm (morning and evening). Swimming and fishing too. Ice fishing during winter depending on conditions.",
+   "shareLink": "https://haomingxiong.com/2022-09-airview-west-up-stampede-reservoir-truckee-california-usa/"
   }
   ]
 }
