@@ -1,5 +1,5 @@
 {
-"versionNumber": 622,
+"versionNumber": 623,
 "galleryList":
   [
    {
@@ -15112,6 +15112,29 @@
    "camera": "DJI Mavic 2",
    "introduction": "Stampede reservoir is a popular spot for water recreation of all kinds. Fishing, motorized boat and personal watercraft use, and water skiing. Kayaking, paddle boarding, and canoeing when the water is calm (morning and evening). Swimming and fishing too. Ice fishing during winter depending on conditions.",
    "shareLink": "https://haomingxiong.com/2022-09-airview-west-up-stampede-reservoir-truckee-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.09_Big-Sur-Lookout_Big-Sur_California_USA",
+   "keywords": [],
+   "galleryImages": ["2022.09_Big-Sur-Lookout_Big-Sur_California_USA_01.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_02.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_03.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_04.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_05.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_06.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_07.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_08.jpg",
+                     "2022.09_Big-Sur-Lookout_Big-Sur_California_USA_09.jpg"
+                     ],
+   "coordinates": ["35.853792", "-121.411679"],
+   "location": "Big Sur Lookout, Big Sur, California, USA",
+   "country": "USA",
+   "date": "2022.09",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Big Sur is a majestic stretch of land located off the famous Pacific Coast Highway. Bordered by the Santa Lucia Mountains and the Pacific Ocean, Big Sur offers unmatched scenic beauty and an eclectic vibe you can’t find anywhere else.",
+   "shareLink": "https://haomingxiong.com/2022-09-big-sur-lookout-big-sur-california-usa/"
   }
   ]
 }
