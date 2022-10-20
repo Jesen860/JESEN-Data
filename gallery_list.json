@@ -128,8 +128,7 @@
                       "2009.04_Pantheon_Roma_Lazio_Italy_05.jpg",
                       "2009.04_Pantheon_Roma_Lazio_Italy_06.jpg",
                       "2009.04_Pantheon_Roma_Lazio_Italy_07.jpg",
-                      "2009.04_Pantheon_Roma_Lazio_Italy_08.jpg",
-                      "2009.04_Pantheon_Roma_Lazio_Italy_09.jpg"
+                      "2009.04_Pantheon_Roma_Lazio_Italy_08.jpg"
                       ],
     "coordinates": ["41.898611", "12.476873"],
     "location": "Pantheon, Roma, Italy",
@@ -12554,7 +12553,16 @@
     "fileFormat": "jpg",
     "filePath": "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA",
     "keywords": [],
-    "galleryImages": [],
+    "galleryImages": ["2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_01.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_02.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_03.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_04.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_05.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_06.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_07.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_08.jpg",
+                      "2021.12_Organ-Mountains-Desert-Peaks-National-Monument_New-Mexico_USA_09.jpg"
+                      ],
     "coordinates": ["32.367226", "-106.578203"],
     "location": "Organ Mountains Desert Peaks National Monument, New Mexico, USA",
     "country": "USA",
