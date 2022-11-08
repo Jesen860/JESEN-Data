@@ -1,5 +1,5 @@
 {
-"versionNumber": 1,
+"versionNumber": 2,
 "articleList":[
   {
     "displayType": "singleCover",
@@ -33,6 +33,41 @@
       {
         "type": "map",
         "content": "test map"
+      }
+    ]
+  },
+  {
+    "displayType": "multipleCover",
+    "category": "photography",
+    "filePath": "filePath",
+    "title": "title",
+    "date": "date",
+    "author": "author",
+    "shareLink": "shareLink",
+    "articleContentList":[
+      {
+        "type": "title",
+        "content": "test title 1"
+      },
+      {
+        "type": "picture",
+        "content": "test picture 1"
+      },
+      {
+        "type": "paragrahy",
+        "content": "test paragraphy 1"
+      },
+      {
+        "type": "boldParagraphy",
+        "content": "test boldParagraphy 1"
+      },
+      {
+        "type":"link",
+        "content": "test link 1"
+      },
+      {
+        "type": "map",
+        "content": "test map 1"
       }
     ]
   }
