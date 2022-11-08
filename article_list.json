@@ -1,0 +1,32 @@
+{
+"versionNumber": 1,
+"articleList":[
+  {
+    "displayType": "singleCover",
+    "category": "gear",
+    "filePath": "filePath",
+    "title": "title",
+    "date": "date",
+    "author": "author",
+    "shareLink": "shareLink",
+    "articleContentList":[
+      {
+        "title": "title",
+        "picture": "picutre",
+        "paragrahy": "paragrahy",
+        "boldParagraphy": "boldParagraphy",
+        "link":"link",
+        "map": "map"
+      },
+      {
+        "map": "map",
+        "link":"link",
+        "boldParagraphy": "boldParagraphy",
+        "paragrahy": "paragrahy",
+        "picture": "picutre",
+        "title": "title"
+      }
+    ]
+  }
+]
+}
