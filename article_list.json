@@ -11,20 +11,28 @@
     "shareLink": "shareLink",
     "articleContentList":[
       {
-        "title": "title",
-        "picture": "picutre",
-        "paragrahy": "paragrahy",
-        "boldParagraphy": "boldParagraphy",
-        "link":"link",
-        "map": "map"
+        "type": "title",
+        "content": "test title"
       },
       {
-        "map": "map",
-        "link":"link",
-        "boldParagraphy": "boldParagraphy",
+        "type": "picture",
+        "content": "test picture"
+      },
+      {
         "paragrahy": "paragrahy",
-        "picture": "picutre",
-        "title": "title"
+        "content": "test paragraphy"
+      },
+      {
+        "type": "boldParagraphy",
+        "content": "test boldParagraphy"
+      },
+      {
+        "type":"link",
+        "content": "test link"
+      },
+      {
+        "type": "map",
+        "content": "test map"
       }
     ]
   }
