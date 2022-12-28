@@ -4,6 +4,7 @@
   {
     "displayType": "singleCover",
     "category": "gear",
+    "subCategory": "photography_gear",
     "filePath": "2019.08_My-DSLR-Camera-and-Lens",
     "title": "My DSLR Camera and Lens",
     "date": "2019.08",
@@ -96,6 +97,7 @@
   {
     "displayType": "singleCover",
     "category": "gear",
+    "subCategory": "photography_gear",
     "filePath": "2021.12_My-Camera-Accessories_Tripod",
     "title": "My Camera Accessories: Tripod",
     "date": "2021.12",
