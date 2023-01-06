@@ -1,5 +1,5 @@
 {
-"versionNumber": 2,
+"versionNumber": 2 ,
 "articleList":[
   {
     "displayType": "singleCover",
@@ -142,6 +142,98 @@
       {
         "type": "text",
         "content": "Spatially efficient design eliminates wasted volume when packed down. Packs down to the diameter of a water bottle. No protruding knobs. Unique design allows quicker, easier setup/takedown. Secure, fast, and ergonomic camera quick release. Fast-locking, low profile leg cams. Legs deploy in seconds, without having to flip over like traditional travel tripod legs."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCover",
+    "category": "gear",
+    "subCategory": "hiking_gear",
+    "filePath": "2022.07_My-Hiking-Shoes",
+    "title": "My Hiking Shoes",
+    "date": "2022.07",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-07-my-hiking-shoes/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.07_My-Hiking-Shoes_01.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Approach Shoe: Arc’teryx – Konseal FL 2 Leather GTX Shoe \nApproach Shoe: Arc’teryx – Konseal FL GTX Shoe \nHiking Boot: Timberland – White Ledge Mid Waterproof Hiking Boot"
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Arc’teryx – Konseal FL 2 Leather GTX Shoe"
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Shifting conditions, mixed terrain, fully loaded pack – on technical approaches you need confidence and comfort. The light, fast Konseal FL 2 is nimble, supportive, and made to handle varied conditions and demanding trails. GORE-TEX provides proven waterproof, breathable protection, and the leather upper adds durability. Its Vibram® Megagrip outsole provides a secure hold – wet or dry – and the TPU midfoot chassis and raised perimeter sidewalls provide stability on shifting surfaces."
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_03.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Activity: Hiking / Trekking / Rock Climbing / Alpine Climbing \nMaterials: GORE-TEX membrane, Vibram® Megagrip™, TPU high abrasion protection, Split-Suede Leather"
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Arc’teryx – Konseal FL GTX Shoe"
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The Konseal FL GTX Shoe from Arc’teryx will keep your feet dry on the approach to your favourite crag! The approach shoes boast a lightweight, extremely tough synthetic upper with a waterproof GORE-TEX membrane. The EVA midsole and the Ortholite footbed provide shock absorption and take the strain off your joints. The laces extend down far down and can be adjusted for an individualised fit. The Vibram Megagrip outsole is designed specifically for changing terrain and comes equipped with a climbing zone at the toe. The abrasion-resistant toe cap will prevent wear and tear."
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_05.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Activity: Rock Climbing / Alpine Climbing \nMaterials: GORE-TEX membrane, Vibram® Megagrip™, 3D molded rubber toe cap, 4mm thickness OrthoLite™ 3D molded insert, Injected EVA, 60 Shore C – midsole"
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Timberland – White Ledge Mid Waterproof Hiking Boot"
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_06.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Looking good at any elevation: The White Ledge men’s hikers are some of our all-time best-sellers. With outdoor-inspired styling and complete protection from rain and water crossings, these waterproof hiking boots can’t wait to get you to the summit."
+      },
+      {
+        "type":"picture",
+        "content": "2022.07_My-Hiking-Shoes_07.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Premium full-grain waterproof leather uppers for comfort and durability, Seam-sealed waterproof construction keeps feet dry in any weather, Rustproof, speed lace hardware with hooks at top for secure lacing, ReBOTL™ recycled fabric linings, EVA footbeds and midsoles, Solid rubber outsoles with multi-directional lugs for traction on varied terrain."
       }
     ]
   },
