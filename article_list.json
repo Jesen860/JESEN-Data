@@ -1,5 +1,5 @@
 {
-"versionNumber": 5,
+"versionNumber": 6,
 "articleList":[
   {
     "displayType": "singleCover",
@@ -24,7 +24,7 @@
         "content": "solid"
       },
       {
-        "type": "title",
+        "type": "bold_text",
         "content": "Nikon D850"
       },
       {
@@ -90,6 +90,95 @@
       {
         "type": "text",
         "content": "For years, Nikon’s 70-200 f/2.8 lens has been the benchmark for fast telephoto zoom lenses, unrivaled for low-light, sports, wildlife, concerts, weddings, portraits and everyday shooting. This new version takes that legendary performance to the next level with the same jaw-dropping image quality that has made it a prized lens of pros and serious hobbyists alike. Whether you’re shooting a DX DSLR like the D500 or an FX powerhouse like the D5, the AF-S NIKKOR 70-200mm f/2.8E FL ED VR will take you to thrilling new heights."
+      }
+    ]
+  },
+  {
+    "displayType": "multipleCover",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2019.09_My-Drone",
+    "title": "My Drone",
+    "date": "2019.09",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2019-09-my-drone/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2019.09_My-Drone_01.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "DJI – Mavic 2 Zoom with Fly More Kit"
+      },
+      {
+        "type": "video",
+        "content": "2019.09_My-Drone_02_long.mp4"
+      },
+      {
+        "type": "text",
+        "content": "Mavic 2 Zoom | 24-48 mm 1 Optical Zoom Camera Powered by a 1/2.3 inch 12-megapixel sensor with up to four-times zoom, including a two-times optical zoom (24mm–48mm), 1 the Mavic 2 Zoom is all about dynamic perspectives. Capture everything from wide angle to mid-range shots for even more creative options. More Expressive Mid-Range Shots Compared to a 24 mm 1 wide angle lens, the 48 mm 1 telephoto lens compresses your perspective, enhancing the parallax effect for a classic cinematic look. Worry-Free and Efficient Shooting When shooting Full HD video, 4 × Lossless Zoom(including 2 × optical zoom) gives you a closer view of far-away subjects, making unique scenes more accessible to capture at a distance – scenes that perhaps are too risky to catch by flying too close. Quick and Accurate Focus Hybrid auto-focus on the Mavic 2 Zoom combines phase and contrast detection for higher focus accuracy with an increased focus speed of up to 40% than before. The auto-focus tracking system makes subjects appear clear and sharp when zooming in and out. Zoom During Flight Dolly Zoom 7 is a new QuickShot for the Mavic 2 Zoom, offering an otherworldly perspective never-before-seen in a fully-integrated drone. Dolly Zoom automatically adjusts focus when flying, adding an intense, warping visual effect to your videos. Set proper focus speed values for even more creative shot options when flying manually. 48-Megapixel Super Resolution Photos When taking a picture in 24 mm equivalent field of view, 1 the camera will capture and patch nine photos with its telephoto lens, resulting in a 48-megapixel super-resolution photo in vivid detail."
+      },
+      {
+        "type": "picture",
+        "content": "2019.09_My-Drone_03.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "Aircraft:"
+      },
+
+      {
+        "type": "key_text",
+        "content": "Takeoff Weight: 905g \nDemensions(Folded): 214×91×84 mm (length×width×height) \nDemensions(Unfolded): 322×242×84 mm (length×width×height) \nMax Ascent Speed: 5 m/s \nMax Descent Speed: 3 m/s \nMax Speed: 72 kph \nMaximum Takeoff Altitude: 6000 m \nMax Flight Time: 31 minutes \nMax Hovering Time: 29 minutes \nMax Flight Distance: 18 km \nMax Wind Speed Resistance: 29–38 kph \nMax Tilt Angle: 35° \nMax Angular Velocity: 200°/s \nOperating Temperature Range: -10°C to 40°C \nGNSS: GPS+GLONASS \nInternal Storage: 8GB \nBattery Capacity: 3850 mAh"
+      },
+      {
+        "type": "picturer",
+        "content": "2019.09_My-Drone_04.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "Camera:"
+      },
+      {
+        "type": "key_text",
+        "content": "Sensor: 1/2.3″ CMOS, Effective Pixels: 12 million \nLens: 35 mm Format Equivalent: 24-48 mm \nAperture: f/2.8 (24 mm)–f/3.8 (48 mm) \nShooting Range: 0.5 m to ∞ \nISO Range: 100-3200 \nShutter Speed: 8–1/8000s \nStill Image Size: 4000×3000 \nVideo Resolution: 4K: 3840×2160 24/25/30p, 2.7K: 2688×1512 24/25/30/48/50/60p, FHD: 1920×1080 24/25/30/48/50/60/120p \nMax Video Bitrate: 100Mbps \nColor Mode: D-Cinelike \nPhoto Format: JPEG / DNG (RAW) \nVideo Format: MP4 / MOV (MPEG-4 AVC/H.264, HEVC/H.265)"
+      },
+      {
+        "type": "picture",
+        "content": "2019.09_My-Drone_05.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "Sensing System:"
+      },
+      {
+        "type": "key_text",
+        "content": "Sensing System: Omnidirectional Obstacle Sensing \nForward: 0.5 – 40 m \nBackward: 0.5 – 32 m \nUpward: 0.1 – 8 m \nDownward: 0.5 – 22 m \nSides: 0.5 – 10 m"
+      },
+      {
+        "type": "picture",
+        "content": "2019.09_My-Drone_06.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "Remote Controller:"
+      },
+      {
+        "type": "key_text",
+        "content": "Max Transmission Distance: 10000 m \nOperating Temperature Range: 0℃ – 40℃ \nBattery: 3950 mAh \nSupported Mobile Device Size: Max length: 160 mm; max thickness: 6.5–8.5 mm \nSupported USB Port Types: Lightning, Micro USB (Type-B), USB-C"
+      },
+      {
+        "type": "picture",
+        "content": "2019.09_My-Drone_07.jpg"
+      },
+      {
+        "type": "bold_text",
+        "content": "APP:"
+      },
+      {
+        "type": "key_text",
+        "content": "Video Transmission System: OcuSync 2.0 \nName: DJI GO 4 \nLive View Quality: 720p@30fps / 1080p@30fps \nLatency: 120 – 130 ms \nMax Live View Bitrate: 12Mbps"
       }
     ]
   },
