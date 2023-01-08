@@ -1,5 +1,5 @@
 {
-"versionNumber": 6,
+"versionNumber": 7,
 "articleList":[
   {
     "displayType": "singleCover",
@@ -231,6 +231,114 @@
       {
         "type": "text",
         "content": "Spatially efficient design eliminates wasted volume when packed down. Packs down to the diameter of a water bottle. No protruding knobs. Unique design allows quicker, easier setup/takedown. Secure, fast, and ergonomic camera quick release. Fast-locking, low profile leg cams. Legs deploy in seconds, without having to flip over like traditional travel tripod legs."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCover",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2022.02_My-Cookware",
+    "title": "My Tent",
+    "date": "2022.02",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-02-my-cookware/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.02_My-Cookware_01.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Pan: Jetboil – Summit Skillet \nCooker: Keith – Titanium Multi-function Cooker Ti6300 \nCookset: Snow Peak – Multi Compact Cookset Titanium"
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Jetboil – Summit Skillet"
+      },
+      {
+        "type": "picture",
+        "content": "2022.02_My-Cookware_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The nonstick Summit Skillet packs the performance and punch of home cookware into a compact, lightweight, elegant, solution designed for the backpacker set. The ceramic-coated nonstick aluminum construction heats quickly and evenly, expanding the potential of backcountry cooking. Coated with , PFOA-free ceramic nonstick, the skillet releases eggs, pancakes, and other foods easily, making cleanup a breeze. A perfectly angled turner nests into the handle, helping you flip foods without fuss. The skillet pairs perfectly with Jetboil-regulated cooking systems and the Jetboil pot support. Skillet measures 8 by 8.5 by 1.9 inches and weighs 10.6 ounces."
+      },
+      {
+        "type": "video",
+        "content": "2022.02_My-Cookware_03_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Color: Orange \nWeight: 0.7 lb | 0.38 kg \nDimensions: 8.5 in x 1.9 in (2160 cm x 4.8 cm) \nCompatible With: HalfGen, SUMO, Genesis, Joule, MicroMo, MightyMo, MiniMo, Flash, Zip, Luna"
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_My-Cookware_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Eco-friendly, PFOA-free ceramic non-stick. Extra-easy food release and cleanup. Varied wall thickness for even heat distribution. Turner included (nests in handle). Turner weight: .74 oz (21 g). Turner dimensions: 2.6 in x 7.3 in x 0.9 in (65 mm x 185 mm x 21 mm). Pot Support (sold separately) must be used when cooking with the Summit Skillet on all compatible cooking systems except the MightyMo, Stash, Genesis and HalfGen."
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Keith – Titanium Multi-function Cooker Ti6300"
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_My-Cookware_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Reserved for enthusiasts of beautiful products or for all those who hunt for the tiniest gram. All-titanium multifunction cooker. Only 256 g for 900 ml. Noble and resistant material, healthy without treatment, sanded surface and food grade silicone seal. Biocompatible material, harmless to the human body. This pan is wrapped in a mesh cover."
+      },
+      {
+        "type": "video",
+        "content": "2022.02_My-Cookware_06_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Dimensions: 6.2 × 4.6 × 4.3 in │ 158 × 118 × 108 mm \nCapacity: 30.4 fl oz │ 900 ml \nWeight: 9 oz │ 256 g"
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_My-Cookware_07.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The Cooker has won both 2016/2017 ISPO Winner Award and 2015 Asia Outdoor Industry Silver Award. It can be heated over a flame as well as on a gas or electric cooktop. Hot steam vaporized from the bottom of the outer pot enters inner pot and heats through every piece of the rice evenly, cooking tender, soft rice full of aroma every time in the backcountry. It comes with a custom made mesh storage sack. The inner pot, outer pot, lid and handles are made of premium pure titanium grade 1; The lock spring is made of 304 stainless steel; The sealing ring is made of food grade silicone.Titanium is ultralight and super strong; it is also eco-friendly and exceptionally corrosion-resistant."
+      },
+      {
+        "type": "separator",
+        "content": "solid"
+      },
+      {
+        "type": "bold_text",
+        "content": "Snow Peak – Multi Compact Cookset Titanium"
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_My-Cookware_08.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Crafted from Japanese titanium, Snow Peak’s Multi Compact Cookset is a lightweight set of pots for the backcountry. Designed for two users, the Multi Compact Cookset includes two stacking pots and frypans with foldable handles. Pair the Multi Compact Cookset Titanium with the LiteMax Titanium Stove for a backcountry setup."
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_My-Cookware_09.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 11.6 oz (330 g) \nSize: Pot 1: D 5.9″ H 2.9″, Pot 2: D 5″ H 2.75″, Pan 1: D 6″ H 1.25″, Pan 2: 5.25″ H 1.25″ \nCapacity: Pot 1: 33.8 fl oz, Pot 2: 26.3 fl oz"
       }
     ]
   },
