@@ -133,7 +133,7 @@
         "content": "Takeoff Weight: 905g \nDemensions(Folded): 214×91×84 mm (length×width×height) \nDemensions(Unfolded): 322×242×84 mm (length×width×height) \nMax Ascent Speed: 5 m/s \nMax Descent Speed: 3 m/s \nMax Speed: 72 kph \nMaximum Takeoff Altitude: 6000 m \nMax Flight Time: 31 minutes \nMax Hovering Time: 29 minutes \nMax Flight Distance: 18 km \nMax Wind Speed Resistance: 29–38 kph \nMax Tilt Angle: 35° \nMax Angular Velocity: 200°/s \nOperating Temperature Range: -10°C to 40°C \nGNSS: GPS+GLONASS \nInternal Storage: 8GB \nBattery Capacity: 3850 mAh"
       },
       {
-        "type": "picture",
+        "type": "picturer",
         "content": "2019.09_My-Drone_04.jpg"
       },
       {
