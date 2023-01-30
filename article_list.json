@@ -1,8 +1,8 @@
 {
-"versionNumber": 10,
+"versionNumber": 11,
 "articleList":[
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2019.08_My-DSLR-Camera-and-Lens",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2021.12_My-Camera-Accessories_Tripod",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
     "filePath": "2022.02_My-Cookware",
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
     "filePath": "2022.04_My-Tent",
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
     "filePath": "2022.05_My-Sleeping-Gear",
@@ -519,7 +519,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
     "filePath": "2022.06_My-Camping-Furniture",
@@ -603,7 +603,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.07_My-Hiking-Shoes",
@@ -695,7 +695,7 @@
     ]
   },
   {
-    "displayType": "singleCover",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.08_My-Hiking-Jackets",
