@@ -1,5 +1,5 @@
 {
-"versionNumber": 10,
+"versionNumber": 11,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverSmallLeft",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2021.12_My-Camera-Accessories_Tripod",
