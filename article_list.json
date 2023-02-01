@@ -5,39 +5,31 @@
     "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
-    "filePath": "2019.08_My-DSLR-Camera-and-Lens",
-    "title": "My DSLR Camera and Lens",
-    "date": "2019.08",
+    "filePath": "2019.06_Nikon-D850-DSLR-Camera",
+    "title": "Nikon D850 DSLR Camera",
+    "date": "2019.06",
     "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2019-08-my-dslr-camera-and-lens/",
+    "shareLink": "https://haomingxiong.com/2019-06-nikon-d850-dslr-camera/",
     "articleContentList":[
       {
         "type": "picture",
-        "content": "2019.08_My-DSLR-Camera-and-Lens_01.jpg"
+        "content": "2019.06_Nikon-D850-DSLR-Camera_01.jpg"
       },
       {
-        "type": "key_text",
-        "content": "Camera: Nikon D850 \nLens 1: Nikon AF-S NIKKOR 14-24mm F2.8G ED \nLens 2: Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR \nLens 3: Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR"
+        "type": "text",
+        "content": "I bought this fantastic DSLR camera for travel photography. Normally use it with AF-S NIKKOR 24-70mm f/2.8E ED VR lens. Absolutely love the image quality and vivid color. The outstanding build quality is suitable for any harsh environment."
       },
       {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Nikon D850"
-      },
-      {
-        "type": "picture",
-        "content": "2019.08_My-DSLR-Camera-and-Lens_02.jpg"
+        "type": "video",
+        "content": "horizontal; 2019.06_Nikon-D850-DSLR-Camera_02_long.mp4"
       },
       {
         "type": "text",
         "content": "Nikon D850 allows photographers to capture fast action in 45.7 megapixels of brilliant resolution. With remarkable advancements across the board—sensor design, autofocus, dynamic range, sensitivity, Speedlight control, battery life, shutter and mirror drive mechanisms, Silent Photography in Live-View mode, focus shift capability and more—this is quite possibly the most impressive, well-rounded DSLR yet."
       },
       {
-        "type": "video",
-        "content": "horizontal; 2019.08_My-DSLR-Camera-and-Lens_03_long.mp4"
+        "type": "picture",
+        "content": "2019.06_Nikon-D850-DSLR-Camera_03.jpg"
       },
       {
         "type": "key_text",
