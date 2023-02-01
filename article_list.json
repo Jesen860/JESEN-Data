@@ -1,5 +1,5 @@
 {
-"articleVersion": 11,
+"articleVersion": 12,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -34,6 +34,42 @@
       {
         "type": "key_text",
         "content": "Weight: 32.3 oz.(915 g) camera body only \nDemensions: 5.8 in. (146 mm) x 4.9 in. (124 mm) x 3.1 in. (78.5 mm) \nEffective Pixels: 45.7 million \nSensor: 35.9 mm x 23.9 mm CMOS, FX Format \nStorage Media: 1 XQD or CF Express Type-B card, 1 Secure Digital (SD) card \nISO Sensitivity: ISO 64 – 25,600 \nMovie: 4K UHD 3,840×2,160 / 30 fps, 4K UHD 3,840×2,160 / 25 fps, 4K UHD 3,840×2,160 / 24 fps, Full HD 1,920×1,080 / 60 fps, Full HD 1,920×1,080 / 50 fps, Full HD 1,920×1,080 / 30 fps, Full HD 1,920×1,080 / 25 fps, Full HD 1,920×1,080 / 24 fps, HD 1,280×720 / 60 fps, HD 1,280×720 / 50 fps, Slow-motion: Full HD 1,920×1,080 30p (x4), Slow-motion: Full HD 1,920×1,080 25p (x4), Slow-motion: Full HD 1,920×1,080 24p (x5) \nMonitor: 3.2 in. diagonal tilting TFT touch-sensitive LCD \nBattery: EN-EL15a Rechargeable Li-ion Battery"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2019.07_Nikon-AF-S-NIKKOR-14-24mm-F2.8G-ED-Lens",
+    "title": "Nikon AF-S NIKKOR 14-24mm F2.8G ED Lens",
+    "date": "2019.07",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2019-07-nikon-af-s-nikkor-14-24mm-f2-8g-ed-lens/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2019.07_Nikon-AF-S-NIKKOR-14-24mm-F2.8G-ED-Lens_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "I bought this lens in early 2010. First shot with it was the Iceland trip in 2010. Really like the wide view of this lens, very suitble for nature and star photography."
+      },
+      {
+        "type": "picture",
+        "content": "2019.07_Nikon-AF-S-NIKKOR-14-24mm-F2.8G-ED-Lens_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "With a fast fixed maximum aperture of f/2.8, the award-winning AF-S NIKKOR 14–24mm f/2.8G ED delivers truly superlative performance in any situation. Nikon’s exclusive lens technologies and innovations in optical design deliver outstanding sharpness, color and contrast, even in backlit conditions. Tough, reliable, simply exceptional—this is essential glass for serious photographers who demand the best photos and HD videos."
+      },
+      {
+        "type": "picture",
+        "content": "2019.07_Nikon-AF-S-NIKKOR-14-24mm-F2.8G-ED-Lens_03.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 35.3 oz. (1,000 g) \nDimensions: 3.8 in. (98 mm) x 5.2 in. (131.5 mm) \nFocal Length Range: 14 – 24mm \nMaximum Aperture: f/ 2.8 \nFormat: FX/35mm \nNano Crystal Coat: Yes \nAF-S (Silent Wave Motor): Yes"
       }
     ]
   },
