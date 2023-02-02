@@ -146,18 +146,18 @@
     ]
   },
   {
-    "displayType": "multipleCover",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
-    "filePath": "2019.09_My-Drone",
-    "title": "My Drone",
-    "date": "2019.09",
+    "filePath": "2019.10_DJI-Mavic-2-Zoom",
+    "title": "DJI Mavic 2 Zoom",
+    "date": "2019.10",
     "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2019-09-my-drone/",
+    "shareLink": "https://haomingxiong.com/2019-10-dji-mavic-2-zoom/",
     "articleContentList":[
       {
         "type": "picture",
-        "content": "2019.09_My-Drone_01.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_01.jpg"
       },
       {
         "type": "bold_text",
@@ -165,7 +165,7 @@
       },
       {
         "type": "video",
-        "content": "horizontal; 2019.09_My-Drone_02_long.mp4"
+        "content": "horizontal; 2019.10_DJI-Mavic-2-Zoom_02_long.mp4"
       },
       {
         "type": "text",
@@ -173,7 +173,7 @@
       },
       {
         "type": "picture",
-        "content": "2019.09_My-Drone_03.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_03.jpg"
       },
       {
         "type": "bold_text",
@@ -186,7 +186,7 @@
       },
       {
         "type": "picturer",
-        "content": "2019.09_My-Drone_04.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_04.jpg"
       },
       {
         "type": "bold_text",
@@ -198,7 +198,7 @@
       },
       {
         "type": "picture",
-        "content": "2019.09_My-Drone_05.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_05.jpg"
       },
       {
         "type": "bold_text",
@@ -210,7 +210,7 @@
       },
       {
         "type": "picture",
-        "content": "2019.09_My-Drone_06.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_06.jpg"
       },
       {
         "type": "bold_text",
@@ -222,7 +222,7 @@
       },
       {
         "type": "picture",
-        "content": "2019.09_My-Drone_07.jpg"
+        "content": "2019.10_DJI-Mavic-2-Zoom_07.jpg"
       },
       {
         "type": "bold_text",
