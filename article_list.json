@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 11,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -70,6 +70,42 @@
       {
         "type": "key_text",
         "content": "Weight: 35.3 oz. (1,000 g) \nDimensions: 3.8 in. (98 mm) x 5.2 in. (131.5 mm) \nFocal Length Range: 14 – 24mm \nMaximum Aperture: f/ 2.8 \nFormat: FX/35mm \nNano Crystal Coat: Yes \nAF-S (Silent Wave Motor): Yes"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2019.08_Nikon-AF-S-NIKKOR-24-70mm-f2.8E-ED-VR",
+    "title": "Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR Lens",
+    "date": "2019.08",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2019-08-nikon-af-s-nikkor-24-70mm-f-2-8e-ed-vr-lens/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2019.08_Nikon-AF-S-NIKKOR-24-70mm-f2.8E-ED-VR_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "I bought this lens with Nikon D850 Camera. Its 24 – 70mm  focal length is very suitable for daily photography. It delivers great image quality and amazing detail."
+      },
+      {
+        "type": "picture",
+        "content": "2019.08_Nikon-AF-S-NIKKOR-24-70mm-f2.8E-ED-VR_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Super steady and always ready, the AF-S NIKKOR 24-70mm f/2.8E ED VR workhorse is prepared to take your work to the next level. With up to 4 stops* of VR (Vibration Reduction) image stabilization, you can capture sharp, steady handheld stills and HD videos, and shoot at slower shutter speeds in low-light situations without sacrificing sharpness. Pair it with a Nikon full-frame high-resolution DSLR to capture the decisive moment with a thrilling balance of sharpness and soft blur effects. Covering the sweet spot of the zoom range with a fast f/2.8 constant aperture, you’ll be ready for everything from environmental portraits, studio photography, landscape, architecture (exteriors and interiors), press events and weddings."
+      },
+      {
+        "type": "picture",
+        "content": "2019.08_Nikon-AF-S-NIKKOR-24-70mm-f2.8E-ED-VR_03.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 38.4 oz. (1070 g) \nDimensions: 3.4 in. (88.0 mm) x 6.0 in. (154.5 mm) \nFocal Length Range: 24 – 70mm \nMaximum Aperture: f/ 2.8 \nFormat: FX/35mm \nNano Crystal Coat: Yes \nAF-S (Silent Wave Motor): Yes"
       }
     ]
   },
