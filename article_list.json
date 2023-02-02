@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 11,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -121,7 +121,7 @@
     "articleContentList":[
       {
         "type": "picture",
-        "content": "2019.09_Nikon-AF-S-NIKKOR-70-200mm-f2.8E-FL-ED-VR_01_01.jpg"
+        "content": "2019.09_Nikon-AF-S-NIKKOR-70-200mm-f2.8E-FL-ED-VR_01.jpg"
       },
       {
         "type": "text",
