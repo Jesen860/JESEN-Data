@@ -1,5 +1,5 @@
 {
-"articleVersion": 11,
+"articleVersion": 12,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -160,8 +160,8 @@
         "content": "2019.10_DJI-Mavic-2-Zoom_01.jpg"
       },
       {
-        "type": "bold_text",
-        "content": "DJI – Mavic 2 Zoom with Fly More Kit"
+        "type": "text",
+        "content": "DJI Mavic 2 Zoom’s camera powered by a 1/2.3 inch 12-megapixel sensor with up to four-times zoom(24mm–48mm), the Mavic 2 Zoom is all about dynamic perspectives. Capture everything from wide angle to mid-range shots for even more creative options. More Expressive Mid-Range Shots Compared to a 24 mm 1 wide angle lens, the 48 mm 1 telephoto lens compresses your perspective, enhancing the parallax effect for a classic cinematic look. Worry-Free and Efficient Shooting When shooting Full HD video, 4 × Lossless Zoom(including 2 × optical zoom) gives you a closer view of far-away subjects, making unique scenes more accessible to capture at a distance – scenes that perhaps are too risky to catch by flying too close."
       },
       {
         "type": "video",
@@ -169,7 +169,7 @@
       },
       {
         "type": "text",
-        "content": "Mavic 2 Zoom | 24-48 mm 1 Optical Zoom Camera Powered by a 1/2.3 inch 12-megapixel sensor with up to four-times zoom, including a two-times optical zoom (24mm–48mm), 1 the Mavic 2 Zoom is all about dynamic perspectives. Capture everything from wide angle to mid-range shots for even more creative options. More Expressive Mid-Range Shots Compared to a 24 mm 1 wide angle lens, the 48 mm 1 telephoto lens compresses your perspective, enhancing the parallax effect for a classic cinematic look. Worry-Free and Efficient Shooting When shooting Full HD video, 4 × Lossless Zoom(including 2 × optical zoom) gives you a closer view of far-away subjects, making unique scenes more accessible to capture at a distance – scenes that perhaps are too risky to catch by flying too close. Quick and Accurate Focus Hybrid auto-focus on the Mavic 2 Zoom combines phase and contrast detection for higher focus accuracy with an increased focus speed of up to 40% than before. The auto-focus tracking system makes subjects appear clear and sharp when zooming in and out. Zoom During Flight Dolly Zoom 7 is a new QuickShot for the Mavic 2 Zoom, offering an otherworldly perspective never-before-seen in a fully-integrated drone. Dolly Zoom automatically adjusts focus when flying, adding an intense, warping visual effect to your videos. Set proper focus speed values for even more creative shot options when flying manually. 48-Megapixel Super Resolution Photos When taking a picture in 24 mm equivalent field of view, 1 the camera will capture and patch nine photos with its telephoto lens, resulting in a 48-megapixel super-resolution photo in vivid detail."
+        "content": "Quick and Accurate Focus Hybrid auto-focus on the Mavic 2 Zoom combines phase and contrast detection for higher focus accuracy with an increased focus speed of up to 40% than before. The auto-focus tracking system makes subjects appear clear and sharp when zooming in and out. Zoom During Flight Dolly Zoom 7 is a new QuickShot for the Mavic 2 Zoom, offering an otherworldly perspective never-before-seen in a fully-integrated drone. Dolly Zoom automatically adjusts focus when flying, adding an intense, warping visual effect to your videos. Set proper focus speed values for even more creative shot options when flying manually. 48-Megapixel Super Resolution Photos When taking a picture in 24 mm equivalent field of view, 1 the camera will capture and patch nine photos with its telephoto lens, resulting in a 48-megapixel super-resolution photo in vivid detail."
       },
       {
         "type": "picture",
