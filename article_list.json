@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 13,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2019.07_Nikon-AF-S-NIKKOR-14-24mm-F2.8G-ED-Lens",
@@ -74,7 +74,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2019.08_Nikon-AF-S-NIKKOR-24-70mm-f2.8E-ED-VR",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2019.09_Nikon-AF-S-NIKKOR-70-200mm-f2.8E-FL-ED-VR",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2020.03_VSGO-Air-move-Air-Blower",
