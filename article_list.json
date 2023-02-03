@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 13,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -231,6 +231,58 @@
       {
         "type": "key_text",
         "content": "Video Transmission System: OcuSync 2.0 \nName: DJI GO 4 \nLive View Quality: 720p@30fps / 1080p@30fps \nLatency: 120 – 130 ms \nMax Live View Bitrate: 12Mbps"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System",
+    "title": "PolarPro BaseCamp Ultralight Matte Box System",
+    "date": "2020.01",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-01-polarpro-basecamp-ultralight-matte-box-system/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_01.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Matte Box: Polarpro BaseCamp Core \nFilter 1: Polarpro Circular Polarizer Filter \nFilter 2: Polarpro VND 2-5 Filter \nFilter 3: Polarpro VND 6-9 Filter"
+      },
+      {
+        "type": "video",
+        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_02_long.mp4"
+      },
+      {
+        "type": "text",
+        "content": "PolarPro BaseCamp is a new ultra-lightweight matte box with a variable ND filter. It weighs 438 grams when all components are in use and 298 grams in its minimal setup. The matte box can be fixed in place on 15mm rods or directly on the lens via adapter rings. The installation is completely tool-free."
+      },
+      {
+        "type": "picture",
+        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "PolarPro BaseCamp matte box can be customized according to different scenarios, workflows, and applications – flag and hood are removable. The matte box is built from aluminium, carbon fiber, and Aerospace polymers. PolarPro offers different sizes of the rings starting at 77mm."
+      },
+      {
+        "type": "picture",
+        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The variable ND functionality works by combining a circular polarizer filter and a fixed square ND filter. There is a built-in mechanism in the matte box that can turn the circular polarizer (CPL) filter to adjust the strength of the ND. Turning the CPL filter is possible via an opening on top of the matte box."
+      },
+      {
+        "type": "picture",
+        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "All filters are custom made by PolarPro, so users can’t insert other standard-sized (4 x 5.65 or other) square filters. PolarPro offers two strengths of the VND: 2-5 and 6-9. The square ND filters have aluminium frame with a small aluminium grip on top for better handling and safer locking in the matte box."
       }
     ]
   },
