@@ -1,5 +1,5 @@
 {
-"articleVersion": 11,
+"articleVersion": 12,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -487,6 +487,42 @@
       {
         "type": "text",
         "content": "The camera lens air blower have a self-suction base, not easy to roll or get dirty, keeping the nozzle away from the ground and dust."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.04_Nikon-MC-36A-Multi-Function-Remote-Cord",
+    "title": "Nikon MC-36A Multi-Function Remote Cord",
+    "date": "2020.04",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-04-nikon-mc-36a-multi-function-remote-cord/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.04_Nikon-MC-36A-Multi-Function-Remote-Cord_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The MC-36A Multi-Function Remote Cord provides a simple trigger function and can activate the bulb function on certain Nikon D-SLR cameras. Functions as a timer remote and can be programmed to function as an intervalometer."
+      },
+      {
+        "type":"picture",
+        "content": "2020.04_Nikon-MC-36A-Multi-Function-Remote-Cord_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The MC-36A plugs directly into the camera’s 10-pin remote port. The unit works as one would expect and is straight forward to program using the multifunction button to set a delay if desired, the length of each exposure as well as the interval between the exposure and finally, the number of exposures. It can be set to a predetermined number of exposures (1-399) or it can repeat indefinitely."
+      },
+      {
+        "type":"picture",
+        "content": "2020.04_Nikon-MC-36A-Multi-Function-Remote-Cord_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The transmitter has an LCD screen which is backlit for operation in low light situations. It fits nicely in your hand and I found the controls to be responsive. The biggest drawbacks are related to the fact that is it a corded (approx.. 33.5 in./850mm in length) remote and unless you set it on a timer, you will have to remain next to the camera to operate it."
       }
     ]
   },
