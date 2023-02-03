@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 11,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -443,6 +443,50 @@
       {
         "type": "key_text",
         "content": "Weight: 11.6 oz (330 g) \nSize: Pot 1: D 5.9″ H 2.9″, Pot 2: D 5″ H 2.75″, Pan 1: D 6″ H 1.25″, Pan 2: 5.25″ H 1.25″ \nCapacity: Pot 1: 33.8 fl oz, Pot 2: 26.3 fl oz"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.03_VSGO-Air-move-Air-Blower",
+    "title": "VSGO Air-move Air Blower",
+    "date": "2020.03",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-03-vsgo-air-move-air-blower/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.03_VSGO-Air-move-Air-Blower_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "VSGO Air-move air blower won the 2019 Red Dot Award. Beautiful design and well made, recommened for every photographer."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2020.03_VSGO-Air-move-Air-Blower_02.mp4"
+      },
+      {
+        "type": "text",
+        "content": "The camera air blower is manufactured by special technology, one-way air inlet channel and the air filter can prevent rain, pollen, dust, mycete and particles, etc. from entering the air blow and eliminate secondary pollution, while preventing dust from entering the camera."
+      },
+      {
+        "type":"picture",
+        "content": "2020.03_VSGO-Air-move-Air-Blower_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The camera lens air blower can easily blow off the corner that cannot be blowered by others.The mouthpiece is soft to prevent accidental injury to the camera."
+      },
+      {
+        "type":"picture",
+        "content": "2020.03_VSGO-Air-move-Air-Blower_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The camera lens air blower have a self-suction base, not easy to roll or get dirty, keeping the nozzle away from the ground and dust."
       }
     ]
   },
