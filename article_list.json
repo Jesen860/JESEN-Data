@@ -1,5 +1,5 @@
 {
-"articleVersion": 12,
+"articleVersion": 13,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -523,6 +523,42 @@
       {
         "type": "text",
         "content": "The transmitter has an LCD screen which is backlit for operation in low light situations. It fits nicely in your hand and I found the controls to be responsive. The biggest drawbacks are related to the fact that is it a corded (approx.. 33.5 in./850mm in length) remote and unless you set it on a timer, you will have to remain next to the camera to operate it."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.05_Lowepro-ProTactic-SH-180-AW",
+    "title": "Lowepro ProTactic SH 180 AW",
+    "date": "2020.05",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-05-lowepro-protactic-sh-180-aw/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.05_Lowepro-ProTactic-SH-180-AW_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Lowepro’s award-winning ProTactic series expands to bring urban-inspired shoulder bags to all street shooters, bloggers, photojournalists and adventure travelers. The ProTactic SH 180 AW delivers accessibility, versatility and smart organization for your DSLR kit."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2020.05_Lowepro-ProTactic-SH-180-AW_02.mp4"
+      },
+      {
+        "type": "text",
+        "content": "Inspired by the urban landscape, yet at home wherever you may roam, the black ProTactic SH 180 AW Shoulder Bag from Lowepro is designed to store and protect your DSLR camera with mounted lens, 1-2 extra lenses or flashes and accessories, while also keeping these items readily accessible. The front exterior, accordion-style accessory pocket has space for your iPad mini or similarly sized tablet."
+      },
+      {
+        "type":"picture",
+        "content": "2020.05_Lowepro-ProTactic-SH-180-AW_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Photographers will appreciate the water-resistant, top zipper opening for fast and easy access to their gear. Padded, touch-fastening dividers provide for numerous storage configurations. The bag’s lid closes securely with a zipper and a center quick release buckle. A versatile bag, it features a memory card pocket underneath the lid, front SlipLock attachment strap system, and a built-in all-weather cover. Carry the SH 180 AW with the top strap or adjustable shoulder strap. For strength and durability, the bag is made of 900D and 1680D polyester."
       }
     ]
   },
