@@ -1,5 +1,5 @@
 {
-"articleVersion": 14,
+"articleVersion": 15,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -231,6 +231,42 @@
       {
         "type": "key_text",
         "content": "Video Transmission System: OcuSync 2.0 \nName: DJI GO 4 \nLive View Quality: 720p@30fps / 1080p@30fps \nLatency: 120 – 130 ms \nMax Live View Bitrate: 12Mbps"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2019.11_Kenko_REALPRO_Protector",
+    "title": "Kenko REALPRO Protector",
+    "date": "2019.11",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2019-11-kenko-realpro-protector/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2019.11_Kenko_REALPRO_Protector_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "REALPRO PROTECTOR is a perfect option for those who prefer using lens safely and protect from unexpected physical damages. REALPRO PROTECTOR is made of fine and clear glass that will not affect the overall quality of your image. suggested for all camera lens users and particularly outdoor active photographers who work in extreme conditions."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2019.11_Kenko_REALPRO_Protector_02.mp4"
+      },
+      {
+        "type": "text",
+        "content": "The one important feature of REALPRO series is Anti-Stain Coating (ASC) that represents a new generation of Kenko coating technology. Thanks to a new formula of coating material the surface of REALPRO PROTECTOR filter will make moisture and water drops to bead up and slip down leaving filter clean. Thus, you will not need to clean filter for a long time and maintenance will become incredibly easier and safer. Due to smooth filter surface dust and smudges can be wiped more easier because they do not stick on to the glass so strongly. Time you spend for after-care routine will be considerably shortened and cleaning process will not bother you anymore. This feature is highly valued by extremely photographers who are shooting outdoors in various weather conditions."
+      },
+      {
+        "type": "picture",
+        "content": "2019.11_Kenko_REALPRO_Protector_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Since the sensor of digital SLR or mirror less cameras becomes more sensitive to light coming through lens, Anti-Reflection Multi Coating is a must for photographic filters. Kenko Anti-Reflection Multi Coating technology that is already obtained a general standard for each Kenko filter will give you maximum light transmission and protection from flares and ghosting caused by parasite reflections."
       }
     ]
   },
