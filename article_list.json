@@ -1,5 +1,5 @@
 {
-"articleVersion": 15,
+"articleVersion": 14,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -33,7 +33,7 @@
       },
       {
         "type": "key_text",
-        "content": "Weight: 32.3 oz.(915 g) camera body only \nDemensions: 5.8 in. (146 mm) x 4.9 in. (124 mm) x 3.1 in. (78.5 mm) \nEffective Pixels: 45.7 million \nSensor: 35.9 mm x 23.9 mm CMOS, FX Format \nStorage Media: 1 XQD or CF Express Type-B card, 1 Secure Digital (SD) card \nISO Sensitivity: ISO 64 – 25,600 \nMovie: 4K UHD 3,840×2,160 / 30 fps, 4K UHD 3,840×2,160 / 25 fps, 4K UHD 3,840×2,160 / 24 fps, Full HD 1,920×1,080 / 60 fps, Full HD 1,920×1,080 / 50 fps, Full HD 1,920×1,080 / 30 fps, Full HD 1,920×1,080 / 25 fps, Full HD 1,920×1,080 / 24 fps, HD 1,280×720 / 60 fps, HD 1,280×720 / 50 fps, Slow-motion: Full HD 1,920×1,080 30p (x4), Slow-motion: Full HD 1,920×1,080 25p (x4), Slow-motion: Full HD 1,920×1,080 24p (x5) \nMonitor: 3.2 in. diagonal tilting TFT touch-sensitive LCD \nBattery: EN-EL15a Rechargeable Li-ion Battery"
+        "content": "Weight: 32.3 oz.(915 g) camera body only \nDimensions: 5.8 in. (146 mm) x 4.9 in. (124 mm) x 3.1 in. (78.5 mm) \nEffective Pixels: 45.7 million \nSensor: 35.9 mm x 23.9 mm CMOS, FX Format \nStorage Media: 1 XQD or CF Express Type-B card, 1 Secure Digital (SD) card \nISO Sensitivity: ISO 64 – 25,600 \nMovie: 4K UHD 3,840×2,160 / 30 fps, 4K UHD 3,840×2,160 / 25 fps, 4K UHD 3,840×2,160 / 24 fps, Full HD 1,920×1,080 / 60 fps, Full HD 1,920×1,080 / 50 fps, Full HD 1,920×1,080 / 30 fps, Full HD 1,920×1,080 / 25 fps, Full HD 1,920×1,080 / 24 fps, HD 1,280×720 / 60 fps, HD 1,280×720 / 50 fps, Slow-motion: Full HD 1,920×1,080 30p (x4), Slow-motion: Full HD 1,920×1,080 25p (x4), Slow-motion: Full HD 1,920×1,080 24p (x5) \nMonitor: 3.2 in. diagonal tilting TFT touch-sensitive LCD \nBattery: EN-EL15a Rechargeable Li-ion Battery"
       }
     ]
   },
@@ -182,7 +182,7 @@
 
       {
         "type": "key_text",
-        "content": "Takeoff Weight: 905g \nDemensions(Folded): 214×91×84 mm (length×width×height) \nDemensions(Unfolded): 322×242×84 mm (length×width×height) \nMax Ascent Speed: 5 m/s \nMax Descent Speed: 3 m/s \nMax Speed: 72 kph \nMaximum Takeoff Altitude: 6000 m \nMax Flight Time: 31 minutes \nMax Hovering Time: 29 minutes \nMax Flight Distance: 18 km \nMax Wind Speed Resistance: 29–38 kph \nMax Tilt Angle: 35° \nMax Angular Velocity: 200°/s \nOperating Temperature Range: -10°C to 40°C \nGNSS: GPS+GLONASS \nInternal Storage: 8GB \nBattery Capacity: 3850 mAh"
+        "content": "Takeoff Weight: 905g \nDimensions(Folded): 214×91×84 mm (length×width×height) \nDimensions(Unfolded): 322×242×84 mm (length×width×height) \nMax Ascent Speed: 5 m/s \nMax Descent Speed: 3 m/s \nMax Speed: 72 kph \nMaximum Takeoff Altitude: 6000 m \nMax Flight Time: 31 minutes \nMax Hovering Time: 29 minutes \nMax Flight Distance: 18 km \nMax Wind Speed Resistance: 29–38 kph \nMax Tilt Angle: 35° \nMax Angular Velocity: 200°/s \nOperating Temperature Range: -10°C to 40°C \nGNSS: GPS+GLONASS \nInternal Storage: 8GB \nBattery Capacity: 3850 mAh"
       },
       {
         "type": "picture",
@@ -381,8 +381,8 @@
         "content": "2020.02_Peak-Design-Travel-Tripod-Carbon-Fiber_01.jpg"
       },
       {
-        "type": "bold_text",
-        "content": "Peak Design – Travel Tripod Carbon Fiber"
+        "type": "text",
+        "content": "Peak Design spent 4 years redesigning the tripod from the ground up, creating a travel tripod that packs down to the diameter of a water bottle—without compromising height, stability, or features. Radically faster to setup and takedown, our tripod features ergonomic adjustment points, built-in mobile compatibility, and thoughtful details at every turn. Plus, it’s built for life on the road: durable, 100% serviceable, and backed by the Peak Design lifetime guarantee. Tripod includes legs, ballhead, protective soft case, ARCA-compatbile Standard Plate, mobile mount, hex tool with carrying clip, and bushing removal tool for maintenance."
       },
       {
         "type": "video",
@@ -390,7 +390,7 @@
       },
       {
         "type": "key_text",
-        "content": "Weight: 1.29 kg (2.81 lbs) \nWeight Capacity: 9.1 kg (20 lbs) \nCollapsed Demensions: Length: 39.1 cm (15.4”), Diameter: 7.9 cm (3.125″) \nDeployed Demensions: Max height (center column raised): 152.4 cm (60″), Max height (center column down): 130.2 cm (51.25″), Min height (low mode): 14 cm (5.5”)"
+        "content": "Weight: 1.29 kg (2.81 lbs) \nWeight Capacity: 9.1 kg (20 lbs) \nCollapsed Dimensions: Length: 39.1 cm (15.4”), Diameter: 7.9 cm (3.125″) \nDeployed Dimensions: Max height (center column raised): 152.4 cm (60″), Max height (center column down): 130.2 cm (51.25″), Min height (low mode): 14 cm (5.5”)"
       },
       {
         "type":"picture",
@@ -639,6 +639,42 @@
       {
         "type": "text",
         "content": "Photographers will appreciate the water-resistant, top zipper opening for fast and easy access to their gear. Padded, touch-fastening dividers provide for numerous storage configurations. The bag’s lid closes securely with a zipper and a center quick release buckle. A versatile bag, it features a memory card pocket underneath the lid, front SlipLock attachment strap system, and a built-in all-weather cover. Carry the SH 180 AW with the top strap or adjustable shoulder strap. For strength and durability, the bag is made of 900D and 1680D polyester."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.06_Peak-Design-Capture-Camera-Clip",
+    "title": "Peak Design Capture Camera Clip",
+    "date": "2020.06",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-06-peak-design-capture-camera-clip/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.06_Peak-Design-Capture-Camera-Clip_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The all-new Capture is the most secure, convenient, accessible way to carry your camera, period. Unlike a camera strap, Capture keeps your camera rigidly stable while hiking, biking, or moving around the studio. Unlike a camera bag, Capture keeps your camera instantly accessible with the click of a button. "
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2020.06_Peak-Design-Capture-Camera-Clip_02_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Clip Dimensions: 8.3 cm (3.3″) x 4.0 cm (1.6″) x 2.0 cm (0.79″) \nPlate Dimensions: 3.8 cm (1.5″) x 3.8 cm (1.5″) x 0.7 cm (0.3″) \nWeight: 70 g (2.5 oz) – includes 2 thumb screws \nMaterials: CNC-machined aluminum, black anodized finish, injection molded PVC pad, steel screws with oxide finish (hex drive bolts) and machined steel and aluminum assembled screws with anodized finish (hand drive bolts) \nStrap Compatibility: Fits any strap up to 6.4 cm (2.5”) wide and 1.5 cm (0.6″) thick with standard thumbscrews or 2.2 cm (0.88”) thick with included hex-head clamping bolts. \nStrength Rating: Can withstand well over 200 lbs (90 kg). Safe for use with the largest of professional cameras in during any activity or environment."
+      },
+      {
+        "type":"picture",
+        "content": "2020.06_Peak-Design-Capture-Camera-Clip_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Includes 2 components: a metal clip that clamps to any backpack strap, belt, or bag, and an Arca tripod-compatible plate that screws into the bottom of your camera. Your camera locks into the clip, where it is held rigidly and securely. Press the lockable quick-release button to remove. Holds well over 200 lbs. (90kg), making it strong enough for the heaviest of pro camera/lens combinations."
       }
     ]
   },
