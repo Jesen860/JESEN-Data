@@ -1,5 +1,5 @@
 {
-"articleVersion": 14,
+"articleVersion": 15,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -658,7 +658,7 @@
       },
       {
         "type": "text",
-        "content": "The all-new Capture is the most secure, convenient, accessible way to carry your camera, period. Unlike a camera strap, Capture keeps your camera rigidly stable while hiking, biking, or moving around the studio. Unlike a camera bag, Capture keeps your camera instantly accessible with the click of a button. "
+        "content": "The all-new Capture is the most secure, convenient, accessible way to carry your camera, period. Unlike a camera strap, Capture keeps your camera rigidly stable while hiking, biking, or moving around the studio. Unlike a camera bag, Capture keeps your camera instantly accessible with the click of a button."
       },
       {
         "type": "video",
@@ -675,6 +675,42 @@
       {
         "type": "text",
         "content": "Includes 2 components: a metal clip that clamps to any backpack strap, belt, or bag, and an Arca tripod-compatible plate that screws into the bottom of your camera. Your camera locks into the clip, where it is held rigidly and securely. Press the lockable quick-release button to remove. Holds well over 200 lbs. (90kg), making it strong enough for the heaviest of pro camera/lens combinations."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2020.07_Peak-Design-Shell-Camera-Cover",
+    "title": "Peak Design Capture Camera Clip",
+    "date": "2020.07",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-07-peak-design-shell-camera-cover/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.07_Peak-Design-Shell-Camera-Cover_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Protect your camera from water, snow, dust and abrasion, whether it is in your hands, on the tripod, on your backpack or in your bag. Shell’s unique form-fitting design uses stretchy fabric with a waterproof membrane to keep your camera safe without adding bulk or impeding your workflow. Use Shell with the Capture Camera Clip or any Peak Design strap (sold separately) to keep your camera accessible in any environment."
+      },
+      {
+        "type": "picture",
+        "content": "2020.07_Peak-Design-Shell-Camera-Cover_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Made from a soft, durable and flexible fabric and with plenty of nice design touches, the Peak Design Shell Cover makes it tricky to get to a camera’s controls so is best used only to protect a camera during bursts of bad weather."
+      },
+      {
+        "type":"picture",
+        "content": "2020.07_Peak-Design-Shell-Camera-Cover_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Some great photos can be taken in bad weather, but how do you keep your gear safe? Most cameras can take a splash or two, but there are two things you must always avoid; driving rain and seawater. Cue the Peak Design Shell Cover, an attempt at creating a waterproof jacket for DSLR and mirrorless cameras and, crucially, any long lenses you might want to attach to them."
       }
     ]
   },
