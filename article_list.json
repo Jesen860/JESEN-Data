@@ -1,5 +1,5 @@
 {
-"articleVersion": 15,
+"articleVersion": 14,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2019.11_Kenko_REALPRO_Protector",
