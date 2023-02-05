@@ -1,5 +1,5 @@
 {
-"articleVersion": 16,
+"articleVersion": 15,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarget",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "photography_gear",
     "filePath": "2022.01_Arcteryx-Beta-SV-Jacket",
