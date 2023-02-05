@@ -1,5 +1,5 @@
 {
-"articleVersion": 16,
+"articleVersion": 15,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -363,6 +363,58 @@
       {
         "type": "text",
         "content": "All filters are custom made by PolarPro, so users can’t insert other standard-sized (4 x 5.65 or other) square filters. PolarPro offers two strengths of the VND: 2-5 and 6-9. The square ND filters have aluminium frame with a small aluminium grip on top for better handling and safer locking in the matte box."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarget",
+    "category": "gear",
+    "subCategory": "photography_gear",
+    "filePath": "2022.01_Arcteryx-Beta-SV-Jacket",
+    "title": "Arc’teryx Beta SV Jacket",
+    "date": "2022.01",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-01-arcteryx-beta-sv-jacket/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Alpine terrain is beautiful, unpredictable and unforgiving. The versatile Beta SV is designed for this world. Made from hardwearing GORE-TEX PRO with Most Rugged Technology – the most durable available – its waterproof, breathable protection withstands the realities of harsh mountain environments. The articulated fit moves with you, pit zips speed ventilation, and the StormHood™ provides full coverage without impeding lines-of-sight, and an embedded RECCO® reflector improves searchability in emergency situations."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.01_Arcteryx-Beta-SV-Jacket_02.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 495g / 1 lb 1.5 oz \nFit: Regular \nMaterial: N80d Most Rugged 3L GORE-TEX PRO – bluesign Approved Material \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture \nSnowsport Features: RECCO® reflector hidden in hood brim"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_03.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_04.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_05.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_06.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_07.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.01_Arcteryx-Beta-SV-Jacket_08.jpg"
       }
     ]
   },
