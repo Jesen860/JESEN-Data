@@ -1,5 +1,5 @@
 {
-"articleVersion": 19,
+"articleVersion": 20,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -663,6 +663,58 @@
       {
         "type": "text",
         "content": "TriFlex three-prong pot support is ideal for holding small ultralight pots. Purchase the WindMaster stove 4Flex pot support (sold separately) to cook with larger pots when you’re camping with a group; 4Flex pot support has a 5.7 in. diameter. The Soto WindMaster stove packs down small for easy transport on ultralight backpacking trips."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2020.09_Jetboil-MiniMo-Cooking-System",
+    "title": "Jetboil MiniMo Cooking System",
+    "date": "2020.09",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-09-jetboil-minimo-cooking-system/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Built with backpackers in mind, the MiniMo cooking system combines Jetboil’s tried-and-true efficiency and versatility with a convenient form factor. Powered by FluxRing technology, the MiniMo reaches a rolling boil in just over two minutes with half the fuel consumption of traditional systems. Jetboil’s proprietary regulator technology offers incremental heat adjustments from light simmer to full boil, perfect for sautéing greens, simmering sauces, and more. Metal handles and a redesigned FluxRing cooking cup—optimized for a low spoon angle—make the MiniMo the perfect vessel for personal cooking and eating. Start heating instantly with the convenient, reliable pushbutton igniter; save pack space with the clever sideways burner storage design. Includes fuel canister stabilizer and pot support; easy to pack and carry at only 14.6 ounces."
+      },
+      {
+        "type": "video",
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_02_long.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 0.913 lb | 0.415 kg \nPower: 6000 BTU/h / 1.75 kW \nVolume: 1 Liter Short \nCooking Type: Precision Cook \nFuel Regulator: Yes \nGroup Size: 1-2 People \nBoil Time: 2m 15sec per .5 liter \nWater Boiled: 12 liters per 100 g Jetpower can \nIgnition Type: Push Button \nDimensions: 5 in x 5.5 in (12.7 cm x 14 cm)"
+      },
+      {
+        "type":"picture",
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Reaches a rolling boil in just over two minutes with half the fuel consumption of traditional systems. Jetboil’s proprietary regulator technology offers incremental heat adjustments from light simmer to full boil, perfect for sautéing greens, simmering sauces, and more."
+      },
+      {
+        "type":"picture",
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Metal handles and redesigned FluxRing cooking cup optimized for a low spoon angle are perfect for personal cooking and eating. Convenient and reliable pushbutton igniter allows for consistent performance down to 20 degrees F (-6 degrees C)."
+      },
+      {
+        "type":"picture",
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Includes fuel canister stabilizer; easy to pack and carry at only 14.6 ounces. Clever sideways burner storage minimizes pack space. Convenient, reliable push-button igniter. Bottom cover doubles as a measuring cup and bowl. Fuel Canister Stabilizer included. Pot support included."
       }
     ]
   },
