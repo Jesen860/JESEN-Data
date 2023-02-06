@@ -1,5 +1,5 @@
 {
-"articleVersion": 20,
+"articleVersion": 19,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -686,7 +686,7 @@
       },
       {
         "type": "video",
-        "content": "2020.09_Jetboil-MiniMo-Cooking-System_02_long.jpg"
+        "content": "2020.09_Jetboil-MiniMo-Cooking-System_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -827,10 +827,6 @@
       {
         "type": "picture",
         "content": "2022.02_Hyperlite-Mountain-Gear-2400-Southwest-Black_07.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.02_Hyperlite-Mountain-Gear-2400-Southwest-Black_08.jpg"
       }
     ]
   },
