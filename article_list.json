@@ -1,5 +1,5 @@
 {
-"articleVersion": 19,
+"articleVersion": 20,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -939,7 +939,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket",
