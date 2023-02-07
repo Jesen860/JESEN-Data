@@ -721,6 +721,58 @@
   {
     "displayType": "singleCoverLarge",
     "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2020.10_Snow-Peak-Home-&-Camp-Burner",
+    "title": "Snow Peak Home & Camp Burner",
+    "date": "2020.10",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-10-snow-peak-home-camp-burner/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The Home & Camp Burner is a camping stove hybrid. The unit folds down for convenient storage with a sleek, sophisticated silhouette designed to complement any kitchen aesthetic. Open the unit through a quick, four-step setup, revealing a stable burner with an auto-ignitor and adjustable knob for advanced flame control. Expanded trivet supports even large cookware for shared meals."
+      },
+      {
+        "type": "video",
+        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_02.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 3 lbs (1.4 kg) \nSize: L 11.8″ W 13.6″ H 4.72″ \nFuel Type: Butane \nBTU: 8,333"
+      },
+      {
+        "type":"picture",
+        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Taking the suggestion from its name, we love busting out the Snow Peak Home & Camp Burner Stove just as often in the great outdoors as we do around the homestead."
+      },
+      {
+        "type":"picture",
+        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Sleek and compact, this sophisticated camp stove takes the stress out of cooking thanks to a stable burner with an auto-ignitor and easily adjustable flame control knob, along with its ability to fold down for convenient storage when dinner is done."
+      },
+      {
+        "type":"picture",
+        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Plus, its striking silhouette complements just about any kitchen aesthetic with a modern, no-frills design."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.01_Arcteryx-Beta-SV-Jacket",
     "title": "Arc’teryx Beta SV Jacket",
