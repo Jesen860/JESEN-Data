@@ -1,5 +1,5 @@
 {
-"articleVersion": 20,
+"articleVersion": 21,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -767,6 +767,58 @@
       {
         "type": "text",
         "content": "Plus, its striking silhouette complements just about any kitchen aesthetic with a modern, no-frills design."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2020.11_Jetboil-Summit-Skillet",
+    "title": "Jetboil Summit Skillet",
+    "date": "2020.11",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2020-11-jetboil-summit-skillet/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2020.11_Jetboil-Summit-Skillet_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The nonstick Summit Skillet packs the performance and punch of home cookware into a compact, lightweight, elegant, solution designed for the backpacker set."
+      },
+      {
+        "type": "video",
+        "content": "2020.11_Jetboil-Summit-Skillet_02_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Color: Orange \nWeight: 0.7 lb | 0.38 kg \nDimensions: 8.5 in x 1.9 in (2160 cm x 4.8 cm) \nCompatible With: HalfGen, SUMO, Genesis, Joule, MicroMo, MightyMo, MiniMo, Flash, Zip, Luna"
+      },
+      {
+        "type":"picture",
+        "content": "2020.11_Jetboil-Summit-Skillet_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The ceramic-coated nonstick aluminum construction heats quickly and evenly, expanding the potential of backcountry cooking. Coated with , PFOA-free ceramic nonstick, the skillet releases eggs, pancakes, and other foods easily, making cleanup a breeze."
+      },
+      {
+        "type":"picture",
+        "content": "2020.11_Jetboil-Summit-Skillet_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "A perfectly angled turner nests into the handle, helping you flip foods without fuss. The skillet pairs perfectly with Jetboil-regulated cooking systems and the Jetboil pot support. Skillet measures 8 by 8.5 by 1.9 inches and weighs 10.6 ounces."
+      },
+      {
+        "type":"picture",
+        "content": "2020.11_Jetboil-Summit-Skillet_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Eco-friendly, PFOA-free ceramic non-stick. Extra-easy food release and cleanup. Varied wall thickness for even heat distribution. Turner included (nests in handle). Turner weight: .74 oz (21 g). Turner dimensions: 2.6 in x 7.3 in x 0.9 in (65 mm x 185 mm x 21 mm). Pot Support (sold separately) must be used when cooking with the Summit Skillet on all compatible cooking systems except the MightyMo, Stash, Genesis and HalfGen."
       }
     ]
   },
