@@ -1,5 +1,5 @@
 {
-"articleVersion": 27,
+"articleVersion": 28,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1039,6 +1039,38 @@
       {
         "type":"picture",
         "content": "2021.05_Snow-Peak-Titanium-Spork_03.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.06_Keith-Square-Titanium-Chopsticks",
+    "title": "Keith Square Titanium Chopsticks",
+    "date": "2021.06",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-06-keith-square-titanium-chopsticks/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.06_Keith-Square-Titanium-Chopsticks_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "This chopsticks are made of pure titanium without lining and premium coating. It is tasteless, odourless, non-toxic and dishwasher safe. Originally designed for hiking, camping and travel, (blank) is also ideal for picnics, emergency preparedness and around the house, school and office. Titanium is ultra-light and super strong; it is environmentally friendly, biocompatible and bacteria-inhibitive; it is also extremely hypoallergenic and exceptionally resistant to corrosion."
+      },
+      {
+        "type": "picture",
+        "content": "2021.06_Keith-Square-Titanium-Chopsticks_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Dimensions: Square Side Length of Upper Handle: 0.27 in│6.8 mm , Length: 9.25 in │ 235 mm \nWeight: 0.5 oz │ 14.5 g"
+      },
+      {
+        "type":"picture",
+        "content": "2021.06_Keith-Square-Titanium-Chopsticks_03.jpg"
       }
     ]
   },
