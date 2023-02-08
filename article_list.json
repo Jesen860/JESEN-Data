@@ -1,5 +1,5 @@
 {
-"articleVersion": 25,
+"articleVersion": 26,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -943,6 +943,70 @@
       {
         "type": "text",
         "content": "Featuring foldable handles and ultralight titanium, the mug is easy to store and carry. Pair the Hot Lips Titanium 600 Mug with the GigaPower Stove 2.0 and TItanium Spork."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.03_Snow-Peak-Trek-Titanium-Bowl",
+    "title": "Snow Peak Trek Titanium Bowl",
+    "date": "2021.03",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-03-snow-peak-trek-titanium-bowl/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.03_Snow-Peak-Trek-Titanium-Bowl_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The Titanium Trek Bowl was made in Japan using a historic manufacturing process. Ultralight and sleek, yet durable, the Trek Bowl is a perfect addition to a backcountry, camp or everyday dining set. Pair the Titanium Trek Bowl with the Titanium Spork or Titanium Trek Plate."
+      },
+      {
+        "type": "picture",
+        "content": "2021.03_Snow-Peak-Trek-Titanium-Bowl_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 1.9 oz (53.86 g) \nSize: L 5.5″ w 5.5″ D 2.5″"
+      },
+      {
+        "type":"picture",
+        "content": "2021.03_Snow-Peak-Trek-Titanium-Bowl_03.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.04_Snow-Peak-Trek-Titanium-Plate",
+    "title": "Snow Peak Trek Titanium Plate",
+    "date": "2021.04",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-04-snow-peak-trek-titanium-plate/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.04_Snow-Peak-Trek-Titanium-Plate_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Made in Japan using a historic manufacturing process, the Titanium Trek Plate is an ultralight tableware piece. With its sleek yet durable design, the Trek Plate is an ideal addition to a backcountry, camp, or everyday dining set. Pair the Titanium Trek Plate with a Titanium Trek Bowl or the Wabuki Chopsticks for a complete dining set."
+      },
+      {
+        "type": "picture",
+        "content": "2021.04_Snow-Peak-Trek-Titanium-Plate_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 2 oz (62.5 g) \nSize: L 7.5″ W 7.5″ D 1″"
+      },
+      {
+        "type":"picture",
+        "content": "2021.04_Snow-Peak-Trek-Titanium-Plate_03.jpg"
       }
     ]
   },
