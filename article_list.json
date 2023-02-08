@@ -1,5 +1,5 @@
 {
-"articleVersion": 24,
+"articleVersion": 25,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -907,6 +907,42 @@
       {
         "type": "text",
         "content": "Designed for two users, the Multi Compact Cookset includes two stacking pots and frypans with foldable handles. Pair the Multi Compact Cookset Titanium with the LiteMax Titanium Stove for a backcountry setup."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.02_Snow-Peak-HotLips-Titanium-600-Mug",
+    "title": "Snow Peak HotLips Titanium 600 Mug",
+    "date": "2021.02",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-02-snow-peak-hotlips-titanium-600-mug/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.02_Snow-Peak-HotLips-Titanium-600-Mug_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Crafted from Japanese titanium, Snow Peak’s Hot Lips Titanium 600 Mug ensures a comfortable sipping experience. The single-walled titanium mug can be placed over a heat source for cooking or warming, and the Hot Lips allow you to drink without burning your lips."
+      },
+      {
+        "type": "picture",
+        "content": "2021.02_Snow-Peak-HotLips-Titanium-600-Mug_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 3.2 oz (91 g) \nSize: D 3.8″ H 4″"
+      },
+      {
+        "type":"picture",
+        "content": "2021.02_Snow-Peak-HotLips-Titanium-600-Mug_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Featuring foldable handles and ultralight titanium, the mug is easy to store and carry. Pair the Hot Lips Titanium 600 Mug with the GigaPower Stove 2.0 and TItanium Spork."
       }
     ]
   },
