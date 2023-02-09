@@ -1,5 +1,5 @@
 {
-"articleVersion": 30,
+"articleVersion": 31,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1135,6 +1135,58 @@
       {
         "type":"picture",
         "content": "2021.08_Keith-Titanium-Straw_03.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.09_Fozzils-Snapfold-Bowlz",
+    "title": "Fozzils Snapfold Bowlz",
+    "date": "2021.09",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-09-fozzils-snapfold-bowlz/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.09_Fozzils-Snapfold-Bowlz_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "A two-pack of our super versatile bowls. Convenient to use, clean, and carry. The easy alternative to throwaways!"
+      },
+      {
+        "type": "video",
+        "content": "2021.09_Fozzils-Snapfold-Bowlz_02.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 1.4 oz / 40.04 g \nVolume: 20.4 fl oz / 600 ml \nAssembled Dimensions: 5.5 x 6 x 3.4 inch / 14 x 15.4 x 8.8 cm \nFlat Dimensions: 9 x 10 inch / 25.5 x 25.5 cm"
+      },
+      {
+        "type":"picture",
+        "content": "2021.09_Fozzils-Snapfold-Bowlz_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Pack, fold, and store flat. Lightweight, just 1.4 oz each."
+      },
+      {
+        "type":"picture",
+        "content": "2021.09_Fozzils-Snapfold-Bowlz_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Handy measuring lines. Non-stick, easy clean surface."
+      },
+      {
+        "type":"picture",
+        "content": "2021.09_Fozzils-Snapfold-Bowlz_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Convenient, durable alternative to disposables."
       }
     ]
   },
