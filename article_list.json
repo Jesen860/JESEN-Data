@@ -1,5 +1,5 @@
 {
-"articleVersion": 32,
+"articleVersion": 33,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1193,7 +1193,7 @@
   {
     "displayType": "singleCoverSmallRight",
     "category": "gear",
-    "subCategory": "camping_gear",
+    "subCategory": "hiking_gear",
     "filePath": "2021.10_Katadyn-BeFree-Water-Filtration-System",
     "title": "Katadyn BeFree Water Filtration System 1L",
     "date": "2021.10",
