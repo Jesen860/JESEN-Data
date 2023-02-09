@@ -1,5 +1,5 @@
 {
-"articleVersion": 28,
+"articleVersion": 30,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1071,6 +1071,70 @@
       {
         "type":"picture",
         "content": "2021.06_Keith-Square-Titanium-Chopsticks_03.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.07_Keith-3-Piece-Titanium-Cutlery-Set",
+    "title": "Keith 3-Piece Titanium Cutlery Set",
+    "date": "2021.07",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-07-keith-3-piece-titanium-cutlery-set/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.07_Keith-3-Piece-Titanium-Cutlery-Set_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Reserved for enthusiasts of beautiful products or for all those who hunt for the tiniest gram. Beautiful all-titanium cutlery, lightweight, easy to carry. Only 53 g for this knife, fork and spoon set. Noble and resistant material, healthy without treatment, sanded surface. Biocompatible material, harmless to the human body. The cutlery is screwed together by a copper ring and attached to a carabiner."
+      },
+      {
+        "type": "picture",
+        "content": "2021.07_Keith-3-Piece-Titanium-Cutlery-Set_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Dimensions: Knife 185 × 16.5 × 2.5 mm │ 7.3 × 0.6 × 0.1 in, Fork 165 × 22 × 2.0 mm│6.5 × 0.9 × 0.08 in, Spoon 163 × 36.5 × 2.0 mm │ 6.4 × 1.4 × 0.08 in \nWeight: 1.9 oz │ 53 g"
+      },
+      {
+        "type":"picture",
+        "content": "2021.07_Keith-3-Piece-Titanium-Cutlery-Set_03.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2021.08_Keith-Titanium-Straw",
+    "title": "Keith Titanium Straw",
+    "date": "2021.08",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2021-08-keith-titanium-straw/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2021.08_Keith-Titanium-Straw_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "This straw is made of pure titanium without lining and premium coating. It is tasteless, odourless, non-toxic and dishwasher safe. Originally designed for hiking, camping and travel, (blank) is also ideal for picnics, emergency preparedness and around the house, school and office. Titanium is ultra-light and super strong; it is environmentally friendly, biocompatible and bacteria-inhibitive; it is also extremely hypoallergenic and exceptionally resistant to corrosion."
+      },
+      {
+        "type": "picture",
+        "content": "2021.08_Keith-Titanium-Straw_02.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Dimensions: Ø7.2*210MM \nWeight: 10 g"
+      },
+      {
+        "type":"picture",
+        "content": "2021.08_Keith-Titanium-Straw_03.jpg"
       }
     ]
   },
