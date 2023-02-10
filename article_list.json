@@ -1,5 +1,5 @@
 {
-"articleVersion": 36,
+"articleVersion": 37,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1351,6 +1351,66 @@
       {
         "type": "text",
         "content": "True to Nemo’s mission of sustainability, Moonlite uses 100% post-consumer recycled materials for the webbing and mesh, while the reclining hardware and seat mesh are bluesign® approved."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2022.01_Nemo-Moonlander-Dual-Height-Table",
+    "title": "Nemo Moonlander Dual-Height Table",
+    "date": "2021.12",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-01-nemo-moonlander-dual-height-table/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "No matter where you’re headed, Moonlander is the best new addition to your camp kit. With a dual-height, convertible design, Moonlander can provide a secure landing for a pair of wine glasses on a picnic blanket, or the perfectly elevated side table for your Stargaze™ and Moonlite™ recliners."
+      },
+      {
+        "type": "video",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_02_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Packed Size: 14.5 x 9.5 x 1.5 in / 37.3 x 23.9 x 3.4 cm \nDimensions: 19 x 15 x 16 in / 48 x 37 x 40 cm \nColor: Boreal \nFrame: Aluminum \nWeight: 4 lb , 14 oz / 2.2 kg \nWeight Capacity: 100 lb \nStuff Sack Style: Mountaineering Orange \nInsulation: Padded Carying Case"
+      },
+      {
+        "type":"picture",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The setup is a charm — like opening a pop-up book — and it packs small enough to fit in the laptop sleeve of a backpack."
+      },
+      {
+        "type":"picture",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Moonlander’s sleek design and high-quality hardware exceed expectations on every level, from durability to aesthetics. Custom-engineered aluminum hinges are molded into the table for the ultimate in security and longevity — always aligned, without the need to be tightened for smooth functionality."
+      },
+      {
+        "type":"picture",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Rugged aluminum poles with zinc pole tips twist-lock into place to elevate to side table height. When not in use, legs lock into a storage area on the underside of the table for a tidy pack up."
+      },
+      {
+        "type":"picture",
+        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_06.jpg"
+      },
+      {
+        "type": "text",
+        "content": "A smooth, impervious tabletop surface is heat-resistant and cleans easily. Moonlander comes with a sharply designed, padded case or fits perfectly in your pack’s laptop sleeve."
       }
     ]
   },
