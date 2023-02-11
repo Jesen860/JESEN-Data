@@ -1,5 +1,5 @@
 {
-"articleVersion": 37,
+"articleVersion": 38,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -334,7 +334,7 @@
       },
       {
         "type": "video",
-        "content": "2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_02_long.mp4"
+        "content": "horizontal; 2020.01_PolarPro-BaseCamp-Ultralight-Matte-Box-System_02_long.mp4"
       },
       {
         "type": "text",
@@ -686,7 +686,7 @@
       },
       {
         "type": "video",
-        "content": "2020.09_Jetboil-MiniMo-Cooking-System_02_long.mp4"
+        "content": "horizontal; 2020.09_Jetboil-MiniMo-Cooking-System_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -738,7 +738,7 @@
       },
       {
         "type": "video",
-        "content": "2020.10_Snow-Peak-Home-&-Camp-Burner_02.mp4"
+        "content": "horizontal; 2020.10_Snow-Peak-Home-&-Camp-Burner_02.mp4"
       },
       {
         "type": "key_text",
@@ -790,7 +790,7 @@
       },
       {
         "type": "video",
-        "content": "2020.11_Jetboil-Summit-Skillet_02_long.mp4"
+        "content": "horizontal; 2020.11_Jetboil-Summit-Skillet_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -1158,7 +1158,7 @@
       },
       {
         "type": "video",
-        "content": "2021.09_Fozzils-Snapfold-Bowlz_02.mp4"
+        "content": "horizontal; 2021.09_Fozzils-Snapfold-Bowlz_02.mp4"
       },
       {
         "type": "key_text",
@@ -1210,7 +1210,7 @@
       },
       {
         "type": "video",
-        "content": "2021.10_Katadyn-BeFree-Water-Filtration-System_02.mp4"
+        "content": "horizontal; 2021.10_Katadyn-BeFree-Water-Filtration-System_02.mp4"
       },
       {
         "type": "key_text",
@@ -1262,7 +1262,7 @@
       },
       {
         "type": "video",
-        "content": "2021.11_Grayl-16.9oz-UltraPress-Purifier_02_long.mp4"
+        "content": "horizontal; 2021.11_Grayl-16.9oz-UltraPress-Purifier_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -1314,7 +1314,7 @@
       },
       {
         "type": "video",
-        "content": "2021.12_Nemo-Moonlite-Reclining-Camp-Chair_02_long.mp4"
+        "content": "horizontal; 2021.12_Nemo-Moonlite-Reclining-Camp-Chair_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -1360,7 +1360,7 @@
     "subCategory": "camping_gear",
     "filePath": "2022.01_Nemo-Moonlander-Dual-Height-Table",
     "title": "Nemo Moonlander Dual-Height Table",
-    "date": "2021.12",
+    "date": "2022.01",
     "author": "JESEN",
     "shareLink": "https://haomingxiong.com/2022-01-nemo-moonlander-dual-height-table/",
     "articleContentList":[
@@ -1374,7 +1374,7 @@
       },
       {
         "type": "video",
-        "content": "2022.01_Nemo-Moonlander-Dual-Height-Table_02_long.mp4"
+        "content": "horizontal; 2022.01_Nemo-Moonlander-Dual-Height-Table_02_long.mp4"
       },
       {
         "type": "key_text",
@@ -1523,6 +1523,66 @@
       {
         "type": "picture",
         "content": "2022.02_Hyperlite-Mountain-Gear-2400-Southwest-Black_07.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2022.02_Nemo-Riff-Down-Sleeping-Bag",
+    "title": "Nemo Riff Down Sleeping Bag 30F",
+    "date": "2022.02",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-02-nemo-riff-down-sleeping-bag-30f/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.02_Nemo-Riff-Down-Sleeping-Bag_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Riff is NEMO’s top-of-the-line, backcountry-oriented Ultralight Spoon™ shape sleeping bag."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.02_Nemo-Riff-Down-Sleeping-Bag_02_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Minimum Weight: 2 lb , 0 oz / 915 g \nPacked Size: 11.5 x 7.5 in dia / 29 x 19 cm dia \nTemp Rating: 30F / -1C \nISO Comfort: 40F / 4C \nFill Type: 800 FP Down \nFill Weight: 0 lb , 10 oz / 290 g \nFits Up To: 6’6″ / 198 cm \nShoulder Girth: 64 in / 163 cm \nHip Girth: 55 in / 140 cm \nKnee Girth: 61 in / 155 cm \nCompressed Volume: 5 L \nShell Fabric: Nylon \nFootbox Fabric: Nylon \nLining Fabric: Nylon \nZipper Location: Left \nStuff Sack: Compression stuff sack"
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_Nemo-Riff-Down-Sleeping-Bag_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "This pinnacle performance 3-season 800 FP down bag offers a more athletic cut, designed for side sleepers who prefer space-saving packability and shaving critical ounces for long hours on the trail."
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_Nemo-Riff-Down-Sleeping-Bag_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Seventy percent of people sleep on their side, yet mummy bags are not designed to accommodate this. NEMO’s unique Spoon shape bags offer more room at the elbows and knees, allowing side sleepers to shift positions comfortably throughout the night."
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_Nemo-Riff-Down-Sleeping-Bag_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "This popular bag is loaded with features, including Thermo Gill™ vents that help regulate temperature during the night, a Blanket Fold™ draft collar that provides tucked-in comfort, and a waterproof/breathable footbox to withstand tent condensation."
+      },
+      {
+        "type":"picture",
+        "content": "2022.02_Nemo-Riff-Down-Sleeping-Bag_06.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Left-sided zippers on the men’s and right-sided zippers on the women’s bags allow two Riffs to zip together for a double bag."
       }
     ]
   },
