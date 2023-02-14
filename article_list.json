@@ -1,5 +1,5 @@
 {
-"articleVersion": 38,
+"articleVersion": 39,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1635,6 +1635,66 @@
       {
         "type": "picture",
         "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_08.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "camping_gear",
+    "filePath": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad",
+    "title": "Nemo Tensor Alpine Ultralight Mountaineering Pad",
+    "date": "2022.03",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-03-nemo-tensor-alpine-ultralight-mountaineering-pad/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "This pinnacle mountaineering pad offers lightweight, compact, extreme warmth without sacrificing comfort."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_02_long.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Minimum Weight: 1 lb , 8 oz / 690 g \nPacked Weight: 1 lb , 11 oz / 770 g \nPacked Size: 9.5 x 3.5 in dia / 24 x 9 cm dia \nR-Value: 4.8 \nThickness: 3.0 in \nShape: Rectangular \nColor: Mountaineering Orange \nInsulation: Aluminized Film \nFabric: PU Polyester"
+      },
+      {
+        "type":"picture",
+        "content": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_03.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Three layers of suspended metalized film and a unique construction efficiently retains your own body heat. Tensor Alpine brings warmth and comfort to cold weather camping."
+      },
+      {
+        "type":"picture",
+        "content": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Whether at base camp or high on the mountain before a summit push, the combination of compact size, light weight, and warmth cannot be beat."
+      },
+      {
+        "type":"picture",
+        "content": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "A zero-profile, multifunctional, micro-adjustable valve offers convenient inflation and fast deflation. The included Vortex™ pump sack provides fast and easy inflation without introducing moisture into your pad."
+      },
+      {
+        "type":"picture",
+        "content": "2022.03_Nemo-Tensor-Alpine-Ultralight-Mountaineering-Pad_06.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Patent-pending Spaceframe™ baffles are low-st"
       }
     ]
   },
