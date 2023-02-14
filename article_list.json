@@ -1,5 +1,5 @@
 {
-"articleVersion": 39,
+"articleVersion": 40,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1527,7 +1527,7 @@
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "camping_gear",
     "filePath": "2022.02_Nemo-Riff-Down-Sleeping-Bag",
@@ -1762,95 +1762,15 @@
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
-    "filePath": "2022.05_My-Sleeping-Gear",
-    "title": "My Sleeping Gear",
+    "filePath": "2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow",
+    "title": "Nemo Fillo Elite Luxury Backpacking Pillow",
     "date": "2022.05",
     "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2022-05-my-sleeping-gear/",
+    "shareLink": "https://haomingxiong.com/2022-05-nemo-fillo-elite-luxury-backpacking-pillow/",
     "articleContentList":[
       {
         "type": "picture",
-        "content": "2022.05_My-Sleeping-Gear_01.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Sleeping Bag: Nemo - Riff Down Sleeping Bag \nSleeping Pad: Nemo - Tensor Alpine Ultralight Mountaineering Pad \nPillow: Nemo - Fillo Elite Luxury Backpacking Pillow"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Nemo – Riff 30 Down Sleeping Bag – Long Wide"
-      },
-      {
-        "type": "picture",
-        "content": "2022.05_My-Sleeping-Gear_02.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Riff is NEMO’s top-of-the-line, backcountry-oriented Ultralight Spoon™ shape sleeping bag. This pinnacle performance 3-season 800 FP down bag offers a more athletic cut, designed for side sleepers who prefer space-saving packability and shaving critical ounces for long hours on the trail. Seventy percent of people sleep on their side, yet mummy bags are not designed to accommodate this. NEMO’s unique Spoon shape bags offer more room at the elbows and knees, allowing side sleepers to shift positions comfortably throughout the night."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.05_My-Sleeping-Gear_03_long.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Minimum Weight: 2 lb , 0 oz / 915 g \nPacked Size: 11.5 x 7.5 in dia / 29 x 19 cm dia \nTemp Rating: 30F / -1C \nISO Comfort: 40F / 4C \nFill Type: 800 FP Down \nFill Weight: 0 lb , 10 oz / 290 g \nFits Up To: 6’6″ / 198 cm \nShoulder Girth: 64 in / 163 cm \nHip Girth: 55 in / 140 cm \nKnee Girth: 61 in / 155 cm \nCompressed Volume: 5 L \nShell Fabric: Nylon \nFootbox Fabric: Nylon \nLining Fabric: Nylon \nZipper Location: Left \nStuff Sack: Compression stuff sack"
-      },
-      {
-        "type":"picture",
-        "content": "2022.05_My-Sleeping-Gear_04.jpg"
-      },
-      {
-        "type": "text",
-        "content": "This popular bag is loaded with features, including Thermo Gill™ vents that help regulate temperature during the night, a Blanket Fold™ draft collar that provides tucked-in comfort, and a waterproof/breathable footbox to withstand tent condensation. Left-sided zippers on the men’s and right-sided zippers on the women’s bags allow two Riffs to zip together for a double bag."
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Nemo – Tensor Alpine Ultralight Mountaineering Pad – Long Wide"
-      },
-      {
-        "type":"picture",
-        "content": "2022.05_My-Sleeping-Gear_05.jpg"
-      },
-      {
-        "type": "text",
-        "content": "This pinnacle mountaineering pad offers lightweight, compact, extreme warmth without sacrificing comfort. Three layers of suspended metalized film and a unique construction efficiently retains your own body heat. Tensor Alpine brings warmth and comfort to cold weather camping. Whether at base camp or high on the mountain before a summit push, the combination of compact size, light weight, and warmth cannot be beat."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.05_My-Sleeping-Gear_06_long.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Minimum Weight: 1 lb , 8 oz / 690 g \nPacked Weight: 1 lb , 11 oz / 770 g \nPacked Size: 9.5 x 3.5 in dia / 24 x 9 cm dia \nR-Value: 4.8 \nThickness: 3.0 in \nShape: Rectangular \nColor: Mountaineering Orange \nInsulation: Aluminized Film \nFabric: PU Polyester"
-      },
-      {
-        "type":"picture",
-        "content": "2022.05_My-Sleeping-Gear_07.jpg"
-      },
-      {
-        "type": "text",
-        "content": "A zero-profile, multifunctional, micro-adjustable valve offers convenient inflation and fast deflation. The included Vortex™ pump sack provides fast and easy inflation without introducing moisture into your pad. Patent-pending Spaceframe™ baffles are low-stretch trusses that provide greater stability and point deflection resistance than competitors. Tensor Alpine’s unique construction sleeps quieter than other pads."
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Nemo – Fillo Elite Luxury Backpacking Pillow"
-      },
-      {
-        "type":"picture",
-        "content": "2022.05_My-Sleeping-Gear_08.jpg"
+        "content": "2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow_01.jpg"
       },
       {
         "type": "text",
@@ -1858,7 +1778,7 @@
       },
       {
         "type": "video",
-        "content": "horizontal; 2022.05_My-Sleeping-Gear_09.mp4"
+        "content": "horizontal; 2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow_02.mp4"
       },
       {
         "type": "key_text",
@@ -1866,11 +1786,27 @@
       },
       {
         "type":"picture",
-        "content": "2022.05_My-Sleeping-Gear_10.jpg"
+        "content": "2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow_03.jpg"
       },
       {
         "type": "text",
-        "content": "The interior features our baffled air cell structure to help it retain shape but is covered with a cozy layer of 100% post-consumer recycled Primaloft® insulation. An ultra-soft, machine-washable jersey cover is the final touch for a pillow that comfortably cradles your head with a width to accommodate broad-shouldered users, and pack size small enough for backpacking trips. Armed with an unobtrusive, ergonomic valve and integrated stuff sack, Fillo Elite is quick to inflate and deflate, and stows away at a size not much bigger than a lime, making it a worthy addition to your pack. (Plus: It’s equally dreamy for flights, long roadtrips, or providing lumbar support at home.)"
+        "content": "The interior features our baffled air cell structure to help it retain shape but is covered with a cozy layer of 100% post-consumer recycled Primaloft® insulation."
+      },
+      {
+        "type":"picture",
+        "content": "2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow_04.jpg"
+      },
+      {
+        "type": "text",
+        "content": "An ultra-soft, machine-washable jersey cover is the final touch for a pillow that comfortably cradles your head with a width to accommodate broad-shouldered users, and pack size small enough for backpacking trips."
+      },
+      {
+        "type":"picture",
+        "content": "2022.05_Nemo-Fillo-Elite-Luxury-Backpacking-Pillow_05.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Armed with an unobtrusive, ergonomic valve and integrated stuff sack, Fillo Elite is quick to inflate and deflate, and stows away at a size not much bigger than a lime, making it a worthy addition to your pack. (Plus: It’s equally dreamy for flights, long roadtrips, or providing lumbar support at home.)"
       }
     ]
   },
