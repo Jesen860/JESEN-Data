@@ -1,5 +1,5 @@
 {
-"articleVersion": 40,
+"articleVersion": 39,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1475,58 +1475,6 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
-    "category": "gear",
-    "subCategory": "hiking_gear",
-    "filePath": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket",
-    "title": "Arc’teryx Gamma MX Hoody Jacket",
-    "date": "2022.03",
-    "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2022-03-arcteryx-gamma-mx-hoody-jacket/",
-    "articleContentList":[
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_01.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Alpine environments are dynamic. You need a softshell that works across the spectrum of changing outputs and shifting conditions. Delivering light weather protection, breathable warmth, and exceptional freedom of movement, the Gamma MX Hoody is the solution. The wind and water resistant Fortius™ 2.0 fabric is refined for superior warmth-to-weight and durability, and a front liner improves core warmth. The Stormhood™ is helmet compatible and protects without impeding peripheral vision."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_02.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 555g / 1 lb 3.6 oz \nFit: Regular \nMaterial: Fortius 2.0™—49% polyester, 35% nylon, 16% elastane \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_03.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_04.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_05.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_06.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_07.jpg"
-      },
-      {
-        "type": "picture",
-        "content": "2022.03_Arcteryx-Gamma-MX-Hoody-Jacket_08.jpg"
-      }
-    ]
-  },
-  {
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "camping_gear",
@@ -1899,6 +1847,58 @@
       {
         "type": "text",
         "content": "Premium full-grain waterproof leather uppers for comfort and durability, Seam-sealed waterproof construction keeps feet dry in any weather, Rustproof, speed lace hardware with hooks at top for secure lacing, ReBOTL™ recycled fabric linings, EVA footbeds and midsoles, Solid rubber outsoles with multi-directional lugs for traction on varied terrain."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "hiking_gear",
+    "filePath": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket",
+    "title": "Arc’teryx Gamma MX Hoody Jacket",
+    "date": "2022.08",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-08-arcteryx-gamma-mx-hoody-jacket/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Alpine environments are dynamic. You need a softshell that works across the spectrum of changing outputs and shifting conditions. Delivering light weather protection, breathable warmth, and exceptional freedom of movement, the Gamma MX Hoody is the solution. The wind and water resistant Fortius™ 2.0 fabric is refined for superior warmth-to-weight and durability, and a front liner improves core warmth. The Stormhood™ is helmet compatible and protects without impeding peripheral vision."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_02.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 555g / 1 lb 3.6 oz \nFit: Regular \nMaterial: Fortius 2.0™—49% polyester, 35% nylon, 16% elastane \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_03.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_04.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_05.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_06.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_07.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_08.jpg"
       }
     ]
   },
