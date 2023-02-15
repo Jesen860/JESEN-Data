@@ -1,5 +1,5 @@
 {
-"articleVersion": 41,
+"articleVersion": 40,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1851,7 +1851,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket",
@@ -1906,154 +1906,6 @@
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
-    "filePath": "2022.08_My-Hiking-Jackets",
-    "title": "My Hiking Jackets",
-    "date": "2022.08",
-    "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2022-08-my-hiking-jackets/",
-    "articleContentList":[
-      {
-        "type": "picture",
-        "content": "2022.08_My-Hiking-Jackets_01.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Shell Jacket: Arc’teryx – Beta SV Jacket \nShell Jacket: Arc’teryx – Gamma MX Hoody \nInsulated Jacket: Arc’teryx – Atom LT Hoody \nInsulated Jacket: Arc’teryx – Cerium LT Hoody"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Beta SV Jacket"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_02.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Alpine terrain is beautiful, unpredictable and unforgiving. The versatile Beta SV is designed for this world. Made from hardwearing GORE-TEX PRO with Most Rugged Technology – the most durable available – its waterproof, breathable protection withstands the realities of harsh mountain environments. The articulated fit moves with you, pit zips speed ventilation, and the StormHood™ provides full coverage without impeding lines-of-sight, and an embedded RECCO® reflector improves searchability in emergency situations."
-      },
-      {
-        "type":"video",
-        "content": "horizontal; 2022.08_My-Hiking-Jackets_03.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 495g / 1 lb 1.5 oz \nFit: Regular"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_04.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Material: N80d Most Rugged 3L GORE-TEX PRO – bluesign Approved Material \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture \nSnowsport Features: RECCO® reflector hidden in hood brim"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Gamma MX Hoody"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_05.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Alpine environments are dynamic. You need a softshell that works across the spectrum of changing outputs and shifting conditions. Delivering light weather protection, breathable warmth, and exceptional freedom of movement, the Gamma MX Hoody is the solution. The wind and water resistant Fortius™ 2.0 fabric is refined for superior warmth-to-weight and durability, and a front liner improves core warmth. The Stormhood™ is helmet compatible and protects without impeding peripheral vision."
-      },
-      {
-        "type":"video",
-        "content": "horizontal; 2022.08_My-Hiking-Jackets_06.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 555g / 1 lb 3.6 oz \nFit: Regular"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_07.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Material: Fortius 2.0™—49% polyester, 35% nylon, 16% elastane \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Atom LT Hoody"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_08.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Alpine proven as a midlayer and standalone, this versatile hoody has warmed climbers and backcountry travelers for years. Built to handle a range of conditions and output levels, the latest-generation Atom LT’s Coreloft™ Compact insulation retains its warmth even if wet and has loft retention to withstand years of packing and unpacking. The water resistant Tyono™ 20 face fabric is breathable and durable, stretch side panels improve fit and freedom, and the insulated StormHood™ adds warmth."
-      },
-      {
-        "type":"video",
-        "content": "horizontal; 2022.08_My-Hiking-Jackets_09.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 375g / 13.2 oz \nFit: Fitted"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_10.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Material: Lining: Dope Permeair™ 20D – 100% nylon – Dope Dyed, bluesign Approved Material (select colours), Insulation: Coreloft™ 60 (60 g/m²) – 100% Recycled Polyester – bluesign Approved Material, Self: Tyono™ 20 denier shell with FC0 DWR treatment – 100% nylon, Stretch fleece – 94% polyester, 6% elastane. \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Cerium LT Hoody"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_11.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Streamlined in its design, and with an exceptional warmth-to-weight ratio, the Cerium LT hoody works as a mid layer or a standalone piece in cool, dry conditions. Premium 850 fill-power down is lofty and resilient, the Arato™ 10 nylon shell provides lightweight durability, and Down Composite Mapping™ strategically places Coreloft™ synthetic insulation in moisture-prone areas. Articulated construction moves with the body, and the insulated StormHood™ provides coverage without compromising range of vision."
-      },
-      {
-        "type":"video",
-        "content": "horizontal; 2022.08_My-Hiking-Jackets_12.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 313g / 11 oz \nFit: Fitted"
-      },
-      {
-        "type":"picture",
-        "content": "2022.08_My-Hiking-Jackets_13.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Material: Insulation: Coreloft™ 80 (80gsm) and 100 (100gsm) – 100% Polyester – bluesign Approved Material, Insulation: 850 fill European white goose down – RDS down, Arato™ 10 – 100% nylon. \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
-      }
-    ]
-  },
-  {
-    "displayType": "singleCoverSmallRight",
-    "category": "gear",
-    "subCategory": "hiking_gear",
     "filePath": "2022.09_Arcteryx-Atom-LT-Hoody-Jacket",
     "title": "Arc’teryx Atom LT Hoody Jacket",
     "date": "2022.09",
@@ -2099,6 +1951,50 @@
       {
         "type": "picture",
         "content": "2022.09_Arcteryx-Atom-LT-Hoody-Jacket_08.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverSmallRight",
+    "category": "gear",
+    "subCategory": "hiking_gear",
+    "filePath": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket",
+    "title": "Arc’teryx Cerium LT Hoody Jacket",
+    "date": "2022.10",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-10-arcteryx-cerium-lt-hoody-jacket/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Streamlined in its design, and with an exceptional warmth-to-weight ratio, the Cerium LT hoody works as a mid layer or a standalone piece in cool, dry conditions. Premium 850 fill-power down is lofty and resilient, the Arato™ 10 nylon shell provides lightweight durability, and Down Composite Mapping™ strategically places Coreloft™ synthetic insulation in moisture-prone areas. Articulated construction moves with the body, and the insulated StormHood™ provides coverage without compromising range of vision."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_02.mp4"
+      },
+      {
+        "type": "key_text",
+        "content": "Weight: 313g / 11 oz \nFit: Fitted \nMaterial: Insulation: Coreloft™ 80 (80gsm) and 100 (100gsm) – 100% Polyester – bluesign Approved Material, Insulation: 850 fill European white goose down – RDS down, Arato™ 10 – 100% nylon. \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture"
+      },
+      {
+        "type": "picture",
+        "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_03.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_04.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_05.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_06.jpg"
       }
     ]
   },
