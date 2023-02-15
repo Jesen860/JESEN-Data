@@ -1,5 +1,5 @@
 {
-"articleVersion": 40,
+"articleVersion": 42,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1762,98 +1762,6 @@
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
-    "filePath": "2022.07_My-Hiking-Shoes",
-    "title": "My Hiking Shoes",
-    "date": "2022.07",
-    "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2022-07-my-hiking-shoes/",
-    "articleContentList":[
-      {
-        "type": "picture",
-        "content": "2022.07_My-Hiking-Shoes_01.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Approach Shoe: Arc’teryx – Konseal FL 2 Leather GTX Shoe \nApproach Shoe: Arc’teryx – Konseal FL GTX Shoe \nHiking Boot: Timberland – White Ledge Mid Waterproof Hiking Boot"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Konseal FL 2 Leather GTX Shoe"
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_02.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Shifting conditions, mixed terrain, fully loaded pack – on technical approaches you need confidence and comfort. The light, fast Konseal FL 2 is nimble, supportive, and made to handle varied conditions and demanding trails. GORE-TEX provides proven waterproof, breathable protection, and the leather upper adds durability. Its Vibram® Megagrip outsole provides a secure hold – wet or dry – and the TPU midfoot chassis and raised perimeter sidewalls provide stability on shifting surfaces."
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_03.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Activity: Hiking / Trekking / Rock Climbing / Alpine Climbing \nMaterials: GORE-TEX membrane, Vibram® Megagrip™, TPU high abrasion protection, Split-Suede Leather"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Arc’teryx – Konseal FL GTX Shoe"
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_04.jpg"
-      },
-      {
-        "type": "text",
-        "content": "The Konseal FL GTX Shoe from Arc’teryx will keep your feet dry on the approach to your favourite crag! The approach shoes boast a lightweight, extremely tough synthetic upper with a waterproof GORE-TEX membrane. The EVA midsole and the Ortholite footbed provide shock absorption and take the strain off your joints. The laces extend down far down and can be adjusted for an individualised fit. The Vibram Megagrip outsole is designed specifically for changing terrain and comes equipped with a climbing zone at the toe. The abrasion-resistant toe cap will prevent wear and tear."
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_05.jpg"
-      },
-      {
-        "type": "key_text",
-        "content": "Activity: Rock Climbing / Alpine Climbing \nMaterials: GORE-TEX membrane, Vibram® Megagrip™, 3D molded rubber toe cap, 4mm thickness OrthoLite™ 3D molded insert, Injected EVA, 60 Shore C – midsole"
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Timberland – White Ledge Mid Waterproof Hiking Boot"
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_06.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Looking good at any elevation: The White Ledge men’s hikers are some of our all-time best-sellers. With outdoor-inspired styling and complete protection from rain and water crossings, these waterproof hiking boots can’t wait to get you to the summit."
-      },
-      {
-        "type":"picture",
-        "content": "2022.07_My-Hiking-Shoes_07.jpg"
-      },
-      {
-        "type": "text",
-        "content": "Premium full-grain waterproof leather uppers for comfort and durability, Seam-sealed waterproof construction keeps feet dry in any weather, Rustproof, speed lace hardware with hooks at top for secure lacing, ReBOTL™ recycled fabric linings, EVA footbeds and midsoles, Solid rubber outsoles with multi-directional lugs for traction on varied terrain."
-      }
-    ]
-  },
-  {
-    "displayType": "singleCoverSmallRight",
-    "category": "gear",
-    "subCategory": "hiking_gear",
     "filePath": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket",
     "title": "Arc’teryx Gamma MX Hoody Jacket",
     "date": "2022.08",
@@ -1999,138 +1907,54 @@
     ]
   },
   {
-    "displayType": "multipleCover",
+    "displayType": "singleCoverLarge",
     "category": "gear",
-    "subCategory": "camping_gear",
-    "filePath": "2022.11_My-Camping-Lights",
-    "title": "My Camping Lights",
+    "subCategory": "hiking_gear",
+    "filePath": "2022.11_Arcteryx-Macai-Jacket",
+    "title": "Arc’teryx Macai Jacket",
     "date": "2022.11",
     "author": "JESEN",
-    "shareLink": "https://haomingxiong.com/2022-11-my-camping-lights/",
+    "shareLink": "https://haomingxiong.com/2022-11-arcteryx-macai-jacket/",
     "articleContentList":[
       {
         "type": "picture",
-        "content": "2022.11_My-Camping-Lights_01.jpg"
+        "content": "2022.11_Arcteryx-Macai-Jacket_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Frigid temperatures won’t stop you from getting your turns. Designed for cold days in-bounds, the Macai delivers serious warmth and weather protection with a refined look. Insulated with RDS-certified European goose down, it keeps you comfortable – even during freezing lift rides – while breathable GORE-TEX sheds wind, rain, snow. The insulated DropHood™ can be removed on clear days, and mesh-backed PowderGuard™ vents let out excess heat without letting snow in."
+      },
+      {
+        "type": "video",
+        "content": "horizontal; 2022.11_Arcteryx-Macai-Jacket_02.mp4"
       },
       {
         "type": "key_text",
-        "content": "Lantern: Goalzero – Lighthouse Micro Flash USB Rechargeable Lantern \nLantern: Ledlenser – ML4 \nLantern: ML6 \nLantern: Biolite – AlpenGlow 250 & 500 Multicolor USB Lantern"
-      },
-      {
-        "type": "bold_text",
-        "content": "Goalzero – Lighthouse Micro Flash USB Rechargeable Lantern"
+        "content": "Weight: 1kg / 2 lb 3.3 oz \nFit: Regular \nMaterial: N40p-X GORE-TEX fabric with 3L tricot technology; Coreloft™ Compact (60 g/m² ) insulation. Highly crimped, multi-denier siliconized polyester yarn that has undergone a special process which reduces the thickness of the material by 50%, without reducing its insulation value by the same amount; Coreloft™ 100 (100 g/m² ) insulation. Made with highly crimped multi-denier siliconized polyester yarn, this lightweight, breathable, and thermally efficient, 100% polyester staple fiber is very compressible and has excellent loft retention; 750 fill European goose down (69g – M). \nFabric Treatment: DWR (Durable Water Repellent) finish repels moisture \nSnowsport Features: RECCO® reflector hidden in hood brim"
       },
       {
         "type": "picture",
-        "content": "2022.11_My-Camping-Lights_02.jpg"
+        "content": "2022.11_Arcteryx-Macai-Jacket_03.jpg"
       },
       {
-        "type": "text",
-        "content": "USB rechargeable lantern with built-in 120 lumen flashlight. Easy-to-read battery indicator with IPX6 weatherproof rating. Weighs only 2.4oz with runtime of 7-170 hours depending on brightness setting. Recharge the Lighthouse Micro Flash from the sun by connecting a compatible solar panel in about 3.5 hours. The Lighthouse Micro Flash can be recharged from a USB Source in about 3.5 hours."
+        "type": "picture",
+        "content": "2022.11_Arcteryx-Macai-Jacket_04.jpg"
       },
       {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_04.jpg"
+        "type": "picture",
+        "content": "2022.11_Arcteryx-Macai-Jacket_05.jpg"
       },
       {
-        "type": "key_text",
-        "content": "Weight: 2.4 oz \nDimensions: 3.66 x 1.5 in (93 x 37.75 cm) \nFull Bright, 4 Lights (Average): 135 Lumens, 3800K \nDimmest, 2 Lights (Average): 7 Lumens, 3800K \nFlashlight, Bright (Average): 115 Lumens, 3000K \nFlashlight, Dim (Average): 15 Lumens, 3000K \nFlashlight Runtime: 100 hours (low), 8.5 hours (high) \nOne Side Lit Runtime: 170 hours (low), 15 hours (high) \nBoth Sides lit Runtime: 80 hours (low), 7 hours (high)"
+        "type": "picture",
+        "content": "2022.11_Arcteryx-Macai-Jacket_06.jpg"
       },
       {
-        "type": "separator",
-        "content": "solid"
+        "type": "picture",
+        "content": "2022.11_Arcteryx-Macai-Jacket_07.jpg"
       },
       {
-        "type": "bold_text",
-        "content": "Ledlenser – ML4"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_05.jpg"
-      },
-      {
-        "type": "text",
-        "content": "The ultra-compact outdoor light by Ledlenser with state of the art lens technology for glare-free light and high energy efficiency. Dual Power technology offers extended usage time thanks to AA batteries to back up the included rechargeable battery. This battery can be charged via magnetic charge system, which makes it particularly easy to attach the charging cable. Moreover the latern has a Carabiner snap hook for flexible usage and fastening."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.11_My-Camping-Lights_06_long.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 71g \nTightness: IP66 \nHead diameter: 35mm \nLuminosity (Boost): 300 Lumens \nLuminosity (Power): 150 Lumens \nLuminosity (Mid Power): 50 Lumens \nLuminosity (Low Power): 5 Lumens \nOperation time (Power): 3 hours \nOperation time (Mid Power): 8 hours \nOperation time (Low Power): 45 hours"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_07.jpg"
-      },
-      {
-        "type": "text",
-        "content": "The ultra-compact outdoor light by Ledlenser with state of the art lens technology for glare-free light and high energy efficiency. Dual Power technology offers extended usage time thanks to AA batteries to back up the included rechargeable battery. The rechargeable battery can be charged via magnetic charge system, which makes it particularly easy to attach the charging cable. Carabiner snap hook for flexible usage and fastening. Optional red light for enhanced maintenance of night vision."
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Ledlenser – ML6"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_08.jpg"
-      },
-      {
-        "type": "text",
-        "content": "No matter how far away from civilization you are, the ML6 has you covered. State-of-the-art lens technology ensures optimal light distribution with maximum energy efficiency. Glare-free illumination of your surroundings makes it easy to pick the perfect spot for the light. Its hook, removable stand and magnet mean that all possibilities are covered. The ML6 can also be used as a power bank to recharge other electronic devices. Now there’s nothing to stop you from creating a warm and pleasant atmosphere, wherever you are."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.11_My-Camping-Lights_09_long.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 280g \nTightness: IP54 \nHead diameter: 42mm \nLuminosity (Boost): 750 Lumens \nLuminosity (Power): 550 Lumens \nLuminosity (Low Power): 20 Lumens \nOperation time (Power): 4 hours \nOperation time (Low Power): 70 hours"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_10.jpg"
-      },
-      {
-        "type": "text",
-        "content": "The camping light from Ledlenser with state-of-the-art lens technology for glare-free light and high efficiency. With three switches for intuitive and easy operation, a built-in battery indicator, and lighting that can be smoothly dimmed and brightened. Power bank with USB connection for recharging electronic devices like cell phones, etc. Fluorescent elements to make it easier to find the light in the dark. Rubber hook for hanging the light, integrated magnet for mounting it on metal surfaces, and a removable stand with an extra built-in metal hook that can be flipped out to provide more light mounting options."
-      },
-      {
-        "type": "separator",
-        "content": "solid"
-      },
-      {
-        "type": "bold_text",
-        "content": "Biolite – AlpenGlow 250 & 500 Multicolor USB Lantern"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_11.jpg"
-      },
-      {
-        "type": "text",
-        "content": "The AlpenGlow 250 rechargeable lantern delivers ambient and task-based lighting, all inspired by nature. Featuring high-efficiency ChromaReal LED technology, accurately render the colors in your environment with the glow of warm natural light. Shake the lantern and the internal accelerometer unlocks additional features like Candle Flicker or a mesmerizing rotation of color. Small size makes it easy to pack and ready for the backyard or the backcountry. The AlpenGlow 500 rechargeable lantern delivers a dusk or daylight feel inspired by nature. Featuring high-efficiency ChromaReal LED technology, accurately render the colors in your environment with the glow of warm natural light. Feeling more aurora borealis? Shake the lantern for an instant rotation of mesmerizing color. Offering both ambient and task-based light, AlpenGlow 500 is ready for the backyard or the backcountry."
-      },
-      {
-        "type": "video",
-        "content": "horizontal; 2022.11_My-Camping-Lights_12_long.mp4"
-      },
-      {
-        "type": "key_text",
-        "content": "Weight: 250: 7.4 oz (210 g); 500: 13.4 oz (380 g) \nDimensions: 250: 3.7 x 3.0 in (95 x 75mm) diameter; 500: 5.4 x 3.8 in (136 x 97mm) diameter \nBattery: 250: 3,200 mAh(11.8 Wh) Li-Ion; 500: 6,400 mAh(23.6 Wh) Li-Ion \nBurn Time: 250: 5 hours HIGH, Up to 200 hours LOW; 500: 5 hours HIGH, Up to 200 hours LOW \nCharge Time: 250: 2.5 hrs by 5V/2A micro USB; 500: 3 hrs by 5V/2A micro USB \nLumens: 250: 500 lm (High), 5 lm (Low); 500: 250 lm (High), 2.5 lm (Low)"
-      },
-      {
-        "type":"picture",
-        "content": "2022.11_My-Camping-Lights_13.jpg"
-      },
-      {
-        "type": "text",
-        "content": "IPX4 rating can withstand rain and splashing. Shake to access special lighting modes. ChromaReal LEDs create true tones at night. USB-out charges devices or runs BioLite SiteLights. Single or blended color modes. Modes: Cool & Warm White (Dimmable), Candle Flicker, Single Color, Multicolor, and Cycling Color."
+        "type": "picture",
+        "content": "2022.11_Arcteryx-Macai-Jacket_08.jpg"
       }
     ]
   }
