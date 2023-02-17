@@ -1722,9 +1722,12 @@
       },
       {
         "type": "key_text",
-        "content": "Author: JESEN \nDate: 2022.06 \nLocation: River Oaks Bridge, San Jose, California, USA"
+        "content": "Photographer: JESEN \nDate: 2022.06 \nLocation: River Oaks Bridge, San Jose, California, USA"
       },
-
+      {
+        "type": "separator",
+        "content": "solid"
+      },
       {
         "type": "key_text",
         "content": "Camera: Nikon D850 \nLens: Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens \nFocal length: 200mm \nF-stop: f/5 \nExposure time: 1/2000 sec. \nISO speed: ISO-400"
