@@ -1,5 +1,5 @@
 {
-"articleVersion": 42,
+"articleVersion": 43,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1755,11 +1755,15 @@
       {
         "type": "picture",
         "content": "2022.07_Arcteryx-Beta-SV-Jacket_08.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Arc’teryx official website."
       }
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket",
@@ -1807,11 +1811,15 @@
       {
         "type": "picture",
         "content": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket_08.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Arc’teryx official website."
       }
     ]
   },
   {
-    "displayType": "singleCoverSmallRight",
+    "displayType": "singleCoverLarge",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.09_Arcteryx-Atom-LT-Hoody-Jacket",
@@ -1859,6 +1867,10 @@
       {
         "type": "picture",
         "content": "2022.09_Arcteryx-Atom-LT-Hoody-Jacket_08.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Arc’teryx official website."
       }
     ]
   },
@@ -1903,6 +1915,10 @@
       {
         "type": "picture",
         "content": "2022.10_Arcteryx-Cerium-LT-Hoody-Jacket_06.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Arc’teryx official website."
       }
     ]
   },
@@ -1955,6 +1971,58 @@
       {
         "type": "picture",
         "content": "2022.11_Arcteryx-Macai-Jacket_08.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Arc’teryx official website."
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "gear",
+    "subCategory": "hiking_gear",
+    "filePath": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket",
+    "title": "Mammut Ultimate VII SO Hooded Jacket",
+    "date": "2022.12",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/2022-12-mammut-ultimate-vii-so-hooded-jacket/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_01.jpg"
+      },
+      {
+        "type": "text",
+        "content": "The 7th edition of Mammut’s classic technical softshell – optimized through the feedback of outdoor enthusiasts like you. Made for year-round hiking, trekking and mountaineering, this versatile style uses 3-layer GORE-TEX Infinium to provide windproof breathability and a pleasant touch of stretch. With a water-repellent coating and a host of practical features, you’ll benefit from its two-way front zipper, adjustable hem, pit zips, and three zippered pockets to stash your essentials. Comfortable, reliable, and ready for action, this tried-and-true jacket really is the Ultimate solution."
+      },
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_02.jpg"
+      },
+      {
+        "type": "text",
+        "content": "Windproof, durable 3-layer Gore® Infinium® material suitable for year-round use, developed exclusively with Gore®; Pleasant 4-way stretch material; Face fabric and backing made from 100% recycled polyester; Backing with open 3D structure for optimal moisture-wicking and greater breathability; Well-made hood with clean closing, reinforced peak and 2-point regulation, which does not give the wind any contact surface due to the fact that the drawstrings are inside; 2-way front zipper; Storm flap behind front zipper for increased weather protection; Concealed chest pocket with zipper; Two zippered side pockets; Underarm ventilation with water-resistant zipper; Elasticated cuffs; Hem width can be adjusted with drawstring."
+      },
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_03.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_04.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_05.jpg"
+      },
+      {
+        "type": "picture",
+        "content": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket_06.jpg"
+      },
+      {
+        "type": "note",
+        "content": "Note: Pictures from Mammut official website."
       }
     ]
   }
