@@ -1,5 +1,5 @@
 {
-"articleVersion": 43,
+"articleVersion": 44,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1703,6 +1703,31 @@
       {
         "type": "picture",
         "content": "2022.06_Hyperlite-Mountain-Gear-2400-Southwest-Black_07.jpg"
+      }
+    ]
+  },
+  {
+    "displayType": "singleCoverLarge",
+    "category": "portfolio",
+    "subCategory": "photography",
+    "filePath": "2022.06_Moon_River-Oaks-Bridge_San-Jose_California_USA",
+    "title": "Moon, River Oaks Bridge, San Jose, California, USA",
+    "date": "2022.06",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/portfolio-items/2022-06-moon-river-oaks-bridge-san-jose-california-usa/",
+    "articleContentList":[
+      {
+        "type": "picture",
+        "content": "2022.06_Moon_River-Oaks-Bridge_San-Jose_California_USA.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Author: JESEN \nDate: 2022.06 \nLocation: River Oaks Bridge, San Jose, California, USA"
+      },
+
+      {
+        "type": "key_text",
+        "content": "Camera: Nikon D850 \nLens: Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens \nFocal length: 200mm \nF-stop: f/5 \nExposure time: 1/2000 sec. \nISO speed: ISO-400"
       }
     ]
   },
