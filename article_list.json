@@ -1,5 +1,5 @@
 {
-"articleVersion": 44,
+"articleVersion": 43,
 "articleList":[
   {
     "displayType": "singleCoverLarge",
@@ -1717,16 +1717,16 @@
     "shareLink": "https://haomingxiong.com/portfolio-items/2022-06-moon-river-oaks-bridge-san-jose-california-usa/",
     "articleContentList":[
       {
-        "type": "picture",
-        "content": "2022.06_Moon_River-Oaks-Bridge_San-Jose_California_USA.jpg"
+        "type": "map_location",
+        "content": "photo; USA; 37.400492, -121.942390"
       },
       {
         "type": "key_text",
         "content": "Photographer: JESEN \nDate: 2022.06 \nLocation: River Oaks Bridge, San Jose, California, USA"
       },
       {
-        "type": "separator",
-        "content": "solid"
+        "type": "picture",
+        "content": "2022.06_Moon_River-Oaks-Bridge_San-Jose_California_USA.jpg"
       },
       {
         "type": "key_text",
@@ -1791,7 +1791,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.08_Arcteryx-Gamma-MX-Hoody-Jacket",
@@ -1847,7 +1847,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.09_Arcteryx-Atom-LT-Hoody-Jacket",
@@ -2007,7 +2007,7 @@
     ]
   },
   {
-    "displayType": "singleCoverLarge",
+    "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
     "filePath": "2022.12_Mammut-Ultimate-VII-SO-Hooded-Jacket",
