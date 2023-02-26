@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 620,
+"galleryVersion": 621,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8266,6 +8266,19 @@
    "camera": "Nikon D850",
    "introduction": "Big Sur is a majestic stretch of land located off the famous Pacific Coast Highway. Bordered by the Santa Lucia Mountains and the Pacific Ocean, Big Sur offers unmatched scenic beauty and an eclectic vibe you can’t find anywhere else.",
    "shareLink": "https://haomingxiong.com/2022-09-big-sur-lookout-big-sur-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.02_Glass-Beach_MacKerricher-State-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["39.452310", "-123.813395"],
+   "location": "Glass Beach, MacKerricher State Park, California, USA",
+   "country": "USA",
+   "date": "2023.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Glass Beach is the well-known southern beach of MacKerricher State Park in Fort Bragg. Glass Beach gets its name from the smooth colorful glass pieces that you can find mixed into the pebbly beach. \nThis site was once a trash dump so broken bottles from the garbage cans of local residents have been transformed into little treasures to be found and photographed (and left behind). It is illegal to remove any glass from Glass Beach, but this hasn’t stopped people from taking what seems like a harmless amount. Over the years thousands of these pocketfuls have depleted the beach of its namesake glass. It still has a lot, but nothing like it used to.",
+   "shareLink": "https://haomingxiong.com/2023-02-glass-beach-mackerricher-state-park-california-usa/"
   }
   ]
 }
