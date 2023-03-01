@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 625,
+"galleryVersion": 626,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -4187,6 +4187,19 @@
     "camera": "Nikon",
     "introduction": "Whether or not you recognize this wide and powerful waterfall from the opening credits of Twin Peaks, it’s more than worth it to pull over and take in this stunner from one of the many viewpoints at Snoqualmie Falls park. When you’ve picked your jaw up off the floor and gotten your pictures, embark on one of several trails that start from the parking lots.",
     "shareLink": "https://haomingxiong.com/2017-06-snoqualmie-falls-snoqualmie-washington-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2017.06_Butte_Montana_USA",
+    "galleryImagesCount": 9,
+    "coordinates": ["46.013576", "-112.537251"],
+    "location": "Butte, Montana, USA",
+    "country": "USA",
+    "date": "2017.06",
+    "photographer": "Jesen",
+    "camera": "Nikon D300",
+    "introduction": "The Butte Hill and its huge copper deposits was once known as “the richest hill on earth.” Today Butte’s colorful history can be seen in its preserved Victorian uptown business district and stately mansions. The Butte Trolley tours historic sites in the summer. Activities and guided services for this area include ranch vacations, natural hot springs, hiking, boating, resort cabins, river floats, hunting, fishing, horseback rides, golf, cross-country and downhill skiing, and snowmobiling.",
+    "shareLink": "https://haomingxiong.com/2017-06-butte-montana-usa/"
    },
    {
     "fileFormat": "jpg",
