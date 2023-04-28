@@ -1903,6 +1903,34 @@
     ]
   },
   {
+    "displayType": "singleCoverLarge",
+    "category": "portfolio",
+    "subCategory": "photography",
+    "filePath": "2022.10_California-Buckwheat_Old-Pinnacles-Trail_Pinnacles-National-Park_California_USA",
+    "title": "California Buckwheat, Old Pinnacles Trail, Pinnacles National Park, California, USA",
+    "date": "2022.10",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/portfolio-items/2022-10-california-buckwheat-old-pinnacles-trail-pinnacles-national-park-california-usa/",
+    "articleContentList":[
+      {
+        "type": "map_location",
+        "content": "photo; USA; 36.502473, -121.184937"
+      },
+      {
+        "type": "key_text",
+        "content": "Photographer: JESEN \nDate: 2022.10 \nLocation: Old Pinnacles Trail, Pinnacles National Park, California, USA \nInformation: Known by the common name California buckwheat. This common shrub is native to the southwestern United States and northwestern Mexico, where it grows on scrubby slopes and in chaparral and dry washes in a number of habitats. It is variable in appearance, forming a patchy, compact bramble or a spreading bush approaching two meters in height and three across. The leaves grow in clusters at nodes along the branches and are leathery, woolly on the undersides, and rolled under along the edges. Flowers appear in dense, frilly clusters which may be anywhere from a few millimeters to 15 centimeters wide. Each individual flower is pink and white and only a few millimeters across. This plant is particularly attractive to honey bees and is a good source of nectar over many months in drier areas."
+      },
+      {
+        "type": "picture",
+        "content": "2022.10_California-Buckwheat_Old-Pinnacles-Trail_Pinnacles-National-Park_California_USA.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Camera: Nikon D850 \nLens: Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR Lens \nFocal length: 70mm \nF-stop: f/2.8 \nExposure time: 1/2000 sec. \nISO speed: ISO-200"
+      }
+    ]
+  },
+  {
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
