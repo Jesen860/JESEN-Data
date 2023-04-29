@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 629,
+"galleryVersion": 630,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -7779,6 +7779,19 @@
    "camera": "Nikon D850",
    "introduction": "Ted Stevens Anchorage International Airport is a major airport in the U.S. state of Alaska, located 5 miles (8 km) southwest of downtown Anchorage. The airport is named for Ted Stevens, a U.S. senator from Alaska in office from 1968 to 2009. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2017–2021, in which it is categorized as a medium-hub primary commercial service facility.",
    "shareLink": "https://haomingxiong.com/2022-07-ted-stevens-anchorage-international-airport-anchorage-alaska-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.07_Toolik-Lake_Dalton-Highway_Alaska_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["68.632064", "-149.603769"],
+   "location": "Toolik Lake, Dalton Highway, Alaska, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Toolik Lake is an Arctic lake located within the North Slope Borough, Alaska. It is in a remote wilderness area managed by the Bureau of Land Management accessed by the Dalton Highway. It is 130 mi (210 km) south of Prudhoe Bay in the northern foothills of the Brooks Range. The name is derived from the Iñupiat word tutlik, meaning yellow-billed loon. Limnological studies of Toolik Lake began in the summer of 1975. Research is performed by organizations such as the Global Lake Ecological Observatory Network, Institute of Arctic Biology, International Tundra Experiment, National Ecological Observatory Network, and NASA. Nearly one-third of all Arctic research takes place within 50 km of either Toolik Lake or Abisko Scientific Research Station.",
+   "shareLink": "https://haomingxiong.com/2022-07-toolik-lake-dalton-highway-alaska-usa/"
   },
   {
    "fileFormat": "jpg",
