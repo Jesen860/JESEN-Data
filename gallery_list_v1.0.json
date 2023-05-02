@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 636,
+"galleryVersion": 637,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8461,6 +8461,19 @@
    "camera": "Nikon D850",
    "introduction": "Greenwood State Beach offers beach access and a picturesque view of the Pacific Ocean. The central theme is of Greenwood as a lumber town in the late 1800’s through the early 1900’s. \nThe Visitor Center is in the middle of town and provides a glimpse of what life was like in this lumber town during the late 1800’s.  The gallery room and main museum room are filled with photographs of the early settlers of Greenwood and nearby Cuffey’s Cove, as well as photographs of the town and it’s lumbering operations during that era. There is an additional room filled with period furniture including an organ, stove, washing machine, steamer trunk, and bath tub. Outdoors, you will find artifacts which were used in the lumber camps to harvest the redwoods and bark from the tan oak trees. \nUpon entering the Visitor Center you will see a mural depicting the Greenwood wharf, painted by well known muralist Michael Cole. The wharf, which was built by the L.E. White Lumber Company, had a unique design as it was built on a series of outcropping rocks into the ocean. The schooners would tie to the wharf while loading redwood lumber, tan bark, railroad ties and passengers all destined for San Francisco. The ultimate destination of the railroad ties was China.",
    "shareLink": "https://haomingxiong.com/2023-02-greenwood-creek-state-beach-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.02_Sea-Ranch_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["38.743608", "-123.512361"],
+   "location": "Sea Ranch, California, USA",
+   "country": "USA",
+   "date": "2023.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Developed in the 1960s on coastal lands once seasonally visited by the Pomo peoples, The Sea Ranch blends modern design with natural elements in a harmonious, environmentally respectful way. The iconic buildings, clad in weathered local redwood, seem to grow organically from the rugged landscape.",
+   "shareLink": "https://haomingxiong.com/2023-02-sea-ranch-california-usa/"
   },
   {
    "fileFormat": "jpg",
