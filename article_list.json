@@ -1791,6 +1791,34 @@
     ]
   },
   {
+    "displayType": "singleCoverLarge",
+    "category": "portfolio",
+    "subCategory": "photography",
+    "filePath": "2022.07_Foxtail-Barley_Coldfoot_Dalton-Highway_Alaska_USA",
+    "title": "Foxtail Barley, Coldfoot, Dalton Highway, Alaska, USA",
+    "date": "2022.07",
+    "author": "JESEN",
+    "shareLink": "https://haomingxiong.com/portfolio-items/2022-07-foxtail-barley-coldfoot-dalton-highway-alaska-usa/",
+    "articleContentList":[
+      {
+        "type": "map_location",
+        "content": "photo; USA; 67.251371, -150.175883"
+      },
+      {
+        "type": "key_text",
+        "content": "Photographer: JESEN \nDate: 2022.07 \nLocation: Coldfoot, Dalton Highway, Alaska, USA"
+      },
+      {
+        "type": "picture",
+        "content": "2022.06_Moon_River-Oaks-Bridge_San-Jose_California_USA.jpg"
+      },
+      {
+        "type": "key_text",
+        "content": "Camera: Nikon D850 \nLens: Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens \nFocal length: 200mm \nF-stop: f/5 \nExposure time: 1/2000 sec. \nISO speed: ISO-400"
+      }
+    ]
+  },
+  {
     "displayType": "singleCoverSmallRight",
     "category": "gear",
     "subCategory": "hiking_gear",
