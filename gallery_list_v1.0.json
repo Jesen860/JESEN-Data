@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 641,
+"galleryVersion": 642,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -6633,6 +6633,19 @@
   },
   {
    "fileFormat": "jpg",
+   "filePath": "2022.02_Tennessee-Beach_Golden-Gate-National-Recreation-Area_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["37.839390", "-122.550651"],
+   "location": "Tennessee Beach, Golden Gate National Recreation Area, California, USA",
+   "country": "USA",
+   "date": "2022.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "The beach at Tennessee Cove requires a two-mile hike from the Tennessee Valley Trailhead. The trail descends the valley and passes a small freshwater pond before ending at the sandy beach. The beach has a very secluded feel due to the high rock walls surrounding it. At high tide the cove fills up leaving only sand where the trail and creek enter it. If you visit Tennessee Beach at extremely low tides you might be able to see a rusting ship engine in the shifting sands. This engine is from a shipwreck of the steamship SS Tennessee which was beached in the cove after missing the Golden Gate entrance in fog in 1853. Before the shipwreck this valley was named Elk Valley for the Tule elk which lived here at the time.",
+   "shareLink": "https://haomingxiong.com/2022-02-tennessee-beach-golden-gate-national-recreation-area-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
    "filePath": "2022.02_Torpedo-Wharf_Golden-Gate-National-Recreation-Area_California_USA",
    "galleryImagesCount": 9,
    "coordinates": ["37.809300", "-122.469844"],
@@ -6658,7 +6671,7 @@
    "photographer": "Jesen",
    "camera": "Nikon D850",
    "introduction": "Tennessee Beach is a dark sand beach on the west side of the Marin Headlands in Golden Gate National Recreation Area. The beach at Tennessee Cove requires a two-mile hike from the Tennessee Valley Trailhead. The trail descends the valley and passes a small freshwater pond before ending at the sandy beach. The beach has a very secluded feel due to the high rock walls surrounding it.",
-   "shareLink": "https://haomingxiong.com/2022-02-tennessee-beach-golden-gate-national-recreation-area-california-usa/"
+   "shareLink": "https://haomingxiong.com/2022-02-video-tennessee-beach-golden-gate-national-recreation-area-california-usa/"
   },
   {
    "fileFormat": "mp4",
