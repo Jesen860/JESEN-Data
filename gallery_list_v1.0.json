@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 644,
+"galleryVersion": 645,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8578,6 +8578,19 @@
    "camera": "Nikon D850",
    "introduction": "Gibson Beach is the southernmost beach in Point Lobos State Natural Reserve. It’s also the best “beach” in this park which is full of rocky bluffs and small pocket coves. On some maps it is even called “Sandy Beach.” Like some of the other beaches and coves at Point Lobos you’ll need to walk a short distance on trails to get here. Just drive to the very end of the paved road and then hike out the Bird Island Trail which passes by China Cove and ends at Gibson Beach. If that parking lot is full then you might have to walk quite a ways from a different lot. This park is popular and can fill up entirely – getting here early on nice days is key. Gibson Creek flows through the sand sometimes at the south end of the cove. Bird Island is a good bird-watching spot just offshore. It is best viewed from the end of Pelican Point which is adjacent to Gibson Beach.",
    "shareLink": "https://haomingxiong.com/2023-04-gibsons-beach-point-lobos-state-natural-reserve-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.05_Big-Basin-Redwoods-State-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["37.172433", "-122.223883"],
+   "location": "Big Basin Redwoods State Park, California, USA",
+   "country": "USA",
+   "date": "2023.05",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Established in 1902, Big Basin Redwoods is California’s oldest state park. In the heart of the Santa Cruz Mountains, its biggest attractions—literally—are its ancient coast redwoods. Some of these giants are more than 50 feet around and as tall as the Statue of Liberty. At 1,000 to 1,800 years old, some may predate the Roman Empire. The park also offers spectacular views of the Pacific Ocean, many babbling brooks, and a fascinating natural and cultural history.",
+   "shareLink": "https://haomingxiong.com/2023-05-big-basin-redwoods-state-park-california-usa/"
   }
   ]
 }
