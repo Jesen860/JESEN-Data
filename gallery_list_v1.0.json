@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 651,
+"galleryVersion": 652,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8539,6 +8539,19 @@
    "camera": "Nikon D850",
    "introduction": "Big Sur is a majestic stretch of land located off the famous Pacific Coast Highway. Bordered by the Santa Lucia Mountains and the Pacific Ocean, Big Sur offers unmatched scenic beauty and an eclectic vibe you can’t find anywhere else.",
    "shareLink": "https://haomingxiong.com/2022-09-big-sur-lookout-big-sur-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.09_Donner-Memorial-State-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["39.320324", "-120.251884"],
+   "location": "Donner Memorial State Park, California, USA",
+   "country": "USA",
+   "date": "2022.09",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Donner Memorial State Park is located in the scenic the Sierra Nevada mountain range at an elevation of about 6,000 feet. This legendary alpine park offers summer camping, picnicking, boating, fishing, water-skiing, and hiking. During winter, visitors can cross-country ski, snowshoe on trails, and play in the snow. Visitors are welcome year-round to visit the famous Pioneer Monument, built to commemorate the California emigrants traveling west during the mid-1800’s.",
+   "shareLink": "https://haomingxiong.com/2022-09-donner-memorial-state-park-california-usa/"
   },
   {
    "fileFormat": "jpg",
