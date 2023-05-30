@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 653,
+"galleryVersion": 654,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8669,6 +8669,19 @@
    "camera": "Nikon D850",
    "introduction": "Developed in the 1960s on coastal lands once seasonally visited by the Pomo peoples, The Sea Ranch blends modern design with natural elements in a harmonious, environmentally respectful way. The iconic buildings, clad in weathered local redwood, seem to grow organically from the rugged landscape.",
    "shareLink": "https://haomingxiong.com/2023-02-sea-ranch-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.04_Bluefish-Cove_Point-Lobos-State-Natural-Reserve_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["36.521531", "-121.943349"],
+   "location": "Bluefish Cove, Point Lobos State Natural Reserve, California, USA",
+   "country": "USA",
+   "date": "2023.04",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "A popular dive spot within the bounds of Point Lobos State Natural Reserve, Bluefish Cove beckons with the promise of adventure. The cove’s pristine waters are conducive to thrilling diving excursions, which enable an exploration of its depths teeming with rockfish and reefs. Owing to its scenic beauty and opportunities for marine activities, the cove is one of the most visited attractions in the vicinity of Point Lobos.",
+   "shareLink": "https://haomingxiong.com/2023-04-bluefish-cove-point-lobos-state-natural-reserve-california-usa/"
   },
   {
    "fileFormat": "jpg",
