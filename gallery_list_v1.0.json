@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 654,
+"galleryVersion": 655,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8669,6 +8669,19 @@
    "camera": "Nikon D850",
    "introduction": "Developed in the 1960s on coastal lands once seasonally visited by the Pomo peoples, The Sea Ranch blends modern design with natural elements in a harmonious, environmentally respectful way. The iconic buildings, clad in weathered local redwood, seem to grow organically from the rugged landscape.",
    "shareLink": "https://haomingxiong.com/2023-02-sea-ranch-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.03_Stanford-Dish_Stanford_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["37.408584", "-122.179627"],
+   "location": "Stanford Dish, Stanford, California, USA",
+   "country": "USA",
+   "date": "2023.03",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "The Stanford Dish, known locally as the Dish, is a radio antenna in the Stanford foothills. The 150-foot-diameter (46 m) dish was built in 1961 by the Stanford Research Institute (now SRI International). The cost to construct the antenna was $4.5 million, and was funded by the United States Air Force. In the 1960s the Dish was used to provide information on Soviet radar installations by detecting radio signals bounced off the moon. Later on, the Dish was used to communicate with satellites and spacecraft. With its unique bistatic range radio communications, where the transmitter and receiver are separate units, the powerful radar antenna was well-suited for communicating with spacecraft in regions where conventional radio signals may be disrupted. At one point, the Dish transmitted signals to each of the Voyager craft that NASA dispatched into the outer reaches of the solar system. In 1982 it was used to rescue the amateur radio satellite UoSAT-1.",
+   "shareLink": "https://haomingxiong.com/2023-03-stanford-dish-stanford-california-usa/"
   },
   {
    "fileFormat": "jpg",
