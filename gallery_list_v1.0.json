@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 657,
+"galleryVersion": 658,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8630,6 +8630,19 @@
    "camera": "Nikon D850",
    "introduction": "Mount Diablo is a dominant topographic feature in northern California. It was established in 1851 as the initial point of the Mount Diablo Base Line and Meridian for land surveys spanning two-thirds of California and all of Nevada. The mountain’s summit boasts spectacular panoramic views.",
    "shareLink": "https://haomingxiong.com/2023-01-mount-diablo-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.02_Caspar-Headlands-State-Beach_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["39.360913", "-123.817475"],
+   "location": "Caspar Headlands State Beach, California, USA",
+   "country": "USA",
+   "date": "2023.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "State beaches are areas with frontage on the ocean, or bays designed to provide swimming, boating, fishing, and other beach-oriented recreational activities. This area has miles of undeveloped beach adjacent to the headlands and a panoramic ocean view. The beach is a good place to watch for migrating gray whales. Fishing is also popular off the beach.",
+   "shareLink": "https://haomingxiong.com/2023-02-caspar-headlands-state-beach-california-usa/"
   },
   {
    "fileFormat": "jpg",
