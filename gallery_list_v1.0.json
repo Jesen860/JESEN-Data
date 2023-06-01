@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 659,
+"galleryVersion": 660,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -6475,6 +6475,19 @@
     "camera": "Nikon D850",
     "introduction": "This beach is known for its fishing pier and concrete freighter, the SS Palo Alto. The ship is unsafe and closed to the public and half of the pier remains closed until needed repairs can be made. The beach is a popular swimming spot. There is a long stretch of sand backed by bluffs. There are covered picnic facilities and a visitor center.",
     "shareLink": "https://haomingxiong.com/2022-01-seacliff-state-beach-california-usa/"
+   },
+   {
+    "fileFormat": "jpg",
+    "filePath": "2022.01_Seal-Rock_17-Mile-Drive_Pebble-Beach_California_USA",
+    "galleryImagesCount": 9,
+    "coordinates": ["36.588654", "-121.963804"],
+    "location": "Seal Rock, 17 Mile Drive, Pebble Beach, California, USA",
+    "country": "USA",
+    "date": "2022.01",
+    "photographer": "Jesen",
+    "camera": "Nikon D850",
+    "introduction": "The white sand beach at the mouth of Seal Rock Creek flows intermittently. Just offshore is Seal Rock and a little to the north is Bird Rock. Each were covered with many seals and birds. The great thing about it being offshore is that you can enjoy the views of wildlife without the odors. This is especially true for seals!",
+    "shareLink": "https://haomingxiong.com/2022-01-seal-rock-17-mile-drive-pebble-beach-california-usa/"
    },
    {
     "fileFormat": "jpg",
