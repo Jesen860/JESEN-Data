@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 660,
+"galleryVersion": 662,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -7945,6 +7945,19 @@
    "camera": "Nikon D850",
    "introduction": "In an architecturally abstract, igloo- and aurora-inspired edifice sits one of Alaska’s finest museums, with artifact-rich exhibits on the geology, history, culture and trivia of each region of the state. You are greeted by an 8ft 9in, 1250lb stuffed bear and signposted around very well laid-out exhibits, which examine the state’s regions as geographic and cultural units. Upstairs, the Rose Berry Alaska Art Gallery covers 2000 years of northern works, including ancient ivory carvings, wood masks and contemporary photographs.",
    "shareLink": "https://haomingxiong.com/2022-07-museum-of-the-north-fairbanks-alaska-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.07_Ogrook-St_Ukpiagvik_Alaska_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["71.287897", "-156.793044"],
+   "location": "Ogrook St, Ukpiagvik, Alaska, USA",
+   "country": "USA",
+   "date": "2022.07",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Ogrook St is street near Barrow Airport, it starts from kogiak st and extends to west pacific ocean. About 20 houses are built along Ogrook St and about 40 people lives on this street. You’ll see traditional arctic family house here.",
+   "shareLink": "https://haomingxiong.com/2022-07-ogrook-st-ukpiagvik-alaska-usa/"
   },
   {
    "fileFormat": "jpg",
