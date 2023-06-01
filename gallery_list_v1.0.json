@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 661,
+"galleryVersion": 660,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -6850,7 +6850,7 @@
   },
   {
    "fileFormat": "jpg",
-   "filePath": "2022.03_Whaler’s-Cove_Pigeon-Point-Light-Station-State-Historic-Park_California_USA",
+   "filePath": "2022.03_Whalers-Cove_Pigeon-Point-Light-Station-State-Historic-Park_California_USA",
    "galleryImagesCount": 9,
    "coordinates": ["37.182711", "-122.391753"],
    "location": "Whaler’s Cove, Pigeon Point Light Station State Historic Park, California, USA",
