@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 660,
+"galleryVersion": 661,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -6847,6 +6847,19 @@
    "camera": "Nikon D850",
    "introduction": "Perched on a cliff on the central California coast, 50 miles south of San Francisco, the 115-foot Pigeon Point Lighthouse, one of the tallest lighthouses in America, has been guiding mariners since 1872. Its five-wick lard oil lamp, and first-order Fresnel lens, comprised of 1,008 prisms, was first lit at sunset, November 15, 1872. The lens stands 16 feet tall, 6 feet in diameter, and weighs 2,000 pounds. Now on display in the fog signal building, it sat in a lantern room constructed at the Lighthouse Service’s general depot in New York before being shipped around the Horn. Although the original Fresnel lens is no longer in use, the lighthouse is still an active U.S. Coast Guard aid to navigation using an automated LED beacon. The coastal areas surrounding Pigeon Point Light Station are rich with life. Marine mammals, such as seals and whales, can be seen regularly from shore as they pass by beyond the surf. The intertidal zone along this part of the coast, particularly in the rocky reefs that flank the light station, contains a diverse and numerous variety of plant and animal life.",
    "shareLink": "https://haomingxiong.com/2022-03-pigeon-point-rd-pigeon-point-light-station-state-historic-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.03_Whaler’s-Cove_Pigeon-Point-Light-Station-State-Historic-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["37.182711", "-122.391753"],
+   "location": "Whaler’s Cove, Pigeon Point Light Station State Historic Park, California, USA",
+   "country": "USA",
+   "date": "2022.03",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Pigeon Point is known for the tall picturesque lighthouse in Pigeon Point Light Station State Historic Park, not for the beaches around the point. South of the point is a beach known as Whaler’s Cove which is open to the public when the beach doesn’t have seals. Immediately north of the point is a small beach that is great for tide pool investigation at low tides.",
+   "shareLink": "https://haomingxiong.com/2022-03-whalers-cove-pigeon-point-light-station-state-historic-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
