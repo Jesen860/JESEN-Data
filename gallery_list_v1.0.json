@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 663,
+"galleryVersion": 664,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8802,6 +8802,19 @@
   },
   {
    "fileFormat": "jpg",
+   "filePath": "2023.05_Big-Basin-Redwoods-State-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["37.172433", "-122.223883"],
+   "location": "Big Basin Redwoods State Park, California, USA",
+   "country": "USA",
+   "date": "2023.05",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Established in 1902, Big Basin Redwoods is California’s oldest state park. In the heart of the Santa Cruz Mountains, its biggest attractions—literally—are its ancient coast redwoods. Some of these giants are more than 50 feet around and as tall as the Statue of Liberty. At 1,000 to 1,800 years old, some may predate the Roman Empire. The park also offers spectacular views of the Pacific Ocean, many babbling brooks, and a fascinating natural and cultural history.",
+   "shareLink": "https://haomingxiong.com/2023-05-big-basin-redwoods-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
    "filePath": "2023.05_Cliff-Drive-Vista-Point_Santa-Cruz_California_USA",
    "galleryImagesCount": 9,
    "coordinates": ["36.963971", "-122.011980"],
@@ -8815,16 +8828,16 @@
   },
   {
    "fileFormat": "jpg",
-   "filePath": "2023.05_Big-Basin-Redwoods-State-Park_California_USA",
+   "filePath": "2023.05_Mussel-Rock-Park_Daly-City_California_USA",
    "galleryImagesCount": 9,
-   "coordinates": ["37.172433", "-122.223883"],
-   "location": "Big Basin Redwoods State Park, California, USA",
+   "coordinates": ["37.668002", "-122.494695"],
+   "location": "Mussel Rock Park, Daly City, California, USA",
    "country": "USA",
    "date": "2023.05",
    "photographer": "Jesen",
    "camera": "Nikon D850",
-   "introduction": "Established in 1902, Big Basin Redwoods is California’s oldest state park. In the heart of the Santa Cruz Mountains, its biggest attractions—literally—are its ancient coast redwoods. Some of these giants are more than 50 feet around and as tall as the Statue of Liberty. At 1,000 to 1,800 years old, some may predate the Roman Empire. The park also offers spectacular views of the Pacific Ocean, many babbling brooks, and a fascinating natural and cultural history.",
-   "shareLink": "https://haomingxiong.com/2023-05-big-basin-redwoods-state-park-california-usa/"
+   "introduction": "Mussel Rock Park is made up of interconnected trails with paragliding launch points on a hillside in south Daly City. The shoreline below the park is bouldery with little sand exposed. However, a sandy beach can be found at the north end of the park.",
+   "shareLink": "https://haomingxiong.com/2023-05-mussel-rock-park-daly-city-california-usa/"
   }
   ]
 }
