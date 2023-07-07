@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 669,
+"galleryVersion": 670,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8864,6 +8864,19 @@
    "camera": "Nikon D850",
    "introduction": "Mussel Rock Park is made up of interconnected trails with paragliding launch points on a hillside in south Daly City. The shoreline below the park is bouldery with little sand exposed. However, a sandy beach can be found at the north end of the park.",
    "shareLink": "https://haomingxiong.com/2023-05-mussel-rock-park-daly-city-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.06_'Iao-Valley-State-Monument_Maui_Hawaii_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["20.880492", "-156.545984"],
+   "location": "‘Iao Valley State Monument, Maui, Hawaii, USA",
+   "country": "USA",
+   "date": "2023.06",
+   "photographer": "Jesen",
+   "camera": "Nikon Z8",
+   "introduction": "A paved 0.6 mile walk provides a scenic viewpoint of Kuka‘emoku (a.k.a. the ʻIao Needle), an erosional feature which abruptly rises 1200 feet from the valley floor. Learn about the plants brought by the Hawaiians who settled in ʻIao Valley by taking a short walk through a botanical garden. This valley is rich in cultural and spiritual values and is the site of the battle of Kepaniwai where the forces of Kamehameha I conquered the Maui army in 1790.",
+   "shareLink": "https://haomingxiong.com/2023-06-iao-valley-state-monument-maui-hawaii-usa/"
   },
   {
    "fileFormat": "jpg",
