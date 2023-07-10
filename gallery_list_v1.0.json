@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 672,
+"galleryVersion": 673,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8864,6 +8864,19 @@
    "camera": "Nikon D850",
    "introduction": "Mussel Rock Park is made up of interconnected trails with paragliding launch points on a hillside in south Daly City. The shoreline below the park is bouldery with little sand exposed. However, a sandy beach can be found at the north end of the park.",
    "shareLink": "https://haomingxiong.com/2023-05-mussel-rock-park-daly-city-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.06_Diamond-Head-Lookout_Diamond-Head-State-Monument_Oahu_Hawaii_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["21.256098", "-157.804897"],
+   "location": "Diamond Head Lookout, Diamond Head State Monument, Oahu, Hawaii, USA",
+   "country": "USA",
+   "date": "2023.06",
+   "photographer": "Jesen",
+   "camera": "Nikon Z8",
+   "introduction": "The unique profile of Diamond Head (Lē‘ahi) sits prominently near the eastern edge of Waikiki’s coastline. Hawaii’s most recognized landmark is known for its historic hiking trail, stunning coastal views, and military history. Diamond Head State Monument encompasses over 475 acres, including the interior and outer slopes of the crater.",
+   "shareLink": "https://haomingxiong.com/2023-06-diamond-head-lookout-diamond-head-state-monument-oahu-hawaii-usa/"
   },
   {
    "fileFormat": "jpg",
