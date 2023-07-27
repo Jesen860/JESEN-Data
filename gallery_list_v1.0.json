@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 697,
+"galleryVersion": 698,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8786,6 +8786,19 @@
    "camera": "Nikon D850",
    "introduction": "Mount Diablo is a dominant topographic feature in northern California. It was established in 1851 as the initial point of the Mount Diablo Base Line and Meridian for land surveys spanning two-thirds of California and all of Nevada. The mountain’s summit boasts spectacular panoramic views.",
    "shareLink": "https://haomingxiong.com/2023-01-mount-diablo-state-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.02_Bluff-Trail_Sea-Ranch_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["38.753262", "-123.524924"],
+   "location": "Bluff Trail, Sea Ranch, California, USA",
+   "country": "USA",
+   "date": "2023.02",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Sonoma County Regional Parks manages six public access trails in The Sea Ranch, a private community south of Gualala. Trails start at Highway 1 parking areas and cross bluff-top meadows and forests to rugged coastline. Cliffside staircases lead to secluded beaches with sandy coves, tide pools, and rock formations. In addition to hiking, these public access points offer opportunities for diving, fishing, boating, and wildlife viewing.",
+   "shareLink": "https://haomingxiong.com/2023-02-bluff-trail-sea-ranch-california-usa/"
   },
   {
    "fileFormat": "jpg",
