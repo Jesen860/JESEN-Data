@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 700,
+"galleryVersion": 701,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -7414,6 +7414,19 @@
   },
   {
    "fileFormat": "jpg",
+   "filePath": "2022.05_Tokopah-Falls_Sequoia-&-Kings-Canyon-National-Park_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["36.610862", "-118.693676"],
+   "location": "Tokopah Falls, Sequoia & Kings Canyon National Park, California, USA",
+   "country": "USA",
+   "date": "2022.05",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "The star of the show to the south in Sequoia National Park is Tokopah Falls. Officially 1,200 feet high, Tokopah Falls is a series of small cascades. Though none of the individual drops is especially high, that does not diminish from the beauty of the falls and the Tokopah Valley in general. Getting to the falls is an easy, 1.7-mile hike. Get your trail supplies at the Lodgepole Market, and then walk across the Marble Fork Bridge by the Lodgepole Campground and follow the Marble Fork until the falls come into view.",
+   "shareLink": "https://haomingxiong.com/2022-05-tokopah-falls-sequoia-kings-canyon-national-park-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
    "filePath": "2022.05_Tokopah-Valley_Sequoia-&-Kings-Canyon-National-Park_California_USA",
    "galleryImagesCount": 9,
    "coordinates": ["36.610302", "-118.709248"],
@@ -7465,13 +7478,13 @@
    "filePath": "2022.05_Video_Tokopah-Falls_Sequoia-&-Kings-Canyon-National-Park_California_USA",
    "galleryImagesCount": 0,
    "coordinates": ["36.611050", "-118.694295"],
-   "location": "Tokopah Falls, Sequoia & Kings Canyon National Park, California, USA",
+   "location": "Video, Tokopah Falls, Sequoia & Kings Canyon National Park, California, USA",
    "country": "USA",
    "date": "2022.05",
    "photographer": "Jesen",
    "camera": "Nikon D850",
    "introduction": "Measuring 1,200 feet long, Tokopah Falls is the tallest waterfall in Sequoia National Park. Unlike the famous free-falling waterfalls in that other national park to the north, Tokopah Falls features a long series of steep picturesque cascades.",
-   "shareLink": "https://haomingxiong.com/2022-05-tokopah-falls-sequoia-kings-canyon-national-park-california-usa/"
+   "shareLink": "https://haomingxiong.com/2022-05-video-tokopah-falls-sequoia-kings-canyon-national-park-california-usa/"
   },
   {
    "fileFormat": "mp4",
