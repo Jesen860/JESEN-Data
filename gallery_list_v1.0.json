@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 702,
+"galleryVersion": 703,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -9163,6 +9163,19 @@
    "camera": "Nikon Z8",
    "introduction": "Kīlauea Overlook provides the most dramatic views of Kaluapele (Kīlauea caldera) and Halemaʻumaʻu crater, which underwent a massive collapse during the history-making eruption of 2018.",
    "shareLink": "https://haomingxiong.com/2023-06-kilauea-overlook-hawaii-volcanoes-national-park-island-of-hawaii-hawaii-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2023.06_Ma'ili-Beach-Park_Waianae_Oahu_Hawaii_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["21.420317", "-158.178478"],
+   "location": "Ma’ili Beach Park, Waianae, Oahu, Hawaii, USA",
+   "country": "USA",
+   "date": "2023.06",
+   "photographer": "Jesen",
+   "camera": "Nikon Z8",
+   "introduction": "One of the most beautiful beaches on the west side of Oahu, Maili Beach Park stretches across 40 acres of land along the coast. White sand, turquoise water, and gorgeous mountain views create a pristine oasis that stands apart from some of the other beaches in the area that aren’t quite as aesthetically appealing, due to being in the midst of industrial environments.",
+   "shareLink": "https://haomingxiong.com/2023-06-maili-beach-park-waianae-oahu-hawaii-usa/"
   },
   {
    "fileFormat": "jpg",
