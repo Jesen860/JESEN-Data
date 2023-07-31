@@ -1,6 +1,6 @@
 {
 "appVersion": 6.0,
-"galleryVersion": 705,
+"galleryVersion": 706,
 "galleryList":[
    {
     "fileFormat": "jpg",
@@ -8695,6 +8695,19 @@
    "camera": "Nikon D850",
    "introduction": "Big Sur is a majestic stretch of land located off the famous Pacific Coast Highway. Bordered by the Santa Lucia Mountains and the Pacific Ocean, Big Sur offers unmatched scenic beauty and an eclectic vibe you can’t find anywhere else.",
    "shareLink": "https://haomingxiong.com/2022-09-big-sur-lookout-big-sur-california-usa/"
+  },
+  {
+   "fileFormat": "jpg",
+   "filePath": "2022.09_California-State-Capitol-Museum_Sacramento_California_USA",
+   "galleryImagesCount": 9,
+   "coordinates": ["38.576677", "-121.493679"],
+   "location": "California State Capitol Museum, Sacramento, California, USA",
+   "country": "USA",
+   "date": "2022.09",
+   "photographer": "Jesen",
+   "camera": "Nikon D850",
+   "introduction": "Home of the California Legislature since 1869, the State Capitol underwent a major renovation that restored much of the building’s original look. Visitors can tour the restored historic offices of the Secretary of State, Treasurer, and Governor of the State of California. The building features exhibits and tours – and possibly an opportunity to watch the legislators debate a bill or cast a vote.",
+   "shareLink": "https://haomingxiong.com/2022-09-california-state-capitol-museum-sacramento-california-usa/"
   },
   {
    "fileFormat": "jpg",
